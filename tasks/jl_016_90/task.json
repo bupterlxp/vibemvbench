@@ -1,0 +1,52 @@
+{
+ "task_id": "jl_016_90",
+ "song_id": "jl_016",
+ "clip_start": 75.38,
+ "clip_end": 165.38,
+ "length_class": 90,
+ "difficulty_tier": "medium",
+ "spec": {
+  "resolution": [
+   1920,
+   1080
+  ],
+  "fps": 30,
+  "duration_tol": 0.1,
+  "duration": 90.0
+ },
+ "song": {
+  "title": "Diosa de la noche",
+  "artist": "BRUNELA CROCHENCI",
+  "genre": "Indie",
+  "language": "es",
+  "license": "CC BY-NC-SA",
+  "url": "https://www.jamendo.com/track/1808346/diosa-de-la-noche/lyrics"
+ },
+ "lyrics_text": [
+  "ella es un misterio para la humanidad",
+  "pero nadie duda de su inmortalidad",
+  "nadie le hace sombra es la eterna oscuridad",
+  "deja que te cuente un poco mas",
+  "fue incomprendida a causa de su gran poder",
+  "algo en su mirada puede hacerte estremecer",
+  "carga con heridas que no dejan de doler",
+  "deja que te cuente un poco mas",
+  "y dicen que ella vive aqui desde hace años",
+  "y qué pocos la veran",
+  "y dicen que nadie pudo olvidar su canto",
+  "uooo uooo uooo uooo",
+  "uooo uooo oo oooo",
+  "y dicen que ella vive aqui desde hace años"
+ ],
+ "prompt": "Make a music video for this song. Make it as good as you possibly can.",
+ "free": true,
+ "difficulty": {
+  "d_rhythm": -0.36,
+  "d_structure": -0.3,
+  "d_dynamics": 0.46,
+  "d_lyrics": 1.1,
+  "d_genre": 0.0,
+  "d_length": -0.03,
+  "difficulty": 0.144
+ }
+}

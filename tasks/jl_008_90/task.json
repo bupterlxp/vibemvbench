@@ -1,0 +1,69 @@
+{
+ "task_id": "jl_008_90",
+ "song_id": "jl_008",
+ "clip_start": 17.67,
+ "clip_end": 107.67,
+ "length_class": 90,
+ "difficulty_tier": "medium",
+ "spec": {
+  "resolution": [
+   1920,
+   1080
+  ],
+  "fps": 30,
+  "duration_tol": 0.1,
+  "duration": 90.0
+ },
+ "song": {
+  "title": "Besando Sapos",
+  "artist": "DREAM TABÙ",
+  "genre": "Indie",
+  "language": "es",
+  "license": "CC BY-NC-SA",
+  "url": "https://www.jamendo.com/track/1246750/besando-sapos/lyrics"
+ },
+ "lyrics_text": [
+  "esta es la ocasion",
+  "de verte marchar",
+  "por fin viviré",
+  "por fin voy a luchar",
+  "mi vida sin ti",
+  "mi vida y nadie mas",
+  "es el momento",
+  "de verme triunfar",
+  "de dejarte atras",
+  "decir adios sin mas",
+  "lo nuestro esta asi",
+  "que quieres de mi",
+  "salio la verdad",
+  "no me engañaras",
+  "yo quiero vivir",
+  "sin mirar atras",
+  "lo nuestro acabo",
+  "asumelo ya",
+  "besando sapos",
+  "paso la vida asi",
+  "buscando al guapo",
+  "que me haga sonreir",
+  "no sé quién me conto",
+  "que habia un final feliz",
+  "creia que tu",
+  "eras especial",
+  "un hombre distinto",
+  "a los demas",
+  "que tonta que fui",
+  "no entiendo que te vi"
+ ],
+ "prompt": "Make a music video for this song. Make it as good as you possibly can.",
+ "free": true,
+ "difficulty": {
+  "d_rhythm": 0.58,
+  "d_structure": -1.22,
+  "d_dynamics": 0.02,
+  "d_lyrics": 1.13,
+  "d_genre": 0.0,
+  "d_length": 0.25,
+  "difficulty": 0.126
+ },
+ "alignment_fix": "2026-11-07: clip window corrected from 26.56 to 17.67 (audio/rubric were built for this window)"
+}

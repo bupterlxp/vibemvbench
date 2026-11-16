@@ -1,0 +1,629 @@
+{
+ "annotator": "",
+ "version": 1,
+ "results": [
+  {
+   "id": "fma_001_90_026",
+   "task": "fma_001_90",
+   "clip_t0": 24.12,
+   "verdict": "ok",
+   "taps_s_in_snippet": [],
+   "taps_s_in_clip": [],
+   "at": "2026-11-14T16:35:55.393Z"
+  },
+  {
+   "id": "fma_001_90_036",
+   "task": "fma_001_90",
+   "clip_t0": 34.12,
+   "verdict": "ok",
+   "taps_s_in_snippet": [],
+   "taps_s_in_clip": [],
+   "at": "2026-11-14T16:36:03.627Z"
+  },
+  {
+   "id": "fma_001_90_076",
+   "task": "fma_001_90",
+   "clip_t0": 74.12,
+   "verdict": "ok",
+   "taps_s_in_snippet": [],
+   "taps_s_in_clip": [],
+   "at": "2026-11-14T16:25:11.181Z"
+  },
+  {
+   "id": "fma_002_90_063",
+   "task": "fma_002_90",
+   "clip_t0": 61.4,
+   "verdict": "ok",
+   "taps_s_in_snippet": [],
+   "taps_s_in_clip": [],
+   "at": "2026-11-14T16:25:27.897Z"
+  },
+  {
+   "id": "fma_003_90_058",
+   "task": "fma_003_90",
+   "clip_t0": 56.43,
+   "verdict": "ok",
+   "taps_s_in_snippet": [],
+   "taps_s_in_clip": [],
+   "at": "2026-11-14T16:25:49.647Z"
+  },
+  {
+   "id": "fma_004_90_040",
+   "task": "fma_004_90",
+   "clip_t0": 37.94,
+   "verdict": "ok",
+   "taps_s_in_snippet": [],
+   "taps_s_in_clip": [],
+   "at": "2026-11-14T16:16:19.357Z"
+  },
+  {
+   "id": "fma_004_90_050",
+   "task": "fma_004_90",
+   "clip_t0": 47.94,
+   "verdict": "shift",
+   "taps_s_in_snippet": [],
+   "taps_s_in_clip": [],
+   "at": "2026-11-14T16:27:27.732Z"
+  },
+  {
+   "id": "fma_004_90_060",
+   "task": "fma_004_90",
+   "clip_t0": 57.94,
+   "verdict": "fix",
+   "taps_s_in_snippet": [
+    4.451,
+    5.209,
+    6.078,
+    6.974,
+    7.891,
+    8.846,
+    9.726,
+    10.563,
+    11.459
+   ],
+   "taps_s_in_clip": [
+    62.391,
+    63.149,
+    64.018,
+    64.914,
+    65.831,
+    66.786,
+    67.666,
+    68.503,
+    69.399
+   ],
+   "at": "2026-11-14T16:28:00.099Z"
+  },
+  {
+   "id": "fma_005_90_050",
+   "task": "fma_005_90",
+   "clip_t0": 47.794,
+   "verdict": "ok",
+   "taps_s_in_snippet": [],
+   "taps_s_in_clip": [],
+   "at": "2026-11-14T16:28:31.149Z"
+  },
+  {
+   "id": "fma_005_90_060",
+   "task": "fma_005_90",
+   "clip_t0": 57.794,
+   "verdict": "half",
+   "taps_s_in_snippet": [],
+   "taps_s_in_clip": [],
+   "at": "2026-11-14T16:28:55.365Z"
+  },
+  {
+   "id": "fma_005_90_070",
+   "task": "fma_005_90",
+   "clip_t0": 67.794,
+   "verdict": "ok",
+   "taps_s_in_snippet": [],
+   "taps_s_in_clip": [],
+   "at": "2026-11-14T16:29:01.781Z"
+  },
+  {
+   "id": "fma_005_90_080",
+   "task": "fma_005_90",
+   "clip_t0": 77.794,
+   "verdict": "ok",
+   "taps_s_in_snippet": [],
+   "taps_s_in_clip": [],
+   "at": "2026-11-14T16:29:07.749Z"
+  },
+  {
+   "id": "fma_005_90_090",
+   "task": "fma_005_90",
+   "clip_t0": 87.794,
+   "verdict": "skip",
+   "taps_s_in_snippet": [],
+   "taps_s_in_clip": [],
+   "at": "2026-11-14T16:29:11.499Z"
+  },
+  {
+   "id": "fma_008_90_071",
+   "task": "fma_008_90",
+   "clip_t0": 69.396,
+   "verdict": "ok",
+   "taps_s_in_snippet": [],
+   "taps_s_in_clip": [],
+   "at": "2026-11-14T16:29:21.231Z"
+  },
+  {
+   "id": "fma_009_90_011",
+   "task": "fma_009_90",
+   "clip_t0": 9.48,
+   "verdict": "ok",
+   "taps_s_in_snippet": [],
+   "taps_s_in_clip": [],
+   "at": "2026-11-14T16:29:28.033Z"
+  },
+  {
+   "id": "fma_009_90_021",
+   "task": "fma_009_90",
+   "clip_t0": 19.48,
+   "verdict": "ok",
+   "taps_s_in_snippet": [],
+   "taps_s_in_clip": [],
+   "at": "2026-11-14T16:29:44.284Z"
+  },
+  {
+   "id": "fma_009_90_031",
+   "task": "fma_009_90",
+   "clip_t0": 29.48,
+   "verdict": "ok",
+   "taps_s_in_snippet": [],
+   "taps_s_in_clip": [],
+   "at": "2026-11-14T16:29:51.517Z"
+  },
+  {
+   "id": "fma_009_90_041",
+   "task": "fma_009_90",
+   "clip_t0": 39.48,
+   "verdict": "ok",
+   "taps_s_in_snippet": [],
+   "taps_s_in_clip": [],
+   "at": "2026-11-14T16:29:57.517Z"
+  },
+  {
+   "id": "fma_009_90_051",
+   "task": "fma_009_90",
+   "clip_t0": 49.48,
+   "verdict": "ok",
+   "taps_s_in_snippet": [],
+   "taps_s_in_clip": [],
+   "at": "2026-11-14T16:30:03.126Z"
+  },
+  {
+   "id": "fma_013_90_002",
+   "task": "fma_013_90",
+   "clip_t0": 0,
+   "verdict": "ok",
+   "taps_s_in_snippet": [],
+   "taps_s_in_clip": [],
+   "at": "2026-11-14T16:30:17.027Z"
+  },
+  {
+   "id": "fma_015_90_000",
+   "task": "fma_015_90",
+   "clip_t0": 0,
+   "verdict": "ok",
+   "taps_s_in_snippet": [],
+   "taps_s_in_clip": [],
+   "at": "2026-11-14T16:30:27.432Z"
+  },
+  {
+   "id": "fma_015_90_001",
+   "task": "fma_015_90",
+   "clip_t0": 0,
+   "verdict": "ok",
+   "taps_s_in_snippet": [],
+   "taps_s_in_clip": [],
+   "at": "2026-11-14T16:30:40.353Z"
+  },
+  {
+   "id": "fma_015_90_011",
+   "task": "fma_015_90",
+   "clip_t0": 9.2,
+   "verdict": "double",
+   "taps_s_in_snippet": [],
+   "taps_s_in_clip": [],
+   "at": "2026-11-14T16:30:52.388Z"
+  },
+  {
+   "id": "fma_015_90_021",
+   "task": "fma_015_90",
+   "clip_t0": 19.2,
+   "verdict": "ok",
+   "taps_s_in_snippet": [],
+   "taps_s_in_clip": [],
+   "at": "2026-11-14T16:30:59.938Z"
+  },
+  {
+   "id": "fma_015_90_031",
+   "task": "fma_015_90",
+   "clip_t0": 29.2,
+   "verdict": "ok",
+   "taps_s_in_snippet": [],
+   "taps_s_in_clip": [],
+   "at": "2026-11-14T16:31:07.656Z"
+  },
+  {
+   "id": "fma_015_90_041",
+   "task": "fma_015_90",
+   "clip_t0": 39.2,
+   "verdict": "ok",
+   "taps_s_in_snippet": [],
+   "taps_s_in_clip": [],
+   "at": "2026-11-14T16:31:18.739Z"
+  },
+  {
+   "id": "fma_015_90_051",
+   "task": "fma_015_90",
+   "clip_t0": 49.2,
+   "verdict": "skip",
+   "taps_s_in_snippet": [],
+   "taps_s_in_clip": [],
+   "at": "2026-11-14T16:32:00.840Z"
+  },
+  {
+   "id": "fma_015_90_061",
+   "task": "fma_015_90",
+   "clip_t0": 59.2,
+   "verdict": "skip",
+   "taps_s_in_snippet": [],
+   "taps_s_in_clip": [],
+   "at": "2026-11-14T16:32:04.840Z"
+  },
+  {
+   "id": "fma_015_90_071",
+   "task": "fma_015_90",
+   "clip_t0": 69.2,
+   "verdict": "skip",
+   "taps_s_in_snippet": [],
+   "taps_s_in_clip": [],
+   "at": "2026-11-14T16:32:17.191Z"
+  },
+  {
+   "id": "fma_015_90_081",
+   "task": "fma_015_90",
+   "clip_t0": 79.2,
+   "verdict": "skip",
+   "taps_s_in_snippet": [],
+   "taps_s_in_clip": [],
+   "at": "2026-11-14T16:32:24.240Z"
+  },
+  {
+   "id": "fma_020_90_016",
+   "task": "fma_020_90",
+   "clip_t0": 14.31,
+   "verdict": "ok",
+   "taps_s_in_snippet": [],
+   "taps_s_in_clip": [],
+   "at": "2026-11-14T16:32:32.390Z"
+  },
+  {
+   "id": "fma_022_90_029",
+   "task": "fma_022_90",
+   "clip_t0": 27.32,
+   "verdict": "ok",
+   "taps_s_in_snippet": [],
+   "taps_s_in_clip": [],
+   "at": "2026-11-14T16:32:38.690Z"
+  },
+  {
+   "id": "fma_023_90_000",
+   "task": "fma_023_90",
+   "clip_t0": 0,
+   "verdict": "ok",
+   "taps_s_in_snippet": [],
+   "taps_s_in_clip": [],
+   "at": "2026-11-14T16:32:42.141Z"
+  },
+  {
+   "id": "fma_023_90_077",
+   "task": "fma_023_90",
+   "clip_t0": 75.461,
+   "verdict": "ok",
+   "taps_s_in_snippet": [],
+   "taps_s_in_clip": [],
+   "at": "2026-11-14T16:32:49.791Z"
+  },
+  {
+   "id": "fma_024_90_000",
+   "task": "fma_024_90",
+   "clip_t0": 0,
+   "verdict": "ok",
+   "taps_s_in_snippet": [],
+   "taps_s_in_clip": [],
+   "at": "2026-11-14T16:32:52.507Z"
+  },
+  {
+   "id": "fma_024_90_008",
+   "task": "fma_024_90",
+   "clip_t0": 5.902,
+   "verdict": "ok",
+   "taps_s_in_snippet": [],
+   "taps_s_in_clip": [],
+   "at": "2026-11-14T16:32:56.157Z"
+  },
+  {
+   "id": "fma_024_90_038",
+   "task": "fma_024_90",
+   "clip_t0": 35.902,
+   "verdict": "ok",
+   "taps_s_in_snippet": [],
+   "taps_s_in_clip": [],
+   "at": "2026-11-14T16:32:59.757Z"
+  },
+  {
+   "id": "fma_025_90_027",
+   "task": "fma_025_90",
+   "clip_t0": 24.68,
+   "verdict": "ok",
+   "taps_s_in_snippet": [],
+   "taps_s_in_clip": [],
+   "at": "2026-11-14T16:33:04.175Z"
+  },
+  {
+   "id": "fma_025_90_057",
+   "task": "fma_025_90",
+   "clip_t0": 54.68,
+   "verdict": "ok",
+   "taps_s_in_snippet": [],
+   "taps_s_in_clip": [],
+   "at": "2026-11-14T16:33:07.075Z"
+  },
+  {
+   "id": "fma_025_90_067",
+   "task": "fma_025_90",
+   "clip_t0": 64.68,
+   "verdict": "ok",
+   "taps_s_in_snippet": [],
+   "taps_s_in_clip": [],
+   "at": "2026-11-14T16:33:08.775Z"
+  },
+  {
+   "id": "fma_028_90_025",
+   "task": "fma_028_90",
+   "clip_t0": 22.563,
+   "verdict": "ok",
+   "taps_s_in_snippet": [],
+   "taps_s_in_clip": [],
+   "at": "2026-11-14T16:33:13.191Z"
+  },
+  {
+   "id": "fma_029_full_010",
+   "task": "fma_029_full",
+   "clip_t0": 8,
+   "verdict": "ok",
+   "taps_s_in_snippet": [],
+   "taps_s_in_clip": [],
+   "at": "2026-11-14T16:33:14.541Z"
+  },
+  {
+   "id": "fma_030_90_008",
+   "task": "fma_030_90",
+   "clip_t0": 5.94,
+   "verdict": "ok",
+   "taps_s_in_snippet": [],
+   "taps_s_in_clip": [],
+   "at": "2026-11-14T16:33:20.558Z"
+  },
+  {
+   "id": "fma_031_90_087",
+   "task": "fma_031_90",
+   "clip_t0": 85.07,
+   "verdict": "half",
+   "taps_s_in_snippet": [],
+   "taps_s_in_clip": [],
+   "at": "2026-11-14T16:33:27.808Z"
+  },
+  {
+   "id": "fma_032_90_021",
+   "task": "fma_032_90",
+   "clip_t0": 18.82,
+   "verdict": "double",
+   "taps_s_in_snippet": [],
+   "taps_s_in_clip": [],
+   "at": "2026-11-14T16:33:35.941Z"
+  },
+  {
+   "id": "fma_032_90_031",
+   "task": "fma_032_90",
+   "clip_t0": 28.82,
+   "verdict": "double",
+   "taps_s_in_snippet": [],
+   "taps_s_in_clip": [],
+   "at": "2026-11-14T16:33:41.525Z"
+  },
+  {
+   "id": "fma_032_90_041",
+   "task": "fma_032_90",
+   "clip_t0": 38.82,
+   "verdict": "double",
+   "taps_s_in_snippet": [],
+   "taps_s_in_clip": [],
+   "at": "2026-11-14T16:33:46.992Z"
+  },
+  {
+   "id": "fma_032_90_051",
+   "task": "fma_032_90",
+   "clip_t0": 48.82,
+   "verdict": "double",
+   "taps_s_in_snippet": [],
+   "taps_s_in_clip": [],
+   "at": "2026-11-14T16:33:51.558Z"
+  },
+  {
+   "id": "jl_001_90_046",
+   "task": "jl_001_90",
+   "clip_t0": 43.8,
+   "verdict": "half",
+   "taps_s_in_snippet": [],
+   "taps_s_in_clip": [],
+   "at": "2026-11-14T16:33:58.058Z"
+  },
+  {
+   "id": "jl_001_90_056",
+   "task": "jl_001_90",
+   "clip_t0": 53.8,
+   "verdict": "ok",
+   "taps_s_in_snippet": [],
+   "taps_s_in_clip": [],
+   "at": "2026-11-14T16:34:04.975Z"
+  },
+  {
+   "id": "jl_002_90_050",
+   "task": "jl_002_90",
+   "clip_t0": 48.13,
+   "verdict": "ok",
+   "taps_s_in_snippet": [],
+   "taps_s_in_clip": [],
+   "at": "2026-11-14T16:34:11.225Z"
+  },
+  {
+   "id": "jl_003_90_073",
+   "task": "jl_003_90",
+   "clip_t0": 70.624,
+   "verdict": "ok",
+   "taps_s_in_snippet": [],
+   "taps_s_in_clip": [],
+   "at": "2026-11-14T16:34:19.675Z"
+  },
+  {
+   "id": "jl_005_90_061",
+   "task": "jl_005_90",
+   "clip_t0": 58.96,
+   "verdict": "ok",
+   "taps_s_in_snippet": [],
+   "taps_s_in_clip": [],
+   "at": "2026-11-14T16:34:22.592Z"
+  },
+  {
+   "id": "jl_006_90_069",
+   "task": "jl_006_90",
+   "clip_t0": 67.04,
+   "verdict": "ok",
+   "taps_s_in_snippet": [],
+   "taps_s_in_clip": [],
+   "at": "2026-11-14T16:34:31.159Z"
+  },
+  {
+   "id": "jl_006_90_079",
+   "task": "jl_006_90",
+   "clip_t0": 77.04,
+   "verdict": "ok",
+   "taps_s_in_snippet": [],
+   "taps_s_in_clip": [],
+   "at": "2026-11-14T16:34:36.359Z"
+  },
+  {
+   "id": "jl_008_90_000",
+   "task": "jl_008_90",
+   "clip_t0": 0,
+   "verdict": "skip",
+   "taps_s_in_snippet": [],
+   "taps_s_in_clip": [],
+   "at": "2026-11-14T16:34:46.509Z"
+  },
+  {
+   "id": "jl_008_90_002",
+   "task": "jl_008_90",
+   "clip_t0": 0.33,
+   "verdict": "ok",
+   "taps_s_in_snippet": [],
+   "taps_s_in_clip": [],
+   "at": "2026-11-14T16:34:57.094Z"
+  },
+  {
+   "id": "jl_010_90_000",
+   "task": "jl_010_90",
+   "clip_t0": 0,
+   "verdict": "ok",
+   "taps_s_in_snippet": [],
+   "taps_s_in_clip": [],
+   "at": "2026-11-14T16:35:00.093Z"
+  },
+  {
+   "id": "jl_011_90_055",
+   "task": "jl_011_90",
+   "clip_t0": 52.504,
+   "verdict": "ok",
+   "taps_s_in_snippet": [],
+   "taps_s_in_clip": [],
+   "at": "2026-11-14T16:35:05.109Z"
+  },
+  {
+   "id": "jl_012_90_074",
+   "task": "jl_012_90",
+   "clip_t0": 72.26,
+   "verdict": "ok",
+   "taps_s_in_snippet": [],
+   "taps_s_in_clip": [],
+   "at": "2026-11-14T16:35:11.526Z"
+  },
+  {
+   "id": "jl_016_90_035",
+   "task": "jl_016_90",
+   "clip_t0": 32.62,
+   "verdict": "ok",
+   "taps_s_in_snippet": [],
+   "taps_s_in_clip": [],
+   "at": "2026-11-14T16:35:17.493Z"
+  },
+  {
+   "id": "jl_017_90_090",
+   "task": "jl_017_90",
+   "clip_t0": 87.64,
+   "verdict": "skip",
+   "taps_s_in_snippet": [],
+   "taps_s_in_clip": [],
+   "at": "2026-11-14T16:35:22.227Z"
+  },
+  {
+   "id": "jl_022_90_060",
+   "task": "jl_022_90",
+   "clip_t0": 58.123,
+   "verdict": "ok",
+   "taps_s_in_snippet": [],
+   "taps_s_in_clip": [],
+   "at": "2026-11-14T16:35:28.027Z"
+  },
+  {
+   "id": "jl_027_90_086",
+   "task": "jl_027_90",
+   "clip_t0": 83.8,
+   "verdict": "ok",
+   "taps_s_in_snippet": [],
+   "taps_s_in_clip": [],
+   "at": "2026-11-14T16:35:36.610Z"
+  },
+  {
+   "id": "jl_032_90_029",
+   "task": "jl_032_90",
+   "clip_t0": 27.47,
+   "verdict": "ok",
+   "taps_s_in_snippet": [],
+   "taps_s_in_clip": [],
+   "at": "2026-11-14T16:35:40.510Z"
+  },
+  {
+   "id": "jl_032_90_049",
+   "task": "jl_032_90",
+   "clip_t0": 47.47,
+   "verdict": "ok",
+   "taps_s_in_snippet": [],
+   "taps_s_in_clip": [],
+   "at": "2026-11-14T16:35:45.260Z"
+  },
+  {
+   "id": "jl_032_90_069",
+   "task": "jl_032_90",
+   "clip_t0": 67.47,
+   "verdict": "ok",
+   "taps_s_in_snippet": [],
+   "taps_s_in_clip": [],
+   "at": "2026-11-14T16:35:51.077Z"
+  }
+ ]
+}

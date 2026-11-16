@@ -1,0 +1,37 @@
+{
+ "task_id": "fma_028_90",
+ "song_id": "fma_028",
+ "clip_start": 25.437,
+ "clip_end": 115.437,
+ "length_class": 90,
+ "difficulty_tier": "easy",
+ "spec": {
+  "resolution": [
+   1920,
+   1080
+  ],
+  "fps": 30,
+  "duration_tol": 0.1,
+  "duration": 90.0
+ },
+ "song": {
+  "title": "Don't Run With Pizzas",
+  "artist": "Bad News Bats",
+  "genre": "Punk",
+  "language": "en",
+  "license": "CC-BY-NC-SA 3.0",
+  "url": "http://freemusicarchive.org/music/Bad_News_Bats/Bad_News_Bats/Dont_Run_With_Pizzas"
+ },
+ "lyrics_text": [],
+ "prompt": "Make a music video for this song. Make it as good as you possibly can.",
+ "free": true,
+ "difficulty": {
+  "d_rhythm": -0.32,
+  "d_structure": -0.51,
+  "d_dynamics": -0.81,
+  "d_lyrics": -0.47,
+  "d_genre": 0.0,
+  "d_length": -0.2,
+  "difficulty": -0.385
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "task_id": "jl_013_90",
+ "song_id": "jl_013",
+ "clip_start": 29.52,
+ "clip_end": 119.52,
+ "length_class": 90,
+ "difficulty_tier": "medium",
+ "spec": {
+  "resolution": [
+   1920,
+   1080
+  ],
+  "fps": 30,
+  "duration_tol": 0.1,
+  "duration": 90.0
+ },
+ "song": {
+  "title": "de bonne humeur",
+  "artist": "LE NEZ TORDU",
+  "genre": "Pop",
+  "language": "fr",
+  "license": "CC BY-NC-SA",
+  "url": "https://www.jamendo.com/track/261425/de-bonne-humeur/lyrics"
+ },
+ "lyrics_text": [
+  "on m'la chourrer c'est un cauchemar",
+  "de bonne humeur même de bonne heure",
+  "je prends les choses avec douceur",
+  "de bonne humeur même de bonne heure",
+  "il en faut plus pour m'donner des sueurs",
+  "même si j'traîne les pieds dans la rue",
+  "et qu'mon briquet à disparu",
+  "même si les rumeurs sur mon compte",
+  "s'amplifient à chaque secondes",
+  "même si on m'attends au bureau",
+  "j'suis quand même vert pour ma clio",
+  "et quand bien même j'ai de l'herpès",
+  "je n'oublie pas qu'il faut qu'je reste",
+  "de bonne humeur même de bonne heure",
+  "je prends les choses avec douceur",
+  "de bonne humeur même de bonne heure",
+  "il en faut plus pour m'donner des sueurs",
+  "même si j'ai pas les numéros",
+  "gagnant au tirage du loto",
+  "même si je me suis fait virer",
+  "car mon réveil n'a pas sonné",
+  "même si ma copine s'est tapé",
+  "le fils du voisin de palier",
+  "même si je ressens un p'tit stress",
+  "je n'oublie pas qu'il faut qu'je reste",
+  "de bonne humeur même de bonne heure",
+  "je prends les choses avec douceur",
+  "de bonne humeur ouais même de bonne heure"
+ ],
+ "prompt": "Make a music video for this song. Make it as good as you possibly can.",
+ "free": true,
+ "difficulty": {
+  "d_rhythm": -0.58,
+  "d_structure": 0.56,
+  "d_dynamics": -0.46,
+  "d_lyrics": 1.61,
+  "d_genre": 0.0,
+  "d_length": -1.01,
+  "difficulty": 0.022
+ }
+}

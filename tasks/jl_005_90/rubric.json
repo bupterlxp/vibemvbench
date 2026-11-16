@@ -1,0 +1,405 @@
+{
+ "profile": "The song is an energetic indie-pop/rock track featuring a driving drum kit, electric bass, rhythm guitars, and synths. The male lead vocals are punchy and slightly processed, delivering fast-paced, defiant lyrics. The mood is cathartic and liberating, centered around breaking free from a toxic, suffocating relationship ('thirty messages drunk', 'suffocating please') and finally gaining clarity ('I can see for the first time'). The energy arc starts with an upbeat, rhythmic verse, builds significant tension in the pre-chorus, explodes into a highly cathartic, full-instrumentation chorus, and later drops back for a more stripped-down second verse before building again.",
+ "key_moments": [
+  {
+   "t": 4.7,
+   "what": "The vocals enter, establishing the fast-paced, rhythmic indie-rock feel of the first verse."
+  },
+  {
+   "t": 19.1,
+   "what": "A section change into the pre-chorus; the instrumentation and rhythm shift to build tension as the lyrics turn to 'I could not breathe'."
+  },
+  {
+   "t": 35.3,
+   "what": "The explosive chorus drop; maximum musical energy hits alongside the cathartic lyrical hook 'I can see for the first time'."
+  },
+  {
+   "t": 49.5,
+   "what": "A section change into an instrumental post-chorus break, maintaining high energy but shifting focus to the track's driving groove."
+  },
+  {
+   "t": 69.2,
+   "what": "The music pulls back as the second verse starts ('you get jealous easily'), dropping the energy for a more narrative, intimate delivery."
+  }
+ ],
+ "fitting_styles": "Narrative (a protagonist packing up, leaving a chaotic environment, and stepping into the light/freedom), Performance (an energetic indie band playing in a dynamic space with aggressive lighting), Kinetic Typography (fast, bold, and slightly glitchy text reflecting the chaotic texts and sudden clarity), or an energetic montage of running/escaping. Clashing styles would include slow-paced romantic or melancholic visuals, overly soft/ambient aesthetics, or rural acoustic folk imagery, which would contradict the track's driving indie-pop edge.",
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video introduces the primary visual subject, singer, or narrative action right as the vocals enter at 4.7 s."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "There is a noticeable shift in visual tension—such as tighter framing, faster cuts, or darker lighting—starting at the pre-chorus at 19.1 s."
+  },
+  {
+   "id": "S3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "A major visual impact, bright color burst, or sweeping scene transition lands exactly on the chorus drop at 35.3 s."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The visual energy dials back, or a new scene/setup is introduced, to match the stripped-down second verse at 69.2 s."
+  }
+ ],
+ "anchors": {
+  "UN": "1: The video fundamentally misinterprets the track, applying a slow, somber, or overly soft aesthetic that ignores the indie-pop drive. 3: The concept fits an upbeat song but misses the specific thematic context of breaking out of a toxic situation into clarity. 5: The video perfectly captures the defiant, liberating energy of the track, whether through a high-octane band performance, a fitting escape narrative, or aggressive kinetic text.",
+  "EM": "1: The emotional tone is flat, disjointed, or inappropriate for the song's feelings of suffocation and release. 3: The video is generally energetic but fails to clearly contrast the tension of the pre-chorus with the euphoric relief of the chorus. 5: The visuals masterfully track the emotional journey, building a palpable sense of claustrophobia that bursts into cathartic, wide-open freedom at the chorus.",
+  "RH": "1: Visual movements and edits drift completely independently of the driving drumbeat and punchy vocal phrasing. 3: The editing keeps time with the general tempo but misses opportunities to hit syncopated drum accents or vocal stops. 5: The visuals are tightly locked to the indie-rock rhythm, with cuts, camera movements, and action landing crisply on snare hits and vocal cues.",
+  "ST": "1: The video is visually monotonous, ignoring all the song's clear section changes. 3: The video responds to the main chorus but fails to mark the pre-chorus tension, the instrumental break, or the second verse. 5: The structural shifts are distinctively visualized: the verse, tension-building pre-chorus (19.1s), explosive chorus (35.3s), and dialed-back verse 2 (69.2s) all have unique visual treatments.",
+  "LY": "1: If text is used, it is completely hallucinated or poorly timed; if no text, the imagery contradicts the obvious themes of toxic messages and breathing/suffocating. 3: Lyrics are mostly accurate with minor desyncs, or imagery lightly touches on the themes of relationships and vision. 5: Kinetic text is perfectly synced, readable, and dynamically stylized, OR the purely visual narrative strongly and cleverly reflects 'suffocating' and 'seeing for the first time'.",
+  "VA": "1: The video looks like a raw, generic AI output with heavy morphing, inconsistent subjects, and poor lighting. 3: The overall look is decent and coherent but lacks professional polish, featuring occasional awkward AI glitches or flat composition. 5: The imagery is crisp, stylish, and highly cohesive, matching the professional grade of a real indie-pop music video with dynamic lighting and sharp colors.",
+  "CR": "1: The execution relies on a boring, predictable template or uninspired stock-like footage. 3: The video offers a standard but effective interpretation (like a typical garage band setup) without surprising elements. 5: The video brings a highly distinctive, creative visual metaphor for 'vision' and 'suffocation' that elevates the song and feels deeply original."
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 4.7,
+   "kind": "sung line starts: \"racking and jacking my mind up\""
+  },
+  {
+   "t": 6.6,
+   "kind": "sung line starts: \"cannot be telling the time i\""
+  },
+  {
+   "t": 8.6,
+   "kind": "sung line starts: \"don't care no\""
+  },
+  {
+   "t": 10.2,
+   "kind": "sung line starts: \"i don't care no\""
+  },
+  {
+   "t": 11.9,
+   "kind": "sung line starts: \"you send thirty messages drunk\""
+  },
+  {
+   "t": 14.1,
+   "kind": "sung line starts: \"and dirty messages drunk\""
+  },
+  {
+   "t": 16.1,
+   "kind": "sung line starts: \"but i don't look\""
+  },
+  {
+   "t": 17.6,
+   "kind": "sung line starts: \"no i can't be to look\""
+  },
+  {
+   "t": 19.1,
+   "kind": "section change"
+  },
+  {
+   "t": 20.0,
+   "kind": "sung line starts: \"i could not breathe\""
+  },
+  {
+   "t": 23.5,
+   "kind": "sung line starts: \"you took your toll on me\""
+  },
+  {
+   "t": 27.4,
+   "kind": "sung line starts: \"you're suffocating please\""
+  },
+  {
+   "t": 31.2,
+   "kind": "sung line starts: \"but since i watched you leave\""
+  },
+  {
+   "t": 35.3,
+   "kind": "sung line starts: \"i can see for the first time\""
+  },
+  {
+   "t": 38.2,
+   "kind": "section change"
+  },
+  {
+   "t": 42.6,
+   "kind": "sung line starts: \"and i can see for the first time\""
+  },
+  {
+   "t": 49.5,
+   "kind": "section change"
+  },
+  {
+   "t": 50.2,
+   "kind": "sung line starts: \"and i can see for the first time\""
+  },
+  {
+   "t": 53.6,
+   "kind": "sung line starts: \"for the first time\""
+  },
+  {
+   "t": 57.9,
+   "kind": "sung line starts: \"and i can see for the first time\""
+  },
+  {
+   "t": 69.2,
+   "kind": "sung line starts: \"you get jealous easily\""
+  },
+  {
+   "t": 71.3,
+   "kind": "sung line starts: \"you did not make it easy\""
+  },
+  {
+   "t": 73.1,
+   "kind": "sung line starts: \"but what was i expecting\""
+  },
+  {
+   "t": 74.9,
+   "kind": "sung line starts: \"it's a very fitting ending\""
+  },
+  {
+   "t": 76.9,
+   "kind": "sung line starts: \"you say i hurt you bad well\""
+  },
+  {
+   "t": 78.8,
+   "kind": "sung line starts: \"that was never my intent\""
+  },
+  {
+   "t": 80.6,
+   "kind": "sung line starts: \"i was looking out for myself\""
+  },
+  {
+   "t": 82.6,
+   "kind": "sung line starts: \"and all of my mental health\""
+  },
+  {
+   "t": 84.8,
+   "kind": "sung line starts: \"i cannot breathe\""
+  },
+  {
+   "t": 88.3,
+   "kind": "sung line starts: \"you took your toll on me\""
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video introduces the primary visual subject, singer, or narrative action right as the vocals enter at 4.7 s."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "There is a noticeable shift in visual tension—such as tighter framing, faster cuts, or darker lighting—starting at the pre-chorus at 19.1 s."
+  },
+  {
+   "id": "S3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "A major visual impact, bright color burst, or sweeping scene transition lands exactly on the chorus drop at 35.3 s."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The visual energy dials back, or a new scene/setup is introduced, to match the stripped-down second verse at 69.2 s."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 90.0,
+  "approx_bpm": 126,
+  "section_changes_at_s": [
+   19.06,
+   38.16,
+   49.54
+  ],
+  "sung_lines": [
+   {
+    "start": 4.724,
+    "end": 6.194,
+    "text": "racking and jacking my mind up"
+   },
+   {
+    "start": 6.611,
+    "end": 8.028,
+    "text": "cannot be telling the time i"
+   },
+   {
+    "start": 8.574,
+    "end": 9.531,
+    "text": "don't care no"
+   },
+   {
+    "start": 10.2,
+    "end": 11.477,
+    "text": "i don't care no"
+   },
+   {
+    "start": 11.902,
+    "end": 13.829,
+    "text": "you send thirty messages drunk"
+   },
+   {
+    "start": 14.075,
+    "end": 15.672,
+    "text": "and dirty messages drunk"
+   },
+   {
+    "start": 16.096,
+    "end": 17.084,
+    "text": "but i don't look"
+   },
+   {
+    "start": 17.614,
+    "end": 19.142,
+    "text": "no i can't be to look"
+   },
+   {
+    "start": 19.956,
+    "end": 22.286,
+    "text": "i could not breathe"
+   },
+   {
+    "start": 23.544,
+    "end": 26.136,
+    "text": "you took your toll on me"
+   },
+   {
+    "start": 27.351,
+    "end": 29.961,
+    "text": "you're suffocating please"
+   },
+   {
+    "start": 31.17,
+    "end": 33.105,
+    "text": "but since i watched you leave"
+   },
+   {
+    "start": 35.259,
+    "end": 38.824,
+    "text": "i can see for the first time"
+   },
+   {
+    "start": 42.63,
+    "end": 46.301,
+    "text": "and i can see for the first time"
+   },
+   {
+    "start": 50.235,
+    "end": 53.351,
+    "text": "and i can see for the first time"
+   },
+   {
+    "start": 53.593,
+    "end": 55.337,
+    "text": "for the first time"
+   },
+   {
+    "start": 57.893,
+    "end": 61.011,
+    "text": "and i can see for the first time"
+   },
+   {
+    "start": 69.21,
+    "end": 70.374,
+    "text": "you get jealous easily"
+   },
+   {
+    "start": 71.3,
+    "end": 72.541,
+    "text": "you did not make it easy"
+   },
+   {
+    "start": 73.093,
+    "end": 74.504,
+    "text": "but what was i expecting"
+   },
+   {
+    "start": 74.871,
+    "end": 76.398,
+    "text": "it's a very fitting ending"
+   },
+   {
+    "start": 76.861,
+    "end": 78.611,
+    "text": "you say i hurt you bad well"
+   },
+   {
+    "start": 78.792,
+    "end": 80.395,
+    "text": "that was never my intent"
+   },
+   {
+    "start": 80.641,
+    "end": 82.207,
+    "text": "i was looking out for myself"
+   },
+   {
+    "start": 82.602,
+    "end": 84.493,
+    "text": "and all of my mental health"
+   },
+   {
+    "start": 84.847,
+    "end": 87.109,
+    "text": "i cannot breathe"
+   },
+   {
+    "start": 88.324,
+    "end": 90.0,
+    "text": "you took your toll on me"
+   }
+  ]
+ }
+}

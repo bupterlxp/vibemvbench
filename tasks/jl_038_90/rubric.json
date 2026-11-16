@@ -1,0 +1,436 @@
+{
+ "profile": "The song is a bittersweet indie-electronic 'sad banger'. It features a driving, upbeat arrangement anchored by acoustic guitar strumming, bright synths, a relentless four-on-the-floor beat, and a propulsive bassline. The male vocals are emotionally charged and slightly filtered, delivering Spanish lyrics about yearning, missing a lost love, and the pain of waiting ('no paro de extrañarte'). The energy arc starts high at 0.0s and maintains a relentless, danceable pace throughout, with the emotional peaks driven by the vocal intensity and passionate delivery in the choruses rather than massive instrumental drops.",
+ "key_moments": [
+  {
+   "t": 0.0,
+   "what": "The track opens immediately with full energy: a driving acoustic guitar and a relentless four-on-the-floor electronic beat."
+  },
+  {
+   "t": 9.6,
+   "what": "The first verse begins as the lead vocals enter ('vente'), establishing the track's melancholic but urgent tone."
+  },
+  {
+   "t": 27.6,
+   "what": "A section change introduces the chorus, marked by a passionate, sustained vocal delivery of 'fuerte' shortly after."
+  },
+  {
+   "t": 37.2,
+   "what": "A section change dropping into the second verse ('ay que extraña...'), resetting the vocal phrasing while the beat continues to drive on."
+  },
+  {
+   "t": 76.8,
+   "what": "The final section change, leading into an emotionally heightened outro where the singer's longing reaches its peak ('y haga lo que haga')."
+  }
+ ],
+ "fitting_styles": "Suitable approaches include a narrative video (e.g., a frantic journey or montage of memories reflecting the breakup and longing), an energetic performance (contrasting the upbeat instrumentals with a melancholic delivery), a rhythmic montage (fast-paced editing locked to the relentless beat), or a kinetic lyric video (emphasizing the desperate, pleading lyrics). Approaches that would clash include slow, ambient, or floaty visuals (which ignore the driving 4/4 tempo) or overly aggressive/dark industrial styles (which miss the acoustic warmth and emotional vulnerability of the song).",
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video visually acknowledges the entry of the lead vocals at 9.6s (e.g., text appears, a character starts singing, or a noticeable visual shift occurs)."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The picture clearly marks the section change at 27.6s (the start of the chorus) with a cut, lighting change, or an increase in visual intensity."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The video responds to the section change at 76.8s (leading into the final emotional peak) with a distinct visual escalation or structural shift."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "text",
+   "check": "If lyrics are shown, the words 'fuerte' (starting at 28.8s) or 'abrazame muy fuerte' (32.3s) are accurately transcribed and timed."
+  }
+ ],
+ "anchors": {
+  "UN": {
+   "1": "Ignores the bittersweet 'sad banger' contrast, treating the song as either purely happy dance music or a slow, depressing dirge.",
+   "3": "Captures the indie-electronic vibe but misses the deeper yearning of the lyrics, or vice-versa.",
+   "5": "Perfectly balances the energetic, driving rhythm with the bittersweet, nostalgic longing and vulnerability of the lyrics."
+  },
+  "EM": {
+   "1": "Emotionally flat or completely misaligned with the song's tone (e.g., aggressively angry or overly comedic).",
+   "3": "Conveys some sadness or energy but stays one-note, lacking the desperate yearning of the vocal performance.",
+   "5": "Visually navigates the bittersweet mood, capturing both the emotional desperation and the propulsive, uplifting energy of the music."
+  },
+  "RH": {
+   "1": "Cuts and motion are disconnected from the relentless 4/4 beat, feeling random or sluggish.",
+   "3": "Mostly on beat, but misses opportunities to accentuate the acoustic guitar strumming or the continuous pulse.",
+   "5": "Visually locked to the driving rhythm, making the relentless beat feel physically impactful through perfectly timed cuts and motion."
+  },
+  "ST": {
+   "1": "Ignores major structural shifts, missing the vocal entry at 9.6s or the chorus at 27.6s entirely.",
+   "3": "Responds to some section changes but feels structurally repetitive or lacks clear progression.",
+   "5": "Distinctly marks the intro, verses, and choruses (e.g., 9.6s, 27.6s, 37.2s, 76.8s) with clear visual and narrative progression."
+  },
+  "LY": {
+   "1": "Text is entirely wrong, or imagery contradicts the themes of missing someone, waiting, and emotional storms.",
+   "3": "Lyrics/themes are mostly present but sometimes poorly timed, or interpreted in a way that is literal to a fault.",
+   "5": "Flawlessly syncs lyrics if used, or uses powerful imagery of longing, waiting, and tempests that deeply resonates with the song's words."
+  },
+  "VA": {
+   "1": "Looks glitchy, like an unfinished AI render, or uses cheap, generic stock footage.",
+   "3": "Decent aesthetic but lacks polish, consistent color grading, or visual cohesion.",
+   "5": "High-quality, polished visuals with excellent composition, cohesive lighting, and a distinct, finished look."
+  },
+  "CR": {
+   "1": "A basic, unimaginative template or a generic club visualizer with no original thought.",
+   "3": "A standard narrative or performance with some nice, but expected, visual touches.",
+   "5": "A highly original concept that elevates the 'sad banger' feel in a surprising, memorable, and deeply appropriate way."
+  }
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 0.0,
+   "kind": "section change"
+  },
+  {
+   "t": 9.6,
+   "kind": "section change"
+  },
+  {
+   "t": 9.6,
+   "kind": "sung line starts: \"vente\""
+  },
+  {
+   "t": 13.0,
+   "kind": "sung line starts: \"conmigo es diferente\""
+  },
+  {
+   "t": 17.9,
+   "kind": "sung line starts: \"como agua fresca que calma la fiebre\""
+  },
+  {
+   "t": 19.2,
+   "kind": "section change"
+  },
+  {
+   "t": 21.2,
+   "kind": "sung line starts: \"hasta las nubes hoy mienten\""
+  },
+  {
+   "t": 23.6,
+   "kind": "sung line starts: \"y te explota en la cabeza\""
+  },
+  {
+   "t": 25.5,
+   "kind": "sung line starts: \"una tremenda tormenta\""
+  },
+  {
+   "t": 27.6,
+   "kind": "section change"
+  },
+  {
+   "t": 28.8,
+   "kind": "sung line starts: \"fuerte\""
+  },
+  {
+   "t": 32.3,
+   "kind": "sung line starts: \"abrazame muy fuerte\""
+  },
+  {
+   "t": 37.1,
+   "kind": "sung line starts: \"mi amor nunca me sueltes\""
+  },
+  {
+   "t": 37.2,
+   "kind": "section change"
+  },
+  {
+   "t": 38.9,
+   "kind": "sung line starts: \"ay que extraña es tu manera de quererme\""
+  },
+  {
+   "t": 42.9,
+   "kind": "sung line starts: \"que lindo que seria estar con vos y conversar\""
+  },
+  {
+   "t": 47.7,
+   "kind": "sung line starts: \"de cosas\""
+  },
+  {
+   "t": 48.0,
+   "kind": "section change"
+  },
+  {
+   "t": 51.5,
+   "kind": "sung line starts: \"no se de cuales cosas\""
+  },
+  {
+   "t": 56.3,
+   "kind": "sung line starts: \"cosas poco importantes y es que es muy duro olvidarte\""
+  },
+  {
+   "t": 57.6,
+   "kind": "section change"
+  },
+  {
+   "t": 60.6,
+   "kind": "sung line starts: \"no me digas que aun no nos veremos\""
+  },
+  {
+   "t": 64.1,
+   "kind": "sung line starts: \"y tendremos que esperar\""
+  },
+  {
+   "t": 66.9,
+   "kind": "sung line starts: \"mas tiempo\""
+  },
+  {
+   "t": 67.2,
+   "kind": "section change"
+  },
+  {
+   "t": 70.7,
+   "kind": "sung line starts: \"decime cuanto tiempo\""
+  },
+  {
+   "t": 75.4,
+   "kind": "sung line starts: \"si pareciera que no hubiera nada\""
+  },
+  {
+   "t": 76.8,
+   "kind": "section change"
+  },
+  {
+   "t": 78.8,
+   "kind": "sung line starts: \"y haga lo que haga\""
+  },
+  {
+   "t": 81.2,
+   "kind": "sung line starts: \"no paro de extrañarte\""
+  },
+  {
+   "t": 83.3,
+   "kind": "sung line starts: \"y de perderte cada dia mas\""
+  },
+  {
+   "t": 87.2,
+   "kind": "sung line starts: \"y el amor es asi\""
+  },
+  {
+   "t": 89.4,
+   "kind": "sung line starts: \"cuando lo dejamos ir\""
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video visually acknowledges the entry of the lead vocals at 9.6s (e.g., text appears, a character starts singing, or a noticeable visual shift occurs)."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The picture clearly marks the section change at 27.6s (the start of the chorus) with a cut, lighting change, or an increase in visual intensity."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The video responds to the section change at 76.8s (leading into the final emotional peak) with a distinct visual escalation or structural shift."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "text",
+   "check": "If lyrics are shown, the words 'fuerte' (starting at 28.8s) or 'abrazame muy fuerte' (32.3s) are accurately transcribed and timed."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 90.0,
+  "approx_bpm": 99,
+  "section_changes_at_s": [
+   0.02,
+   9.6,
+   19.2,
+   27.62,
+   37.22,
+   48.0,
+   57.62,
+   67.22,
+   76.82
+  ],
+  "sung_lines": [
+   {
+    "start": 9.6,
+    "end": 12.608,
+    "text": "vente"
+   },
+   {
+    "start": 13.038,
+    "end": 17.519,
+    "text": "conmigo es diferente"
+   },
+   {
+    "start": 17.861,
+    "end": 20.883,
+    "text": "como agua fresca que calma la fiebre"
+   },
+   {
+    "start": 21.162,
+    "end": 23.416,
+    "text": "hasta las nubes hoy mienten"
+   },
+   {
+    "start": 23.616,
+    "end": 25.548,
+    "text": "y te explota en la cabeza"
+   },
+   {
+    "start": 25.548,
+    "end": 27.906,
+    "text": "una tremenda tormenta"
+   },
+   {
+    "start": 28.806,
+    "end": 31.829,
+    "text": "fuerte"
+   },
+   {
+    "start": 32.268,
+    "end": 36.671,
+    "text": "abrazame muy fuerte"
+   },
+   {
+    "start": 37.085,
+    "end": 38.893,
+    "text": "mi amor nunca me sueltes"
+   },
+   {
+    "start": 38.893,
+    "end": 42.199,
+    "text": "ay que extraña es tu manera de quererme"
+   },
+   {
+    "start": 42.88,
+    "end": 47.365,
+    "text": "que lindo que seria estar con vos y conversar"
+   },
+   {
+    "start": 47.7,
+    "end": 51.006,
+    "text": "de cosas"
+   },
+   {
+    "start": 51.513,
+    "end": 56.149,
+    "text": "no se de cuales cosas"
+   },
+   {
+    "start": 56.275,
+    "end": 60.29,
+    "text": "cosas poco importantes y es que es muy duro olvidarte"
+   },
+   {
+    "start": 60.614,
+    "end": 64.118,
+    "text": "no me digas que aun no nos veremos"
+   },
+   {
+    "start": 64.118,
+    "end": 66.592,
+    "text": "y tendremos que esperar"
+   },
+   {
+    "start": 66.906,
+    "end": 70.257,
+    "text": "mas tiempo"
+   },
+   {
+    "start": 70.651,
+    "end": 75.073,
+    "text": "decime cuanto tiempo"
+   },
+   {
+    "start": 75.416,
+    "end": 78.34,
+    "text": "si pareciera que no hubiera nada"
+   },
+   {
+    "start": 78.785,
+    "end": 80.943,
+    "text": "y haga lo que haga"
+   },
+   {
+    "start": 81.166,
+    "end": 83.291,
+    "text": "no paro de extrañarte"
+   },
+   {
+    "start": 83.291,
+    "end": 86.407,
+    "text": "y de perderte cada dia mas"
+   },
+   {
+    "start": 87.19,
+    "end": 88.677,
+    "text": "y el amor es asi"
+   },
+   {
+    "start": 89.394,
+    "end": 90.0,
+    "text": "cuando lo dejamos ir"
+   }
+  ]
+ }
+}

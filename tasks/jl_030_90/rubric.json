@@ -1,0 +1,314 @@
+{
+ "profile": "This is an upbeat, groovy Latin funk/pop track featuring a bouncy bassline, clean rhythmic electric guitar, a drum kit, and a prominent brass section. The male vocals are expressive, fast-paced, and highly rhythmic. The mood is energetic, fun, and slightly theatrical or ironic. Lyrically, the song deals with miscommunication in a relationship, contrasting a dramatic partner ('action movie protagonist') with the singer's feeling of being a 'silenced orator' or a calm 'Buddhist monk'. The energy starts with a steady groove, lifts when the horns arrive at 17.2, builds through an instrumental pre-chorus at 35.7, peaks during the vibrant choruses at 41.4 and 65.6, and concludes with a funky instrumental outro starting at 82.8.",
+ "key_moments": [
+  {
+   "t": 17.2,
+   "what": "The brass section enters, adding a new layer of instrumentation and significantly lifting the track's energy."
+  },
+  {
+   "t": 35.7,
+   "what": "A structural shift occurs, introducing a new brass-led melody that acts as a pre-chorus buildup."
+  },
+  {
+   "t": 41.4,
+   "what": "The chorus begins ('soy un orador silenciado'), bringing full band energy and rapid-fire, syncopated vocals."
+  },
+  {
+   "t": 62.8,
+   "what": "A short, punchy instrumental brass break happens here before the second chorus."
+  },
+  {
+   "t": 82.8,
+   "what": "The main vocals finish and the song transitions into a groovy instrumental outro vamp."
+  }
+ ],
+ "fitting_styles": "Band performance videos featuring a charismatic frontman and a lively horn section would perfectly suit the organic, funky arrangement. Narrative videos could creatively play with the lyrical contrasts, visualizing the 'action movie' scenes versus the calm 'Buddhist monk'. Kinetic typography is also highly effective here to emphasize the bouncy, rapid-fire vocal delivery. Conversely, dark, aggressive, or slow, ethereal ambient visuals would clash heavily with the upbeat, danceable funk-pop rhythm.",
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The visuals introduce a new element, character, or editing pattern to mark the entrance of the brass section at 17.2."
+  },
+  {
+   "id": "S2",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The picture responds to the structural transition and new instrumental melody starting at 35.7."
+  },
+  {
+   "id": "S3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video displays a noticeable increase in energy, movement, or a major scene change when the chorus drops at 41.4."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The visual editing or on-screen action explicitly acknowledges the brief instrumental break at 62.8."
+  },
+  {
+   "id": "S5",
+   "level": "detail",
+   "modality": "text",
+   "check": "If lyrics are shown, the phrase 'orador silenciado' is accurately spelled and timed to the vocals at 41.4."
+  }
+ ],
+ "anchors": {
+  "UN": "5 = The concept perfectly captures the track's funky, upbeat pop energy and the thematic contrasts of the lyrics; 3 = Generic pop visuals that fit the tempo but miss the specific groovy, theatrical flavor; 1 = The visuals clash completely, presenting a dark, somber, or aggressive concept.",
+  "EM": "5 = The video radiates a lively, groovy, and slightly dramatic mood that matches the vocal performance; 3 = The mood is generally positive but lacks the specific funky or theatrical edge; 1 = The emotional tone is depressing, scary, or overly serious.",
+  "RH": "5 = Cuts and motion are tightly locked to the bouncy 4/4 funk groove and syncopated vocal delivery; 3 = Edits fall on the beat most of the time but ignore the specific syncopations and vocal rhythms; 1 = Visual changes are disconnected from the tempo and feel entirely random.",
+  "ST": "5 = The video structure clearly shifts at the brass intro (17.2), the pre-chorus (35.7), the chorus (41.4), and the outro (82.8); 3 = The visuals react to the chorus but overlook the instrumental and pre-chorus transitions; 1 = The video shows no structural evolution over time.",
+  "LY": "5 = Text is perfectly synced to the fast vocals, or imagery cleverly depicts the 'action movie', 'monk', and 'silence' metaphors; 3 = Lyrics are mostly accurate but have slight timing issues, or imagery is only loosely related to the themes; 1 = Heavy hallucinations in text or imagery actively contradict the song's meaning.",
+  "VA": "5 = Polished, high-quality rendering with vibrant colors and cohesive styling suitable for a fun pop/funk video; 3 = Average visual quality with some AI generation artifacts or a slightly generic look; 1 = Glitchy, messy, or very poor quality rendering that distracts from the music.",
+  "CR": "5 = A highly creative interpretation, perhaps using stylized metaphors or a dynamic performance setup that stands out; 3 = A standard, well-executed pop performance or narrative video without major surprises; 1 = A boring, repetitive sequence of tropes with no original flair."
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 0.0,
+   "kind": "sung line starts: \"tu musa de mi desesperacion eres protagonista en una peli de accion\""
+  },
+  {
+   "t": 3.7,
+   "kind": "sung line starts: \"y yo en opuesta contraposicion\""
+  },
+  {
+   "t": 8.9,
+   "kind": "sung line starts: \"soy un monje budista en plena meditacion\""
+  },
+  {
+   "t": 15.7,
+   "kind": "sung line starts: \"coje mi silencio tomalo yo te ofrezco la bebida del desierto\""
+  },
+  {
+   "t": 17.2,
+   "kind": "section change"
+  },
+  {
+   "t": 23.1,
+   "kind": "sung line starts: \"el desconcierto del mundo interior\""
+  },
+  {
+   "t": 27.1,
+   "kind": "sung line starts: \"ya sé qué es dificil para ti pero no hay otro remedio lo comprendo\""
+  },
+  {
+   "t": 34.8,
+   "kind": "sung line starts: \"si te entiendo por qué tu no a mi\""
+  },
+  {
+   "t": 35.7,
+   "kind": "section change"
+  },
+  {
+   "t": 41.4,
+   "kind": "sung line starts: \"soy un orador silenciado un poliglota en el paro\""
+  },
+  {
+   "t": 48.2,
+   "kind": "sung line starts: \"censurado por las leyes de la soledad\""
+  },
+  {
+   "t": 52.8,
+   "kind": "sung line starts: \"un profeta que ha perdido palabras en el cajon del olvido\""
+  },
+  {
+   "t": 62.1,
+   "kind": "sung line starts: \"y quién sabe si algun dia\""
+  },
+  {
+   "t": 62.8,
+   "kind": "section change"
+  },
+  {
+   "t": 65.6,
+   "kind": "sung line starts: \"soy un orador silenciado un poliglota en el paro\""
+  },
+  {
+   "t": 72.5,
+   "kind": "sung line starts: \"censurado por las leyes de la soledad\""
+  },
+  {
+   "t": 77.1,
+   "kind": "sung line starts: \"un profeta que ha perdido palabras en el cajon del olvido\""
+  },
+  {
+   "t": 82.8,
+   "kind": "section change"
+  },
+  {
+   "t": 86.4,
+   "kind": "sung line starts: \"y quién sabe si algun dia volveran\""
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The visuals introduce a new element, character, or editing pattern to mark the entrance of the brass section at 17.2."
+  },
+  {
+   "id": "S2",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The picture responds to the structural transition and new instrumental melody starting at 35.7."
+  },
+  {
+   "id": "S3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video displays a noticeable increase in energy, movement, or a major scene change when the chorus drops at 41.4."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The visual editing or on-screen action explicitly acknowledges the brief instrumental break at 62.8."
+  },
+  {
+   "id": "S5",
+   "level": "detail",
+   "modality": "text",
+   "check": "If lyrics are shown, the phrase 'orador silenciado' is accurately spelled and timed to the vocals at 41.4."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 90.0,
+  "approx_bpm": 167,
+  "section_changes_at_s": [
+   17.16,
+   35.7,
+   62.84,
+   82.82
+  ],
+  "sung_lines": [
+   {
+    "start": 0.0,
+    "end": 2.425,
+    "text": "tu musa de mi desesperacion eres protagonista en una peli de accion"
+   },
+   {
+    "start": 3.745,
+    "end": 8.607,
+    "text": "y yo en opuesta contraposicion"
+   },
+   {
+    "start": 8.871,
+    "end": 13.905,
+    "text": "soy un monje budista en plena meditacion"
+   },
+   {
+    "start": 15.67,
+    "end": 23.053,
+    "text": "coje mi silencio tomalo yo te ofrezco la bebida del desierto"
+   },
+   {
+    "start": 23.053,
+    "end": 26.725,
+    "text": "el desconcierto del mundo interior"
+   },
+   {
+    "start": 27.099,
+    "end": 34.816,
+    "text": "ya sé qué es dificil para ti pero no hay otro remedio lo comprendo"
+   },
+   {
+    "start": 34.816,
+    "end": 40.442,
+    "text": "si te entiendo por qué tu no a mi"
+   },
+   {
+    "start": 41.375,
+    "end": 48.044,
+    "text": "soy un orador silenciado un poliglota en el paro"
+   },
+   {
+    "start": 48.222,
+    "end": 52.425,
+    "text": "censurado por las leyes de la soledad"
+   },
+   {
+    "start": 52.829,
+    "end": 61.92,
+    "text": "un profeta que ha perdido palabras en el cajon del olvido"
+   },
+   {
+    "start": 62.125,
+    "end": 65.182,
+    "text": "y quién sabe si algun dia"
+   },
+   {
+    "start": 65.644,
+    "end": 72.221,
+    "text": "soy un orador silenciado un poliglota en el paro"
+   },
+   {
+    "start": 72.472,
+    "end": 76.743,
+    "text": "censurado por las leyes de la soledad"
+   },
+   {
+    "start": 77.101,
+    "end": 86.301,
+    "text": "un profeta que ha perdido palabras en el cajon del olvido"
+   },
+   {
+    "start": 86.429,
+    "end": 90.0,
+    "text": "y quién sabe si algun dia volveran"
+   }
+  ]
+ }
+}

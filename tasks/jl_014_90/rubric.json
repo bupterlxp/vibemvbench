@@ -1,0 +1,539 @@
+{
+ "profile": "A classic, laid-back boom-bap Hip-Hop track featuring jazzy piano samples, a steady drum break, and reflective German rap vocals. The lyrical theme centers on the life of a musician—the passion that drives them, the frustration of writer's block ('Grübelei'), and the euphoric payoff of creating something new. The energy arc is cyclical: it opens with a catchy, relaxed chorus, drops into a steady instrumental groove, moves into a verse that builds from frustration to a warm, uplifting resolution, and finally loops back to the grounding chorus.",
+ "key_moments": [
+  {
+   "t": 0.0,
+   "what": "The track begins immediately with the main hook, establishing the chill, jazzy hip-hop groove and the core musical theme."
+  },
+  {
+   "t": 36.6,
+   "what": "Following a long instrumental stretch, the first rap verse begins, shifting the focus to storytelling about the struggles of the creative process."
+  },
+  {
+   "t": 59.4,
+   "what": "The lyrical and emotional tone shifts from frustration to an uplifting, positive vibe as the rapper describes the 'Hochgefühl' (high) of creating something new."
+  },
+  {
+   "t": 73.1,
+   "what": "The song transitions back to the main hook, bringing the energy back to the initial relaxed state."
+  }
+ ],
+ "fitting_styles": "Narrative videos showing a musician in a messy bedroom studio, struggling to write and eventually finding the groove, fit perfectly. A stylized performance video in a smoky, dimly lit jazz club setting would complement the classic boom-bap beat. Kinetic typography works extremely well here, as the lyrics are quite literally about writing lyrics and songs. Highly aggressive trap aesthetics, fast-paced chaotic editing, or grand sci-fi/fantasy concepts would heavily clash with the grounded, jazzy, 'everyday life' feel of the track.",
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video introduces a visual change (e.g., a new scene, character action, or visual motif) at 36.6s to mark the beginning of the rap verse."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "There is a noticeable shift in visual mood, lighting, or pacing at 59.4s, reflecting the lyrical and structural turn towards the joy of creation."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "At 73.1s, the visuals acknowledge the return of the main chorus, potentially by bringing back imagery from the opening seconds of the video."
+  }
+ ],
+ "anchors": {
+  "UN": {
+   "1": "The video's style entirely ignores the boom-bap hip-hop genre, using themes like futuristic sci-fi or intense horror that completely mismatch the audio.",
+   "3": "The video features generic hip-hop aesthetics but misses the specific, reflective theme of being a struggling, passionate musician.",
+   "5": "The video perfectly captures the laid-back, jazzy vibe and visually reinforces the song's core message about the artistic process."
+  },
+  "EM": {
+   "1": "The video maintains a high-stress or monotone energy that contradicts the song's chill groove and dynamic lyrical arc.",
+   "3": "The video is generally relaxed but fails to visualize the emotional arc from the frustration of the verse to the 'warm rain' of inspiration.",
+   "5": "The emotional tone visually tracks the lyrics, showing contemplation or struggle during the verse and opening up to warmth and relief at the 59.4s transition."
+  },
+  "RH": {
+   "1": "The cuts and visual movements are chaotic and completely detached from the steady 90s hip-hop drum swing.",
+   "3": "The video cuts on the main beats but feels slightly rigid, lacking the natural, laid-back swing of the boom-bap rhythm.",
+   "5": "Visual transitions and movements groove seamlessly with the beat, capturing the relaxed, head-nodding feel of the instrumental."
+  },
+  "ST": {
+   "1": "The video ignores the clear structural boundaries between the hook, the instrumental break, and the verse.",
+   "3": "The video reacts to the start of the verse but doesn't differentiate the uplifting pre-chorus section from the rest of the song.",
+   "5": "The video clearly demarcates the initial hook, the verse start at 36.6s, the emotional lift at 59.4s, and the returning hook at 73.1s."
+  },
+  "LY": {
+   "1": "On-screen text is gibberish, or the narrative shows actions entirely unrelated to music, writing, or creativity.",
+   "3": "The video includes studio equipment or loosely related imagery, but misses the deeper nuances of the 'writer's block' narrative.",
+   "5": "The visuals accurately time the German lyrics or brilliantly depict the specific story of struggling to write before finally catching the right vibe."
+  },
+  "VA": {
+   "1": "The video is plagued by severe rendering glitches, muddy resolution, or completely incoherent AI deformations.",
+   "3": "The visual quality is acceptable but features noticeable AI artifacts or a slightly inconsistent aesthetic.",
+   "5": "The video boasts crisp, stylish rendering with thoughtful lighting, composition, and a cohesive look throughout."
+  },
+  "CR": {
+   "1": "The video is a static image or a basic, uninspired audio visualizer.",
+   "3": "The video uses a standard 'rapper in a studio' concept without any unique visual flair or creative storytelling.",
+   "5": "The video employs a highly original concept, such as clever visual metaphors for writer's block or an inventive mixed-media style, while staying true to the song."
+  }
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 0.0,
+   "kind": "section change"
+  },
+  {
+   "t": 0.0,
+   "kind": "sung line starts: \"uh ahja ehjo\""
+  },
+  {
+   "t": 6.4,
+   "kind": "sung line starts: \"ich mach' musik musik\""
+  },
+  {
+   "t": 7.7,
+   "kind": "sung line starts: \"weil es mich schon immer trieb\""
+  },
+  {
+   "t": 9.1,
+   "kind": "sung line starts: \"uh ahja ehjo\""
+  },
+  {
+   "t": 15.6,
+   "kind": "sung line starts: \"ich mach' musik musik\""
+  },
+  {
+   "t": 16.9,
+   "kind": "sung line starts: \"every day and every week\""
+  },
+  {
+   "t": 36.3,
+   "kind": "sung line starts: \"doch an manchen tagen\""
+  },
+  {
+   "t": 36.6,
+   "kind": "section change"
+  },
+  {
+   "t": 37.4,
+   "kind": "sung line starts: \"ist es einfach schwer\""
+  },
+  {
+   "t": 38.6,
+   "kind": "sung line starts: \"da wünscht ich mir\""
+  },
+  {
+   "t": 39.6,
+   "kind": "sung line starts: \"solche musen daher\""
+  },
+  {
+   "t": 40.8,
+   "kind": "sung line starts: \"die mir sagen wie's geht\""
+  },
+  {
+   "t": 42.0,
+   "kind": "sung line starts: \"und mich einfach küssen\""
+  },
+  {
+   "t": 43.1,
+   "kind": "sung line starts: \"und der song sich schreibt\""
+  },
+  {
+   "t": 44.3,
+   "kind": "sung line starts: \"ohne grübeln zu müssen\""
+  },
+  {
+   "t": 45.4,
+   "kind": "sung line starts: \"doch die grübelei\""
+  },
+  {
+   "t": 46.5,
+   "kind": "sung line starts: \"ist auch was schönes dabei\""
+  },
+  {
+   "t": 47.7,
+   "kind": "sung line starts: \"dass du suchst und suchst\""
+  },
+  {
+   "t": 48.8,
+   "kind": "sung line starts: \"manchmal kräftig fluchst\""
+  },
+  {
+   "t": 50.0,
+   "kind": "sung line starts: \"keinen ausweg siehst\""
+  },
+  {
+   "t": 51.1,
+   "kind": "sung line starts: \"und in trübsinn fliehst\""
+  },
+  {
+   "t": 52.3,
+   "kind": "sung line starts: \"doch du kommst wieder raus\""
+  },
+  {
+   "t": 53.4,
+   "kind": "sung line starts: \"mit einem neuen\""
+  },
+  {
+   "t": 54.8,
+   "kind": "sung line starts: \"ohrenschmaus\""
+  },
+  {
+   "t": 59.1,
+   "kind": "sung line starts: \"ja was neues zu hör'n\""
+  },
+  {
+   "t": 59.4,
+   "kind": "section change"
+  },
+  {
+   "t": 60.3,
+   "kind": "sung line starts: \"das es noch nicht gab\""
+  },
+  {
+   "t": 61.4,
+   "kind": "sung line starts: \"ist der ganze turn\""
+  },
+  {
+   "t": 62.5,
+   "kind": "sung line starts: \"ist der helle tag\""
+  },
+  {
+   "t": 63.5,
+   "kind": "sung line starts: \"es ist ein hochgefühl\""
+  },
+  {
+   "t": 64.8,
+   "kind": "sung line starts: \"dass sich in dir aufstellt\""
+  },
+  {
+   "t": 66.0,
+   "kind": "sung line starts: \"ein warmer regen\""
+  },
+  {
+   "t": 67.1,
+   "kind": "sung line starts: \"der aus dir rausquellt\""
+  },
+  {
+   "t": 68.2,
+   "kind": "sung line starts: \"ganz allein dafür\""
+  },
+  {
+   "t": 69.5,
+   "kind": "sung line starts: \"lohnt der aufwand schon\""
+  },
+  {
+   "t": 70.6,
+   "kind": "sung line starts: \"und die neuen töne\""
+  },
+  {
+   "t": 71.7,
+   "kind": "sung line starts: \"sind der höchste\""
+  },
+  {
+   "t": 73.1,
+   "kind": "section change"
+  },
+  {
+   "t": 73.2,
+   "kind": "sung line starts: \"uh ahja ehjo\""
+  },
+  {
+   "t": 79.6,
+   "kind": "sung line starts: \"ich mach' musik musik\""
+  },
+  {
+   "t": 80.8,
+   "kind": "sung line starts: \"weil es mich schon immer trieb\""
+  },
+  {
+   "t": 82.3,
+   "kind": "sung line starts: \"uh ahja ehjo\""
+  },
+  {
+   "t": 88.7,
+   "kind": "sung line starts: \"ich mach' musik musik\""
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video introduces a visual change (e.g., a new scene, character action, or visual motif) at 36.6s to mark the beginning of the rap verse."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "There is a noticeable shift in visual mood, lighting, or pacing at 59.4s, reflecting the lyrical and structural turn towards the joy of creation."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "At 73.1s, the visuals acknowledge the return of the main chorus, potentially by bringing back imagery from the opening seconds of the video."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 90.0,
+  "approx_bpm": 105,
+  "section_changes_at_s": [
+   0.0,
+   36.56,
+   59.44,
+   73.14
+  ],
+  "sung_lines": [
+   {
+    "start": 0.01,
+    "end": 6.262,
+    "text": "uh ahja ehjo"
+   },
+   {
+    "start": 6.387,
+    "end": 7.541,
+    "text": "ich mach' musik musik"
+   },
+   {
+    "start": 7.695,
+    "end": 8.926,
+    "text": "weil es mich schon immer trieb"
+   },
+   {
+    "start": 9.112,
+    "end": 15.5,
+    "text": "uh ahja ehjo"
+   },
+   {
+    "start": 15.561,
+    "end": 16.701,
+    "text": "ich mach' musik musik"
+   },
+   {
+    "start": 16.853,
+    "end": 18.126,
+    "text": "every day and every week"
+   },
+   {
+    "start": 36.259,
+    "end": 37.38,
+    "text": "doch an manchen tagen"
+   },
+   {
+    "start": 37.38,
+    "end": 38.614,
+    "text": "ist es einfach schwer"
+   },
+   {
+    "start": 38.614,
+    "end": 39.495,
+    "text": "da wünscht ich mir"
+   },
+   {
+    "start": 39.574,
+    "end": 40.554,
+    "text": "solche musen daher"
+   },
+   {
+    "start": 40.839,
+    "end": 41.87,
+    "text": "die mir sagen wie's geht"
+   },
+   {
+    "start": 41.975,
+    "end": 43.08,
+    "text": "und mich einfach küssen"
+   },
+   {
+    "start": 43.08,
+    "end": 44.258,
+    "text": "und der song sich schreibt"
+   },
+   {
+    "start": 44.258,
+    "end": 45.371,
+    "text": "ohne grübeln zu müssen"
+   },
+   {
+    "start": 45.371,
+    "end": 46.272,
+    "text": "doch die grübelei"
+   },
+   {
+    "start": 46.458,
+    "end": 47.484,
+    "text": "ist auch was schönes dabei"
+   },
+   {
+    "start": 47.697,
+    "end": 48.834,
+    "text": "dass du suchst und suchst"
+   },
+   {
+    "start": 48.834,
+    "end": 49.984,
+    "text": "manchmal kräftig fluchst"
+   },
+   {
+    "start": 49.984,
+    "end": 51.067,
+    "text": "keinen ausweg siehst"
+   },
+   {
+    "start": 51.131,
+    "end": 52.154,
+    "text": "und in trübsinn fliehst"
+   },
+   {
+    "start": 52.252,
+    "end": 53.438,
+    "text": "doch du kommst wieder raus"
+   },
+   {
+    "start": 53.438,
+    "end": 54.22,
+    "text": "mit einem neuen"
+   },
+   {
+    "start": 54.829,
+    "end": 56.031,
+    "text": "ohrenschmaus"
+   },
+   {
+    "start": 59.113,
+    "end": 60.251,
+    "text": "ja was neues zu hör'n"
+   },
+   {
+    "start": 60.251,
+    "end": 61.299,
+    "text": "das es noch nicht gab"
+   },
+   {
+    "start": 61.364,
+    "end": 62.416,
+    "text": "ist der ganze turn"
+   },
+   {
+    "start": 62.509,
+    "end": 63.48,
+    "text": "ist der helle tag"
+   },
+   {
+    "start": 63.542,
+    "end": 64.803,
+    "text": "es ist ein hochgefühl"
+   },
+   {
+    "start": 64.803,
+    "end": 65.89,
+    "text": "dass sich in dir aufstellt"
+   },
+   {
+    "start": 65.957,
+    "end": 67.125,
+    "text": "ein warmer regen"
+   },
+   {
+    "start": 67.125,
+    "end": 68.247,
+    "text": "der aus dir rausquellt"
+   },
+   {
+    "start": 68.247,
+    "end": 69.371,
+    "text": "ganz allein dafür"
+   },
+   {
+    "start": 69.452,
+    "end": 70.463,
+    "text": "lohnt der aufwand schon"
+   },
+   {
+    "start": 70.561,
+    "end": 71.688,
+    "text": "und die neuen töne"
+   },
+   {
+    "start": 71.688,
+    "end": 72.672,
+    "text": "sind der höchste"
+   },
+   {
+    "start": 73.153,
+    "end": 79.483,
+    "text": "uh ahja ehjo"
+   },
+   {
+    "start": 79.553,
+    "end": 80.672,
+    "text": "ich mach' musik musik"
+   },
+   {
+    "start": 80.818,
+    "end": 82.056,
+    "text": "weil es mich schon immer trieb"
+   },
+   {
+    "start": 82.273,
+    "end": 88.607,
+    "text": "uh ahja ehjo"
+   },
+   {
+    "start": 88.698,
+    "end": 89.82,
+    "text": "ich mach' musik musik"
+   }
+  ]
+ }
+}

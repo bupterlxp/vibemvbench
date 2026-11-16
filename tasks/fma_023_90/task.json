@@ -1,0 +1,37 @@
+{
+ "task_id": "fma_023_90",
+ "song_id": "fma_023",
+ "clip_start": 42.539,
+ "clip_end": 132.539,
+ "length_class": 90,
+ "difficulty_tier": "easy",
+ "spec": {
+  "resolution": [
+   1920,
+   1080
+  ],
+  "fps": 30,
+  "duration_tol": 0.1,
+  "duration": 90.0
+ },
+ "song": {
+  "title": "C'est qui le patron",
+  "artist": "11ème étage",
+  "genre": "Lo-Fi",
+  "language": "unk",
+  "license": "CC-BY-NC-SA 3.0",
+  "url": "http://freemusicarchive.org/music/11me_tage/none_given_1605/05_-_Cest_qui_le_patron"
+ },
+ "lyrics_text": [],
+ "prompt": "Make a music video for this song. Make it as good as you possibly can.",
+ "free": true,
+ "difficulty": {
+  "d_rhythm": -0.2,
+  "d_structure": -0.48,
+  "d_dynamics": -0.03,
+  "d_lyrics": -0.47,
+  "d_genre": 0.0,
+  "d_length": -1.38,
+  "difficulty": -0.427
+ }
+}

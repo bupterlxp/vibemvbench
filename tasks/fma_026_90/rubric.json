@@ -1,0 +1,141 @@
+{
+ "profile": "Although tagged as Rock, 'Nostalgia' by Kenton Dunson plays as a grounded, reflective hip-hop/rap track with rock-influenced instrumentation. It features a steady boom-bap beat and confident, storytelling rap vocals. The mood is authentic, nostalgic, and determined, with lyrical themes focusing on personal history, family struggles (a mother driving trucks), college days, and navigating the music industry. The energy remains relatively steady, driven by the persistent rhythm and dense vocal flow, but pivots at key structural points as the narrative shifts, eventually winding down into an instrumental outro.",
+ "key_moments": [
+  {
+   "t": 48.0,
+   "what": "A structural section change where the narrative shifts from industry commentary to personal memories ('expectations... McDaniel college')."
+  },
+  {
+   "t": 61.7,
+   "what": "A shift marking an emotional peak and dedication ('Never did I give it up... Rest in peace to Jersey'), acting as a thematic climax."
+  },
+  {
+   "t": 82.3,
+   "what": "The final vocal line concludes ('ask about who Kenton is'), initiating a clear transition into the instrumental outro."
+  }
+ ],
+ "fitting_styles": "Narrative or performance styles are highly suitable for capturing the autobiographical, grounded lyrics. A kinetic typography or mixed-media lyric video would also work exceptionally well given the dense, storytelling nature of the rap. Urban or nostalgic visual themes fit perfectly. Approaches that would clash include futuristic sci-fi, hyper-surreal abstraction, or overly polished pop aesthetics, which would undermine the raw, personal tone.",
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video introduces a clear visual transition, scene change, or shift in narrative focus at ~48.0s."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The visual intensity, pacing, or color palette changes at ~61.7s to match the song's thematic and emotional shift."
+  },
+  {
+   "id": "S3",
+   "level": "core",
+   "modality": "visual",
+   "check": "The picture actively responds to the end of the vocals at ~82.3s, shifting focus entirely to the instrumental outro (e.g., fading out, slowing down, or showing a concluding visual state)."
+  }
+ ],
+ "anchors": {
+  "UN": "5: The video's concept perfectly suits the grounded, reflective storytelling of the track; 1: The video completely clashes with the genre and vibe (e.g., using a hyper-energetic cyberpunk or bubblegum pop theme).",
+  "EM": "5: The visual mood successfully captures the artist's nostalgia, determination, and authenticity; 1: The emotional tone feels entirely disconnected, flat, or inappropriately comedic.",
+  "RH": "5: Visual cuts, camera motions, and kinetic elements are tightly locked to the steady drum beat and rapid vocal cadence; 1: The visual rhythm ignores the beat and vocal flow completely, feeling disjointed.",
+  "ST": "5: The picture clearly responds to the structural shifts at 48.0s, 61.7s, and the instrumental outro at 82.3s; 1: The video is a single, monotonous loop that ignores all structural musical changes.",
+  "LY": "5: Imagery or text faithfully represents the autobiographical lyrics (e.g., driving trucks, dorm rooms) and is timed perfectly to the vocals; 1: The imagery actively contradicts the clear, personal story being told in the lyrics.",
+  "VA": "5: High rendering quality with a deliberate aesthetic (e.g., nostalgic film look or clean urban style), free of awkward AI artifacts; 1: Poorly rendered, glitchy, or looks like a disjointed placeholder.",
+  "CR": "5: A fresh and compelling visual interpretation of a nostalgic rap song that elevates the storytelling beyond standard hip-hop tropes; 1: A highly generic, uninspired visualizer template with no creative vision."
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 48.0,
+   "kind": "section change"
+  },
+  {
+   "t": 61.7,
+   "kind": "section change"
+  },
+  {
+   "t": 82.3,
+   "kind": "section change"
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video introduces a clear visual transition, scene change, or shift in narrative focus at ~48.0s."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The visual intensity, pacing, or color palette changes at ~61.7s to match the song's thematic and emotional shift."
+  },
+  {
+   "id": "S3",
+   "level": "core",
+   "modality": "visual",
+   "check": "The picture actively responds to the end of the vocals at ~82.3s, shifting focus entirely to the instrumental outro (e.g., fading out, slowing down, or showing a concluding visual state)."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 90.0,
+  "approx_bpm": 69,
+  "section_changes_at_s": [
+   47.98,
+   61.7,
+   82.28
+  ],
+  "sung_lines": []
+ }
+}

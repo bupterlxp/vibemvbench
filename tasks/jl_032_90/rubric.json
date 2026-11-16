@@ -1,0 +1,347 @@
+{
+ "profile": "Lo-fi French hip-hop with a melancholic, boom-bap beat. The instrumentation features a steady vinyl-crackling drum loop, atmospheric piano/keys, and chopped vocal samples. The rap vocals are delivered with a deep, cynical, and introspective flow. The lyrical theme explores social alienation, finding refuge in art ('mon art est vital dans ma bulle'), the emptiness of modern digital connections, and staying true to oneself against the grain. The energy arc builds from an acapella chopped-sample intro into a steady, head-nodding groove, pulling back slightly for the main rap verse before riding out with echoing vocal delays.",
+ "key_moments": [
+  {
+   "t": 4.6,
+   "what": "The full boom-bap drum beat and bass drop in after the vocal sample intro."
+  },
+  {
+   "t": 30.9,
+   "what": "The vocal sample stutters rhythmically, repeating the syllable 'terre terre terre terre'."
+  },
+  {
+   "t": 36.8,
+   "what": "The instrumental shifts and strips back slightly, making room for the main rap verse to begin."
+  },
+  {
+   "t": 50.7,
+   "what": "The rapper ends his bar with rapid, rhythmic echoes on the word 'déprime'."
+  },
+  {
+   "t": 71.0,
+   "what": "The final lyrical phrase ends with echoing repetitions of ''tidien', serving as an outro."
+  }
+ ],
+ "fitting_styles": "Fitting approaches include gritty urban performance (e.g., a lone rapper in a dimly lit studio or empty city streets), narrative (a solitary character navigating a bleak, modern society), lo-fi animation (muted color palettes, sketchy styles, or anime-inspired urban melancholy), or kinetic typography focusing on the poetic French lyrics. Clashing styles would be bright, highly polished pop aesthetics, high-energy club/party scenes, or fast-paced chaotic action edits that ignore the chill, laid-back tempo.",
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "A significant visual transition, cut, or introduction of camera motion occurs at 4.6s to match the beat drop."
+  },
+  {
+   "id": "S2",
+   "level": "detail",
+   "modality": "visual",
+   "check": "The video features a rapid visual stutter, glitch effect, or fast sequential cuts at 30.9s corresponding to the 'terre terre terre' sample."
+  },
+  {
+   "id": "S3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video changes scene, lighting, or character focus at 36.8s when the main rap verse starts."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "visual",
+   "check": "There is a visual echo effect, repeated visual motif, or text repetition at 50.7s ('déprime') or 71.0s (''tidien') matching the vocal echoes."
+  }
+ ],
+ "anchors": {
+  "UN": "1 is a bright, upbeat pop video that completely ignores the track's chill, melancholic vibe; 3 is a standard urban hip-hop video that fits the genre but lacks thematic depth; 5 captures the lo-fi, introspective, and cynical French boom-bap atmosphere perfectly.",
+  "EM": "1 conveys unearned joy, aggressive chaos, or feels totally disconnected; 3 feels neutral or generically 'cool'; 5 strongly evokes the song's feelings of urban melancholy, isolation, and quiet resilience.",
+  "RH": "1 has cuts and movements that drift completely off the steady boom-bap tempo; 3 mostly stays on beat but feels somewhat monotonous; 5 features dynamic editing that locks into the snare hits and precisely accents the vocal flow and stuttering samples.",
+  "ST": "1 is a single continuous loop ignoring the intro, beat drop, and verse transitions; 3 acknowledges the main beat drop at 4.6s and verse start at 36.8s; 5 marks every structural shift, including the stuttering sample bridges and the final echoing outro.",
+  "LY": "1 features incorrect text or imagery completely disconnected from the French lyrics (e.g., luxury yachts for 'milliardaire' while ignoring 'prolétaire'); 3 loosely reflects themes of city life; 5 perfectly times kinetic text to the rapid French flow or uses striking visual metaphors for isolation ('ma bulle'), depression ('déprime'), or societal critique.",
+  "VA": "1 is plagued by AI morphing, poor lighting, or generic stock-footage looks; 3 is decently rendered but lacks a cohesive artistic style; 5 presents a flawless, stylized aesthetic (like crisp film grain, stylized lo-fi animation, or moody cinematography) that enhances the track's vibe.",
+  "CR": "1 is a basic, unimaginative template or generic rapper-on-a-street visual; 3 introduces a solid but familiar hip-hop narrative; 5 uses highly inventive visual storytelling or abstract metaphors to explore the song's themes of social alienation and artistic refuge."
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 0.0,
+   "kind": "sung line starts: \"milliardaire prolétaire\""
+  },
+  {
+   "t": 4.6,
+   "kind": "section change"
+  },
+  {
+   "t": 8.5,
+   "kind": "sung line starts: \"milliardaire prolétaire\""
+  },
+  {
+   "t": 13.1,
+   "kind": "sung line starts: \"milliardaire prolétaire\""
+  },
+  {
+   "t": 17.7,
+   "kind": "sung line starts: \"milliardaire prolétaire\""
+  },
+  {
+   "t": 30.9,
+   "kind": "sung line starts: \"terre terre terre terre\""
+  },
+  {
+   "t": 36.8,
+   "kind": "section change"
+  },
+  {
+   "t": 36.9,
+   "kind": "sung line starts: \"mon art est vital dans ma bulle je ressens moins les balles\""
+  },
+  {
+   "t": 39.2,
+   "kind": "sung line starts: \"dehors le bruit des larmes m'éloigne de mon âme\""
+  },
+  {
+   "t": 41.3,
+   "kind": "sung line starts: \"j'aime le son du calme remballe tes palabres\""
+  },
+  {
+   "t": 43.5,
+   "kind": "sung line starts: \"t'façons j'sais bien que t'es pas là quand arrive le drame\""
+  },
+  {
+   "t": 45.9,
+   "kind": "sung line starts: \"sonne le glas des périodes amicales je suis qu'un animal\""
+  },
+  {
+   "t": 46.2,
+   "kind": "section change"
+  },
+  {
+   "t": 48.1,
+   "kind": "sung line starts: \"même le cou serré pas prêt d'obtempérer quel qu'en soit le prix\""
+  },
+  {
+   "t": 50.7,
+   "kind": "sung line starts: \"chaque rime un coup de lame une façon de soigner ma déprime déprime déprime déprime\""
+  },
+  {
+   "t": 55.2,
+   "kind": "sung line starts: \"rythme de couche tard décalé d'un monde risible\""
+  },
+  {
+   "t": 57.4,
+   "kind": "sung line starts: \"les borderlines sont prévisibles les religieux sous résine\""
+  },
+  {
+   "t": 59.7,
+   "kind": "sung line starts: \"les seuls partages sur des réseaux tes amis sont ils tes rivaux\""
+  },
+  {
+   "t": 62.0,
+   "kind": "sung line starts: \"la machine a plus de raison que l'homme addict au raisin\""
+  },
+  {
+   "t": 64.2,
+   "kind": "sung line starts: \"le navire à la dérive je vise mes rêves vers l'horizon\""
+  },
+  {
+   "t": 64.5,
+   "kind": "section change"
+  },
+  {
+   "t": 66.4,
+   "kind": "sung line starts: \"je cultive les fruits de ma passion hérétique à contre courant\""
+  },
+  {
+   "t": 68.7,
+   "kind": "sung line starts: \"préoccupé de l'avenir des miens pas par celui de ma nation\""
+  },
+  {
+   "t": 71.0,
+   "kind": "sung line starts: \"je compte sur ma motivation pour garantir mon quotidien 'tidien 'tidien 'tidien\""
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "A significant visual transition, cut, or introduction of camera motion occurs at 4.6s to match the beat drop."
+  },
+  {
+   "id": "S2",
+   "level": "detail",
+   "modality": "visual",
+   "check": "The video features a rapid visual stutter, glitch effect, or fast sequential cuts at 30.9s corresponding to the 'terre terre terre' sample."
+  },
+  {
+   "id": "S3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video changes scene, lighting, or character focus at 36.8s when the main rap verse starts."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "visual",
+   "check": "There is a visual echo effect, repeated visual motif, or text repetition at 50.7s ('déprime') or 71.0s (''tidien') matching the vocal echoes."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 90.0,
+  "approx_bpm": 105,
+  "section_changes_at_s": [
+   4.6,
+   36.76,
+   46.16,
+   64.46
+  ],
+  "sung_lines": [
+   {
+    "start": 0.0,
+    "end": 1.734,
+    "text": "milliardaire prolétaire"
+   },
+   {
+    "start": 8.541,
+    "end": 10.945,
+    "text": "milliardaire prolétaire"
+   },
+   {
+    "start": 13.13,
+    "end": 15.517,
+    "text": "milliardaire prolétaire"
+   },
+   {
+    "start": 17.706,
+    "end": 19.889,
+    "text": "milliardaire prolétaire"
+   },
+   {
+    "start": 30.876,
+    "end": 34.128,
+    "text": "terre terre terre terre"
+   },
+   {
+    "start": 36.878,
+    "end": 39.214,
+    "text": "mon art est vital dans ma bulle je ressens moins les balles"
+   },
+   {
+    "start": 39.214,
+    "end": 41.295,
+    "text": "dehors le bruit des larmes m'éloigne de mon âme"
+   },
+   {
+    "start": 41.295,
+    "end": 43.473,
+    "text": "j'aime le son du calme remballe tes palabres"
+   },
+   {
+    "start": 43.473,
+    "end": 45.8,
+    "text": "t'façons j'sais bien que t'es pas là quand arrive le drame"
+   },
+   {
+    "start": 45.876,
+    "end": 48.147,
+    "text": "sonne le glas des périodes amicales je suis qu'un animal"
+   },
+   {
+    "start": 48.147,
+    "end": 50.602,
+    "text": "même le cou serré pas prêt d'obtempérer quel qu'en soit le prix"
+   },
+   {
+    "start": 50.734,
+    "end": 55.231,
+    "text": "chaque rime un coup de lame une façon de soigner ma déprime déprime déprime déprime"
+   },
+   {
+    "start": 55.231,
+    "end": 57.435,
+    "text": "rythme de couche tard décalé d'un monde risible"
+   },
+   {
+    "start": 57.435,
+    "end": 59.725,
+    "text": "les borderlines sont prévisibles les religieux sous résine"
+   },
+   {
+    "start": 59.725,
+    "end": 61.995,
+    "text": "les seuls partages sur des réseaux tes amis sont ils tes rivaux"
+   },
+   {
+    "start": 61.995,
+    "end": 64.156,
+    "text": "la machine a plus de raison que l'homme addict au raisin"
+   },
+   {
+    "start": 64.156,
+    "end": 66.397,
+    "text": "le navire à la dérive je vise mes rêves vers l'horizon"
+   },
+   {
+    "start": 66.397,
+    "end": 68.742,
+    "text": "je cultive les fruits de ma passion hérétique à contre courant"
+   },
+   {
+    "start": 68.742,
+    "end": 71.023,
+    "text": "préoccupé de l'avenir des miens pas par celui de ma nation"
+   },
+   {
+    "start": 71.019,
+    "end": 75.013,
+    "text": "je compte sur ma motivation pour garantir mon quotidien 'tidien 'tidien 'tidien"
+   }
+  ]
+ }
+}

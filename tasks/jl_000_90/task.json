@@ -1,0 +1,51 @@
+{
+ "task_id": "jl_000_90",
+ "song_id": "jl_000",
+ "clip_start": 151.42,
+ "clip_end": 241.42,
+ "length_class": 90,
+ "difficulty_tier": "medium",
+ "spec": {
+  "resolution": [
+   1920,
+   1080
+  ],
+  "fps": 30,
+  "duration_tol": 0.1,
+  "duration": 90.0
+ },
+ "song": {
+  "title": "Embers",
+  "artist": "Avercage",
+  "genre": "Rock",
+  "language": "en",
+  "license": "CC BY-NC-SA",
+  "url": "https://www.jamendo.com/track/1465148/embers"
+ },
+ "lyrics_text": [
+  "and we are one so i promise",
+  "one day it all",
+  "will gone forever will gone forever",
+  "don't close your eyes",
+  "you'll gone forever you'll gone forever",
+  "there's no more pain",
+  "which lasts forever",
+  "and never severs",
+  "once in the end",
+  "the flame was rendered",
+  "but living embers",
+  "will burn"
+ ],
+ "prompt": "Make a music video for this song. Make it as good as you possibly can.",
+ "free": true,
+ "difficulty": {
+  "d_rhythm": -0.17,
+  "d_structure": -0.14,
+  "d_dynamics": -0.31,
+  "d_lyrics": 0.54,
+  "d_genre": 0.0,
+  "d_length": 0.14,
+  "difficulty": 0.009
+ },
+ "alignment_fix": "2026-11-07: clip window corrected from 56.76 to 151.42 (audio/rubric were built for this window)"
+}

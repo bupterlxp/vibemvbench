@@ -1,0 +1,52 @@
+{
+ "task_id": "jl_031_90",
+ "song_id": "jl_031",
+ "clip_start": 15.12,
+ "clip_end": 105.12,
+ "length_class": 90,
+ "difficulty_tier": "medium",
+ "spec": {
+  "resolution": [
+   1920,
+   1080
+  ],
+  "fps": 30,
+  "duration_tol": 0.1,
+  "duration": 90.0
+ },
+ "song": {
+  "title": "Pas que tes pas",
+  "artist": "AZUL",
+  "genre": "Pop",
+  "language": "fr",
+  "license": "CC BY-NC-SA",
+  "url": "https://www.jamendo.com/track/1338560/pas-que-tes-pas/lyrics"
+ },
+ "lyrics_text": [
+  "allez tournes tournes autant qu'il est possible de tourner",
+  "comme si le sol était brulant comme si tu voulais t'envoler",
+  "allez danse danse pour moi danse à faire pâlir la nuit",
+  "allez danse une dernière fois danse jusqu'au bout de l'envie",
+  "y'a pas que tes pas qui m'inspire",
+  "belle j'ai vu des démons dans tes hanches",
+  "qui roule qui se cambre et se penchent",
+  "comme un danger qui m'attire",
+  "allez bouges bouges encore bouges tant que tu le peux",
+  "serpente ondule sans effort sans effort y'a personne qui ne le fait mieux",
+  "allez allumes les interdits rouge la lune dans tes danses",
+  "dans tes reins glisse ma folie dans chacun de tes pas une transe",
+  "y'a pas que tes pas qui m'inspire",
+  "belle j'ai vu des démons dans tes hanches"
+ ],
+ "prompt": "Make a music video for this song. Make it as good as you possibly can.",
+ "free": true,
+ "difficulty": {
+  "d_rhythm": -0.53,
+  "d_structure": 1.36,
+  "d_dynamics": -0.53,
+  "d_lyrics": 1.4,
+  "d_genre": 0.0,
+  "d_length": -0.43,
+  "difficulty": 0.214
+ }
+}

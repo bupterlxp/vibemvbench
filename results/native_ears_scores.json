@@ -1,0 +1,292 @@
+[
+ [
+  "jl_001_90",
+  "song",
+  {
+   "listen_beat_f": 0.214,
+   "listen_bpm_err": 0.7896,
+   "listen_downbeat_f": 0.0606,
+   "listen_section_f": 0.0,
+   "listen_lyric_onset_err_med": 0.376
+  }
+ ],
+ [
+  "jl_002_90",
+  "song",
+  {
+   "listen_beat_f": 0.2308,
+   "listen_bpm_err": 0.1082,
+   "listen_downbeat_f": 0.0,
+   "listen_section_f": 0.0,
+   "listen_lyric_onset_err_med": 0.6425
+  }
+ ],
+ [
+  "jl_008_90",
+  "song",
+  {
+   "listen_beat_f": 0.2926,
+   "listen_bpm_err": 0.1614,
+   "listen_downbeat_f": 0.0,
+   "listen_section_f": 0.0,
+   "listen_lyric_onset_err_med": 1.1865
+  }
+ ],
+ [
+  "jl_012_90",
+  "song",
+  {
+   "listen_beat_f": 0.3333,
+   "listen_bpm_err": 0.0909,
+   "listen_downbeat_f": 0.0741,
+   "listen_section_f": 0.0,
+   "listen_lyric_onset_err_med": 0.5095
+  }
+ ],
+ [
+  "jl_013_90",
+  "song",
+  {
+   "listen_beat_f": 0.225,
+   "listen_bpm_err": 0.2727,
+   "listen_downbeat_f": 0.0779,
+   "listen_section_f": 0.0,
+   "listen_lyric_onset_err_med": 0.694
+  }
+ ],
+ [
+  "jl_014_90",
+  "song",
+  {
+   "listen_beat_f": 0.2039,
+   "listen_bpm_err": 0.0492,
+   "listen_downbeat_f": 0.0317,
+   "listen_section_f": 0.0,
+   "listen_lyric_onset_err_med": 1.371
+  }
+ ],
+ [
+  "jl_015_90",
+  "song",
+  {
+   "listen_beat_f": 0.2812,
+   "listen_bpm_err": 0.3,
+   "listen_downbeat_f": 0.0,
+   "listen_section_f": 0.0,
+   "listen_lyric_onset_err_med": 0.466
+  }
+ ],
+ [
+  "jl_009_90",
+  "song",
+  {
+   "listen_beat_f": 0.3581,
+   "listen_bpm_err": 0.4082,
+   "listen_downbeat_f": 0.0,
+   "listen_section_f": 0.0,
+   "listen_lyric_onset_err_med": 0.2835
+  }
+ ],
+ [
+  "jl_025_90",
+  "song",
+  {
+   "listen_beat_f": 0.2888,
+   "listen_bpm_err": 0.6,
+   "listen_downbeat_f": 0.0,
+   "listen_section_f": 0.5,
+   "listen_lyric_onset_err_med": 0.4265
+  }
+ ],
+ [
+  "jl_028_90",
+  "song",
+  {
+   "listen_beat_f": 0.2891,
+   "listen_bpm_err": 0.0333,
+   "listen_downbeat_f": 0.0,
+   "listen_section_f": 0.0,
+   "listen_lyric_onset_err_med": 0.352
+  }
+ ],
+ [
+  "accel",
+  "stim",
+  {
+   "listen_beat_f": 0.25,
+   "bpm": 105,
+   "true_bpm": null
+  }
+ ],
+ [
+  "halftime",
+  "stim",
+  {
+   "listen_beat_f": 0.209,
+   "bpm": 77,
+   "true_bpm": 140
+  }
+ ],
+ [
+  "kickdrop",
+  "stim",
+  {
+   "listen_beat_f": 0.217,
+   "bpm": 90,
+   "true_bpm": 120
+  }
+ ],
+ [
+  "m34",
+  "stim",
+  {
+   "listen_beat_f": 0.302,
+   "bpm": 147,
+   "true_bpm": 120
+  }
+ ],
+ [
+  "m54",
+  "stim",
+  {
+   "listen_beat_f": 0.989,
+   "bpm": 120,
+   "true_bpm": 120
+  }
+ ],
+ [
+  "m78",
+  "stim",
+  {
+   "listen_beat_f": 0.22,
+   "bpm": 66,
+   "true_bpm": 210
+  }
+ ],
+ [
+  "nokick",
+  "stim",
+  {
+   "listen_beat_f": 0.25,
+   "bpm": 102,
+   "true_bpm": 120
+  }
+ ],
+ [
+  "padonly",
+  "stim",
+  {
+   "listen_beat_f": 0.343,
+   "bpm": 128,
+   "true_bpm": 120
+  }
+ ],
+ [
+  "rit",
+  "stim",
+  {
+   "listen_beat_f": 0.274,
+   "bpm": 119,
+   "true_bpm": null
+  }
+ ],
+ [
+  "section",
+  "stim",
+  {
+   "listen_beat_f": 0.241,
+   "bpm": 92,
+   "true_bpm": 120
+  }
+ ],
+ [
+  "stoptime",
+  "stim",
+  {
+   "listen_beat_f": 0.27,
+   "bpm": 115,
+   "true_bpm": 120
+  }
+ ],
+ [
+  "swing",
+  "stim",
+  {
+   "listen_beat_f": 0.308,
+   "bpm": 112,
+   "true_bpm": 120
+  }
+ ],
+ [
+  "synco",
+  "stim",
+  {
+   "listen_beat_f": 0.239,
+   "bpm": 112,
+   "true_bpm": 120
+  }
+ ],
+ [
+  "t060",
+  "stim",
+  {
+   "listen_beat_f": 0.145,
+   "bpm": 78,
+   "true_bpm": 60
+  }
+ ],
+ [
+  "t090",
+  "stim",
+  {
+   "listen_beat_f": 0.216,
+   "bpm": 100,
+   "true_bpm": 90
+  }
+ ],
+ [
+  "t120_base",
+  "stim",
+  {
+   "listen_beat_f": 0.195,
+   "bpm": 86,
+   "true_bpm": 120
+  }
+ ],
+ [
+  "t160",
+  "stim",
+  {
+   "listen_beat_f": 0.252,
+   "bpm": 103,
+   "true_bpm": 160
+  }
+ ],
+ [
+  "t200",
+  "stim",
+  {
+   "listen_beat_f": 0.288,
+   "bpm": 82,
+   "true_bpm": 200
+  }
+ ],
+ [
+  "words",
+  "stim",
+  {
+   "listen_beat_f": 0.22,
+   "bpm": 87,
+   "true_bpm": 120
+  }
+ ],
+ [
+  "words_fast",
+  "stim",
+  {
+   "listen_beat_f": 0.404,
+   "bpm": 100,
+   "true_bpm": 150
+  }
+ ]
+]

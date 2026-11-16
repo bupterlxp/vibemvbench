@@ -1,0 +1,37 @@
+{
+ "task_id": "fma_016_90",
+ "song_id": "fma_016",
+ "clip_start": 1.486,
+ "clip_end": 91.486,
+ "length_class": 90,
+ "difficulty_tier": "medium",
+ "spec": {
+  "resolution": [
+   1920,
+   1080
+  ],
+  "fps": 30,
+  "duration_tol": 0.1,
+  "duration": 90.0
+ },
+ "song": {
+  "title": "Jah Is For You",
+  "artist": "jonas the plugexpert",
+  "genre": "Ambient Electronic",
+  "language": "unk",
+  "license": "CC-BY-NC-SA 3.0",
+  "url": "http://freemusicarchive.org/music/jonas_the_plugexpert/Los/upfree44-Track14"
+ },
+ "lyrics_text": [],
+ "prompt": "Make a music video for this song. Make it as good as you possibly can.",
+ "free": true,
+ "difficulty": {
+  "d_rhythm": -0.43,
+  "d_structure": 1.35,
+  "d_dynamics": -0.14,
+  "d_lyrics": -0.47,
+  "d_genre": 1.0,
+  "d_length": -0.18,
+  "difficulty": 0.186
+ }
+}

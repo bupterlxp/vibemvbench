@@ -1,0 +1,55 @@
+{
+ "task_id": "jl_003_90",
+ "song_id": "jl_003",
+ "clip_start": 27.376,
+ "clip_end": 117.376,
+ "length_class": 90,
+ "difficulty_tier": "easy",
+ "spec": {
+  "resolution": [
+   1920,
+   1080
+  ],
+  "fps": 30,
+  "duration_tol": 0.1,
+  "duration": 90.0
+ },
+ "song": {
+  "title": "Is It Right?",
+  "artist": "Lower Loveday",
+  "genre": "Indie",
+  "language": "en",
+  "license": "CC BY-SA",
+  "url": "https://www.jamendo.com/track/1559614/is-it-right"
+ },
+ "lyrics_text": [
+  "late nights staying up messaging you",
+  "can i express what i'm feeling for you without revealing truths",
+  "i've been thinking about you lately lately",
+  "that's a massive understatement baby",
+  "i can't stop thinking about you all day and all night",
+  "but is it right",
+  "finally figured it out i got my head around it",
+  "although i know i've got to get myself out of this habit",
+  "of falling for someone who's out of reach it's unrealistic",
+  "mr dream won't become a reality but was it meant to be",
+  "i've been thinking about you lately lately",
+  "that's a massive understatement baby",
+  "cause i think about you all day and all night",
+  "but is it right",
+  "i don't know but i i know how it feels to me",
+  "maybe you're just playing games a game i don't wanna play",
+  "i don't know but i i know how it feels to me"
+ ],
+ "prompt": "Make a music video for this song. Make it as good as you possibly can.",
+ "free": true,
+ "difficulty": {
+  "d_rhythm": -0.34,
+  "d_structure": 0.14,
+  "d_dynamics": -0.13,
+  "d_lyrics": 0.8,
+  "d_genre": 0.0,
+  "d_length": -0.74,
+  "difficulty": -0.045
+ }
+}

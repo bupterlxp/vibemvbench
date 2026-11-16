@@ -1,0 +1,59 @@
+{
+ "task_id": "jl_032_90",
+ "song_id": "jl_032",
+ "clip_start": 50.53,
+ "clip_end": 140.53,
+ "length_class": 90,
+ "difficulty_tier": "medium",
+ "spec": {
+  "resolution": [
+   1920,
+   1080
+  ],
+  "fps": 30,
+  "duration_tol": 0.1,
+  "duration": 90.0
+ },
+ "song": {
+  "title": "Séculaire feat. Nÿme",
+  "artist": "WASARU",
+  "genre": "Hip-Hop",
+  "language": "fr",
+  "license": "CC BY-NC-SA",
+  "url": "https://www.jamendo.com/track/1350717/seculaire-feat-nyme/lyrics"
+ },
+ "lyrics_text": [
+  "milliardaire prolétaire",
+  "milliardaire prolétaire",
+  "milliardaire prolétaire",
+  "milliardaire prolétaire",
+  "terre terre terre terre",
+  "mon art est vital dans ma bulle je ressens moins les balles",
+  "dehors le bruit des larmes m'éloigne de mon âme",
+  "j'aime le son du calme remballe tes palabres",
+  "t'façons j'sais bien que t'es pas là quand arrive le drame",
+  "sonne le glas des périodes amicales je suis qu'un animal",
+  "même le cou serré pas prêt d'obtempérer quel qu'en soit le prix",
+  "chaque rime un coup de lame une façon de soigner ma déprime déprime déprime déprime",
+  "rythme de couche tard décalé d'un monde risible",
+  "les borderlines sont prévisibles les religieux sous résine",
+  "les seuls partages sur des réseaux tes amis sont ils tes rivaux",
+  "la machine a plus de raison que l'homme addict au raisin",
+  "le navire à la dérive je vise mes rêves vers l'horizon",
+  "je cultive les fruits de ma passion hérétique à contre courant",
+  "préoccupé de l'avenir des miens pas par celui de ma nation",
+  "je compte sur ma motivation pour garantir mon quotidien 'tidien 'tidien 'tidien"
+ ],
+ "prompt": "Make a music video for this song. Make it as good as you possibly can.",
+ "free": true,
+ "difficulty": {
+  "d_rhythm": 0.21,
+  "d_structure": -0.41,
+  "d_dynamics": 0.11,
+  "d_lyrics": 1.95,
+  "d_genre": 0.0,
+  "d_length": -1.04,
+  "difficulty": 0.136
+ },
+ "alignment_fix": "2026-11-07: clip window corrected from 9.31 to 50.53 (audio/rubric were built for this window)"
+}

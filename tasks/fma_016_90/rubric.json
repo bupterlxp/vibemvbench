@@ -1,0 +1,168 @@
+{
+ "profile": "The song is a quirky, ambient electronic track with IDM and dub reggae influences. It features sparse, glitchy, syncopated percussion, deep synth bass, and playful ambient bleeps. At 31 seconds, a stylized reggae/dancehall-influenced male vocal enters, delivering a simple, rhythmic message ('Jah is for you, Jah is for me'). The mood is relaxed, head-nodding, slightly surreal, and playfully uplifting. The energy arc is relatively steady throughout: it establishes an intriguing instrumental groove, sustains a laid-back vocal section, and then strips back to the instrumental outro.",
+ "key_moments": [
+  {
+   "t": 31.4,
+   "what": "The primary vocal track enters for the first time with the lyrics 'Jah is for you', shifting the focus from pure instrumental to a song format."
+  },
+  {
+   "t": 54.2,
+   "what": "The vocal delivery slightly shifts in phrase and intensity, introducing the lyric 'No matter what they do'."
+  },
+  {
+   "t": 65.7,
+   "what": "The vocals drop out completely, and the track transitions back to its sparse, glitchy instrumental groove for the remainder of the clip."
+  }
+ ],
+ "fitting_styles": "Suitable styles include surreal or abstract 3D animation, retro/glitch art, relaxed and stylized performance videos, or kinetic typography. These approaches complement the quirky, experimental electronic beats and the dub/reggae vocal aesthetic. Clashing styles would be hyper-aggressive action, intense dramatic narratives, or overly polished, serious cinematic scenes, all of which would contradict the playful and laid-back nature of the track.",
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video introduces a major new element, character, or visual shift at 31.4s to coincide with the first entry of the vocals."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video transitions or shifts its visual focus at 65.7s when the vocals end and the instrumental section resumes."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "text",
+   "check": "If lyrics are displayed on screen, they correctly show 'Jah is for you' starting around the 31.4s mark."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "text",
+   "check": "If lyrics are displayed, they correctly show the phrase 'No matter what they do' around the 54.2s mark."
+  }
+ ],
+ "anchors": {
+  "UN": "Score 5 indicates the video fully embraces the quirky, dub-influenced electronic style, matching the song's laid-back but experimental vibe; Score 3 indicates a generic electronic visualizer that ignores the reggae vocal nuances; Score 1 indicates a total mismatch, such as an aggressive or somber concept.",
+  "EM": "Score 5 implies the video captures the playful, relaxed, and slightly uplifting mood perfectly; Score 3 implies a neutral mood that doesn't clash but lacks specific character; Score 1 implies a dissonant, anxious, or overly serious mood.",
+  "RH": "Score 5 means cuts and kinetic elements are tightly synced to the syncopated, glitchy percussion and dub delays; Score 3 means edits land on the main downbeats but miss the subtle rhythmic syncopations; Score 1 means the visual pacing is entirely disconnected from the groove.",
+  "ST": "Score 5 means the video structure clearly reflects the three distinct phases: the instrumental intro, the vocal section starting at 31.4s, and the instrumental outro starting at 65.7s; Score 3 means it catches one major transition but misses the other; Score 1 means it is a single repetitive loop with no structural awareness.",
+  "LY": "Score 5 means any text or thematic imagery aligns beautifully with the track's message of universal connection and spirituality; Score 3 means lyrics are present but slightly mis-timed, or imagery is only vaguely related; Score 1 means the lyrics are completely wrong or the imagery directly contradicts the uplifting message.",
+  "VA": "Score 5 means rendering, composition, and aesthetics are high-quality, intentional, and free of accidental AI artifacts; Score 3 means the visual quality is acceptable but feels like a standard AI output or lacks polish; Score 1 means the video is an incoherent, distorted mess.",
+  "CR": "Score 5 indicates a highly inventive concept that cleverly bridges the gap between glitchy IDM and reggae influences; Score 3 indicates a standard, expected approach like a basic lyric video or simple looping shapes; Score 1 indicates a derivative, low-effort execution lacking any original thought."
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 31.4,
+   "kind": "section change"
+  },
+  {
+   "t": 42.8,
+   "kind": "section change"
+  },
+  {
+   "t": 54.2,
+   "kind": "section change"
+  },
+  {
+   "t": 65.7,
+   "kind": "section change"
+  },
+  {
+   "t": 77.1,
+   "kind": "section change"
+  },
+  {
+   "t": 88.5,
+   "kind": "section change"
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video introduces a major new element, character, or visual shift at 31.4s to coincide with the first entry of the vocals."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video transitions or shifts its visual focus at 65.7s when the vocals end and the instrumental section resumes."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "text",
+   "check": "If lyrics are displayed on screen, they correctly show 'Jah is for you' starting around the 31.4s mark."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "text",
+   "check": "If lyrics are displayed, they correctly show the phrase 'No matter what they do' around the 54.2s mark."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 90.0,
+  "approx_bpm": 167,
+  "section_changes_at_s": [
+   31.394,
+   42.814,
+   54.234,
+   65.674,
+   77.094,
+   88.534
+  ],
+  "sung_lines": []
+ }
+}

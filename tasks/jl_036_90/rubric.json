@@ -1,0 +1,392 @@
+{
+ "profile": "This is an upbeat, French conscious reggae track. The instrumentation features a classic reggae rhythm section with a steady drum beat, deep bass, and rhythmic off-beat skanks. The male vocals are passionate and rhythmic, carrying an uplifting message about unity, taking charge of one's destiny, and the joy of existence. The energy arc builds from an introductory verse into a bouncy, rhythmic groove, peaking during the melodic chorus ('oh oui tu sais man'), and concluding with a spiritual, steady outro dedicated to Jah.",
+ "key_moments": [
+  {
+   "t": 7.5,
+   "what": "A section change where the opening verse transitions into a more rhythmic, chant-heavy delivery."
+  },
+  {
+   "t": 17.0,
+   "what": "A section change that introduces a new block of lyrics focusing on unity and neighborhood brothers and sisters."
+  },
+  {
+   "t": 33.7,
+   "what": "A distinct 'yo big up' vocal callout, serving as a transitional fill before the main chorus."
+  },
+  {
+   "t": 35.5,
+   "what": "The main chorus begins with the titular line 'oh oui tu sais man', lifting the melody and overall energy."
+  },
+  {
+   "t": 58.4,
+   "what": "The song transitions out of the chorus into a final bridge/outro section dedicated to singing for Jah and keeping faith."
+  }
+ ],
+ "fitting_styles": "Suitable: Narrative or documentary styles showing community unity and street culture, performance videos featuring a reggae singer or sound system setup, or vibrant lyric videos using warm, rasta-inspired colors (red, gold, green) to highlight the conscious message. Clashing: Dark, aggressive, dystopian, or hyper-futuristic styles, or fast-paced chaotic editing (like trap/EDM) that disrupts the relaxed but steady reggae bounce.",
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video marks the start of the melodic chorus at 35.5s with a major visual shift, such as a new scene, lighting change, or editing burst."
+  },
+  {
+   "id": "S2",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The isolated vocal callout 'yo big up' at 33.7s is acknowledged visually through a character gesture, motion accent, or on-screen text."
+  },
+  {
+   "id": "S3",
+   "level": "core",
+   "modality": "visual",
+   "check": "There is a clear structural transition in the video at the 58.4s section change, reflecting the shift into the final 'pour jah' segment."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "text",
+   "check": "If lyrics are displayed, the word 'reggae' (sung at 14.8s and 30.8s) is emphasized typographically."
+  }
+ ],
+ "anchors": {
+  "UN": "Score 1 for a dark, aggressive, or completely disconnected concept; 3 for a generic video that lacks the specific reggae cultural vibe; 5 for a concept that perfectly captures the uplifting, communal reggae spirit and conscious themes of unity.",
+  "EM": "Score 1 if the video feels depressing or emotionally flat; 3 for a neutral mood; 5 if the imagery feels joyous, empowering, and perfectly matches the positive, conscious mood of the song.",
+  "RH": "Score 1 if cuts ignore the steady reggae groove entirely; 3 if the video generally follows the tempo but misses the off-beat bounce; 5 if the editing and visual motion lock perfectly into the bouncy rhythm and the rhythmic vocal delivery.",
+  "ST": "Score 1 if the video ignores all structural shifts; 3 if it marks the chorus but misses the other transitions; 5 for clear visual changes at the early section shifts (e.g., 7.5s, 17.0s), the chorus (35.5s), and the bridge/outro (58.4s).",
+  "LY": "Score 1 if text is incorrect or imagery contradicts the positive message; 3 if it generally fits but misses specific cultural references; 5 if the imagery or kinetic text perfectly highlights the French lyrics about unity, reggae, and joy, accurately timed to the vocals.",
+  "VA": "Score 1 for a video full of messy AI glitches or poor composition; 3 for cohesive but somewhat generic rendering; 5 for excellent visual quality with a cohesive aesthetic, such as warm, sun-drenched color grading or crisp, vibrant typography.",
+  "CR": "Score 1 for a lazy slideshow or generic template; 3 for relying entirely on standard reggae clichés (e.g., just showing speakers and Rasta flags); 5 for a fresh, distinctive take on the genre, blending cultural elements with imaginative artistic flourishes."
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 0.0,
+   "kind": "sung line starts: \"je reve qu'un joue chacun soit maitre de son destin tout\""
+  },
+  {
+   "t": 1.0,
+   "kind": "sung line starts: \"que chaque personne puisse un jour se prendre en main tout le monde\""
+  },
+  {
+   "t": 4.2,
+   "kind": "sung line starts: \"sans avoir à douter de prendre le mauvais chemin hey\""
+  },
+  {
+   "t": 7.3,
+   "kind": "sung line starts: \"où chaque obstacle ne serait surmonté en vain musique wow yo\""
+  },
+  {
+   "t": 7.5,
+   "kind": "section change"
+  },
+  {
+   "t": 11.7,
+   "kind": "sung line starts: \"pour tous les penseurs motivés wow yo yo yo yo\""
+  },
+  {
+   "t": 14.8,
+   "kind": "sung line starts: \"on vient bouger la musique reggae wow yo\""
+  },
+  {
+   "t": 17.0,
+   "kind": "section change"
+  },
+  {
+   "t": 18.2,
+   "kind": "sung line starts: \"vient man si t'es motivé moti wow yo yo yo yo\""
+  },
+  {
+   "t": 21.2,
+   "kind": "sung line starts: \"on vient parler ici d'unité wow yo\""
+  },
+  {
+   "t": 24.4,
+   "kind": "sung line starts: \"pour tous les soeurs et frères de tous les quartiers wow yo yo yo yo\""
+  },
+  {
+   "t": 27.8,
+   "kind": "sung line starts: \"revient ici dans la case policière wow yo\""
+  },
+  {
+   "t": 30.8,
+   "kind": "sung line starts: \"vient sur la musique reggae wow yo yo yo\""
+  },
+  {
+   "t": 33.7,
+   "kind": "sung line starts: \"yo big up\""
+  },
+  {
+   "t": 35.5,
+   "kind": "sung line starts: \"oh oui tu sais man\""
+  },
+  {
+   "t": 37.5,
+   "kind": "sung line starts: \"la joie quand on prend conscience d'exister oh yeah\""
+  },
+  {
+   "t": 41.9,
+   "kind": "sung line starts: \"oh oui tu sais man\""
+  },
+  {
+   "t": 43.9,
+   "kind": "sung line starts: \"les regrets sont si durs à oublier oh no no no\""
+  },
+  {
+   "t": 45.6,
+   "kind": "section change"
+  },
+  {
+   "t": 48.3,
+   "kind": "sung line starts: \"oh oui tu sais man\""
+  },
+  {
+   "t": 50.2,
+   "kind": "sung line starts: \"que les enfants veulent grandir et te ressembler oh tous les you tes\""
+  },
+  {
+   "t": 54.6,
+   "kind": "sung line starts: \"oh oui tu sais man\""
+  },
+  {
+   "t": 56.6,
+   "kind": "sung line starts: \"un jour ou l'autre l'amour va triompher love love love now\""
+  },
+  {
+   "t": 58.4,
+   "kind": "section change"
+  },
+  {
+   "t": 63.1,
+   "kind": "sung line starts: \"on revient chanter pour jah\""
+  },
+  {
+   "t": 69.3,
+   "kind": "sung line starts: \"pour ceux qui gardent la foi\""
+  },
+  {
+   "t": 75.7,
+   "kind": "sung line starts: \"pour tous ceux qui restent au combat yeah\""
+  },
+  {
+   "t": 82.0,
+   "kind": "sung line starts: \"pour tous ceux qui chantent pour la joie\""
+  },
+  {
+   "t": 86.4,
+   "kind": "sung line starts: \"jah boh gonne chasse\""
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video marks the start of the melodic chorus at 35.5s with a major visual shift, such as a new scene, lighting change, or editing burst."
+  },
+  {
+   "id": "S2",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The isolated vocal callout 'yo big up' at 33.7s is acknowledged visually through a character gesture, motion accent, or on-screen text."
+  },
+  {
+   "id": "S3",
+   "level": "core",
+   "modality": "visual",
+   "check": "There is a clear structural transition in the video at the 58.4s section change, reflecting the shift into the final 'pour jah' segment."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "text",
+   "check": "If lyrics are displayed, the word 'reggae' (sung at 14.8s and 30.8s) is emphasized typographically."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 90.0,
+  "approx_bpm": 152,
+  "section_changes_at_s": [
+   7.497,
+   16.977,
+   45.617,
+   58.357
+  ],
+  "sung_lines": [
+   {
+    "start": 0.0,
+    "end": 0.895,
+    "text": "je reve qu'un joue chacun soit maitre de son destin tout"
+   },
+   {
+    "start": 0.979,
+    "end": 4.175,
+    "text": "que chaque personne puisse un jour se prendre en main tout le monde"
+   },
+   {
+    "start": 4.175,
+    "end": 7.332,
+    "text": "sans avoir à douter de prendre le mauvais chemin hey"
+   },
+   {
+    "start": 7.332,
+    "end": 12.319,
+    "text": "où chaque obstacle ne serait surmonté en vain musique wow yo"
+   },
+   {
+    "start": 11.694,
+    "end": 15.435,
+    "text": "pour tous les penseurs motivés wow yo yo yo yo"
+   },
+   {
+    "start": 14.846,
+    "end": 19.216,
+    "text": "on vient bouger la musique reggae wow yo"
+   },
+   {
+    "start": 18.241,
+    "end": 21.806,
+    "text": "vient man si t'es motivé moti wow yo yo yo yo"
+   },
+   {
+    "start": 21.23,
+    "end": 24.763,
+    "text": "on vient parler ici d'unité wow yo"
+   },
+   {
+    "start": 24.426,
+    "end": 27.801,
+    "text": "pour tous les soeurs et frères de tous les quartiers wow yo yo yo yo"
+   },
+   {
+    "start": 27.801,
+    "end": 31.127,
+    "text": "revient ici dans la case policière wow yo"
+   },
+   {
+    "start": 30.755,
+    "end": 33.73,
+    "text": "vient sur la musique reggae wow yo yo yo"
+   },
+   {
+    "start": 33.73,
+    "end": 34.944,
+    "text": "yo big up"
+   },
+   {
+    "start": 35.525,
+    "end": 37.335,
+    "text": "oh oui tu sais man"
+   },
+   {
+    "start": 37.534,
+    "end": 41.445,
+    "text": "la joie quand on prend conscience d'exister oh yeah"
+   },
+   {
+    "start": 41.895,
+    "end": 43.712,
+    "text": "oh oui tu sais man"
+   },
+   {
+    "start": 43.859,
+    "end": 48.27,
+    "text": "les regrets sont si durs à oublier oh no no no"
+   },
+   {
+    "start": 48.27,
+    "end": 49.986,
+    "text": "oh oui tu sais man"
+   },
+   {
+    "start": 50.23,
+    "end": 54.644,
+    "text": "que les enfants veulent grandir et te ressembler oh tous les you tes"
+   },
+   {
+    "start": 54.644,
+    "end": 56.353,
+    "text": "oh oui tu sais man"
+   },
+   {
+    "start": 56.564,
+    "end": 60.78,
+    "text": "un jour ou l'autre l'amour va triompher love love love now"
+   },
+   {
+    "start": 63.137,
+    "end": 68.25,
+    "text": "on revient chanter pour jah"
+   },
+   {
+    "start": 69.28,
+    "end": 74.316,
+    "text": "pour ceux qui gardent la foi"
+   },
+   {
+    "start": 75.656,
+    "end": 80.887,
+    "text": "pour tous ceux qui restent au combat yeah"
+   },
+   {
+    "start": 82.013,
+    "end": 86.202,
+    "text": "pour tous ceux qui chantent pour la joie"
+   },
+   {
+    "start": 86.38,
+    "end": 88.125,
+    "text": "jah boh gonne chasse"
+   }
+  ]
+ }
+}

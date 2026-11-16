@@ -1,0 +1,339 @@
+{
+ "profile": "The song is a fast-paced, aggressive punk rock track featuring distorted electric guitars, driving bass, and urgent, raspy male vocals. The rhythm frequently alternates between a blistering double-time punk beat and a heavier, pounding half-time groove. The mood is angry, desperate, and rebellious. The Spanish lyrics tackle serious socio-political themes: crossing borders, risking one's life to find work and a better place, facing bullets and fences, and fighting for dignity. The energy arc starts extremely high, drops into a heavy, emphatic stomp during the choruses, and maintains intense, raw power throughout.",
+ "key_moments": [
+  {
+   "t": 5.7,
+   "what": "Vocals enter ('disparan la linea...') over the fast, driving punk rock instrumental."
+  },
+  {
+   "t": 17.2,
+   "what": "The rhythm shifts abruptly from the fast beat to a heavier, slower, half-time groove."
+  },
+  {
+   "t": 32.0,
+   "what": "The music kicks abruptly back into the fast, double-time punk tempo."
+  },
+  {
+   "t": 51.7,
+   "what": "The rhythm shifts back to the heavier, half-time groove, mirroring the earlier change."
+  },
+  {
+   "t": 66.4,
+   "what": "A brief pause/stutter in the music before slamming back into the heavy groove for the final vocal lines."
+  }
+ ],
+ "fitting_styles": "Narrative or cinematic videos focusing on gritty urban survival, border crossings, protests, or themes of struggle and resilience fit perfectly. A high-energy performance video featuring a punk band in a raw, sweaty, underground venue would also work well. Kinetic typography utilizing grungy, chaotic, and aggressive text animation matches the punk aesthetic. Conversely, polished pop choreography, slow-motion romantic or cute animation, peaceful nature montages, or anything too pristine and relaxing would violently clash with the raw aggression and serious subject matter.",
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video introduces a new visual element, a character action, or a noticeable cut exactly at 5.7s when the vocals first begin."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At 17.2s, the visual editing or action visibly changes pace or style to match the sudden shift from a fast beat to a heavier, half-time groove."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "At 32.0s, the visual energy increases or edits become more rapid to match the return of the fast, driving punk tempo."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "At 66.4s, the visuals acknowledge the brief pause/break in the music, either with a sudden cut, a freeze-frame, or an impactful visual hit right after."
+  }
+ ],
+ "anchors": {
+  "UN": {
+   "1": "The video ignores the gritty punk rock nature and socio-political themes, adopting a generic, inappropriate, or overly polished style.",
+   "3": "The video captures the energetic vibe of the music but relies on generic rock tropes without connecting deeply to the urgent or gritty themes of the song.",
+   "5": "The video perfectly channels the raw, fast-paced punk energy and desperate, gritty themes (e.g., societal struggle, raw performance) inherent in the track."
+  },
+  "EM": {
+   "1": "The visual mood is completely mismatched, feeling calm, happy, sterile, or comedic.",
+   "3": "The visual mood is generally energetic but feels a bit too clean or lacks the underlying anger and desperate urgency of the track.",
+   "5": "The visuals successfully convey intense urgency, aggression, and gritty determination, perfectly tracking the song's rebellious and desperate emotional output."
+  },
+  "RH": {
+   "1": "Visual edits are sluggish or random, completely missing the fast, aggressive drum beats and rhythmic shifts.",
+   "3": "The editing generally follows the beat but occasionally misses the sharp contrast in pacing between the double-time and half-time sections.",
+   "5": "Visuals are tightly locked to the fast-paced drums and sharp hits, seamlessly adjusting their rhythmic pacing between the blistering verses and the heavy, pounding choruses."
+  },
+  "ST": {
+   "1": "The video progresses statically and ignores major structural shifts, treating the fast sections and heavy grooves identically.",
+   "3": "The video responds to some structural changes but might miss the sudden return to the fast tempo at 32.0s or the brief instrumental break at 66.4s.",
+   "5": "The video clearly demarcates the different musical sections, visually contrasting the fast punk sections with the heavy, half-time grooves (17.2s, 51.7s) and hitting the pause at 66.4s."
+  },
+  "LY": {
+   "1": "If text is used, it is completely unrelated to the sung lyrics; if narrative, the visuals contradict the themes of struggle, crossing lines, or survival.",
+   "3": "The video hints at themes of conflict or searching but misses the specific urgency of the lyrics, or text is mostly accurate but poorly synced/styled.",
+   "5": "Kinetic text is perfectly synced, grungy, and legible; OR textless visuals clearly and powerfully depict themes of borders, risking everything, searching for a place, and resisting forces."
+  },
+  "VA": {
+   "1": "The video looks like a cheap placeholder, with glaring AI morphing, nonsensical artifacts, or an inappropriately smooth/plastic aesthetic.",
+   "3": "The video looks reasonably good but lacks the raw, gritty visual texture that best suits the punk genre, occasionally feeling too artificially polished.",
+   "5": "The visuals are well-composed and texturally appropriate (e.g., grungy, raw, high-contrast, or realistic cinematic grit), free of distracting AI glitches."
+  },
+  "CR": {
+   "1": "The video is a basic, unimaginative visualizer or a completely disconnected montage of stock-like footage.",
+   "3": "The video has a cohesive concept but relies on standard punk rock tropes (like a generic garage band) without adding a unique thematic or narrative layer.",
+   "5": "The video introduces a highly compelling, original concept—like a powerful socio-political narrative, an inventive raw performance, or an intensely creative kinetic typography piece—that elevates the audio."
+  }
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 5.7,
+   "kind": "sung line starts: \"disparan la linea hay que cruzar\""
+  },
+  {
+   "t": 10.0,
+   "kind": "sung line starts: \"la linea que separa su mundo que es mejor\""
+  },
+  {
+   "t": 15.1,
+   "kind": "sung line starts: \"cruzar dar la vida buscar trabajo un sitio un lugar\""
+  },
+  {
+   "t": 17.2,
+   "kind": "section change"
+  },
+  {
+   "t": 19.8,
+   "kind": "sung line starts: \"apostar todo a una ficha él yo tu y quién mas\""
+  },
+  {
+   "t": 24.8,
+   "kind": "sung line starts: \"los que van a cruzar la linea\""
+  },
+  {
+   "t": 27.2,
+   "kind": "sung line starts: \"cruzar las balas la cerca su dignidad\""
+  },
+  {
+   "t": 30.1,
+   "kind": "sung line starts: \"quieren encontrar un lugar\""
+  },
+  {
+   "t": 32.0,
+   "kind": "section change"
+  },
+  {
+   "t": 35.2,
+   "kind": "sung line starts: \"disparan la linea hay que cruzar\""
+  },
+  {
+   "t": 40.1,
+   "kind": "sung line starts: \"separan la tierra hay que alcanzar\""
+  },
+  {
+   "t": 45.1,
+   "kind": "sung line starts: \"protegen su mundo que es mejor\""
+  },
+  {
+   "t": 50.0,
+   "kind": "sung line starts: \"nos alejan por la fuerza\""
+  },
+  {
+   "t": 51.7,
+   "kind": "section change"
+  },
+  {
+   "t": 54.4,
+   "kind": "sung line starts: \"cruzar dar la vida buscar trabajo un sitio un lugar\""
+  },
+  {
+   "t": 59.1,
+   "kind": "sung line starts: \"apostar todo a una ficha él yo tu y quién mas\""
+  },
+  {
+   "t": 64.1,
+   "kind": "sung line starts: \"los que van a cruzar la linea\""
+  },
+  {
+   "t": 66.4,
+   "kind": "section change"
+  },
+  {
+   "t": 66.6,
+   "kind": "sung line starts: \"cruzar las balas la cerca su dignidad\""
+  },
+  {
+   "t": 69.5,
+   "kind": "sung line starts: \"quieren encontrar un lugar\""
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video introduces a new visual element, a character action, or a noticeable cut exactly at 5.7s when the vocals first begin."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At 17.2s, the visual editing or action visibly changes pace or style to match the sudden shift from a fast beat to a heavier, half-time groove."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "At 32.0s, the visual energy increases or edits become more rapid to match the return of the fast, driving punk tempo."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "At 66.4s, the visuals acknowledge the brief pause/break in the music, either with a sudden cut, a freeze-frame, or an impactful visual hit right after."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 90.0,
+  "approx_bpm": 199,
+  "section_changes_at_s": [
+   17.2,
+   31.98,
+   51.68,
+   66.44
+  ],
+  "sung_lines": [
+   {
+    "start": 5.658,
+    "end": 9.989,
+    "text": "disparan la linea hay que cruzar"
+   },
+   {
+    "start": 9.989,
+    "end": 14.94,
+    "text": "la linea que separa su mundo que es mejor"
+   },
+   {
+    "start": 15.055,
+    "end": 19.839,
+    "text": "cruzar dar la vida buscar trabajo un sitio un lugar"
+   },
+   {
+    "start": 19.839,
+    "end": 24.643,
+    "text": "apostar todo a una ficha él yo tu y quién mas"
+   },
+   {
+    "start": 24.764,
+    "end": 26.992,
+    "text": "los que van a cruzar la linea"
+   },
+   {
+    "start": 27.171,
+    "end": 29.793,
+    "text": "cruzar las balas la cerca su dignidad"
+   },
+   {
+    "start": 30.11,
+    "end": 34.626,
+    "text": "quieren encontrar un lugar"
+   },
+   {
+    "start": 35.197,
+    "end": 39.789,
+    "text": "disparan la linea hay que cruzar"
+   },
+   {
+    "start": 40.114,
+    "end": 44.631,
+    "text": "separan la tierra hay que alcanzar"
+   },
+   {
+    "start": 45.063,
+    "end": 49.519,
+    "text": "protegen su mundo que es mejor"
+   },
+   {
+    "start": 49.95,
+    "end": 53.705,
+    "text": "nos alejan por la fuerza"
+   },
+   {
+    "start": 54.437,
+    "end": 59.005,
+    "text": "cruzar dar la vida buscar trabajo un sitio un lugar"
+   },
+   {
+    "start": 59.131,
+    "end": 64.016,
+    "text": "apostar todo a una ficha él yo tu y quién mas"
+   },
+   {
+    "start": 64.122,
+    "end": 66.322,
+    "text": "los que van a cruzar la linea"
+   },
+   {
+    "start": 66.623,
+    "end": 69.178,
+    "text": "cruzar las balas la cerca su dignidad"
+   },
+   {
+    "start": 69.521,
+    "end": 74.161,
+    "text": "quieren encontrar un lugar"
+   }
+  ]
+ }
+}

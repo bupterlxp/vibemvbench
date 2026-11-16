@@ -1,0 +1,180 @@
+{
+ "profile": "A relentless, chaotic post-hardcore/noise-metal track. The instrumentation features heavily distorted, dissonant guitars, a driving bassline, and frantic, blast-beat style drumming. The vocals are harshly screamed, abrasive, and confrontational. The mood is furious, frenzied, and intensely aggressive. Lyrically, it features aggressively shouted phrases confronting the listener (mentioning 'metal' and telling someone to 'shut your mouth'). The energy arc starts at a massive peak instantly and maintains a high-velocity, unrelenting assault throughout, with brief instrumental shifts providing varying flavors of chaos rather than any actual calm.",
+ "key_moments": [
+  {
+   "t": 0.0,
+   "what": "The track kicks in instantly with full-throttle screaming, distorted guitars, and frantic drumming."
+  },
+  {
+   "t": 11.9,
+   "what": "A subtle shift in the guitar riff pattern and drum beat, though the chaotic energy remains entirely unbroken."
+  },
+  {
+   "t": 44.8,
+   "what": "An instrumental break begins; vocals drop out completely, replaced by squealing, dissonant guitar feedback and a driving, shifting drum groove."
+  },
+  {
+   "t": 59.2,
+   "what": "The vocals return explosively with a massive, abrasive scream, abruptly re-escalating the track's chaos."
+  },
+  {
+   "t": 71.4,
+   "what": "The rhythm shifts into a slightly more locked-in, chugging metal groove while the frantic vocals continue over the top."
+  },
+  {
+   "t": 86.0,
+   "what": "The song enters a final, intense, repetitive descending riff sequence to close out the clip."
+  }
+ ],
+ "fitting_styles": "A gritty, hyper-fast performance video (using shaky cam, strobe lighting, and a sweaty, claustrophobic basement vibe) or chaotic abstract/glitch art would suit the raw, abrasive energy perfectly. Kinetic typography could work very well if the text is animated violently and aggressively to match the screaming. A slow-paced narrative, clean pop aesthetic, or peaceful, highly polished cinematic styles would clash horribly with the gritty, lo-fi noise-rock sound.",
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video responds visually to the start of the instrumental section at 44.8s, acknowledging the sudden absence of vocals (e.g., shifting focus to an instrument, changing environments, or altering the visual motif)."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "There is a major visual impact, rapid cut, or stark transition precisely at 59.2s to match the explosive return of the screamed vocals."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The video marks the rhythmic shift and chugging metal groove that begins at 71.4s with a change in motion or editing pattern."
+  },
+  {
+   "id": "S4",
+   "level": "core",
+   "modality": "visual",
+   "check": "The editing pace, camera movement, or visual generation maintains a highly frenetic, fast speed throughout to match the relentless tempo, completely avoiding long, static, or lingering shots."
+  }
+ ],
+ "anchors": {
+  "UN": "1: The video uses a calm, polished, or soft style that completely ignores the aggressive metal genre; 3: The video has a basic dark or edgy style but lacks the specific chaotic, raw post-hardcore energy required here; 5: The concept and style perfectly capture the frantic, gritty, raw, and abrasive noise-rock energy of the song.",
+  "EM": "1: The video conveys peaceful, happy, or relaxed vibes; 3: The video is generally dark but feels too passive, structured, or slow for the audio; 5: The visuals viscerally convey the fury, aggression, and relentless tension of the track.",
+  "RH": "1: The edits and movements are slow and drifting, ignoring the frantic blast beats and rapid riffs; 3: The cuts somewhat follow the tempo but miss the hyper-kinetic nuances of the drums and guitar squeals; 5: Hyper-kinetic editing, strobe effects, or rapid motion perfectly lock into the chaotic drum patterns and aggressive guitar hits.",
+  "ST": "1: The video drones on with no visual change for the instrumental break at 44.8s or the scream at 59.2s; 3: The video shows moderate changes at major sections but misses the sheer impact of the transitions; 5: The video features stark, high-impact visual shifts exactly on the instrumental break (44.8s) and the explosive vocal return (59.2s).",
+  "LY": "1: Any lyrics shown are completely wrong, or the visual tone is soft and elegant; 3: The lyrics are mostly accurate but the timing is loose or the text animation is too clean; 5: If text is used, it is violently animated and flawlessly timed to the chaotic screams; if no text is used, the aggressive, confrontational imagery perfectly matches the vocal tone.",
+  "VA": "1: The video is plagued by messy AI morphing, unintended glitches, or looks like a cheap default filter; 3: The rendering is decent but lacks a cohesive, intentional gritty aesthetic; 5: The video boasts a high-quality, deliberate aesthetic (whether a gritty 16mm film look, stark high-contrast grunge, or sharp glitch art) with no unintentional AI weirdness.",
+  "CR": "1: The video relies on generic metal tropes (skulls, fire) with no creative flair; 3: The video is a competent but standard execution of an energetic rock video; 5: The video presents a highly original, visceral concept that elevates the chaotic noise into a memorable, artistic visual assault."
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 0.0,
+   "kind": "section change"
+  },
+  {
+   "t": 11.9,
+   "kind": "section change"
+  },
+  {
+   "t": 44.8,
+   "kind": "section change"
+  },
+  {
+   "t": 59.2,
+   "kind": "section change"
+  },
+  {
+   "t": 71.4,
+   "kind": "section change"
+  },
+  {
+   "t": 86.0,
+   "kind": "section change"
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video responds visually to the start of the instrumental section at 44.8s, acknowledging the sudden absence of vocals (e.g., shifting focus to an instrument, changing environments, or altering the visual motif)."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "There is a major visual impact, rapid cut, or stark transition precisely at 59.2s to match the explosive return of the screamed vocals."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The video marks the rhythmic shift and chugging metal groove that begins at 71.4s with a change in motion or editing pattern."
+  },
+  {
+   "id": "S4",
+   "level": "core",
+   "modality": "visual",
+   "check": "The editing pace, camera movement, or visual generation maintains a highly frenetic, fast speed throughout to match the relentless tempo, completely avoiding long, static, or lingering shots."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 90.0,
+  "approx_bpm": 120,
+  "section_changes_at_s": [
+   0.0,
+   11.86,
+   44.8,
+   59.18,
+   71.36,
+   85.96
+  ],
+  "sung_lines": []
+ }
+}

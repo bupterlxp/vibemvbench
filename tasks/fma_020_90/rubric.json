@@ -1,0 +1,150 @@
+{
+ "profile": "The song is an energetic, conscious hip-hop track driven by a reggaeton-influenced dembow beat and atmospheric synths. It features confident, rapid-fire female rap vocals delivering dense lyrics about self-awareness, duality (yin/yang), breaking negative patterns, and personal empowerment. The energy arc starts with a brief, mystical intro, instantly jumps to a high-energy, relentless groove at the beat drop, maintains intensity through intricate vocal flows, and finally opens up into a spacious, melodic chorus.",
+ "key_moments": [
+  {
+   "t": 7.2,
+   "what": "The atmospheric intro concludes as a heavy, driving hip-hop beat drops in perfectly with the start of the first fast-paced rap verse."
+  },
+  {
+   "t": 17.0,
+   "what": "A subtle structural and flow shift in the rap verse ('See my sun dial burst in two'), introducing slightly different rhythmic phrasing."
+  },
+  {
+   "t": 46.0,
+   "what": "The vocal delivery becomes notably highly syncopated and percussive ('Hit the snoozin...'), demanding matching visual kinetic energy."
+  },
+  {
+   "t": 72.7,
+   "what": "The rapid rapping abruptly ends, transitioning the track into a more spacious, atmospheric, and melodic chorus section."
+  }
+ ],
+ "fitting_styles": "Performance-based music videos (highlighting the rapper's swagger and intense delivery), rhythmic montages (locked to the dembow beat), kinetic typography (to emphasize the dense, conscious lyricism), and stylized urban or abstract narratives fit incredibly well. Approaches that would clash include slow, melancholic indie styles, purely acoustic/folk aesthetics, or floaty ambient visuals that completely ignore the heavy, driving drum pulse.",
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video features a major visual transition, cut, or impactful event at exactly 7.2s to match the beat drop and the start of the rap verse."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The visual structure, color palette, or scene noticeably shifts around 72.7s to reflect the transition from the dense rap verse to the spacious chorus."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "visual",
+   "check": "The editing pace, camera movement, or on-screen motion increases in intensity or responds specifically to the highly syncopated, staccato vocal flow starting around 46.0s."
+  }
+ ],
+ "anchors": {
+  "UN": "Score 5 if the video perfectly captures the empowering, conscious hip-hop vibe; score 3 if it feels somewhat generic but musically acceptable; score 1 if the concept completely misaligns with the genre (e.g., a serene nature documentary).",
+  "EM": "Score 5 if the video consistently conveys the track's confident, intense, and slightly mystical mood; score 3 if it only captures basic high energy; score 1 if the emotional tone is flat, lethargic, or contradictory to the song's swagger.",
+  "RH": "Score 5 if cuts and visual accents are tightly locked to the dembow beat and the rapid-fire rap flow; score 3 if only the main downbeats are followed; score 1 if the visual rhythm is completely divorced from the audio.",
+  "ST": "Score 5 if visual changes strongly highlight the 7.2s beat drop and the 72.7s chorus transition; score 3 if the video acknowledges only one major section change; score 1 if it is a single static loop with no structural evolution.",
+  "LY": "Score 5 if kinetic text is perfectly synced to the dense lyrics or imagery effectively mirrors themes of self-empowerment and duality; score 3 if vaguely related; score 1 if text is misspelled, mistimed, or imagery contradicts the message.",
+  "VA": "Score 5 for crisp, professional rendering and strong composition; score 3 for decent quality with minor flaws; score 1 for a video plagued by poor resolution, obvious AI glitches, or a cheap placeholder look.",
+  "CR": "Score 5 for a highly imaginative and unique visual take on conscious hip-hop themes; score 3 for a standard but effective performance or montage video; score 1 for a completely generic or low-effort visualizer."
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 7.2,
+   "kind": "section change"
+  },
+  {
+   "t": 17.0,
+   "kind": "section change"
+  },
+  {
+   "t": 46.0,
+   "kind": "section change"
+  },
+  {
+   "t": 72.7,
+   "kind": "section change"
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video features a major visual transition, cut, or impactful event at exactly 7.2s to match the beat drop and the start of the rap verse."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The visual structure, color palette, or scene noticeably shifts around 72.7s to reflect the transition from the dense rap verse to the spacious chorus."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "visual",
+   "check": "The editing pace, camera movement, or on-screen motion increases in intensity or responds specifically to the highly syncopated, staccato vocal flow starting around 46.0s."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 90.0,
+  "approx_bpm": 99,
+  "section_changes_at_s": [
+   7.24,
+   16.96,
+   46.04,
+   72.7
+  ],
+  "sung_lines": []
+ }
+}

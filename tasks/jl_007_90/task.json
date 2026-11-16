@@ -1,0 +1,59 @@
+{
+ "task_id": "jl_007_90",
+ "song_id": "jl_007",
+ "clip_start": 13.491,
+ "clip_end": 103.491,
+ "length_class": 90,
+ "difficulty_tier": "medium",
+ "spec": {
+  "resolution": [
+   1920,
+   1080
+  ],
+  "fps": 30,
+  "duration_tol": 0.1,
+  "duration": 90.0
+ },
+ "song": {
+  "title": "Baila",
+  "artist": "ALFONSO LUGO",
+  "genre": "Pop",
+  "language": "es",
+  "license": "CC BY-NC-SA",
+  "url": "https://www.jamendo.com/track/1890762/baila/lyrics"
+ },
+ "lyrics_text": [
+  "porque a esta noche le daremos movimiento",
+  "q'uno'o dos tequilas solo pa' calentar",
+  "mira que aqui estamos pa' disfrutar el momento",
+  "show me what you got oh baby dance for me y me das",
+  "toda tu pasion y tu sudor mas vete lento",
+  "que no tengo prisa que esta noche da pa' mas",
+  "muévete cerquita aqui no mas",
+  "baila baila hasta que me enamores baby tu",
+  "baila baila probaré tus sabores baby tu",
+  "baila baila enséñame tus colores baby tu",
+  "baila baila al beat de mi corazon",
+  "toma mi mano y dame tu espalda",
+  "y lentamente sentiré como me bailas",
+  "muévete rico que no hay palabras",
+  "pa' describir como en mi cielo tu te empalmas",
+  "mueve tus pies que bien sabés",
+  "que yo contigo desde el bungee y sin arnés",
+  "y al oido yo te diré",
+  "que el dirty talk se nos vendra hasta en inglés oh yes",
+  "baila baila hasta que me enamores baby tu",
+  "baila baila probaré tus sabores baby tu"
+ ],
+ "prompt": "Make a music video for this song. Make it as good as you possibly can.",
+ "free": true,
+ "difficulty": {
+  "d_rhythm": -0.51,
+  "d_structure": 0.78,
+  "d_dynamics": -0.19,
+  "d_lyrics": 1.41,
+  "d_genre": 0.0,
+  "d_length": -0.31,
+  "difficulty": 0.196
+ }
+}

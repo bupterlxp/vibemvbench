@@ -1,0 +1,37 @@
+{
+ "task_id": "fma_030_90",
+ "song_id": "fma_030",
+ "clip_start": 42.06,
+ "clip_end": 132.06,
+ "length_class": 90,
+ "difficulty_tier": "easy",
+ "spec": {
+  "resolution": [
+   1920,
+   1080
+  ],
+  "fps": 30,
+  "duration_tol": 0.1,
+  "duration": 90.0
+ },
+ "song": {
+  "title": "Continuará...",
+  "artist": "Gumbel",
+  "genre": "IDM",
+  "language": "unk",
+  "license": "CC-BY-NC-SA 3.0",
+  "url": "http://freemusicarchive.org/music/Gumbel/Social_Parasite/Gumbel_-_Social_Parasite_-_11_Continuar"
+ },
+ "lyrics_text": [],
+ "prompt": "Make a music video for this song. Make it as good as you possibly can.",
+ "free": true,
+ "difficulty": {
+  "d_rhythm": 1.01,
+  "d_structure": -1.16,
+  "d_dynamics": -0.26,
+  "d_lyrics": -0.47,
+  "d_genre": 0.0,
+  "d_length": 0.14,
+  "difficulty": -0.122
+ }
+}

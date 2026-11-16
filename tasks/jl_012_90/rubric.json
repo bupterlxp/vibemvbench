@@ -1,0 +1,381 @@
+{
+ "profile": "This is a fast-paced Makina / 90s Eurodance electronic track featuring a driving 4/4 kick drum, off-beat bass, bright staccato synths, and high-pitched, emotional female vocals in Spanish. The mood is a classic 'crying on the dancefloor' blend of extreme, urgent energy and deep melancholy. Lyrically, the song focuses on heartbreak, the pain of separation, and obsessively longing for a past lover ('vivo tan solo pensando en ti' - I live only thinking of you). The energy arc starts very high with the vocal chorus, erupts even higher into a massive instrumental synth drop, falls away entirely into an ambient breakdown, and then steadily rebuilds the driving dance beat toward a final energetic climax.",
+ "key_moments": [
+  {
+   "t": 17.9,
+   "what": "The vocal section ends and the main, high-energy instrumental synth melody (the drop) begins, demanding a massive spike in visual energy."
+  },
+  {
+   "t": 35.7,
+   "what": "The driving beat suddenly stops for an ambient breakdown before the next verse, requiring a sharp drop in visual intensity or a shift to a calmer atmosphere."
+  },
+  {
+   "t": 48.7,
+   "what": "The fast 4/4 kick drum kicks back in behind the vocals, signaling the visuals to snap back to a fast, driving rhythmic pace."
+  },
+  {
+   "t": 68.8,
+   "what": "The main chorus vocals return at full energy ('cuando por tenerte...'), presenting an opportunity for a visual and emotional climax."
+  }
+ ],
+ "fitting_styles": "Fitting approaches include 90s/Y2K rave and club aesthetics, hyper-kinetic Anime MV (AMV) styles, fast-paced kinetic typography, or a dramatic heartbreak narrative intertwined with a high-energy performance. These perfectly suit the very fast BPM, electronic genre, and melancholic lyrics. Clashing approaches include slow pastoral/acoustic visuals, purely comedic or goofy concepts, or long, slow, unbroken takes, all of which would heavily contradict the ~160 BPM speed and the urgent, dramatic tone of the track.",
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The picture marks the major instrumental synth drop at 17.9 with a significant burst of visual energy (e.g., rapid cuts, strobe lights, intense dancing, or a color explosion)."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The visual intensity drops noticeably (e.g., slower editing, darker lighting, floating camera movements) to match the beatless breakdown that starts at 35.7."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The video reacts to the return of the pounding kick drum at 48.7 with an immediate resumption of fast rhythmic editing or energetic motion."
+  },
+  {
+   "id": "S4",
+   "level": "core",
+   "modality": "visual",
+   "check": "The imagery contains some element of melancholy, longing, or nostalgia to reflect the heartbreak lyrics, rather than being entirely joyful or aggressively disconnected from human emotion."
+  }
+ ],
+ "anchors": {
+  "UN": {
+   "1": "The video ignores the fast-paced electronic Makina/Eurodance genre and melancholic lyrics, perhaps showing a slow acoustic performance or a completely unrelated, perpetually sunny setting.",
+   "3": "The video matches the energetic electronic genre with basic club or dance visuals but completely misses the emotional, nostalgic heartbreak element of the song.",
+   "5": "The video perfectly captures the 'crying on the dancefloor' vibe, blending the high-BPM 90s/00s electronic dance energy with a clear sense of nostalgia, longing, or heartbreak."
+  },
+  "EM": {
+   "1": "The mood is entirely disconnected from the song, appearing comedic, completely aggressive, or purely joyful without any hint of sadness.",
+   "3": "The video conveys some club energy but feels emotionally flat, failing to capture the intense dramatic yearning of the vocals.",
+   "5": "The visuals effectively communicate a deep sense of longing, the pain of separation, or passionate nostalgia that intimately matches the dramatic vocal delivery."
+  },
+  "RH": {
+   "1": "Cuts and movements are entirely disconnected from the fast tempo, feeling random, completely off-beat, or overly sluggish.",
+   "3": "The editing generally follows the beat but becomes monotonous, lacking rhythmic variation between the vocal sections and the intense instrumental drops.",
+   "5": "The visual rhythm is tightly locked to the fast 4/4 kick drum and off-beat bass, utilizing rapid cuts and motion accents that perfectly drive the high-energy dance feel."
+  },
+  "ST": {
+   "1": "The video maintains a single visual state or loop throughout, completely ignoring all of the song's musical shifts.",
+   "3": "The video changes occasionally but fails to clearly mark major structural transitions like the beatless breakdown or the main synth drop.",
+   "5": "The video clearly shifts its visual intensity to match the song's structure, erupting at the instrumental drop at 17.9, floating during the breakdown at 35.7, and driving hard again when the beat returns at 48.7."
+  },
+  "LY": {
+   "1": "Any Spanish text used is heavily misspelled or gibberish, or the visual narrative maliciously contradicts the theme of missing someone (e.g., a video about cooking or a sports game).",
+   "3": "The visual narrative generally fits a theme of relationships or memory, and any text used is mostly correct but poorly timed to the singing.",
+   "5": "If lyrics are shown, they are accurate and perfectly synced to the Spanish vocals; if textless, the visuals clearly and poignantly depict heartbreak, memories of a past lover, or intense emotional singing."
+  },
+  "VA": {
+   "1": "The imagery is ruined by severe AI morphing, low resolution, muddy colors, or a chaotic, low-effort placeholder appearance.",
+   "3": "The visuals are generally clear and watchable but may suffer from occasional glitches, flat lighting, or generic, unpolished composition.",
+   "5": "The video boasts high-quality rendering, vibrant colors (such as club neons or cinematic nostalgic tones), and polished aesthetic composition with no distracting AI artifacts."
+  },
+  "CR": {
+   "1": "The video relies on the most basic, uninspired visualizer templates or generic stock-like footage of random people dancing.",
+   "3": "The concept is decent and fitting for a club track but doesn't offer any surprising, narrative, or highly memorable visual ideas.",
+   "5": "The video elevates the classic Eurodance style with a unique, creative vision—such as blending Y2K rave aesthetics with a surreal, heartfelt narrative—making the final product highly distinctive."
+  }
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 0.0,
+   "kind": "sung line starts: \"cuando por tenerte hubiese dado mi vida\""
+  },
+  {
+   "t": 0.6,
+   "kind": "sung line starts: \"cuando te alejabas poco a poco de mi\""
+  },
+  {
+   "t": 3.9,
+   "kind": "sung line starts: \"ahora estas solo y gritas al cielo\""
+  },
+  {
+   "t": 7.1,
+   "kind": "sung line starts: \"que tu sin mis besos no sabes vivir\""
+  },
+  {
+   "t": 10.4,
+   "kind": "sung line starts: \"mas quiero que sepas que todo este tiempo\""
+  },
+  {
+   "t": 13.6,
+   "kind": "sung line starts: \"ha sido un infierno y que vivo tan solo pensando en ti\""
+  },
+  {
+   "t": 17.9,
+   "kind": "section change"
+  },
+  {
+   "t": 35.7,
+   "kind": "section change"
+  },
+  {
+   "t": 36.1,
+   "kind": "sung line starts: \"si al final volvemos\""
+  },
+  {
+   "t": 39.3,
+   "kind": "sung line starts: \"no sera lo mismo\""
+  },
+  {
+   "t": 42.9,
+   "kind": "sung line starts: \"hemos cambiado yo lo sé\""
+  },
+  {
+   "t": 48.7,
+   "kind": "section change"
+  },
+  {
+   "t": 48.9,
+   "kind": "sung line starts: \"razones que no cesan\""
+  },
+  {
+   "t": 52.4,
+   "kind": "sung line starts: \"besos compartidos\""
+  },
+  {
+   "t": 55.8,
+   "kind": "sung line starts: \"miedos que vuelven a nacer\""
+  },
+  {
+   "t": 62.5,
+   "kind": "sung line starts: \"cuando tus miradas eran distintas\""
+  },
+  {
+   "t": 64.8,
+   "kind": "section change"
+  },
+  {
+   "t": 65.6,
+   "kind": "sung line starts: \"cuando tus palabras me hacian sufrir\""
+  },
+  {
+   "t": 68.8,
+   "kind": "sung line starts: \"cuando por tenerte hubiese dado mi vida\""
+  },
+  {
+   "t": 72.0,
+   "kind": "sung line starts: \"cuando te alejabas poco a poco de mi\""
+  },
+  {
+   "t": 75.3,
+   "kind": "sung line starts: \"ahora estas solo y gritas al cielo\""
+  },
+  {
+   "t": 76.3,
+   "kind": "section change"
+  },
+  {
+   "t": 78.5,
+   "kind": "sung line starts: \"que tu sin mis besos no sabes vivir\""
+  },
+  {
+   "t": 81.7,
+   "kind": "sung line starts: \"mas quiero que sepas que todo este tiempo\""
+  },
+  {
+   "t": 85.0,
+   "kind": "sung line starts: \"ha sido un infierno y que vivo tan solo pensando en ti\""
+  },
+  {
+   "t": 87.6,
+   "kind": "section change"
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The picture marks the major instrumental synth drop at 17.9 with a significant burst of visual energy (e.g., rapid cuts, strobe lights, intense dancing, or a color explosion)."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The visual intensity drops noticeably (e.g., slower editing, darker lighting, floating camera movements) to match the beatless breakdown that starts at 35.7."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The video reacts to the return of the pounding kick drum at 48.7 with an immediate resumption of fast rhythmic editing or energetic motion."
+  },
+  {
+   "id": "S4",
+   "level": "core",
+   "modality": "visual",
+   "check": "The imagery contains some element of melancholy, longing, or nostalgia to reflect the heartbreak lyrics, rather than being entirely joyful or aggressively disconnected from human emotion."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 90.0,
+  "approx_bpm": 150,
+  "section_changes_at_s": [
+   17.86,
+   35.72,
+   48.68,
+   64.78,
+   76.26,
+   87.6
+  ],
+  "sung_lines": [
+   {
+    "start": 0.0,
+    "end": 0.509,
+    "text": "cuando por tenerte hubiese dado mi vida"
+   },
+   {
+    "start": 0.622,
+    "end": 3.618,
+    "text": "cuando te alejabas poco a poco de mi"
+   },
+   {
+    "start": 3.879,
+    "end": 6.961,
+    "text": "ahora estas solo y gritas al cielo"
+   },
+   {
+    "start": 7.136,
+    "end": 10.094,
+    "text": "que tu sin mis besos no sabes vivir"
+   },
+   {
+    "start": 10.353,
+    "end": 13.389,
+    "text": "mas quiero que sepas que todo este tiempo"
+   },
+   {
+    "start": 13.609,
+    "end": 20.731,
+    "text": "ha sido un infierno y que vivo tan solo pensando en ti"
+   },
+   {
+    "start": 36.117,
+    "end": 38.372,
+    "text": "si al final volvemos"
+   },
+   {
+    "start": 39.261,
+    "end": 41.728,
+    "text": "no sera lo mismo"
+   },
+   {
+    "start": 42.872,
+    "end": 46.379,
+    "text": "hemos cambiado yo lo sé"
+   },
+   {
+    "start": 48.887,
+    "end": 51.572,
+    "text": "razones que no cesan"
+   },
+   {
+    "start": 52.355,
+    "end": 54.997,
+    "text": "besos compartidos"
+   },
+   {
+    "start": 55.757,
+    "end": 59.793,
+    "text": "miedos que vuelven a nacer"
+   },
+   {
+    "start": 62.458,
+    "end": 65.443,
+    "text": "cuando tus miradas eran distintas"
+   },
+   {
+    "start": 65.579,
+    "end": 68.45,
+    "text": "cuando tus palabras me hacian sufrir"
+   },
+   {
+    "start": 68.768,
+    "end": 71.937,
+    "text": "cuando por tenerte hubiese dado mi vida"
+   },
+   {
+    "start": 72.018,
+    "end": 74.79,
+    "text": "cuando te alejabas poco a poco de mi"
+   },
+   {
+    "start": 75.254,
+    "end": 78.332,
+    "text": "ahora estas solo y gritas al cielo"
+   },
+   {
+    "start": 78.49,
+    "end": 81.477,
+    "text": "que tu sin mis besos no sabes vivir"
+   },
+   {
+    "start": 81.736,
+    "end": 84.849,
+    "text": "mas quiero que sepas que todo este tiempo"
+   },
+   {
+    "start": 85.017,
+    "end": 90.0,
+    "text": "ha sido un infierno y que vivo tan solo pensando en ti"
+   }
+  ]
+ }
+}

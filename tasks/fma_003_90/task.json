@@ -1,0 +1,38 @@
+{
+ "task_id": "fma_003_90",
+ "song_id": "fma_003",
+ "clip_start": 51.57,
+ "clip_end": 141.57,
+ "length_class": 90,
+ "difficulty_tier": "hard",
+ "spec": {
+  "resolution": [
+   1920,
+   1080
+  ],
+  "fps": 30,
+  "duration_tol": 0.1,
+  "duration": 90.0
+ },
+ "song": {
+  "title": "Republic",
+  "artist": "Good Old Neon",
+  "genre": "Pop",
+  "language": "instrumental",
+  "license": "CC-BY-NC 3.0",
+  "url": "http://freemusicarchive.org/music/Good_Old_Neon/Radiant_City_Sample-free_Version/02_Republic"
+ },
+ "lyrics_text": [],
+ "prompt": "Make a music video for this song. Make it as good as you possibly can.",
+ "free": true,
+ "difficulty": {
+  "d_rhythm": 1.03,
+  "d_structure": -0.59,
+  "d_dynamics": 0.49,
+  "d_lyrics": -0.47,
+  "d_genre": 0.0,
+  "d_length": 1.08,
+  "difficulty": 0.254
+ },
+ "alignment_fix": "2026-11-07: clip window corrected from 196.94 to 51.57 (audio/rubric were built for this window)"
+}

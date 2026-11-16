@@ -1,0 +1,135 @@
+{
+ "profile": "Instrumentation: Starts with a solo classical acoustic piano (Bach's Prelude in C Major) for the first 34 seconds, then abruptly cuts to a loud, abrasive indie-rock arrangement featuring distorted guitars, driving drums, and a chiptune-style lead synth. Vocals: None (Instrumental). Mood: Begins serene, traditional, and contemplative, before instantly pivoting to chaotic, rebellious, and high-energy digital aggression. Lyrical theme: N/A. Energy arc: Very low and steady until 34.6s, where it instantly skyrockets to maximum energy and sustains a frantic, driving pace until the end.",
+ "key_moments": [
+  {
+   "t": 34.6,
+   "what": "Abrupt and shocking transition from the soft classical piano intro to loud, fast-paced indie rock with heavy guitars, drums, and synths."
+  }
+ ],
+ "fitting_styles": "Narrative or performance styles are excellent for depicting the dramatic interruption of the classical intro by the rock track (e.g., a serene scene violently hijacked by chaos). An abstract or rhythmic montage would also work beautifully to visualize the stark contrast between organic/classical calmness and digital/glitchy aggression. A lyric-based approach would completely clash, as the track is instrumental. A visually uniform approach from start to finish would also clash, as it would fail to acknowledge the massive shift in genre and energy.",
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video features a major structural transition, such as a stark scene change or stylistic shift, at exactly 34.6s."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "visual",
+   "check": "The visual pacing (such as camera motion or cut frequency) is slow or minimal before 34.6s."
+  },
+  {
+   "id": "S3",
+   "level": "core",
+   "modality": "visual",
+   "check": "The visual pacing becomes highly energetic and fast-paced immediately after 34.6s."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No characters are shown singing or lip-syncing, as the track is completely instrumental."
+  }
+ ],
+ "anchors": {
+  "UN": "5: The concept fully embraces the jarring juxtaposition of the track, bridging the serene classical piano intro and the explosive indie-rock section; 3: the concept suits the rock portion but feels disconnected from the classical intro; 1: the video's style completely misinterprets the track, such as maintaining a slow tone during the abrasive rock section.",
+  "EM": "5: The emotional arc perfectly mirrors the audio, starting with calm contemplation before violently shifting to chaotic energy; 3: it captures the energy of the rock section but fails to establish the initial tranquility of the intro; 1: the visual mood contradicts the music entirely, showing calmness during the frantic rock segment.",
+  "RH": "5: Visuals float smoothly during the piano intro, then switch to sharp cuts tightly locked to the fast drum and synth hits; 3: cuts generally follow the beat but fail to emphasize the massive contrast in rhythmic density between the sections; 1: editing is random, monotonous, and completely ignores the extreme tempo shift.",
+  "ST": "5: The video delivers an unmistakable, high-impact visual transformation exactly at the 34.6s drop; 3: a visual change occurs around 34.6s but lacks the necessary impact or is slightly mistimed; 1: the visual structure flows continuously without acknowledging the massive genre and energy shift at 34.6s.",
+  "LY": "5: Since the track is instrumental, the video successfully relies on imagery without forcing lip-syncing; 3: the video is mostly instrumental but includes brief, awkward moments where a character appears to be singing along; 1: the video inexplicably features prominent lip-syncing or displays irrelevant lyric text.",
+  "VA": "5: The video features clean, high-quality rendering with a style that enhances both the classical and digital rock aesthetics; 3: the visuals are competent but occasionally look generic or lack artistic cohesion across the two distinct sections; 1: the video is plagued by poor rendering, distracting glitches, or a cheap placeholder look.",
+  "CR": "5: A highly inventive approach uses striking visual metaphors or a clever narrative twist to execute the genre switch; 3: a straightforward setup like a pianist turning into a rock band works well but lacks deep originality; 1: the result is a generic, uninspired visualizer or cobbled-together stock footage."
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 34.6,
+   "kind": "section change"
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video features a major structural transition, such as a stark scene change or stylistic shift, at exactly 34.6s."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "visual",
+   "check": "The visual pacing (such as camera motion or cut frequency) is slow or minimal before 34.6s."
+  },
+  {
+   "id": "S3",
+   "level": "core",
+   "modality": "visual",
+   "check": "The visual pacing becomes highly energetic and fast-paced immediately after 34.6s."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No characters are shown singing or lip-syncing, as the track is completely instrumental."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 90.0,
+  "approx_bpm": 91,
+  "section_changes_at_s": [
+   34.56
+  ],
+  "sung_lines": []
+ }
+}

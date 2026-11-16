@@ -1,0 +1,38 @@
+{
+ "task_id": "fma_019_90",
+ "song_id": "fma_019",
+ "clip_start": 131.08,
+ "clip_end": 221.08,
+ "length_class": 90,
+ "difficulty_tier": "hard",
+ "spec": {
+  "resolution": [
+   1920,
+   1080
+  ],
+  "fps": 30,
+  "duration_tol": 0.1,
+  "duration": 90.0
+ },
+ "song": {
+  "title": "Inside (Leaving)",
+  "artist": "Edward Shallow",
+  "genre": "Chiptune",
+  "language": "unk",
+  "license": "CC-BY-NC-SA 3.0",
+  "url": "http://freemusicarchive.org/music/Edward_Shallow/Utter_Mess/Edward_Shallow_-_Utter_Mess_-_01_Inside_Leaving"
+ },
+ "lyrics_text": [],
+ "prompt": "Make a music video for this song. Make it as good as you possibly can.",
+ "free": true,
+ "difficulty": {
+  "d_rhythm": -0.6,
+  "d_structure": 0.74,
+  "d_dynamics": 0.14,
+  "d_lyrics": -0.47,
+  "d_genre": 0.0,
+  "d_length": 2.16,
+  "difficulty": 0.329
+ },
+ "alignment_fix": "2026-11-07: clip window corrected from 100.7 to 131.08 (audio/rubric were built for this window)"
+}

@@ -1,0 +1,141 @@
+{
+ "profile": "Instrumentation: Fast-paced punk rock featuring heavily distorted electric guitars, driving bass, and rapid, aggressive drums (d-beat/skate punk style). Vocals: Gruff, shouting, and rapidly delivered male lead vocals. Mood: Rebellious, energetic, gritty, and urgent. Lyrical theme: Anti-conformity, fighting the system, staying true to oneself, and maintaining a hunger for life. Energy arc: Starts at a sprint and maintains maximum intensity throughout, featuring a frantic instrumental solo before charging into an abrupt, explosive vocal climax.",
+ "key_moments": [
+  {
+   "t": 35.7,
+   "what": "The aggressive vocals drop out, giving way to a frantic, melodic electric guitar solo."
+  },
+  {
+   "t": 49.2,
+   "what": "The guitar solo concludes, and the gruff lead vocals return with renewed intensity for the next verse/bridge section."
+  },
+  {
+   "t": 68.3,
+   "what": "The instruments suddenly cut out, leaving the vocalist to deliver a final, isolated shout ('Stay hungry! For life!') before the song abruptly ends."
+  }
+ ],
+ "fitting_styles": "Fitting: A gritty, high-energy performance video (e.g., a chaotic basement or garage show), a rebellious narrative (skateboarding, protests, urban decay), or fast-paced kinetic typography using distressed punk aesthetics (stencil, ransom note, or photocopy styles). Why: These approaches perfectly match the raw, anti-establishment ethos and blistering BPM of the track. Clashing: Polished corporate styles, slow and elegant cinematic vistas, gentle romantic narratives, or smooth, pristine 3D abstract visualizers, which would completely contradict the raw, aggressive punk attitude.",
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video introduces a clear visual shift (e.g., highlighting a new subject, changing the scene, or noticeably altering the editing pattern) to mark the start of the guitar solo at 35.7s."
+  },
+  {
+   "id": "S2",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The visual narrative or on-screen focus changes to reflect the return of the lead vocals at 49.2s."
+  },
+  {
+   "id": "S3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video visually punctuates the sudden stop of the instruments and the final isolated shout at 68.3s, such as with a dramatic hard cut, a final freeze frame, or explosive typography."
+  }
+ ],
+ "anchors": {
+  "UN": "1: The video uses a concept suited for a completely different genre, like a calm ambient piece or polished corporate ad. 3: The video is generally energetic and fits generic rock music, but lacks the specific raw, anti-establishment punk ethos. 5: The chosen concept—whether a gritty narrative, frantic typography, or raw performance—perfectly captures the song's rebellious, high-octane punk rock spirit.",
+  "EM": "1: The visual mood is peaceful, somber, or relaxed, entirely missing the song's relentless aggression. 3: The video conveys energy but feels too safe, clean, or emotionally detached from the vocalist's furious intensity. 5: The picture consistently projects an urgent, aggressive, and rebellious attitude, matching the track's raw emotional intensity.",
+  "RH": "1: The editing is slow or entirely disconnected from the fast-paced punk beat. 3: The cuts generally match the tempo but fail to emphasize the rapid-fire snare hits or driving rhythm, feeling slightly monotonous. 5: Visual events and fast-paced cuts are tightly locked to the frantic drums and rapid vocal delivery, enhancing the song's blistering momentum.",
+  "ST": "1: The video is structurally flat, ignoring the guitar solo and the dramatic ending completely. 3: The video reacts to major changes like the ending, but glosses over the structural shift into the instrumental guitar solo at 35.7s. 5: The picture clearly responds to the song's structure, with distinct visual shifts for the guitar solo at 35.7s, the vocal return at 49.2s, and the abrupt finale at 68.3s.",
+  "LY": "1: The visuals contradict the anti-conformist lyrics, or included text is poorly synced and unreadable. 3: The imagery loosely fits an energetic vibe but misses the specific themes of rebellion and staying hungry, or text has minor sync issues. 5: The visuals strongly depict themes of non-conformity and relentless drive, or kinetic typography is perfectly synced, readable, and stylized to match the gritty punk vibe.",
+  "VA": "1: The video is ruined by severe AI morphing, muddy low-resolution rendering, or glaring unintentional visual errors. 3: The visuals are mostly clear but suffer from minor temporal inconsistencies or a generic, unpolished digital appearance. 5: The visual execution is flawless, whether leveraging an intentional lo-fi, gritty punk aesthetic or crisp, dynamic animation without any distracting AI glitches.",
+  "CR": "1: The video relies on a completely generic visualizer template with no creative connection to the track. 3: The concept relies on standard rock clichés (like a basic band playing) without adding a unique or memorable twist. 5: The video offers a fresh, surprising take on punk tropes—such as inventive mixed-media animation or a highly compelling, rebellious narrative—that elevates the song."
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 35.7,
+   "kind": "section change"
+  },
+  {
+   "t": 49.2,
+   "kind": "section change"
+  },
+  {
+   "t": 68.3,
+   "kind": "section change"
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video introduces a clear visual shift (e.g., highlighting a new subject, changing the scene, or noticeably altering the editing pattern) to mark the start of the guitar solo at 35.7s."
+  },
+  {
+   "id": "S2",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The visual narrative or on-screen focus changes to reflect the return of the lead vocals at 49.2s."
+  },
+  {
+   "id": "S3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video visually punctuates the sudden stop of the instruments and the final isolated shout at 68.3s, such as with a dramatic hard cut, a final freeze frame, or explosive typography."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 74.08,
+  "approx_bpm": 215,
+  "section_changes_at_s": [
+   35.74,
+   49.18,
+   68.26
+  ],
+  "sung_lines": []
+ }
+}

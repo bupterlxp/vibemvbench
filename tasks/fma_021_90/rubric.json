@@ -1,0 +1,137 @@
+{
+ "profile": "A lo-fi, intimate acoustic folk song featuring a gentle solo acoustic guitar and husky, close-mic male vocals. The mood is highly melancholic, lonely, and dreamy, emphasized by audible tape hiss and room noise. The lyrics center on longing and yearning, repeating the phrase 'Come to me in my dreams'. The energy arc is very flat and hypnotic, maintaining a quiet, lullaby-like consistency throughout with minimal dynamic peaks.",
+ "key_moments": [
+  {
+   "t": 9.8,
+   "what": "The male vocals enter after the instrumental intro, introducing the repetitive lyrical motif 'Come to me in my dreams'."
+  },
+  {
+   "t": 67.9,
+   "what": "The repetitive phrasing breaks as the structural melody shifts and new lyrics ('Starin' in the night...') are sung, leading into a humming section."
+  }
+ ],
+ "fitting_styles": "Performance (a solitary musician in a dimly lit, intimate space) or Narrative/Abstract styles focusing on dreams, memories, and nighttime loneliness suit the song perfectly. Lo-fi, grainy, vintage film aesthetics, or dark cinematic lighting would beautifully complement the raw, tape-hiss audio quality. Conversely, high-energy rhythmic montages, slick/polished 3D animations, or bright, fast-paced pop styles would severely clash with the delicate, melancholic vibe.",
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video introduces a visual change, such as a new scene, character action, or the appearance of a subject, to mark the entry of the vocals at 9.8s."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video responds to the melodic and lyrical shift at 67.9s with a noticeable change in scene, lighting, or narrative focus."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "visual",
+   "check": "The visual editing maintains a predominantly slow, gentle pace throughout, avoiding rapid cuts that would contradict the hypnotic acoustic rhythm."
+  }
+ ],
+ "anchors": {
+  "UN": "1=Shows a hyper-polished, high-energy concept that completely ignores the raw, lo-fi bedroom folk vibe; 3=Understands it is a slow acoustic song but feels visually too clean or generic for the intimate tape-hiss aesthetic; 5=The concept perfectly captures the intimate, lonely, and lo-fi nature of the track, feeling like a visual extension of the raw audio.",
+  "EM": "1=Conveys a cheerful, frantic, or chaotic mood that ruins the melancholic lullaby feel; 3=Presents a somber but emotionally flat or disconnected scene without deeper resonance; 5=Deeply evokes feelings of nighttime longing, nostalgic isolation, and dreamlike intimacy.",
+  "RH": "1=Cuts are chaotic, fast, or completely unsynced with the slow acoustic strumming; 3=Pacing is generally slow but lacks precise visual connection to the gentle guitar phrasing; 5=Visual flow, camera movements, and cuts feel perfectly locked to the gentle, hypnotic strumming and vocal delivery.",
+  "ST": "1=The visuals remain static or ignore the vocal entry (9.8s) and the late bridge (67.9s); 3=Reacts to the start of the vocals but ignores the distinct melodic shift at 67.9s; 5=Visuals clearly and effectively demarcate the instrumental intro, the repetitive vocal section, and the late lyrical shift.",
+  "LY": "1=Depicts literal dreams in a jarring, cheesy way or displays incorrect on-screen lyrics; 3=Imagery loosely relates to the 'night/dreams' theme but lacks depth, or typography feels disconnected from the mood; 5=Imagery masterfully interprets the longing for someone in a dream, and any text used perfectly matches the timing and ethereal mood.",
+  "VA": "1=Looks like a low-effort slideshow, uses heavily glitched AI morphing, or has a distracting digital gloss; 3=Decent rendering but lacks a cohesive color grade or atmospheric treatment to tie the aesthetic together; 5=High-quality, cohesive visuals with deliberate use of lighting, grain, or textures that actively enhance the dreamy, lo-fi atmosphere.",
+  "CR": "1=A basic static image or generic audio waveform visualizer; 3=A straightforward performance video or a literal narrative of someone sleeping in bed; 5=A highly distinctive, poetic visual metaphor for longing and dreams that elevates the repetitive audio into a captivating, moody piece of art."
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 9.8,
+   "kind": "section change"
+  },
+  {
+   "t": 44.2,
+   "kind": "section change"
+  },
+  {
+   "t": 67.9,
+   "kind": "section change"
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video introduces a visual change, such as a new scene, character action, or the appearance of a subject, to mark the entry of the vocals at 9.8s."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video responds to the melodic and lyrical shift at 67.9s with a noticeable change in scene, lighting, or narrative focus."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "visual",
+   "check": "The visual editing maintains a predominantly slow, gentle pace throughout, avoiding rapid cuts that would contradict the hypnotic acoustic rhythm."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 90.0,
+  "approx_bpm": 76,
+  "section_changes_at_s": [
+   9.781,
+   44.181,
+   67.901
+  ],
+  "sung_lines": []
+ }
+}

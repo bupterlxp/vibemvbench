@@ -1,0 +1,38 @@
+{
+ "task_id": "fma_004_90",
+ "song_id": "fma_004",
+ "clip_start": 200.06,
+ "clip_end": 290.06,
+ "length_class": 90,
+ "difficulty_tier": "hard",
+ "spec": {
+  "resolution": [
+   1920,
+   1080
+  ],
+  "fps": 30,
+  "duration_tol": 0.1,
+  "duration": 90.0
+ },
+ "song": {
+  "title": "Telescope II",
+  "artist": "Unthunk",
+  "genre": "Classical",
+  "language": "unk",
+  "license": "CC-BY-NC 4.0",
+  "url": "http://freemusicarchive.org/music/Unthunk/Plumb_Abysm/11_Telescope_II"
+ },
+ "lyrics_text": [],
+ "prompt": "Make a music video for this song. Make it as good as you possibly can.",
+ "free": true,
+ "difficulty": {
+  "d_rhythm": 0.77,
+  "d_structure": -1.02,
+  "d_dynamics": 0.09,
+  "d_lyrics": -0.47,
+  "d_genre": 1.0,
+  "d_length": 2.28,
+  "difficulty": 0.441
+ },
+ "alignment_fix": "2026-11-07: clip window corrected from 76.65 to 200.06 (audio/rubric were built for this window)"
+}

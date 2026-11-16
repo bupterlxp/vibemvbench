@@ -1,0 +1,183 @@
+{
+ "profile": "A raw, instrumental acoustic delta blues track. It features a solo acoustic guitar delivering aggressive, rhythmic strumming intertwined with slide-like bends and percussive accents. The mood is gritty, rustic, earthy, and solitary, heavily evoking classic Americana or a desert journey. There are no vocals. The energy arc starts with a brief loose intro, establishes a driving and repetitive groove that maintains momentum through slight structural variations, and finally breaks its pacing at the end to slow down dramatically for a conclusive outro.",
+ "key_moments": [
+  {
+   "t": 6.8,
+   "what": "The introductory loose picking transitions into the track's main driving rhythmic strumming pattern."
+  },
+  {
+   "t": 44.4,
+   "what": "A new cycle in the blues progression begins, accompanied by slightly more aggressive strumming dynamics."
+  },
+  {
+   "t": 54.7,
+   "what": "A subtle variation occurs as the guitar emphasizes higher string notes within the established rhythm."
+  },
+  {
+   "t": 68.3,
+   "what": "A distinct structural shift acts as a bridge, introducing a different chord pattern and momentarily breaking the main loop."
+  },
+  {
+   "t": 82.0,
+   "what": "The driving rhythm abruptly stops and the tempo significantly slows down (ritardando) for the final outro chords."
+  }
+ ],
+ "fitting_styles": "Narrative (e.g., westerns, a dusty road trip, a solitary wanderer) and Performance (gritty close-ups of weathered hands playing a guitar) fit the raw Americana vibe perfectly. Abstract styles focusing on rustic textures (wood, dust, rust) or rhythmic cinematic montages also work extremely well. Approaches that would heavily clash include futuristic sci-fi, cyberpunk, slick modern pop/EDM aesthetics, high-energy dance routines, or neon-drenched cityscapes, as they contradict the organic, dusty acoustic nature of the track. Lyric videos are inapplicable.",
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The visual narrative, editing pace, or onset of motion directly responds to the start of the main rhythm at 6.8s."
+  },
+  {
+   "id": "S2",
+   "level": "detail",
+   "modality": "visual",
+   "check": "The video marks the structural bridge at 68.3s with a distinct change in scene, lighting, or visual subject."
+  },
+  {
+   "id": "S3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video's pacing, motion, or editing noticeably winds down and slows alongside the musical ritardando starting at 82.0s."
+  }
+ ],
+ "anchors": {
+  "UN": {
+   "1": "The concept violently clashes with the audio, such as a futuristic digital world or glossy pop setting that ignores the acoustic blues nature.",
+   "3": "The visuals are generally acceptable but feel a bit too clean, generic, or modern to fully capture the raw, dusty blues track.",
+   "5": "The video perfectly matches the acoustic, bluesy nature of the song, utilizing rustic, gritty, or earthy imagery that shows a deep understanding of the genre."
+  },
+  "EM": {
+   "1": "The mood is overly polished, euphoric, or sterile, completely missing the song's gritty and solitary vibe.",
+   "3": "The mood is somewhat neutral or generic, neither strongly earthy nor completely mismatched.",
+   "5": "The picture conveys a powerful sense of rustic grit, solitude, or a dusty journey, perfectly matching the raw, earthy emotion of the music."
+  },
+  "RH": {
+   "1": "Visuals float disconnectedly, completely ignoring the strong, driving pulse and syncopations of the acoustic guitar.",
+   "3": "The editing roughly follows the general tempo but misses the specific rhythmic nuances and percussive accents of the strumming.",
+   "5": "Cuts, motions, and visual accents are tightly locked to the syncopated guitar strumming, enhancing the groove without feeling monotonous."
+  },
+  "ST": {
+   "1": "The video loops blindly or progresses linearly without any acknowledgment of the intro, the bridge, or the dramatic tempo change at the end.",
+   "3": "The video catches the major start and end points but drifts through the middle without reflecting the B-section at 68.3s.",
+   "5": "The visual narrative clearly shifts at the intro (6.8s), marks the musical bridge (68.3s), and visibly winds down to reflect the slowing outro (82.0s)."
+  },
+  "LY": null,
+  "VA": {
+   "1": "The video is heavily artifacted, features warped subjects, or looks like a generic, low-effort AI stock generation.",
+   "3": "The rendering and composition are decent but lack a cohesive stylistic finish, or feature minor but noticeable AI glitches.",
+   "5": "The video is beautifully rendered with consistent lighting, color grading, and composition that enhances the gritty aesthetic without visible glitches."
+  },
+  "CR": {
+   "1": "The video is a completely generic slideshow or a basic audio visualizer with zero conceptual depth.",
+   "3": "The video uses a standard, expected concept (like a cowboy riding a horse) executed in a conventional manner.",
+   "5": "A highly original and distinctive concept (e.g., an imaginative macro-view of guitar strings resembling a desert landscape) that surprises the viewer while perfectly fitting the raw blues vibe."
+  }
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 6.8,
+   "kind": "section change"
+  },
+  {
+   "t": 44.4,
+   "kind": "section change"
+  },
+  {
+   "t": 54.7,
+   "kind": "section change"
+  },
+  {
+   "t": 68.3,
+   "kind": "section change"
+  },
+  {
+   "t": 82.0,
+   "kind": "section change"
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The visual narrative, editing pace, or onset of motion directly responds to the start of the main rhythm at 6.8s."
+  },
+  {
+   "id": "S2",
+   "level": "detail",
+   "modality": "visual",
+   "check": "The video marks the structural bridge at 68.3s with a distinct change in scene, lighting, or visual subject."
+  },
+  {
+   "id": "S3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video's pacing, motion, or editing noticeably winds down and slows alongside the musical ritardando starting at 82.0s."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 90.0,
+  "approx_bpm": 143,
+  "section_changes_at_s": [
+   6.82,
+   44.38,
+   54.66,
+   68.34,
+   81.96
+  ],
+  "sung_lines": []
+ }
+}

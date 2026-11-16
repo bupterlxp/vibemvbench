@@ -1,0 +1,671 @@
+{
+ "profile": "A bouncy, upbeat German reggae/dancehall track with a defiant, exasperated lyrical theme. The instrumentation features classic reggae offbeat skanks, a groovy bassline, and brass accents. The male vocals are delivered with a rhythmic, almost rapping cadence during the verses, contrasting with the catchy, melodic chorus. The mood is sunny and energetic, yet the lyrics express annoyance at being nagged and a strong desire to be left alone ('Keine Lust' = 'No desire' / 'Don't feel like it'). The energy arc starts high with the chorus, drops into a rhythmic verse, builds through a pre-chorus, returns to the energetic chorus, and ends with a sudden instrumental stop leaving the final vocal line isolated.",
+ "key_moments": [
+  {
+   "t": 0.0,
+   "what": "The song kicks off immediately with the catchy chorus and full reggae instrumentation."
+  },
+  {
+   "t": 10.1,
+   "what": "The verse begins; the instrumentation pulls back slightly to focus on the fast, rhythmic vocal delivery."
+  },
+  {
+   "t": 32.8,
+   "what": "A pre-chorus/bridge section starts ('keine lust mir das leben...'), changing the melody and building tension."
+  },
+  {
+   "t": 44.8,
+   "what": "The main chorus hits again with full energy and brass accents."
+  },
+  {
+   "t": 88.2,
+   "what": "The music suddenly cuts out, leaving the final vocal line ('sag mir nicht...') completely acapella."
+  }
+ ],
+ "fitting_styles": "Narrative (e.g., a protagonist ignoring a nagging boss or partner and just chilling), performance (a lively reggae band setup with the singer showing attitude), or kinetic typography (bold, colorful text matching the fast, rhythmic delivery) would work perfectly. Dark, somber, slow-paced, or overly dramatic epic styles would clash horribly with the sunny reggae beat.",
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video visually acknowledges the transition from the chorus to the verse at 10.1s (e.g., a change in scene, lighting, or editing pace)."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The sudden instrumental stop at 88.2s is matched by a visual pause, freeze-frame, or sudden disappearance of elements."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "visual",
+   "check": "The fast-paced, rhythmic vocal delivery in the verses (e.g., 11.0 to 31.4s) is reflected by faster editing, dynamic camera movement, or rapid text animation."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The return of the main chorus at 44.8s is marked by a return to the highest visual energy or the main visual hook."
+  }
+ ],
+ "anchors": {
+  "UN": "A score of 1 indicates a complete mismatch (e.g., dark gothic visuals); 3 is a generic upbeat video; 5 captures both the sunny reggae bounce and the defiant 'leave me alone' attitude of the lyrics.",
+  "EM": "A score of 1 conveys sadness or fear; 3 is generally happy; 5 perfectly balances the upbeat musical vibe with the singer's exasperated, boundary-setting mood.",
+  "RH": "A score of 1 ignores the beat; 3 hits the main downbeats; 5 syncs tightly with the reggae offbeat skank and the rapid, syncopated vocal phrasing.",
+  "ST": "A score of 1 is a static loop; 3 changes for the chorus; 5 distinctly shifts visual energy for the verse (10.1s), the chorus drop (44.8s), and the acapella ending (88.2s).",
+  "LY": "A score of 1 has wrong lyrics or completely unrelated imagery; 3 has mostly correct text or generally fitting scenes; 5 features perfectly timed kinetic typography or imagery that clearly depicts rejecting someone's nagging.",
+  "VA": "A score of 1 is glitchy or looks like a cheap placeholder; 3 is decent but standard; 5 is highly polished, well-composed, and visually striking with a cohesive color palette.",
+  "CR": "A score of 1 is a basic template; 3 is a standard performance or lyric video; 5 brings a clever concept (e.g., a literal 'chill zone' that repels annoying people) that elevates the song."
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 0.0,
+   "kind": "sung line starts: \"nein nein nein nein\""
+  },
+  {
+   "t": 1.0,
+   "kind": "sung line starts: \"keine lust\""
+  },
+  {
+   "t": 3.6,
+   "kind": "sung line starts: \"ich hab keine lust\""
+  },
+  {
+   "t": 5.0,
+   "kind": "sung line starts: \"nein nein nein nein\""
+  },
+  {
+   "t": 6.8,
+   "kind": "sung line starts: \"keine lust ey\""
+  },
+  {
+   "t": 9.4,
+   "kind": "sung line starts: \"ich hab keine lust darauf\""
+  },
+  {
+   "t": 10.1,
+   "kind": "section change"
+  },
+  {
+   "t": 11.0,
+   "kind": "sung line starts: \"das du mich ständig attackierst\""
+  },
+  {
+   "t": 12.8,
+   "kind": "sung line starts: \"mir sagst was ich zutun hab\""
+  },
+  {
+   "t": 14.1,
+   "kind": "sung line starts: \"und es selber nicht probierst\""
+  },
+  {
+   "t": 15.5,
+   "kind": "sung line starts: \"keine lust darauf\""
+  },
+  {
+   "t": 16.8,
+   "kind": "sung line starts: \"dass du ewig dazwischen funkst\""
+  },
+  {
+   "t": 18.6,
+   "kind": "sung line starts: \"mir dauernd alles vorhältst\""
+  },
+  {
+   "t": 19.9,
+   "kind": "sung line starts: \"und es selber nicht versuchst\""
+  },
+  {
+   "t": 21.3,
+   "kind": "sung line starts: \"keine lust darauf\""
+  },
+  {
+   "t": 22.6,
+   "kind": "sung line starts: \"immer das selbe zu hören\""
+  },
+  {
+   "t": 24.2,
+   "kind": "sung line starts: \"hältst es wohl nicht für möglich\""
+  },
+  {
+   "t": 25.6,
+   "kind": "sung line starts: \"dass mich sowas manchmal stört\""
+  },
+  {
+   "t": 27.1,
+   "kind": "sung line starts: \"keine lust darauf\""
+  },
+  {
+   "t": 28.3,
+   "kind": "sung line starts: \"immer das selbe zu tun\""
+  },
+  {
+   "t": 29.8,
+   "kind": "sung line starts: \"ich habe kein bock mehr drauf\""
+  },
+  {
+   "t": 31.4,
+   "kind": "sung line starts: \"also lass mich doch in ruh'\""
+  },
+  {
+   "t": 32.8,
+   "kind": "sung line starts: \"keine lust mir das leben\""
+  },
+  {
+   "t": 34.5,
+   "kind": "sung line starts: \"von deppen vermasseln zu lassen\""
+  },
+  {
+   "t": 36.3,
+   "kind": "sung line starts: \"sag mir nicht\""
+  },
+  {
+   "t": 37.0,
+   "kind": "sung line starts: \"ich könnte was besser machen\""
+  },
+  {
+   "t": 38.3,
+   "kind": "sung line starts: \"ich habe keine lust mir das leben\""
+  },
+  {
+   "t": 40.3,
+   "kind": "sung line starts: \"von deppen vermasseln zu lassen\""
+  },
+  {
+   "t": 42.0,
+   "kind": "sung line starts: \"sag mir nicht\""
+  },
+  {
+   "t": 42.8,
+   "kind": "sung line starts: \"ich könnte was besser machen\""
+  },
+  {
+   "t": 44.1,
+   "kind": "sung line starts: \"ich hab keine lust\""
+  },
+  {
+   "t": 44.8,
+   "kind": "section change"
+  },
+  {
+   "t": 45.5,
+   "kind": "sung line starts: \"nein nein nein nein\""
+  },
+  {
+   "t": 47.3,
+   "kind": "sung line starts: \"keine lust\""
+  },
+  {
+   "t": 49.9,
+   "kind": "sung line starts: \"ich hab keine lust\""
+  },
+  {
+   "t": 51.3,
+   "kind": "sung line starts: \"nein nein nein nein\""
+  },
+  {
+   "t": 53.1,
+   "kind": "sung line starts: \"keine lust ey\""
+  },
+  {
+   "t": 53.5,
+   "kind": "section change"
+  },
+  {
+   "t": 55.6,
+   "kind": "sung line starts: \"ich hab keine lust\""
+  },
+  {
+   "t": 57.1,
+   "kind": "sung line starts: \"nein nein nein nein\""
+  },
+  {
+   "t": 58.9,
+   "kind": "sung line starts: \"keine lust\""
+  },
+  {
+   "t": 61.4,
+   "kind": "sung line starts: \"ich hab keine lust\""
+  },
+  {
+   "t": 62.9,
+   "kind": "sung line starts: \"nein nein nein nein\""
+  },
+  {
+   "t": 64.7,
+   "kind": "sung line starts: \"keine lust ey\""
+  },
+  {
+   "t": 67.2,
+   "kind": "sung line starts: \"ich hab keine lust\""
+  },
+  {
+   "t": 68.6,
+   "kind": "sung line starts: \"nein nein nein nein\""
+  },
+  {
+   "t": 70.4,
+   "kind": "sung line starts: \"keine lust\""
+  },
+  {
+   "t": 73.0,
+   "kind": "sung line starts: \"ich hab keine lust\""
+  },
+  {
+   "t": 74.4,
+   "kind": "sung line starts: \"nein nein nein nein\""
+  },
+  {
+   "t": 76.2,
+   "kind": "sung line starts: \"keine lust\""
+  },
+  {
+   "t": 77.3,
+   "kind": "sung line starts: \"nein nein nein nein\""
+  },
+  {
+   "t": 79.1,
+   "kind": "sung line starts: \"keine lust mir das leben\""
+  },
+  {
+   "t": 80.7,
+   "kind": "sung line starts: \"von deppen vermasseln zu lassen\""
+  },
+  {
+   "t": 82.5,
+   "kind": "sung line starts: \"sag mir nicht\""
+  },
+  {
+   "t": 83.3,
+   "kind": "sung line starts: \"ich könnte was besser machen\""
+  },
+  {
+   "t": 84.6,
+   "kind": "sung line starts: \"ich habe keine lust mir das leben\""
+  },
+  {
+   "t": 86.5,
+   "kind": "sung line starts: \"von deppen vermasseln zu lassen\""
+  },
+  {
+   "t": 88.2,
+   "kind": "section change"
+  },
+  {
+   "t": 88.3,
+   "kind": "sung line starts: \"sag mir nicht\""
+  },
+  {
+   "t": 89.1,
+   "kind": "sung line starts: \"ich könnte was besser machen\""
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video visually acknowledges the transition from the chorus to the verse at 10.1s (e.g., a change in scene, lighting, or editing pace)."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The sudden instrumental stop at 88.2s is matched by a visual pause, freeze-frame, or sudden disappearance of elements."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "visual",
+   "check": "The fast-paced, rhythmic vocal delivery in the verses (e.g., 11.0 to 31.4s) is reflected by faster editing, dynamic camera movement, or rapid text animation."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The return of the main chorus at 44.8s is marked by a return to the highest visual energy or the main visual hook."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 90.0,
+  "approx_bpm": 83,
+  "section_changes_at_s": [
+   10.1,
+   44.8,
+   53.48,
+   88.18
+  ],
+  "sung_lines": [
+   {
+    "start": 0.0,
+    "end": 1.044,
+    "text": "nein nein nein nein"
+   },
+   {
+    "start": 1.044,
+    "end": 2.835,
+    "text": "keine lust"
+   },
+   {
+    "start": 3.593,
+    "end": 4.764,
+    "text": "ich hab keine lust"
+   },
+   {
+    "start": 5.023,
+    "end": 6.821,
+    "text": "nein nein nein nein"
+   },
+   {
+    "start": 6.821,
+    "end": 9.017,
+    "text": "keine lust ey"
+   },
+   {
+    "start": 9.379,
+    "end": 10.898,
+    "text": "ich hab keine lust darauf"
+   },
+   {
+    "start": 10.983,
+    "end": 12.696,
+    "text": "das du mich ständig attackierst"
+   },
+   {
+    "start": 12.812,
+    "end": 14.072,
+    "text": "mir sagst was ich zutun hab"
+   },
+   {
+    "start": 14.072,
+    "end": 15.498,
+    "text": "und es selber nicht probierst"
+   },
+   {
+    "start": 15.498,
+    "end": 16.584,
+    "text": "keine lust darauf"
+   },
+   {
+    "start": 16.761,
+    "end": 18.347,
+    "text": "dass du ewig dazwischen funkst"
+   },
+   {
+    "start": 18.574,
+    "end": 19.856,
+    "text": "mir dauernd alles vorhältst"
+   },
+   {
+    "start": 19.856,
+    "end": 21.274,
+    "text": "und es selber nicht versuchst"
+   },
+   {
+    "start": 21.274,
+    "end": 22.353,
+    "text": "keine lust darauf"
+   },
+   {
+    "start": 22.558,
+    "end": 24.168,
+    "text": "immer das selbe zu hören"
+   },
+   {
+    "start": 24.168,
+    "end": 25.618,
+    "text": "hältst es wohl nicht für möglich"
+   },
+   {
+    "start": 25.618,
+    "end": 26.964,
+    "text": "dass mich sowas manchmal stört"
+   },
+   {
+    "start": 27.068,
+    "end": 28.156,
+    "text": "keine lust darauf"
+   },
+   {
+    "start": 28.337,
+    "end": 29.785,
+    "text": "immer das selbe zu tun"
+   },
+   {
+    "start": 29.785,
+    "end": 31.208,
+    "text": "ich habe kein bock mehr drauf"
+   },
+   {
+    "start": 31.42,
+    "end": 32.754,
+    "text": "also lass mich doch in ruh'"
+   },
+   {
+    "start": 32.845,
+    "end": 34.282,
+    "text": "keine lust mir das leben"
+   },
+   {
+    "start": 34.481,
+    "end": 36.067,
+    "text": "von deppen vermasseln zu lassen"
+   },
+   {
+    "start": 36.283,
+    "end": 36.812,
+    "text": "sag mir nicht"
+   },
+   {
+    "start": 37.019,
+    "end": 38.281,
+    "text": "ich könnte was besser machen"
+   },
+   {
+    "start": 38.281,
+    "end": 40.099,
+    "text": "ich habe keine lust mir das leben"
+   },
+   {
+    "start": 40.264,
+    "end": 41.862,
+    "text": "von deppen vermasseln zu lassen"
+   },
+   {
+    "start": 42.038,
+    "end": 42.607,
+    "text": "sag mir nicht"
+   },
+   {
+    "start": 42.811,
+    "end": 44.061,
+    "text": "ich könnte was besser machen"
+   },
+   {
+    "start": 44.061,
+    "end": 45.119,
+    "text": "ich hab keine lust"
+   },
+   {
+    "start": 45.508,
+    "end": 47.309,
+    "text": "nein nein nein nein"
+   },
+   {
+    "start": 47.309,
+    "end": 48.911,
+    "text": "keine lust"
+   },
+   {
+    "start": 49.851,
+    "end": 51.014,
+    "text": "ich hab keine lust"
+   },
+   {
+    "start": 51.286,
+    "end": 53.088,
+    "text": "nein nein nein nein"
+   },
+   {
+    "start": 53.088,
+    "end": 55.267,
+    "text": "keine lust ey"
+   },
+   {
+    "start": 55.646,
+    "end": 56.774,
+    "text": "ich hab keine lust"
+   },
+   {
+    "start": 57.07,
+    "end": 58.883,
+    "text": "nein nein nein nein"
+   },
+   {
+    "start": 58.883,
+    "end": 60.548,
+    "text": "keine lust"
+   },
+   {
+    "start": 61.404,
+    "end": 62.503,
+    "text": "ich hab keine lust"
+   },
+   {
+    "start": 62.864,
+    "end": 64.656,
+    "text": "nein nein nein nein"
+   },
+   {
+    "start": 64.656,
+    "end": 66.87,
+    "text": "keine lust ey"
+   },
+   {
+    "start": 67.204,
+    "end": 68.246,
+    "text": "ich hab keine lust"
+   },
+   {
+    "start": 68.633,
+    "end": 70.392,
+    "text": "nein nein nein nein"
+   },
+   {
+    "start": 70.448,
+    "end": 72.325,
+    "text": "keine lust"
+   },
+   {
+    "start": 72.976,
+    "end": 74.01,
+    "text": "ich hab keine lust"
+   },
+   {
+    "start": 74.419,
+    "end": 76.152,
+    "text": "nein nein nein nein"
+   },
+   {
+    "start": 76.228,
+    "end": 77.058,
+    "text": "keine lust"
+   },
+   {
+    "start": 77.323,
+    "end": 79.115,
+    "text": "nein nein nein nein"
+   },
+   {
+    "start": 79.115,
+    "end": 80.541,
+    "text": "keine lust mir das leben"
+   },
+   {
+    "start": 80.743,
+    "end": 82.326,
+    "text": "von deppen vermasseln zu lassen"
+   },
+   {
+    "start": 82.539,
+    "end": 83.105,
+    "text": "sag mir nicht"
+   },
+   {
+    "start": 83.284,
+    "end": 84.555,
+    "text": "ich könnte was besser machen"
+   },
+   {
+    "start": 84.555,
+    "end": 86.322,
+    "text": "ich habe keine lust mir das leben"
+   },
+   {
+    "start": 86.525,
+    "end": 88.099,
+    "text": "von deppen vermasseln zu lassen"
+   },
+   {
+    "start": 88.309,
+    "end": 88.861,
+    "text": "sag mir nicht"
+   },
+   {
+    "start": 89.077,
+    "end": 90.0,
+    "text": "ich könnte was besser machen"
+   }
+  ]
+ }
+}

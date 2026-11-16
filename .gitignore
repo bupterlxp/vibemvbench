@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+runs*/
+*.mp4
+*.wav
+*.mp3
+data/llm_cache/

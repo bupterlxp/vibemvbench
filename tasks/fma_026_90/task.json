@@ -1,0 +1,37 @@
+{
+ "task_id": "fma_026_90",
+ "song_id": "fma_026",
+ "clip_start": 109.76,
+ "clip_end": 199.76,
+ "length_class": 90,
+ "difficulty_tier": "hard",
+ "spec": {
+  "resolution": [
+   1920,
+   1080
+  ],
+  "fps": 30,
+  "duration_tol": 0.1,
+  "duration": 90.0
+ },
+ "song": {
+  "title": "Nostalgia",
+  "artist": "Kenton Dunson",
+  "genre": "Rock",
+  "language": "unk",
+  "license": "CC-BY-NC-SA 3.0",
+  "url": "http://freemusicarchive.org/music/Kenton_Dunson/FrostWire_Creative_Commons_Mixtape_2_Side_A/Kenton_Dunson__Nostalgia__Creative_Destruction_2__FrostClick_FrostWire_Mixtape_Vol_2_1934"
+ },
+ "lyrics_text": [],
+ "prompt": "Make a music video for this song. Make it as good as you possibly can.",
+ "free": true,
+ "difficulty": {
+  "d_rhythm": 3.38,
+  "d_structure": 0.4,
+  "d_dynamics": -0.35,
+  "d_lyrics": -0.47,
+  "d_genre": 0.0,
+  "d_length": 0.27,
+  "difficulty": 0.537
+ }
+}

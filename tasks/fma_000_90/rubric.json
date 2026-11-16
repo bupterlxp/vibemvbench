@@ -1,0 +1,169 @@
+{
+ "profile": "Instrumentation features a classic boom-bap drum break, funky brass/horn samples, a groovy bassline, and DJ scratches. Vocals are absent, making this a pure instrumental track. The mood is upbeat, funky, cool, and nostalgic, strongly evoking 90s hip-hop swagger. The lyrical theme is N/A. The energy arc starts high, drops into a sparser breakdown at 43 seconds, explodes back into the full groove at 51 seconds, and abruptly winds down into a stripped-back outro at 75 seconds.",
+ "key_moments": [
+  {
+   "t": 43.3,
+   "what": "The main horn samples drop out, shifting the track into a stripped-back breakdown driven by bass, drums, and DJ scratching."
+  },
+  {
+   "t": 51.3,
+   "what": "The horns and full instrumentation punch back in, creating a high-energy drop that restores the track's main groove."
+  },
+  {
+   "t": 75.3,
+   "what": "The drums and bass suddenly drop out, leaving only a trailing, distorted horn/synth melody for the outro."
+  }
+ ],
+ "fitting_styles": "Fitting approaches include rhythmic montages (e.g., skateboarding, urban life, street art), performance videos (breakdancing or street choreography), and kinetic/abstract visualizers that react to the scratching and horn stabs; these suit the track's strong beat and 90s hip-hop groove. Clashing styles include lyric-centric videos (as there are no lyrics), slow pastoral/nature scenes, or somber, tragic narratives that conflict with the upbeat, funky swagger.",
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video marks the breakdown at ~43.3 s by shifting the scene, lowering visual intensity, or changing the editing pace to match the stripped-back beat."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "There is a strong visual accent, impact, or sudden transition marking the energetic drop when the horns return at ~51.3 s."
+  },
+  {
+   "id": "S3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The visual energy drops significantly, or the scene changes to reflect the sudden absence of drums and bass at ~75.3 s."
+  }
+ ],
+ "anchors": {
+  "UN": {
+   "1": "The concept fundamentally clashes with the track, adopting a tone like a slow medieval drama or a sad acoustic romance.",
+   "3": "The video is generally energetic but relies on generic action or stock footage that misses the specific funky, 90s hip-hop aesthetic.",
+   "5": "The chosen concept and style (e.g., street dance, urban montage, funky abstract art) perfectly capture the track's upbeat, boom-bap hip-hop vibe."
+  },
+  "EM": {
+   "1": "The video feels gloomy, tragic, or entirely disconnected from the track's upbeat, funky mood.",
+   "3": "The video is generally positive but maintains a flat emotional level that lacks any real sense of cool or groove.",
+   "5": "The visuals exude a cool, groovy swagger, perfectly matching the track's energetic highs and stripped-back lows."
+  },
+  "RH": {
+   "1": "The visual edits and movements are completely divorced from the tempo and rhythm of the track.",
+   "3": "The cuts broadly follow the beat but miss the opportunity to sync with the prominent horn stabs, snare hits, or DJ scratches.",
+   "5": "Visual events bounce and lock tightly to the boom-bap drum groove, horn accents, and scratch rhythms, enhancing the track's funky feel."
+  },
+  "ST": {
+   "1": "The video ignores the track's structural shifts entirely, playing out like a single monotonous loop.",
+   "3": "The video responds to the main drop at 51.3s but overlooks the breakdown at 43.3s or the outro at 75.3s.",
+   "5": "Clear visual shifts occur at all key structural points: the breakdown at 43.3s, the drop at 51.3s, and the outro at 75.3s."
+  },
+  "LY": {
+   "1": "The video generates misplaced, hallucinated lyrics that make no sense for an instrumental track.",
+   "3": "No text is used, but the imagery feels slightly misaligned with the track's urban, instrumental aesthetic.",
+   "5": "As an instrumental track, the video successfully relies entirely on imagery to convey the hip-hop tone; if any text (like graffiti) is used, it perfectly enhances the urban vibe."
+  },
+  "VA": {
+   "1": "The video suffers from heavy artifacting, jarring AI morphing, or looks like a cheap, automated music visualizer.",
+   "3": "The visual quality is acceptable but lacks a cohesive color grade, intentional lighting, or a distinctive artistic finish.",
+   "5": "The video boasts clean rendering, strong composition, and intentional styling (e.g., crisp 3D, retro VHS filters, or vibrant street photography)."
+  },
+  "CR": {
+   "1": "The idea is completely unimaginative, relying on a basic bouncing EQ visualizer or a random assortment of unrelated clips.",
+   "3": "The video uses appropriate but standard hip-hop tropes (e.g., standard dancing shots) without adding a unique or surprising spin.",
+   "5": "The video offers a highly original and engaging visual interpretation of the instrumental beat, using creative metaphors, mixed media, or innovative choreography."
+  }
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 43.3,
+   "kind": "section change"
+  },
+  {
+   "t": 51.3,
+   "kind": "section change"
+  },
+  {
+   "t": 75.3,
+   "kind": "section change"
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video marks the breakdown at ~43.3 s by shifting the scene, lowering visual intensity, or changing the editing pace to match the stripped-back beat."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "There is a strong visual accent, impact, or sudden transition marking the energetic drop when the horns return at ~51.3 s."
+  },
+  {
+   "id": "S3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The visual energy drops significantly, or the scene changes to reflect the sudden absence of drums and bass at ~75.3 s."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 90.0,
+  "approx_bpm": 45,
+  "section_changes_at_s": [
+   43.325,
+   51.325,
+   75.345
+  ],
+  "sung_lines": []
+ }
+}

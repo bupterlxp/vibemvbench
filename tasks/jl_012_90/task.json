@@ -1,0 +1,58 @@
+{
+ "task_id": "jl_012_90",
+ "song_id": "jl_012",
+ "clip_start": 95.74,
+ "clip_end": 185.74,
+ "length_class": 90,
+ "difficulty_tier": "hard",
+ "spec": {
+  "resolution": [
+   1920,
+   1080
+  ],
+  "fps": 30,
+  "duration_tol": 0.1,
+  "duration": 90.0
+ },
+ "song": {
+  "title": "Pensando en ti",
+  "artist": "CLUB DESTINO",
+  "genre": "Electronic",
+  "language": "es",
+  "license": "CC BY-NC-SA",
+  "url": "https://www.jamendo.com/track/1079805/club-destino-pensando-en-ti/lyrics"
+ },
+ "lyrics_text": [
+  "cuando por tenerte hubiese dado mi vida",
+  "cuando te alejabas poco a poco de mi",
+  "ahora estas solo y gritas al cielo",
+  "que tu sin mis besos no sabes vivir",
+  "mas quiero que sepas que todo este tiempo",
+  "ha sido un infierno y que vivo tan solo pensando en ti",
+  "si al final volvemos",
+  "no sera lo mismo",
+  "hemos cambiado yo lo sé",
+  "razones que no cesan",
+  "besos compartidos",
+  "miedos que vuelven a nacer",
+  "cuando tus miradas eran distintas",
+  "cuando tus palabras me hacian sufrir",
+  "cuando por tenerte hubiese dado mi vida",
+  "cuando te alejabas poco a poco de mi",
+  "ahora estas solo y gritas al cielo",
+  "que tu sin mis besos no sabes vivir",
+  "mas quiero que sepas que todo este tiempo",
+  "ha sido un infierno y que vivo tan solo pensando en ti"
+ ],
+ "prompt": "Make a music video for this song. Make it as good as you possibly can.",
+ "free": true,
+ "difficulty": {
+  "d_rhythm": -0.08,
+  "d_structure": 1.36,
+  "d_dynamics": -0.34,
+  "d_lyrics": 1.14,
+  "d_genre": 0.0,
+  "d_length": -0.19,
+  "difficulty": 0.315
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "task_id": "fma_018_90",
+ "song_id": "fma_018",
+ "clip_start": 111.06,
+ "clip_end": 201.06,
+ "length_class": 90,
+ "difficulty_tier": "easy",
+ "spec": {
+  "resolution": [
+   1920,
+   1080
+  ],
+  "fps": 30,
+  "duration_tol": 0.1,
+  "duration": 90.0
+ },
+ "song": {
+  "title": "Python analog",
+  "artist": "Spinefish",
+  "genre": "Indie-Rock",
+  "language": "unk",
+  "license": "CC-BY-NC-SA 3.0",
+  "url": "http://freemusicarchive.org/music/Spinefish/Fools_Paradise/11_spinefish_-_python_analog"
+ },
+ "lyrics_text": [],
+ "prompt": "Make a music video for this song. Make it as good as you possibly can.",
+ "free": true,
+ "difficulty": {
+  "d_rhythm": -0.58,
+  "d_structure": -1.2,
+  "d_dynamics": -0.16,
+  "d_lyrics": -0.47,
+  "d_genre": 0.0,
+  "d_length": 0.2,
+  "difficulty": -0.368
+ },
+ "alignment_fix": "2026-11-07: clip window corrected from 101.51 to 111.06 (audio/rubric were built for this window)"
+}

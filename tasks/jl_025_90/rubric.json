@@ -1,0 +1,429 @@
+{
+ "profile": "A French jazz/chanson track featuring a walking upright bass, swung drum kit, and piano, accompanying a laid-back, spoken-sung male vocal. The mood is whimsical, nostalgic, and subtly satirical. The lyrics describe a school trip to a dystopian 'Museum of Contemporary Air' where relics of a ruined planet (animals in jars, trees in fridges) are displayed. The energy is a steady, toe-tapping jazz groove that remains relatively constant, with structural lifts during the choruses.",
+ "key_moments": [
+  {
+   "t": 13.6,
+   "what": "The vocals enter for the first time ('c'était l'hiver') after the instrumental intro."
+  },
+  {
+   "t": 30.5,
+   "what": "A section change marking the start of the first chorus, where the melodic phrasing shifts."
+  },
+  {
+   "t": 65.4,
+   "what": "A section change marking the return of the chorus."
+  },
+  {
+   "t": 82.9,
+   "what": "A section change where the final vocal phrase ends and the instrumental outro begins."
+  }
+ ],
+ "fitting_styles": "Narrative or illustrative animation would perfectly suit the storytelling aspect of the 'school trip to a dystopian museum'. Surreal or abstract styles could cleverly interpret the bizarre exhibits (trees in fridges, the ozone hole). Kinetic typography is also highly effective given the poetic, spoken-word delivery. Fast-paced, aggressive rhythmic montages, modern club/EDM aesthetics, or gritty urban street-dance performances would heavily clash with the whimsical acoustic jazz instrumentation and poignant environmental theme.",
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video acknowledges the start of the vocal track at 13.6 with a visual change, character introduction, or the appearance of text."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "visual",
+   "check": "A significant visual transition, such as a change in scene, palette, or energy, occurs at the section change at 30.5."
+  },
+  {
+   "id": "S3",
+   "level": "core",
+   "modality": "visual",
+   "check": "A significant visual transition occurs at the section change at 65.4, mirroring the return of the chorus."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "text",
+   "check": "If lyrics are displayed, the phrase starting with 'des arbres dans des frigos' appears timed to 41.9 or 76.8."
+  },
+  {
+   "id": "S5",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The picture marks the beginning of the instrumental outro at the section change at 82.9."
+  }
+ ],
+ "anchors": {
+  "UN": {
+   "1": "The video completely ignores the jazz instrumentation and storytelling, applying a generic or clashing aesthetic like high-energy EDM or aggressive hip-hop.",
+   "3": "The video matches the jazz feel but misses the specific dystopian/nostalgic lyrical themes, settling for a generic band performance or basic shapes.",
+   "5": "The video perfectly captures the whimsical yet melancholic tone of the song, responding to both the acoustic jazz groove and the satirical, dystopian storytelling."
+  },
+  "EM": {
+   "1": "The mood is aggressively hyperactive, sterile, or completely disconnected from the track's laid-back, nostalgic vibe.",
+   "3": "The video is generally relaxed but lacks the subtle mix of childlike innocence and environmental melancholy present in the song.",
+   "5": "The imagery evokes a strong sense of wistful nostalgia, childlike wonder, and subtle dystopian melancholy, matching the vocal delivery."
+  },
+  "RH": {
+   "1": "The visual edits and movements are chaotic, static, or completely out of sync with the steady jazz swing.",
+   "3": "The visuals generally follow the tempo, but cuts feel robotic and miss the syncopated, swinging groove of the bass and drums.",
+   "5": "The visual rhythm effortlessly rides the jazz swing, with cuts and animations locking into the walking bass and brushed drum accents."
+  },
+  "ST": {
+   "1": "The video is a single continuous loop or ignores the distinct verse/chorus structure of the song.",
+   "3": "The video changes at some point but misses major structural transitions like the choruses at 30.5 or 65.4.",
+   "5": "The video clearly shifts its visual narrative, color palette, or editing pace at key structural moments like the choruses (30.5, 65.4) and the outro (82.9)."
+  },
+  "LY": {
+   "1": "The video shows imagery that blatantly contradicts the lyrics (e.g., a pristine, thriving forest) or displays completely incorrect text.",
+   "3": "The visuals loosely match the mood but fail to reference the highly specific imagery in the lyrics, or text is poorly timed.",
+   "5": "The video creatively depicts the specific museum exhibits (animals in jars, trees in fridges) or uses perfectly timed, readable typography that enhances the poetic delivery."
+  },
+  "VA": {
+   "1": "The video suffers from obvious glitches, poor resolution, muddy colors, or looks like a cheap, unedited AI test.",
+   "3": "The rendering is clean but the composition is somewhat basic, lacking a cohesive artistic direction or polish.",
+   "5": "The visual execution is excellent, with a cohesive aesthetic, strong color grading, thoughtful composition, and high-quality rendering."
+  },
+  "CR": {
+   "1": "The concept is a generic, off-the-shelf audio visualizer or a completely random sequence of unrelated images.",
+   "3": "The video uses a safe, expected approach (like literal depictions of a museum) without adding a unique stylistic twist.",
+   "5": "The video takes a highly inventive approach to the 'museum of air' concept, using a distinct art style, clever metaphors, or surprising visual storytelling."
+  }
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 13.6,
+   "kind": "sung line starts: \"c'était l'hiver\""
+  },
+  {
+   "t": 14.9,
+   "kind": "sung line starts: \"le jour de la sortie scolaire\""
+  },
+  {
+   "t": 17.4,
+   "kind": "section change"
+  },
+  {
+   "t": 18.1,
+   "kind": "sung line starts: \"au musée d'air contemporain\""
+  },
+  {
+   "t": 22.1,
+   "kind": "sung line starts: \"la lutte des classes\""
+  },
+  {
+   "t": 23.2,
+   "kind": "sung line starts: \"pour les professeurs qui menacent\""
+  },
+  {
+   "t": 26.9,
+   "kind": "sung line starts: \"les gamins qui ne contemplent rien\""
+  },
+  {
+   "t": 30.5,
+   "kind": "section change"
+  },
+  {
+   "t": 31.2,
+   "kind": "sung line starts: \"on voyait dans des petites fenêtres\""
+  },
+  {
+   "t": 34.0,
+   "kind": "sung line starts: \"des photos pas très nettes\""
+  },
+  {
+   "t": 35.7,
+   "kind": "sung line starts: \"de l'état de l'air de la planète\""
+  },
+  {
+   "t": 40.0,
+   "kind": "sung line starts: \"des animaux dans des bocaux\""
+  },
+  {
+   "t": 41.9,
+   "kind": "sung line starts: \"des arbres dans des frigos\""
+  },
+  {
+   "t": 43.6,
+   "kind": "section change"
+  },
+  {
+   "t": 44.3,
+   "kind": "sung line starts: \"et puis moi je trouvais ça beau\""
+  },
+  {
+   "t": 48.3,
+   "kind": "sung line starts: \"un guide austère\""
+  },
+  {
+   "t": 49.7,
+   "kind": "sung line starts: \"nous dépeignait l'histoire de l'air\""
+  },
+  {
+   "t": 52.7,
+   "kind": "sung line starts: \"la période bleue la période noire\""
+  },
+  {
+   "t": 55.6,
+   "kind": "section change"
+  },
+  {
+   "t": 57.0,
+   "kind": "sung line starts: \"comme si la planète\""
+  },
+  {
+   "t": 58.1,
+   "kind": "sung line starts: \"était une grande palette\""
+  },
+  {
+   "t": 61.3,
+   "kind": "sung line starts: \"avec le trou de la couche de jaune\""
+  },
+  {
+   "t": 65.4,
+   "kind": "section change"
+  },
+  {
+   "t": 66.1,
+   "kind": "sung line starts: \"on voyait dans des petites fenêtres\""
+  },
+  {
+   "t": 68.9,
+   "kind": "sung line starts: \"des photos pas très nettes\""
+  },
+  {
+   "t": 70.2,
+   "kind": "sung line starts: \"de l'état de l'air de la planète\""
+  },
+  {
+   "t": 74.9,
+   "kind": "sung line starts: \"des animaux dans des bocaux\""
+  },
+  {
+   "t": 76.8,
+   "kind": "sung line starts: \"des arbres dans des frigos\""
+  },
+  {
+   "t": 79.1,
+   "kind": "sung line starts: \"et puis moi je trouvais ça chouette\""
+  },
+  {
+   "t": 82.9,
+   "kind": "section change"
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video acknowledges the start of the vocal track at 13.6 with a visual change, character introduction, or the appearance of text."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "visual",
+   "check": "A significant visual transition, such as a change in scene, palette, or energy, occurs at the section change at 30.5."
+  },
+  {
+   "id": "S3",
+   "level": "core",
+   "modality": "visual",
+   "check": "A significant visual transition occurs at the section change at 65.4, mirroring the return of the chorus."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "text",
+   "check": "If lyrics are displayed, the phrase starting with 'des arbres dans des frigos' appears timed to 41.9 or 76.8."
+  },
+  {
+   "id": "S5",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The picture marks the beginning of the instrumental outro at the section change at 82.9."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 90.0,
+  "approx_bpm": 220,
+  "section_changes_at_s": [
+   17.44,
+   30.54,
+   43.62,
+   55.64,
+   65.44,
+   82.9
+  ],
+  "sung_lines": [
+   {
+    "start": 13.628,
+    "end": 14.676,
+    "text": "c'était l'hiver"
+   },
+   {
+    "start": 14.887,
+    "end": 16.651,
+    "text": "le jour de la sortie scolaire"
+   },
+   {
+    "start": 18.105,
+    "end": 19.958,
+    "text": "au musée d'air contemporain"
+   },
+   {
+    "start": 22.07,
+    "end": 23.174,
+    "text": "la lutte des classes"
+   },
+   {
+    "start": 23.174,
+    "end": 25.471,
+    "text": "pour les professeurs qui menacent"
+   },
+   {
+    "start": 26.881,
+    "end": 28.601,
+    "text": "les gamins qui ne contemplent rien"
+   },
+   {
+    "start": 31.233,
+    "end": 33.387,
+    "text": "on voyait dans des petites fenêtres"
+   },
+   {
+    "start": 34.003,
+    "end": 35.278,
+    "text": "des photos pas très nettes"
+   },
+   {
+    "start": 35.687,
+    "end": 37.331,
+    "text": "de l'état de l'air de la planète"
+   },
+   {
+    "start": 39.994,
+    "end": 41.705,
+    "text": "des animaux dans des bocaux"
+   },
+   {
+    "start": 41.927,
+    "end": 44.004,
+    "text": "des arbres dans des frigos"
+   },
+   {
+    "start": 44.281,
+    "end": 46.116,
+    "text": "et puis moi je trouvais ça beau"
+   },
+   {
+    "start": 48.282,
+    "end": 49.66,
+    "text": "un guide austère"
+   },
+   {
+    "start": 49.66,
+    "end": 51.5,
+    "text": "nous dépeignait l'histoire de l'air"
+   },
+   {
+    "start": 52.659,
+    "end": 54.962,
+    "text": "la période bleue la période noire"
+   },
+   {
+    "start": 56.988,
+    "end": 57.935,
+    "text": "comme si la planète"
+   },
+   {
+    "start": 58.077,
+    "end": 60.367,
+    "text": "était une grande palette"
+   },
+   {
+    "start": 61.348,
+    "end": 63.914,
+    "text": "avec le trou de la couche de jaune"
+   },
+   {
+    "start": 66.128,
+    "end": 68.024,
+    "text": "on voyait dans des petites fenêtres"
+   },
+   {
+    "start": 68.899,
+    "end": 70.139,
+    "text": "des photos pas très nettes"
+   },
+   {
+    "start": 70.247,
+    "end": 72.536,
+    "text": "de l'état de l'air de la planète"
+   },
+   {
+    "start": 74.905,
+    "end": 76.767,
+    "text": "des animaux dans des bocaux"
+   },
+   {
+    "start": 76.767,
+    "end": 79.078,
+    "text": "des arbres dans des frigos"
+   },
+   {
+    "start": 79.078,
+    "end": 81.115,
+    "text": "et puis moi je trouvais ça chouette"
+   }
+  ]
+ }
+}

@@ -1,0 +1,293 @@
+{
+ "profile": "The audio is a raw, stripped-back acoustic pop track featuring only a male vocal and an acoustic guitar. The mood is intimate, melancholic, vulnerable, and pleading. Lyrically, it deals with the pain of a breakup, emotional disconnect, and wanting the other person to feel the hurt ('I want you to feel', 'hide the pain'). The energy arc starts softly, builds slightly into more forceful, percussive guitar strumming during the chorus sections, and then drops into a highly sparse, gentle acoustic breakdown near the end.",
+ "key_moments": [
+  {
+   "t": 0.0,
+   "what": "The track begins immediately with an intimate, raw vocal delivery and gentle acoustic guitar strumming."
+  },
+  {
+   "t": 16.0,
+   "what": "The chorus hits, marked by a shift in the acoustic guitar to a fuller, more percussive and rhythmic strumming pattern."
+  },
+  {
+   "t": 35.2,
+   "what": "An instrumental section change occurs, featuring a solo acoustic guitar break before the vocals return."
+  },
+  {
+   "t": 67.2,
+   "what": "A dramatic breakdown where the guitar drops back to very sparse, delicate picking and the vocals become hushed and gentle."
+  }
+ ],
+ "fitting_styles": "Styles that suit this track include intimate narrative dramas (focusing on solitude, heartbreak, or relationship tension), moody performance videos (e.g., a lone singer in a dimly lit or rustic setting), and elegant, minimalist lyric/kinetic typography videos that match the raw, handwritten feel of the acoustic instrumentation. Approaches that would violently clash include high-energy dance choreography, vibrant hyper-pop aesthetics, sci-fi/cyberpunk action, or fast-paced rhythmic montages, as they would overwhelm the song's sparse, vulnerable nature.",
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video introduces a visual shift, cut, or increase in visual energy at the 16.0s section change to match the fuller guitar strumming."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The visuals noticeably drop in intensity, switch to slower motion, or darken in mood to reflect the sparse acoustic breakdown at 67.2s."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "visual",
+   "check": "During the instrumental break starting at 35.2s, the video features a distinct scene or avoids showing lip-syncing vocals."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "text",
+   "check": "If on-screen text is used, the words 'want from me' appear correctly timed around 16.0s or 41.6s."
+  }
+ ],
+ "anchors": {
+  "UN": "1: The concept completely ignores the stripped-back, acoustic nature of the song, opting for mismatched high energy; 3: The concept fits the sad tone but feels a bit generic and misses the raw intimacy of the performance; 5: The chosen concept perfectly complements the vulnerable, bare-bones aesthetic, whether through a moody narrative, intimate performance, or elegant typography.",
+  "EM": "1: The visual mood is bright, upbeat, or emotionally flat, completely clashing with the heartbreak of the track; 3: The video conveys basic sadness but remains emotionally static, missing the progression from vulnerability to pleading; 5: The video masterfully captures the emotional arc, moving from raw vulnerability to frustrated pleading, and resolving in quiet melancholy.",
+  "RH": "1: The visual edits are erratic and completely ignore the tempo and acoustic strumming patterns; 3: The cuts generally align with the beat, but feel too rigid or miss the organic, flowing nature of the acoustic guitar; 5: The visual rhythm is tightly and naturally locked to the guitar's strumming accents and the singer's vocal phrasing.",
+  "ST": "1: The video maintains a flat visual structure, ignoring the distinct shifts into the choruses and the breakdown; 3: The video marks the main chorus at 16.0s but fails to adapt to the instrumental break at 35.2s or the breakdown at 67.2s; 5: The visuals clearly delineate all sections, rising in energy at 16.0s, shifting focus at 35.2s, and powerfully pulling back at 67.2s.",
+  "LY": "1: On-screen lyrics are full of errors or lip-syncing is wildly out of time; 3: Lyrics and lip-sync are mostly accurate but lack polish, or visual metaphors for heartbreak are present but cliché; 5: Lyrics are flawlessly timed and readable, lip-sync is perfect, or the visual storytelling deeply resonates with the themes of hiding pain and emotional desperation without relying on words.",
+  "VA": "1: The video suffers from obvious AI glitches, muddy rendering, or a lack of cohesive art direction; 3: The visuals are competent and clean but may look slightly like generic stock footage without a distinct colour grade; 5: The video boasts high-end, cinematic visuals with deliberate lighting and moody colour grading that elevate the intimate atmosphere.",
+  "CR": "1: A basic, uninspired slideshow or completely standard audio visualiser; 3: A standard, expected interpretation of an acoustic breakup song (e.g., someone looking sadly out a rainy window); 5: A highly creative, memorable visual metaphor that adds a fresh, artistic dimension to the concept of being emotionally 'stripped' and vulnerable."
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 0.0,
+   "kind": "sung line starts: \"so how could you be such an ass\""
+  },
+  {
+   "t": 2.1,
+   "kind": "sung line starts: \"i know where the good boys go to hide the pain hide the pain\""
+  },
+  {
+   "t": 8.6,
+   "kind": "sung line starts: \"but that don't mean i die when you don't\""
+  },
+  {
+   "t": 16.0,
+   "kind": "section change"
+  },
+  {
+   "t": 16.0,
+   "kind": "sung line starts: \"what is it that you want from me want from me\""
+  },
+  {
+   "t": 22.3,
+   "kind": "sung line starts: \"what is it that you want from me want from me\""
+  },
+  {
+   "t": 28.1,
+   "kind": "sung line starts: \"i want you to feel i want you to feel\""
+  },
+  {
+   "t": 34.3,
+   "kind": "sung line starts: \"i want you to feel i want you to feel\""
+  },
+  {
+   "t": 35.2,
+   "kind": "section change"
+  },
+  {
+   "t": 41.6,
+   "kind": "sung line starts: \"what is it that you want from me want from me\""
+  },
+  {
+   "t": 47.9,
+   "kind": "sung line starts: \"what is it that you want from me want from me\""
+  },
+  {
+   "t": 53.5,
+   "kind": "sung line starts: \"i want you to feel i want you to feel\""
+  },
+  {
+   "t": 59.9,
+   "kind": "sung line starts: \"i want you to feel i want you to feel\""
+  },
+  {
+   "t": 67.2,
+   "kind": "section change"
+  },
+  {
+   "t": 67.3,
+   "kind": "sung line starts: \"good boys go to hide the pain hide the pain\""
+  },
+  {
+   "t": 72.6,
+   "kind": "sung line starts: \"cause you won't see me cry when i'm done\""
+  },
+  {
+   "t": 78.8,
+   "kind": "sung line starts: \"i know where the good boys go to hide the pain hide the pain\""
+  },
+  {
+   "t": 85.4,
+   "kind": "sung line starts: \"but that don't mean i die when you don't\""
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video introduces a visual shift, cut, or increase in visual energy at the 16.0s section change to match the fuller guitar strumming."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The visuals noticeably drop in intensity, switch to slower motion, or darken in mood to reflect the sparse acoustic breakdown at 67.2s."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "visual",
+   "check": "During the instrumental break starting at 35.2s, the video features a distinct scene or avoids showing lip-syncing vocals."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "text",
+   "check": "If on-screen text is used, the words 'want from me' appear correctly timed around 16.0s or 41.6s."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 90.0,
+  "approx_bpm": 75,
+  "section_changes_at_s": [
+   16.02,
+   35.22,
+   67.24
+  ],
+  "sung_lines": [
+   {
+    "start": 0.0,
+    "end": 1.913,
+    "text": "so how could you be such an ass"
+   },
+   {
+    "start": 2.09,
+    "end": 8.618,
+    "text": "i know where the good boys go to hide the pain hide the pain"
+   },
+   {
+    "start": 8.618,
+    "end": 15.082,
+    "text": "but that don't mean i die when you don't"
+   },
+   {
+    "start": 15.965,
+    "end": 21.719,
+    "text": "what is it that you want from me want from me"
+   },
+   {
+    "start": 22.315,
+    "end": 27.742,
+    "text": "what is it that you want from me want from me"
+   },
+   {
+    "start": 28.113,
+    "end": 32.875,
+    "text": "i want you to feel i want you to feel"
+   },
+   {
+    "start": 34.281,
+    "end": 39.435,
+    "text": "i want you to feel i want you to feel"
+   },
+   {
+    "start": 41.575,
+    "end": 47.293,
+    "text": "what is it that you want from me want from me"
+   },
+   {
+    "start": 47.857,
+    "end": 53.515,
+    "text": "what is it that you want from me want from me"
+   },
+   {
+    "start": 53.515,
+    "end": 58.944,
+    "text": "i want you to feel i want you to feel"
+   },
+   {
+    "start": 59.915,
+    "end": 66.435,
+    "text": "i want you to feel i want you to feel"
+   },
+   {
+    "start": 67.27,
+    "end": 72.598,
+    "text": "good boys go to hide the pain hide the pain"
+   },
+   {
+    "start": 72.598,
+    "end": 77.252,
+    "text": "cause you won't see me cry when i'm done"
+   },
+   {
+    "start": 78.825,
+    "end": 85.442,
+    "text": "i know where the good boys go to hide the pain hide the pain"
+   },
+   {
+    "start": 85.442,
+    "end": 90.0,
+    "text": "but that don't mean i die when you don't"
+   }
+  ]
+ }
+}

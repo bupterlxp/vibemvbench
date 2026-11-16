@@ -1,0 +1,343 @@
+{
+ "profile": "The song is a high-energy, gritty French rock track featuring driving distorted guitars, a punchy bassline, heavy drum grooves, and a powerful, aggressive female lead vocal. The mood is rebellious, angry, and darkly sarcastic. Lyrically, it personifies 'Mother Nature' as a vengeful entity who is tired of humanity's 'rot' (pourriture) and cynically threatens apocalyptic revenge disguised as leisure activities (taking a bath/floods, sunbathing/heatwaves). The energy arc starts at a high peak, drops into a more stripped-back, tense rhythmic groove at 17.5s for the verse, explodes back into full heavy instrumentation at 45.8s for the chorus, moves into a driving, urgent bridge at 69.8s, and abruptly ends at 89.5s.",
+ "key_moments": [
+  {
+   "t": 1.4,
+   "what": "The track establishes its high-energy rock instrumental and the aggressive, gritty lead vocal begins her declaration."
+  },
+  {
+   "t": 17.5,
+   "what": "The heavy distorted guitars drop out, shifting the song into a tense, bass-and-drum-driven rhythmic groove for the verse."
+  },
+  {
+   "t": 45.8,
+   "what": "The heavy guitars and full instrumentation crash back in instantly, returning the track to its peak aggressive energy."
+  },
+  {
+   "t": 69.8,
+   "what": "The bridge section begins, introducing a new, more urgent guitar and rhythm pattern that builds tension."
+  },
+  {
+   "t": 89.5,
+   "what": "The song and all instrumentation stop completely and abruptly."
+  }
+ ],
+ "fitting_styles": "A Narrative style would work exceptionally well if it portrays a gritty, badass personification of Mother Nature enacting dark, eco-apocalyptic revenge. A Performance video set in a dark, polluted, or dystopian environment would match the heavy rock energy. Kinetic typography is highly suitable to emphasize the aggressive, sarcastic lyrics using distressed, punk-inspired fonts. Abstract visuals contrasting organic nature textures with harsh, toxic, or industrial elements (rust, oil, fire) would also fit perfectly. Soft, pastoral, literal 'nature documentary' visuals, bright pop aesthetics, or overly clean, corporate looks would clash terribly with the track's angry, sarcastic rock attitude.",
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At exactly 17.5s, the visuals transition sharply to reflect the sudden drop in heavy guitars (e.g., shifting to a darker scene, a change in lighting, or focusing on a single character/element to match the stripped-back groove)."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At exactly 45.8s, the visual energy explodes (e.g., rapid cuts, a sudden burst of light, or the introduction of chaotic elements) to mirror the heavy guitars crashing back in."
+  },
+  {
+   "id": "S3",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video's imagery must incorporate a clear visual contrast between nature/organic elements and destruction, pollution, grime, or danger, reflecting the 'mère nature' vs 'pourriture' theme."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "At 89.5s, the video abruptly cuts to black or halts all on-screen action perfectly in sync with the sudden end of the audio track."
+  }
+ ],
+ "anchors": {
+  "UN": "1: A lighthearted, peaceful, or purely synthetic pop video that entirely ignores the gritty rock genre and angry eco-revenge lyrics. 3: A standard rock performance or literal nature video that captures the energy but misses the specific cynical, dark humor of the lyrics. 5: Visuals that perfectly capture the gritty rock attitude, high energy, and the cynical, aggressive personification of a vengeful Mother Nature.",
+  "EM": "1: The mood is serene, happy, or entirely flat, contradicting the track's aggression and sarcasm. 3: Shows general high energy but doesn't capture the specific blend of anger, tension, and dark humor. 5: The picture consistently radiates rebellious, angry, and darkly sarcastic energy, perfectly tracking the song's aggressive outbursts and tense verses.",
+  "RH": "1: Cuts and movements are entirely disconnected from the driving rock drumbeat. 3: Visuals align with the basic tempo but miss the heavy accents on the kick and snare or the syncopated vocal rhythms. 5: Editing and on-screen motion feel firmly locked to the driving drum groove, with sharp cuts hitting the snare and kick accents perfectly.",
+  "ST": "1: The video ignores the massive dynamic shifts, particularly the drop at 17.5s and the explosion at 45.8s. 3: The video changes at the major sections but the visual transitions lack the intense impact required by the heavy guitar entrances and exits. 5: The visual narrative, lighting, or editing pace shifts dramatically exactly at 17.5s and 45.8s, perfectly mirroring the arrangement's extreme dynamic changes.",
+  "LY": "1: Text is entirely wrong, or imagery depicts a literal human mother in a domestic setting, completely misinterpreting the metaphor. 3: Text is mostly correct but poorly timed, or imagery broadly relates to nature but misses the 'pourriture' (rot/decay) and revenge aspects. 5: Lyrics are perfectly synced and styled aggressively, or imagery brilliantly conceptualizes Mother Nature taking dark, apocalyptic revenge (e.g., a toxic flood, a scorching heatwave).",
+  "VA": "1: The video is poorly rendered, blurry, or looks like a disjointed series of random, unpolished AI generations. 3: The video is visually coherent but somewhat generic, lacking the specific color grading or dynamic lighting needed to suit a heavy rock aesthetic. 5: High-quality, polished visuals with excellent lighting, gritty color grading, and dynamic composition that enhance the rock vibe without looking muddy or cheap.",
+  "CR": "1: A generic slideshow of forests or a basic, static band performance template with no distinct theme. 3: A competent but predictable rock video or a literal, unimaginative interpretation of the environmental lyrics. 5: A highly original concept, such as a stylized, animated eco-apocalypse or a highly symbolic, fashion-forward personification of a toxic, vengeful Mother Nature."
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 1.4,
+   "kind": "sung line starts: \"je suis là je suis la mère nature\""
+  },
+  {
+   "t": 5.7,
+   "kind": "sung line starts: \"j'en suis là je suis la terre mature\""
+  },
+  {
+   "t": 10.1,
+   "kind": "sung line starts: \"je n'suis pas de bonne augure c'est sûr\""
+  },
+  {
+   "t": 14.4,
+   "kind": "sung line starts: \"j'en suis las de toute ta pourriture\""
+  },
+  {
+   "t": 17.5,
+   "kind": "section change"
+  },
+  {
+   "t": 22.1,
+   "kind": "sung line starts: \"j'ai bien envie de me couler un bain\""
+  },
+  {
+   "t": 26.5,
+   "kind": "sung line starts: \"prend ta combi' ton masque et tuba\""
+  },
+  {
+   "t": 30.8,
+   "kind": "sung line starts: \"apres j'irai me dorer la pilule\""
+  },
+  {
+   "t": 35.2,
+   "kind": "sung line starts: \"prend tes lunettes ta casquette et ton pull\""
+  },
+  {
+   "t": 39.6,
+   "kind": "sung line starts: \"des fois que je change d'avis\""
+  },
+  {
+   "t": 43.9,
+   "kind": "sung line starts: \"j'prévois jamais toutes mes envies\""
+  },
+  {
+   "t": 45.8,
+   "kind": "section change"
+  },
+  {
+   "t": 49.4,
+   "kind": "sung line starts: \"je suis là je suis la mère nature\""
+  },
+  {
+   "t": 53.7,
+   "kind": "sung line starts: \"j'en suis là je suis la terre mature\""
+  },
+  {
+   "t": 58.1,
+   "kind": "sung line starts: \"je n'suis pas de bonne augure c'est sûr\""
+  },
+  {
+   "t": 62.4,
+   "kind": "sung line starts: \"j'en suis las de toute ta pourriture\""
+  },
+  {
+   "t": 69.8,
+   "kind": "section change"
+  },
+  {
+   "t": 70.1,
+   "kind": "sung line starts: \"j'aime trop la vie pour te laisser mourir\""
+  },
+  {
+   "t": 74.4,
+   "kind": "sung line starts: \"j'aime trop la mort pour te laisser sourire\""
+  },
+  {
+   "t": 78.6,
+   "kind": "section change"
+  },
+  {
+   "t": 78.8,
+   "kind": "sung line starts: \"même si je te le laisse celui là\""
+  },
+  {
+   "t": 83.2,
+   "kind": "sung line starts: \"fais attention à celui qui va là\""
+  },
+  {
+   "t": 88.6,
+   "kind": "sung line starts: \"je suis là je suis la mère nature\""
+  },
+  {
+   "t": 89.5,
+   "kind": "section change"
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At exactly 17.5s, the visuals transition sharply to reflect the sudden drop in heavy guitars (e.g., shifting to a darker scene, a change in lighting, or focusing on a single character/element to match the stripped-back groove)."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At exactly 45.8s, the visual energy explodes (e.g., rapid cuts, a sudden burst of light, or the introduction of chaotic elements) to mirror the heavy guitars crashing back in."
+  },
+  {
+   "id": "S3",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video's imagery must incorporate a clear visual contrast between nature/organic elements and destruction, pollution, grime, or danger, reflecting the 'mère nature' vs 'pourriture' theme."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "At 89.5s, the video abruptly cuts to black or halts all on-screen action perfectly in sync with the sudden end of the audio track."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 90.0,
+  "approx_bpm": 110,
+  "section_changes_at_s": [
+   17.46,
+   45.82,
+   69.82,
+   78.56,
+   89.48
+  ],
+  "sung_lines": [
+   {
+    "start": 1.376,
+    "end": 5.546,
+    "text": "je suis là je suis la mère nature"
+   },
+   {
+    "start": 5.707,
+    "end": 10.078,
+    "text": "j'en suis là je suis la terre mature"
+   },
+   {
+    "start": 10.078,
+    "end": 14.436,
+    "text": "je n'suis pas de bonne augure c'est sûr"
+   },
+   {
+    "start": 14.436,
+    "end": 20.501,
+    "text": "j'en suis las de toute ta pourriture"
+   },
+   {
+    "start": 22.118,
+    "end": 25.664,
+    "text": "j'ai bien envie de me couler un bain"
+   },
+   {
+    "start": 26.463,
+    "end": 29.957,
+    "text": "prend ta combi' ton masque et tuba"
+   },
+   {
+    "start": 30.835,
+    "end": 34.167,
+    "text": "apres j'irai me dorer la pilule"
+   },
+   {
+    "start": 35.171,
+    "end": 39.17,
+    "text": "prend tes lunettes ta casquette et ton pull"
+   },
+   {
+    "start": 39.566,
+    "end": 43.132,
+    "text": "des fois que je change d'avis"
+   },
+   {
+    "start": 43.912,
+    "end": 48.395,
+    "text": "j'prévois jamais toutes mes envies"
+   },
+   {
+    "start": 49.364,
+    "end": 53.594,
+    "text": "je suis là je suis la mère nature"
+   },
+   {
+    "start": 53.705,
+    "end": 58.084,
+    "text": "j'en suis là je suis la terre mature"
+   },
+   {
+    "start": 58.084,
+    "end": 62.288,
+    "text": "je n'suis pas de bonne augure c'est sûr"
+   },
+   {
+    "start": 62.42,
+    "end": 68.867,
+    "text": "j'en suis las de toute ta pourriture"
+   },
+   {
+    "start": 70.142,
+    "end": 73.638,
+    "text": "j'aime trop la vie pour te laisser mourir"
+   },
+   {
+    "start": 74.441,
+    "end": 78.34,
+    "text": "j'aime trop la mort pour te laisser sourire"
+   },
+   {
+    "start": 78.849,
+    "end": 82.237,
+    "text": "même si je te le laisse celui là"
+   },
+   {
+    "start": 83.167,
+    "end": 87.531,
+    "text": "fais attention à celui qui va là"
+   },
+   {
+    "start": 88.62,
+    "end": 90.0,
+    "text": "je suis là je suis la mère nature"
+   }
+  ]
+ }
+}

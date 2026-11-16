@@ -1,0 +1,53 @@
+{
+ "task_id": "jl_006_90",
+ "song_id": "jl_006",
+ "clip_start": 140.96,
+ "clip_end": 230.96,
+ "length_class": 90,
+ "difficulty_tier": "medium",
+ "spec": {
+  "resolution": [
+   1920,
+   1080
+  ],
+  "fps": 30,
+  "duration_tol": 0.1,
+  "duration": 90.0
+ },
+ "song": {
+  "title": "Feel (Stripped)",
+  "artist": "Cortez",
+  "genre": "Pop",
+  "language": "en",
+  "license": "CC BY",
+  "url": "https://www.jamendo.com/track/1481500/feel-stripped"
+ },
+ "lyrics_text": [
+  "so how could you be such an ass",
+  "i know where the good boys go to hide the pain hide the pain",
+  "but that don't mean i die when you don't",
+  "what is it that you want from me want from me",
+  "what is it that you want from me want from me",
+  "i want you to feel i want you to feel",
+  "i want you to feel i want you to feel",
+  "what is it that you want from me want from me",
+  "what is it that you want from me want from me",
+  "i want you to feel i want you to feel",
+  "i want you to feel i want you to feel",
+  "good boys go to hide the pain hide the pain",
+  "cause you won't see me cry when i'm done",
+  "i know where the good boys go to hide the pain hide the pain",
+  "but that don't mean i die when you don't"
+ ],
+ "prompt": "Make a music video for this song. Make it as good as you possibly can.",
+ "free": true,
+ "difficulty": {
+  "d_rhythm": 0.63,
+  "d_structure": -0.78,
+  "d_dynamics": -0.16,
+  "d_lyrics": 1.0,
+  "d_genre": 0.0,
+  "d_length": 0.11,
+  "difficulty": 0.132
+ }
+}

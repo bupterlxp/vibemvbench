@@ -1,0 +1,162 @@
+{
+ "profile": "Instrumentation features acoustic guitar, drums, bass, and lead electric/acoustic guitars. There are no vocals; it is an instrumental track. The mood is upbeat, cheerful, driving, folksy, sunny, and optimistic. There is no lyrical theme. The energy arc starts with a brief solo acoustic guitar, drops into a steady, upbeat full-band groove at 3.1s, maintains this energetic pace with a slight lift at 44.2s, introduces a lead guitar solo at 64.7s, and returns to the main groove at 74.2s.",
+ "key_moments": [
+  {
+   "t": 3.1,
+   "what": "The full band (drums, bass, additional guitars) kicks in, establishing a driving, upbeat rhythm after the solo acoustic intro."
+  },
+  {
+   "t": 44.2,
+   "what": "A section change occurs, introducing a new chord progression and a slightly lifted, chorus-like feel."
+  },
+  {
+   "t": 64.7,
+   "what": "A lead guitar solo begins, adding a new melodic layer over the steady rhythm."
+  },
+  {
+   "t": 74.2,
+   "what": "The guitar solo concludes, and the song transitions back to the main rhythmic pattern."
+  }
+ ],
+ "fitting_styles": "Suitable approaches include narrative (e.g., a road trip, outdoor adventure, or sunny day out) that fits the driving, folksy energy; performance (a band playing enthusiastically in a bright, casual setting); or a rhythmic montage (fast-paced travel or nature footage cut to the driving strumming and drum beat). Clashing approaches would be dark, moody, or slow-paced abstract visuals, heavy sci-fi, aggressive action, or lyric/kinetic typography videos (since the track is instrumental).",
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The picture marks the full band entry at ~3.1 s (e.g., with a cut, sudden movement, or introduction of new elements)."
+  },
+  {
+   "id": "S2",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The picture shows a visual shift, new scene, or change in energy for the section change at ~44.2 s."
+  },
+  {
+   "id": "S3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The visual narrative or focus responds to the guitar solo starting at ~64.7 s (e.g., highlighting a specific character, instrument, or changing the editing pace)."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The picture marks the end of the solo and the return to the main section at ~74.2 s."
+  }
+ ],
+ "anchors": {
+  "UN": "1: The video uses a dark, slow, or aggressive concept that completely clashes with the upbeat, acoustic-pop instrumental. 3: The video has a generally positive vibe but feels a bit generic or misses the specific folksy, driving nature of the track. 5: The video perfectly captures the sunny, driving, acoustic-pop energy through a fitting concept like a road trip, a lively band performance, or a bright rhythmic montage.",
+  "EM": "1: The visuals feel gloomy, tense, or completely disconnected from the cheerful, optimistic mood. 3: The visuals are generally positive but lack the infectious, driving enthusiasm of the music. 5: The visuals consistently radiate the upbeat, sunny, and optimistic emotion of the track, matching its steady, cheerful energy.",
+  "RH": "1: The edits and visual movements ignore the fast, driving acoustic strumming and drum beat. 3: The video cuts to the beat occasionally but misses the continuous, driving rhythmic feel, or becomes too repetitive. 5: The visual pacing, cuts, and motion accents are tightly locked to the fast strumming and drum groove, maintaining a dynamic and engaging flow.",
+  "ST": "1: The video ignores all major structural changes, playing out as a single monotonous sequence. 3: The video reacts to the initial drop at 3.1s but misses the chorus at 44.2s or the solo at 64.7s. 5: The video clearly shifts visually at the full band entry (3.1s), the chorus (44.2s), the guitar solo (64.7s), and the return (74.2s).",
+  "LY": "1: The video hallucinates lyrics for this instrumental track, displaying text as if someone is singing. 3: The video includes text that is somewhat distracting, or literalizes the title 'River Went Dry' in a gloomy way that clashes with the upbeat audio. 5: The video uses no text (N/A), or if it does, the typography perfectly complements the upbeat instrumental vibe without hallucinating lyrics.",
+  "VA": "1: The video is plagued by severe glitches, poor resolution, or looks like a cheap placeholder. 3: The video is reasonably clear but suffers from some awkward AI artifacts, inconsistent lighting, or generic composition. 5: The video features crisp, high-quality visuals with strong composition, consistent lighting, and a polished, professional look.",
+  "CR": "1: The video is a basic, uninspired template or a static image with minimal movement. 3: The video uses a standard upbeat concept (like a generic drive) but lacks a unique twist or memorable visual style. 5: The video elevates the upbeat instrumental with a highly imaginative concept, surprising visual metaphors, or a uniquely stylized execution."
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 3.1,
+   "kind": "section change"
+  },
+  {
+   "t": 44.2,
+   "kind": "section change"
+  },
+  {
+   "t": 64.7,
+   "kind": "section change"
+  },
+  {
+   "t": 74.2,
+   "kind": "section change"
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The picture marks the full band entry at ~3.1 s (e.g., with a cut, sudden movement, or introduction of new elements)."
+  },
+  {
+   "id": "S2",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The picture shows a visual shift, new scene, or change in energy for the section change at ~44.2 s."
+  },
+  {
+   "id": "S3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The visual narrative or focus responds to the guitar solo starting at ~64.7 s (e.g., highlighting a specific character, instrument, or changing the editing pace)."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The picture marks the end of the solo and the return to the main section at ~74.2 s."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 90.0,
+  "approx_bpm": 76,
+  "section_changes_at_s": [
+   3.14,
+   44.22,
+   64.72,
+   74.2
+  ],
+  "sung_lines": []
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "task_id": "jl_018_90",
+ "song_id": "jl_018",
+ "clip_start": 137.439,
+ "clip_end": 227.439,
+ "length_class": 90,
+ "difficulty_tier": "hard",
+ "spec": {
+  "resolution": [
+   1920,
+   1080
+  ],
+  "fps": 30,
+  "duration_tol": 0.1,
+  "duration": 90.0
+ },
+ "song": {
+  "title": "Esencia",
+  "artist": "NANDOMALO",
+  "genre": "Folk",
+  "language": "es",
+  "license": "CC BY-SA",
+  "url": "https://www.jamendo.com/track/1348566/esencia/lyrics"
+ },
+ "lyrics_text": [
+  "se encomineda al padre santo y se toma el cafè colào",
+  "se encomineda al padre santo y se toma el cafè colào",
+  "alista ya su canoa y le monta la atarraya",
+  "alista ya su canoa y le monta la atarraya",
+  "le da un besito a la vieja y no olvida su guitarra",
+  "le da un besito a la vieja y no olvida su guitarra",
+  "y que cantaba mi abuelo",
+  "al irse de madrugada",
+  "que cantaba mi abuelo",
+  "la cumbia que hoy ya no cantan",
+  "que cantaba mi abuelo",
+  "al irse de madrugada",
+  "que cantaba mi abuelo",
+  "la cumbia que hoy ya no cantan",
+  "hoy conservo la guitarra su canoa y la atarraya",
+  "le doy un beso a mi negra y me voy de madrugada",
+  "y canto yo las canciones las que le viejo me enseñaba",
+  "hoy entono las canciones las cumbias que el me enseñaba",
+  "y que cantaba mi abuelo",
+  "de noche con su guitarra",
+  "que cantaba mi abuelo"
+ ],
+ "prompt": "Make a music video for this song. Make it as good as you possibly can.",
+ "free": true,
+ "difficulty": {
+  "d_rhythm": -0.76,
+  "d_structure": 1.51,
+  "d_dynamics": -0.76,
+  "d_lyrics": 1.37,
+  "d_genre": 1.0,
+  "d_length": 0.41,
+  "difficulty": 0.461
+ }
+}

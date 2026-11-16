@@ -1,0 +1,9 @@
+# "Tools" condition adds a music-analysis CLI on top of the base sandbox (isolated venv so it cannot clash with system pip).
+FROM vmb-sandbox:base
+RUN apt-get update && apt-get install -y --no-install-recommends python3-venv && rm -rf /var/lib/apt/lists/* && \
+    python3 -m venv /opt/mvtools-venv && \
+    /opt/mvtools-venv/bin/pip install -q --upgrade pip && /opt/mvtools-venv/bin/pip install --no-cache-dir --extra-index-url https://download.pytorch.org/whl/cpu torch torchaudio && \
+    /opt/mvtools-venv/bin/pip install --no-cache-dir librosa soundfile scipy beat_this
+COPY mvtools /opt/mvtools
+RUN printf '#!/bin/sh\nexec /opt/mvtools-venv/bin/python /opt/mvtools/mvtools.py "$@"\n' > /usr/local/bin/mvtools && chmod +x /usr/local/bin/mvtools && \
+    su agent -c "/opt/mvtools-venv/bin/python -c 'from beat_this.inference import File2Beats; File2Beats(checkpoint_path=\"final0\", device=\"cpu\", dbn=False)'"

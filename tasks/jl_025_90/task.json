@@ -1,0 +1,63 @@
+{
+ "task_id": "jl_025_90",
+ "song_id": "jl_025",
+ "clip_start": 9.73,
+ "clip_end": 99.73,
+ "length_class": 90,
+ "difficulty_tier": "medium",
+ "spec": {
+  "resolution": [
+   1920,
+   1080
+  ],
+  "fps": 30,
+  "duration_tol": 0.1,
+  "duration": 90.0
+ },
+ "song": {
+  "title": "Le musée d'air contemporain",
+  "artist": "KPTN",
+  "genre": "Jazz",
+  "language": "fr",
+  "license": "CC BY",
+  "url": "https://www.jamendo.com/track/1839762/le-musee-d-air-contemporain/lyrics"
+ },
+ "lyrics_text": [
+  "c'était l'hiver",
+  "le jour de la sortie scolaire",
+  "au musée d'air contemporain",
+  "la lutte des classes",
+  "pour les professeurs qui menacent",
+  "les gamins qui ne contemplent rien",
+  "on voyait dans des petites fenêtres",
+  "des photos pas très nettes",
+  "de l'état de l'air de la planète",
+  "des animaux dans des bocaux",
+  "des arbres dans des frigos",
+  "et puis moi je trouvais ça beau",
+  "un guide austère",
+  "nous dépeignait l'histoire de l'air",
+  "la période bleue la période noire",
+  "comme si la planète",
+  "était une grande palette",
+  "avec le trou de la couche de jaune",
+  "on voyait dans des petites fenêtres",
+  "des photos pas très nettes",
+  "de l'état de l'air de la planète",
+  "des animaux dans des bocaux",
+  "des arbres dans des frigos",
+  "et puis moi je trouvais ça chouette"
+ ],
+ "prompt": "Make a music video for this song. Make it as good as you possibly can.",
+ "free": true,
+ "difficulty": {
+  "d_rhythm": -0.19,
+  "d_structure": 0.49,
+  "d_dynamics": -0.67,
+  "d_lyrics": 1.44,
+  "d_genre": 1.0,
+  "d_length": -0.68,
+  "difficulty": 0.233
+ },
+ "alignment_fix": "2026-11-07: clip window corrected from 85.03 to 9.73 (audio/rubric were built for this window)"
+}

@@ -1,0 +1,284 @@
+{
+ "profile": "The song is a high-energy, German-language punk/hard rock track characterized by driving, distorted electric guitars, an upbeat, aggressive drum groove, and passionate, gritty male lead vocals. The mood is rebellious, determined, and deeply uplifting. Lyrically, it centers on themes of liberation, breaking out of a metaphorical 'cage', following one's heart, and encouraging someone else to build their own new world. The energy arc starts hot with a fast instrumental intro, maintains a driving momentum through the verse, lifts into a soaring, anthemic chorus, shifts slightly for a passionate bridge, and culminates in a fiery instrumental guitar solo section.",
+ "key_moments": [
+  {
+   "t": 22.8,
+   "what": "The male lead vocals enter ('greif die chance'), transitioning the track from the instrumental intro into the first verse."
+  },
+  {
+   "t": 46.0,
+   "what": "The chorus hits ('ich folge meinem herzen'); the instrumentation opens up, cymbal crashes emphasize the downbeat, and the energy peaks."
+  },
+  {
+   "t": 70.0,
+   "what": "The bridge section begins ('erfüllung deiner träume'); the chord progression and rhythm shift, creating a slightly more urgent, reflective dynamic."
+  },
+  {
+   "t": 86.0,
+   "what": "The vocals end and the song transitions into an energetic instrumental guitar solo/outro."
+  }
+ ],
+ "fitting_styles": "Performance videos (a band rocking out in a gritty warehouse, garage, or vast open space) and narrative videos (a protagonist breaking free from a mundane, oppressive environment or literal confinement) are perfect for the genre and lyrics. Rhythmic montage or grunge-styled kinetic typography would also work incredibly well to match the fast tempo and emphasize the German lyrics. Clashing styles would include slow, serene nature documentaries, overly polished pop choreography, pastel/kawaii aesthetics, or lo-fi chillhop visuals, which would completely undermine the aggressive rock energy.",
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video responds to the entry of the vocals at 22.8 s (e.g., text appears, a singer is shown, or the scene transitions)."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "There is a noticeable shift in visual energy, lighting, or scene at the chorus drop at 46.0 s."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The video acknowledges the structural shift into the bridge at 70.0 s with a change in editing pace or visual focus."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "visual",
+   "check": "The visual narrative or focus changes to mark the start of the instrumental solo/outro at 86.0 s (e.g., vocals disappear from screen, focus shifts to a guitar)."
+  }
+ ],
+ "anchors": {
+  "UN": "1: The concept feels like a generic pop or ambient visualizer, completely missing the driving rock energy and themes of liberation. 3: The video captures the basic rock vibe but misses the specific uplifting, rebellious spirit of the chorus and lyrics. 5: The video perfectly matches the gritty, energetic rock genre and visibly embodies the rebellious, liberating spirit of breaking out of a cage.",
+  "EM": "1: The mood is flat, relaxed, or disconnected, completely failing to match the track's high energy. 3: The video conveys basic energy but doesn't follow the emotional lift from the determined verses to the soaring, liberated chorus. 5: The visual emotion accurately tracks the determination of the verses, the soaring triumph of the chorus, and the passionate urgency of the bridge.",
+  "RH": "1: Cuts and movements are sluggish or random, ignoring the fast, driving rock beat. 3: Some cuts land on the downbeats, but the editing lacks the dynamic punch and speed needed for punk/hard rock, feeling a bit monotonous. 5: The editing is tightly locked to the fast drum groove, with sharp motion accents hitting the snare and cymbal crashes to keep the energy explosive.",
+  "ST": "1: The video ignores the clear transitions between the intro, verse, chorus, and bridge. 3: The video changes at the chorus (46.0s) but misses other key shifts like the vocal entry or bridge. 5: The video clearly demarcates the instrumental intro, the verse (22.8s), the explosive chorus (46.0s), the bridge (70.0s), and the outro solo (86.0s).",
+  "LY": "1: Text is completely wrong, or the imagery strongly contradicts the lyrics' theme of freedom and cages. 3: Text has minor errors or timing issues, or the imagery vaguely relates to the theme without hitting specific metaphors (cages, flying). 5: Any text is perfectly accurate and timed; imagery strongly evokes themes of escaping cages, flying, breaking free, and following one's heart.",
+  "VA": "1: The video is blurry, glitchy, poorly lit, or looks like a cheap, generic template. 3: Decent quality but lacks a cohesive color grade or stylized look suitable for an edgy rock video. 5: High-quality, crisp rendering with strong composition and an intentional aesthetic (e.g., cinematic, grunge, high-contrast, or stylized animation) that elevates the song.",
+  "CR": "1: A basic, uninspired band performance or generic stock footage of people running. 3: A solid but standard rock video concept (e.g., standard narrative of quitting a job or a typical garage performance). 5: A highly original concept—perhaps a unique metaphorical representation of the 'cage' or a wildly creative mixed-media animation that amplifies the song's rebellious energy."
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 22.8,
+   "kind": "sung line starts: \"greif die chance\""
+  },
+  {
+   "t": 26.7,
+   "kind": "sung line starts: \"fasse mut\""
+  },
+  {
+   "t": 29.7,
+   "kind": "sung line starts: \"befreie dich auch\""
+  },
+  {
+   "t": 33.7,
+   "kind": "sung line starts: \"befreie dich von mir\""
+  },
+  {
+   "t": 45.6,
+   "kind": "sung line starts: \"ich folge meinem herzen\""
+  },
+  {
+   "t": 46.0,
+   "kind": "section change"
+  },
+  {
+   "t": 49.7,
+   "kind": "sung line starts: \"woher es auch ruft\""
+  },
+  {
+   "t": 53.7,
+   "kind": "sung line starts: \"und flieg mich frei von jedem zwang\""
+  },
+  {
+   "t": 57.4,
+   "kind": "sung line starts: \"ein käfig ist zu klein\""
+  },
+  {
+   "t": 61.7,
+   "kind": "sung line starts: \"für das was ich leben will\""
+  },
+  {
+   "t": 65.9,
+   "kind": "sung line starts: \"leben will\""
+  },
+  {
+   "t": 70.0,
+   "kind": "section change"
+  },
+  {
+   "t": 70.2,
+   "kind": "sung line starts: \"erfüllung deiner träume\""
+  },
+  {
+   "t": 74.5,
+   "kind": "sung line starts: \"will ich dir wünschen\""
+  },
+  {
+   "t": 77.8,
+   "kind": "sung line starts: \"erbaue dir eine neue welt\""
+  },
+  {
+   "t": 81.7,
+   "kind": "sung line starts: \"einen käfig der sie hält\""
+  },
+  {
+   "t": 86.0,
+   "kind": "section change"
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video responds to the entry of the vocals at 22.8 s (e.g., text appears, a singer is shown, or the scene transitions)."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "There is a noticeable shift in visual energy, lighting, or scene at the chorus drop at 46.0 s."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The video acknowledges the structural shift into the bridge at 70.0 s with a change in editing pace or visual focus."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "visual",
+   "check": "The visual narrative or focus changes to mark the start of the instrumental solo/outro at 86.0 s (e.g., vocals disappear from screen, focus shifts to a guitar)."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 90.0,
+  "approx_bpm": 120,
+  "section_changes_at_s": [
+   45.98,
+   70.02,
+   86.04
+  ],
+  "sung_lines": [
+   {
+    "start": 22.767,
+    "end": 25.762,
+    "text": "greif die chance"
+   },
+   {
+    "start": 26.701,
+    "end": 29.233,
+    "text": "fasse mut"
+   },
+   {
+    "start": 29.725,
+    "end": 33.37,
+    "text": "befreie dich auch"
+   },
+   {
+    "start": 33.672,
+    "end": 43.721,
+    "text": "befreie dich von mir"
+   },
+   {
+    "start": 45.65,
+    "end": 49.032,
+    "text": "ich folge meinem herzen"
+   },
+   {
+    "start": 49.706,
+    "end": 52.62,
+    "text": "woher es auch ruft"
+   },
+   {
+    "start": 53.717,
+    "end": 57.212,
+    "text": "und flieg mich frei von jedem zwang"
+   },
+   {
+    "start": 57.418,
+    "end": 60.985,
+    "text": "ein käfig ist zu klein"
+   },
+   {
+    "start": 61.69,
+    "end": 64.598,
+    "text": "für das was ich leben will"
+   },
+   {
+    "start": 65.907,
+    "end": 69.344,
+    "text": "leben will"
+   },
+   {
+    "start": 70.25,
+    "end": 73.357,
+    "text": "erfüllung deiner träume"
+   },
+   {
+    "start": 74.49,
+    "end": 77.486,
+    "text": "will ich dir wünschen"
+   },
+   {
+    "start": 77.767,
+    "end": 81.085,
+    "text": "erbaue dir eine neue welt"
+   },
+   {
+    "start": 81.709,
+    "end": 85.866,
+    "text": "einen käfig der sie hält"
+   }
+  ]
+ }
+}

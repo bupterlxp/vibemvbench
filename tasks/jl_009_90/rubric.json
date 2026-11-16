@@ -1,0 +1,349 @@
+{
+ "profile": "A French country-folk track featuring acoustic guitars, a steady bouncy rhythm, and male vocals. The mood is a darkly comic and tragic juxtaposition: the cheerful, rustic instrumentation contrasts with the grimly ironic lyrics. The song tells the story of a surfer friend who died of AIDS because he risked a one-night stand with a beautiful woman instead of buying a condom, lamenting that 'condoms are now one franc'. The energy remains consistently upbeat and folksy, driven by a storytelling arc that eventually breaks for an instrumental section before concluding with a final moral.",
+ "key_moments": [
+  {
+   "t": 0.0,
+   "what": "The track opens abruptly with the acoustic country arrangement and the immediate start of the vocals ('tu sais t'aurais pas du crever')."
+  },
+  {
+   "t": 18.3,
+   "what": "The song delivers its central, titular lyrical hook ('que les capotes sont à un franc')."
+  },
+  {
+   "t": 36.6,
+   "what": "The narrative shifts to a flashback, explaining the friend's fatal mistake with the beautiful girl."
+  },
+  {
+   "t": 60.3,
+   "what": "The vocals drop out completely as an extended instrumental or solo section begins."
+  },
+  {
+   "t": 73.1,
+   "what": "The vocals return for the final verse, delivering the song's tragicomic conclusion."
+  }
+ ],
+ "fitting_styles": "Narrative storytelling (depicting the surfing past and the fatal encounter with dark humor or nostalgia), kinetic lyric videos (to highlight the ironic and impactful storytelling), or a rustic country band performance intercut with narrative vignettes. Highly polished modern pop choreography, hyper-futuristic sci-fi, or ultra-serious melodramatic classical tragedy would clash with the acoustic, folksy, dark-comedy 90s nature of the song.",
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The visual action, performance, or lyric display begins immediately at 0.0, matching the abrupt start of the vocals."
+  },
+  {
+   "id": "S2",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "There is a visible cut, scene change, or narrative shift at the section change around 36.2 or 36.6 to match the shift in the story."
+  },
+  {
+   "id": "S3",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video stops showing lip-syncing or active lyric text during the instrumental section starting at 60.3, switching to B-roll, solos, or purely visual narrative."
+  },
+  {
+   "id": "S4",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video visually marks the return of the vocals at 73.1 with a cut, a new scene, or a return to the main singing/lyric focus."
+  }
+ ],
+ "anchors": {
+  "UN": {
+   "1": "The video ignores the country genre and tragicomic storytelling, applying a generic electronic or pop template that completely misses the tone.",
+   "3": "The video matches the acoustic country feel but glosses over the specific dark irony or the narrative elements of the lyrics.",
+   "5": "The video perfectly marries the upbeat, rustic country energy with the ironic, tragic tale of surfing, love, and death, demonstrating deep comprehension."
+  },
+  "EM": {
+   "1": "The emotion is flat or completely misaligned, coming across as overly aggressive or purely comedic without acknowledging the underlying tragedy.",
+   "3": "The video captures either the upbeat musical vibe or the tragic lyrics, but struggles to balance the song's specific brand of dark irony.",
+   "5": "The video successfully balances the nostalgic, cheerful musical tone with the melancholic and darkly ironic fate of the protagonist."
+  },
+  "RH": {
+   "1": "The visuals are disconnected from the steady, bouncy acoustic rhythm.",
+   "3": "The video follows the general tempo but misses the specific phrasing and bounce of the vocal delivery and acoustic strumming.",
+   "5": "Cuts, visual accents, and motion are tightly locked to the acoustic strumming and the rhythmic delivery of the vocals, creating a satisfying, foot-tapping flow."
+  },
+  "ST": {
+   "1": "The video ignores all structural changes, treating the song as one monotonous visual block.",
+   "3": "The video marks major shifts but misses finer structural details like the narrative transition at 36.6 or the instrumental break at 60.3.",
+   "5": "The visual structure clearly reflects the song's layout, distinctly changing gears for the flashback at 36.6, the instrumental at 60.3, and the final reprise at 73.1."
+  },
+  "LY": {
+   "1": "If used, text is wildly out of sync, or imagery completely contradicts the specific story of surfing, the girl, and the tragic outcome.",
+   "3": "Lyrics are mostly accurate but may lack typographical flair, or the imagery is broadly appropriate but generic, missing specific references like the 'francs' or the beach.",
+   "5": "Text (if present) is perfectly synced and stylised; imagery cleverly and accurately depicts the beach/surfing nostalgia, the seductive girl, and the tragic irony of the cheap condoms without being overly explicit or insensitive."
+  },
+  "VA": {
+   "1": "The video uses low-effort, glitchy AI generations or poorly rendered placeholder visuals that clash with the song's organic feel.",
+   "3": "The visuals are competent and clean but lack a distinct aesthetic suited to a dark 90s French country song.",
+   "5": "The video boasts a high-quality, polished look with a deliberate aesthetic choice (e.g., vintage film, sun-drenched 90s beach, rustic country, stylized animation) that elevates the song."
+  },
+  "CR": {
+   "1": "The video relies on a basic, uninspired template or a literal, unimaginative generation.",
+   "3": "A solid standard music video (e.g., simple lyric video or basic narrative) without any surprising conceptual twists.",
+   "5": "A highly creative approach that tackles the sensitive and darkly humorous subject matter in an original, visually engaging way, adding a unique directorial voice."
+  }
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 0.0,
+   "kind": "sung line starts: \"tu sais t'aurais pas du crever la vie n'était pas terminée\""
+  },
+  {
+   "t": 4.5,
+   "kind": "sung line starts: \"hier encore y'avait des vagues et puis du vent\""
+  },
+  {
+   "t": 9.1,
+   "kind": "sung line starts: \"on aurait pu aller surfer mais t'as préféré te casser\""
+  },
+  {
+   "t": 10.0,
+   "kind": "section change"
+  },
+  {
+   "t": 13.7,
+   "kind": "sung line starts: \"dans le jardin d'éden dans le jardin du temps\""
+  },
+  {
+   "t": 18.3,
+   "kind": "sung line starts: \"mais tu te dis que maintenant que les capotes sont à un franc\""
+  },
+  {
+   "t": 22.8,
+   "kind": "sung line starts: \"ton coeur battrait plus fort quand arrive l'été\""
+  },
+  {
+   "t": 24.8,
+   "kind": "section change"
+  },
+  {
+   "t": 27.4,
+   "kind": "sung line starts: \"tu sentirais encore le vent les grains de sable et puis le temps\""
+  },
+  {
+   "t": 32.0,
+   "kind": "sung line starts: \"couler entre tes doigts et glisser sous tes pieds\""
+  },
+  {
+   "t": 36.2,
+   "kind": "section change"
+  },
+  {
+   "t": 36.6,
+   "kind": "sung line starts: \"ok je sais bien qu'elle était super bandante à en crever\""
+  },
+  {
+   "t": 41.1,
+   "kind": "sung line starts: \"elle t'a entraîné dans son lit tu pouvais pas r'fuser\""
+  },
+  {
+   "t": 45.7,
+   "kind": "sung line starts: \"tu n'avais que deux francs sur toi et t'as pensé 'tention sida\""
+  },
+  {
+   "t": 46.5,
+   "kind": "section change"
+  },
+  {
+   "t": 50.3,
+   "kind": "sung line starts: \"mais qu'une fille belle comme ça était immunisée\""
+  },
+  {
+   "t": 60.3,
+   "kind": "section change"
+  },
+  {
+   "t": 71.7,
+   "kind": "section change"
+  },
+  {
+   "t": 73.1,
+   "kind": "sung line starts: \"et tu te dis que maintenant que les capotes sont à un franc\""
+  },
+  {
+   "t": 77.7,
+   "kind": "sung line starts: \"tu serais encore là et tu raconterais\""
+  },
+  {
+   "t": 82.3,
+   "kind": "sung line starts: \"que t'avais fait l'amour deux fois sans penser qu'avec cette fille là\""
+  },
+  {
+   "t": 86.8,
+   "kind": "sung line starts: \"l'amour et la mort étaient à jamais liés\""
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The visual action, performance, or lyric display begins immediately at 0.0, matching the abrupt start of the vocals."
+  },
+  {
+   "id": "S2",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "There is a visible cut, scene change, or narrative shift at the section change around 36.2 or 36.6 to match the shift in the story."
+  },
+  {
+   "id": "S3",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video stops showing lip-syncing or active lyric text during the instrumental section starting at 60.3, switching to B-roll, solos, or purely visual narrative."
+  },
+  {
+   "id": "S4",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video visually marks the return of the vocals at 73.1 with a cut, a new scene, or a return to the main singing/lyric focus."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 90.0,
+  "approx_bpm": 207,
+  "section_changes_at_s": [
+   9.98,
+   24.84,
+   36.24,
+   46.54,
+   60.26,
+   71.68
+  ],
+  "sung_lines": [
+   {
+    "start": 0.0,
+    "end": 4.537,
+    "text": "tu sais t'aurais pas du crever la vie n'était pas terminée"
+   },
+   {
+    "start": 4.537,
+    "end": 7.982,
+    "text": "hier encore y'avait des vagues et puis du vent"
+   },
+   {
+    "start": 9.148,
+    "end": 13.703,
+    "text": "on aurait pu aller surfer mais t'as préféré te casser"
+   },
+   {
+    "start": 13.703,
+    "end": 17.066,
+    "text": "dans le jardin d'éden dans le jardin du temps"
+   },
+   {
+    "start": 18.284,
+    "end": 22.807,
+    "text": "mais tu te dis que maintenant que les capotes sont à un franc"
+   },
+   {
+    "start": 22.807,
+    "end": 26.247,
+    "text": "ton coeur battrait plus fort quand arrive l'été"
+   },
+   {
+    "start": 27.391,
+    "end": 31.985,
+    "text": "tu sentirais encore le vent les grains de sable et puis le temps"
+   },
+   {
+    "start": 31.985,
+    "end": 35.224,
+    "text": "couler entre tes doigts et glisser sous tes pieds"
+   },
+   {
+    "start": 36.553,
+    "end": 41.122,
+    "text": "ok je sais bien qu'elle était super bandante à en crever"
+   },
+   {
+    "start": 41.122,
+    "end": 44.539,
+    "text": "elle t'a entraîné dans son lit tu pouvais pas r'fuser"
+   },
+   {
+    "start": 45.693,
+    "end": 50.184,
+    "text": "tu n'avais que deux francs sur toi et t'as pensé 'tention sida"
+   },
+   {
+    "start": 50.278,
+    "end": 53.664,
+    "text": "mais qu'une fille belle comme ça était immunisée"
+   },
+   {
+    "start": 73.063,
+    "end": 77.588,
+    "text": "et tu te dis que maintenant que les capotes sont à un franc"
+   },
+   {
+    "start": 77.657,
+    "end": 81.388,
+    "text": "tu serais encore là et tu raconterais"
+   },
+   {
+    "start": 82.264,
+    "end": 86.849,
+    "text": "que t'avais fait l'amour deux fois sans penser qu'avec cette fille là"
+   },
+   {
+    "start": 86.849,
+    "end": 90.0,
+    "text": "l'amour et la mort étaient à jamais liés"
+   }
+  ]
+ }
+}

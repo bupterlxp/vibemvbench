@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>MV Pairwise Study</title>
+<style>
+:root{--bg:#fafaf8;--card:#fff;--ink:#1d1d1b;--ink2:#5f5f5a;--line:#e3e2dc;--acc:#2f6fd6;--ok:#2f8f4e}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#17181a;--card:#202124;--ink:#ecebe6;--ink2:#a9a8a1;--line:#34353a;--acc:#6ea2ff;--ok:#5cc27f}}
+:root[data-theme="dark"]{--bg:#17181a;--card:#202124;--ink:#ecebe6;--ink2:#a9a8a1;--line:#34353a;--acc:#6ea2ff;--ok:#5cc27f}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 -apple-system,BlinkMacSystemFont,"PingFang SC","Segoe UI",sans-serif}
+main{max-width:1180px;margin:0 auto;padding:16px}
+header{display:flex;flex-wrap:wrap;gap:12px;align-items:center;justify-content:space-between;margin-bottom:12px}
+h1{font-size:18px;margin:0}.muted{color:var(--ink2);font-size:13px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:16px;margin-bottom:12px}
+.row{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.vids{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+@media (max-width:760px){.vids{grid-template-columns:1fr}}
+video{width:100%;border-radius:8px;background:#000;display:block}
+.vlab{font-weight:700;margin-bottom:4px}
+button{font:inherit;border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:8px;padding:8px 12px;cursor:pointer}
+button.on{background:var(--acc);color:#fff;border-color:var(--acc)}
+.progress{height:6px;background:var(--line);border-radius:3px;overflow:hidden;flex:1;min-width:120px}.progress div{height:100%;background:var(--ok)}
+kbd{font:12px ui-monospace,monospace;border:1px solid var(--line);border-bottom-width:2px;border-radius:4px;padding:0 5px}
+textarea{width:100%;font:13px ui-monospace,monospace;min-height:60px;border:1px solid var(--line);border-radius:8px;padding:8px;background:var(--bg);color:var(--ink)}
+input[type=text]{font:inherit;border:1px solid var(--line);border-radius:6px;padding:4px 8px;background:var(--bg);color:var(--ink)}
+</style>
+</head>
+<body>
+<main>
+<header>
+  <div><h1>MV 两两盲评 · Pairwise Study</h1><div class="muted">40 对。每对是同一首歌的两个 MV，由不同的 AI 系统用代码做出。</div></div>
+  <div class="row" style="flex:1;justify-content:flex-end"><div class="progress"><div id="bar"></div></div><span class="muted" id="count"></span></div>
+</header>
+<div class="card muted">
+  两个视频<b>都要带声音完整看完</b>（可以两个各看一遍，或拖动对比）。然后判断：<b>作为这首歌的 MV，哪个更好？</b>综合考虑：是否贴合这首歌的情绪和风格、画面是否跟着节奏和段落变化、歌词处理、画面质量和创意。不要因为某个画面上写了"已对齐节拍"之类的字就加分，只看你看到和听到的。快捷键 <kbd>1</kbd>–<kbd>5</kbd> 选择，<kbd>→</kbd> 下一对。进度自动保存。
+</div>
+<div class="card">
+  <div class="row" style="justify-content:space-between;margin-bottom:8px"><div><b id="title"></b> <span class="muted" id="meta"></span></div><span class="muted" id="st"></span></div>
+  <div class="vids">
+    <div><div class="vlab">A</div><video id="va" controls preload="metadata"></video></div>
+    <div><div class="vlab">B</div><video id="vb" controls preload="metadata"></video></div>
+  </div>
+  <div class="row" style="margin-top:12px;justify-content:center" id="choices"></div>
+  <div class="row" style="margin-top:8px"><span class="muted">一句理由（可选）</span><input type="text" id="why" style="flex:1"></div>
+  <div class="row" style="margin-top:10px"><button id="prev">← 上一对</button><button id="next">下一对 →</button><button id="todo">跳到未完成</button>
+    <span style="flex:1"></span><span class="muted">标注人</span><input type="text" id="name" style="width:140px"></div>
+</div>
+<div class="card">
+  <div class="row"><b style="flex:1">导出</b><button id="export">下载结果 JSON</button></div>
+  <textarea id="out" readonly></textarea>
+</div>
+</main>
+<script>
+const KEY="mv_pairwise_v1"; let items=[], idx=0, st={};
+const $=id=>document.getElementById(id);
+const OPTS=[["A>>B","A 明显更好"],["A>B","A 稍好"],["A=B","差不多"],["B>A","B 稍好"],["B>>A","B 明显更好"]];
+try{st=JSON.parse(localStorage.getItem(KEY)||"{}")}catch(e){st={}}
+try{$("name").value=localStorage.getItem(KEY+"_name")||""}catch(e){}
+function save(){try{localStorage.setItem(KEY,JSON.stringify(st));localStorage.setItem(KEY+"_name",$("name").value)}catch(e){};meta()}
+function render(){
+  const it=items[idx], s=st[it.id]||{};
+  $("va").pause();$("vb").pause();$("va").src=it.A;$("vb").src=it.B;
+  $("title").textContent=it.title;$("meta").textContent=`${it.artist} · 第 ${idx+1}/${items.length} 对`;
+  $("st").textContent=s.v?("已选："+OPTS.find(o=>o[0]===s.v)[1]):"未完成";
+  $("choices").innerHTML=OPTS.map(([v,l],i)=>`<button data-v="${v}" class="${s.v===v?"on":""}">${i+1}. ${l}</button>`).join("");
+  $("choices").querySelectorAll("button").forEach(b=>b.onclick=()=>pick(b.dataset.v));
+  $("why").value=s.why||"";meta();
+}
+function pick(v){const it=items[idx];st[it.id]={...(st[it.id]||{}),v,t:new Date().toISOString()};save();render()}
+function meta(){const n=items.filter(i=>st[i.id]&&st[i.id].v).length;$("count").textContent=`${n}/${items.length}`;$("bar").style.width=(100*n/items.length)+"%";
+  $("out").value=JSON.stringify({annotator:$("name").value,results:items.filter(i=>st[i.id]&&st[i.id].v).map(i=>({id:i.id,task:i.task,verdict:st[i.id].v,why:st[i.id].why||"",at:st[i.id].t}))})}
+$("why").oninput=e=>{const it=items[idx];(st[it.id]=st[it.id]||{}).why=e.target.value;save()};
+$("prev").onclick=()=>{idx=(idx-1+items.length)%items.length;render()};$("next").onclick=()=>{idx=(idx+1)%items.length;render()};
+$("todo").onclick=()=>{for(let k=1;k<=items.length;k++){const j=(idx+k)%items.length;if(!(st[items[j].id]&&st[items[j].id].v)){idx=j;render();return}}};
+$("name").oninput=save;
+$("export").onclick=()=>{const b=new Blob([$("out").value],{type:"application/json"});const a=document.createElement("a");a.href=URL.createObjectURL(b);a.download=`mv_pairwise_${$("name").value||"anon"}.json`;a.click()};
+document.addEventListener("keydown",e=>{if(e.target.tagName==="INPUT"||e.target.tagName==="TEXTAREA")return;
+  if(/^[1-5]$/.test(e.key))pick(OPTS[+e.key-1][0]);else if(e.key==="ArrowRight")$("next").click();else if(e.key==="ArrowLeft")$("prev").click()});
+fetch("items.json").then(r=>r.json()).then(j=>{items=j;const f=items.findIndex(i=>!(st[i.id]&&st[i.id].v));idx=f<0?0:f;render()});
+</script>
+</body>
+</html>

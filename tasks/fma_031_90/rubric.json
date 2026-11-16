@@ -1,0 +1,132 @@
+{
+ "profile": "An upbeat, quirky Synth Pop instrumental driven by retro analog synths, a bouncy bassline, and an 80s drum machine. The track features no vocals. The mood is playful, energetic, eccentric, and nostalgic, evoking classic arcade games or a zany chase sequence. The energy arc starts high and bouncing, drops into a floating, spacious breakdown, returns to a driving groove, and finally cuts to a sparse, fading outro.",
+ "key_moments": [
+  {
+   "t": 27.1,
+   "what": "The driving drum machine and bouncy lead synth drop out, transitioning into a spacious breakdown with a pulsing pad and a descending, chime-like synth melody."
+  },
+  {
+   "t": 81.8,
+   "what": "The drum beat cuts out abruptly, marking the end of the main groove and the start of a sparse outro featuring only sustained synth pads."
+  }
+ ],
+ "fitting_styles": "Suitable approaches include a quirky narrative (like an 8-bit video game quest, a comedic chase, or a heist for a literal 'chicken dinner'), abstract rhythmic montages (neon grids, bouncing geometric shapes, pixel art), or a retro synth performance. Clashing styles include somber dramatic narratives, hyper-realistic tragedies, acoustic/organic visual motifs, or a lyric video (since there are no lyrics).",
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video visually marks the drop into the spacious breakdown at ~27.1 s (e.g., by slowing down the pacing, changing the color palette, or removing kinetic elements)."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The picture responds to the abrupt loss of drums at ~81.8 s, transitioning into an ending sequence or fading visual energy."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "During the high-energy sections (e.g., before ~27.1 s), visual movements, cuts, or animations consistently match the fast, bouncing 16th-note rhythm of the lead synth."
+  }
+ ],
+ "anchors": {
+  "UN": "1: The visual concept is completely disconnected from the retro, bouncy synth-pop vibe, perhaps feeling overly dark, serious, or organic. 3: The video fits the upbeat electronic feel but lacks a cohesive theme or relies on generic stock footage. 5: The chosen concept (whether a retro gaming homage, quirky neon animation, or playful live-action chase) perfectly captures the nostalgic, bouncy 80s arcade energy of the track.",
+  "EM": "1: The video feels gloomy, dramatic, or aggressive, completely missing the song's playful and quirky mood. 3: The video is generally upbeat but remains emotionally flat, failing to provide a shift in atmosphere during the floating breakdown. 5: The visual mood is consistently fun and eccentric, providing a breather during the spacious breakdown and resolving calmly in the outro.",
+  "RH": "1: Cuts and movements ignore the rigid, driving 4/4 drum machine and bouncy synth bass. 3: The editing generally follows the beat but misses the opportunity to accent the fast synth arpeggios or feels repetitive. 5: Visual events are tightly locked to the drum hits and the bouncing 16th-note synth leads, creating a highly kinetic and satisfying visual rhythm.",
+  "ST": "1: The video ignores the major structural shifts at 27.1 s and 81.8 s, maintaining a constant visual state throughout. 3: The video acknowledges the breakdown at 27.1 s but transitions clumsily or fails to reflect the final outro at 81.8 s. 5: The visual structure perfectly maps to the track, with distinct visual treatments for the energetic main sections, the spacious breakdown at 27.1 s, and the sparse outro at 81.8 s.",
+  "LY": "1: The video hallucinates singers lip-syncing or displays fabricated lyrics for this entirely instrumental track. 3: N/A. 5: N/A (The track is instrumental, and the video correctly avoids depicting singing or lyrics).",
+  "VA": "1: The video is plagued by AI morphing, low resolution, or nonsensical generation artifacts that ruin the intended aesthetic. 3: The video is legible and colourful but lacks polish, lighting depth, or has minor temporal consistency issues. 5: Clean, vibrant visuals with deliberate composition, whether using crisp pixel art, polished 3D neon graphics, or sharp, well-graded live action.",
+  "CR": "1: A basic audio-reactive waveform or an uninspired, disconnected slideshow. 3: A standard 80s synthwave neon grid or basic retro arcade tropes without any unique twist. 5: A highly imaginative concept—such as a literal 'chicken dinner' heist, an abstract geometric ballet, or a clever 8-bit narrative—that elevates the instrumental track."
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 27.1,
+   "kind": "section change"
+  },
+  {
+   "t": 81.8,
+   "kind": "section change"
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video visually marks the drop into the spacious breakdown at ~27.1 s (e.g., by slowing down the pacing, changing the color palette, or removing kinetic elements)."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The picture responds to the abrupt loss of drums at ~81.8 s, transitioning into an ending sequence or fading visual energy."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "During the high-energy sections (e.g., before ~27.1 s), visual movements, cuts, or animations consistently match the fast, bouncing 16th-note rhythm of the lead synth."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 90.0,
+  "approx_bpm": 80,
+  "section_changes_at_s": [
+   27.14,
+   81.82
+  ],
+  "sung_lines": []
+ }
+}

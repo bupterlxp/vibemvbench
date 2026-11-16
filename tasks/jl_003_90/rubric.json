@@ -1,0 +1,354 @@
+{
+ "profile": "The audio is an energetic indie pop/rock track featuring driving drums, a prominent electric bassline, clean to crunchy rhythm guitars, and youthful, emotive male vocals. The mood is upbeat yet slightly angsty and uncertain, driven by a lyrical theme of late-night overthinking, unrequited or confusing romantic feelings, and digital communication. The energy starts strong but relatively sparse, exploding into a full-band chorus at 13.7 seconds, pulling back slightly for the verses, and dropping significantly into an atmospheric, bass-driven bridge at 72.4 seconds before building back up for the outro.",
+ "key_moments": [
+  {
+   "t": 13.7,
+   "what": "The track explodes into the first chorus, introducing full instrumentation and a significant spike in energy."
+  },
+  {
+   "t": 29.7,
+   "what": "A section change marks the start of the second verse, where the energy pulls back slightly to a steadier, vocal-driven groove."
+  },
+  {
+   "t": 72.4,
+   "what": "A dramatic breakdown into the bridge; guitars drop out, leaving a stripped-back rhythm section and a more intimate, introspective atmosphere."
+  },
+  {
+   "t": 84.9,
+   "what": "A final section change where the instrumental energy begins to build again to drive the song toward its conclusion."
+  }
+ ],
+ "fitting_styles": "Narrative approaches centered around coming-of-age romance, late-night phone scrolling, or teenage angst fit perfectly. A lively band performance in a garage or colorful studio would capture the indie rock energy well. Rhythmic montage or kinetic typography would suit the fast, conversational vocal delivery and driving beat. Conversely, slow-paced epic fantasy, somber historical dramas, or hyper-minimalist ambient visuals would clash heavily with the song's youthful, upbeat, and modern indie vibe.",
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video exhibits a clear shift in visual energy, lighting, or scene exactly at the 13.7 second mark when the high-energy chorus hits."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "visual",
+   "check": "The visual intensity, pacing, or focus noticeably changes at 72.4 seconds to match the stripped-back, lower-energy instrumental bridge."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "visual",
+   "check": "The video marks the section change at 29.7 seconds with a distinct cut, camera movement, or change in visual focus."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "visual",
+   "check": "The picture responds to the final section change at 84.9 seconds as the instrumental energy begins to build again."
+  }
+ ],
+ "anchors": {
+  "UN": {
+   "1": "The visual style is completely disconnected from the upbeat indie-pop song, feeling entirely inappropriate for the genre.",
+   "3": "The video fits the general energetic indie vibe but misses the specific romantic, overthinking nuances of the lyrics.",
+   "5": "The chosen concept perfectly encapsulates the upbeat, youthful, and slightly anxious energy of the track and its themes of romantic uncertainty."
+  },
+  "EM": {
+   "1": "The video feels completely flat or conveys a mood opposite to the song's energetic, longing nature.",
+   "3": "The video captures the upbeat energy but doesn't reflect the moments of doubt or the dynamic shifts in emotion throughout the track.",
+   "5": "The video successfully navigates the high-energy infatuation of the choruses and the more introspective, questioning vibe of the verses and bridge."
+  },
+  "RH": {
+   "1": "Cuts and visual movements completely ignore the fast-paced drums and driving bassline.",
+   "3": "The video generally keeps pace with the song's tempo but misses obvious sync opportunities like drum fills or guitar accents.",
+   "5": "The visual rhythm is tightly locked to the upbeat tempo, with cuts and motion perfectly highlighting the driving drums, bass grooves, and rapid vocal delivery."
+  },
+  "ST": {
+   "1": "The video ignores major structural changes, maintaining a monotonous look across the verse, chorus, and bridge.",
+   "3": "The video acknowledges the main chorus drop at 13.7s but fails to visually represent the dramatic bridge breakdown at 72.4s.",
+   "5": "Visuals clearly delineate the song's structure, effectively responding to the high-energy chorus at 13.7s, the verse transition at 29.7s, and the stark breakdown at 72.4s."
+  },
+  "LY": {
+   "1": "On-screen lyrics are mostly incorrect, or the visual narrative wildly contradicts the clear themes of romantic overthinking and digital communication.",
+   "3": "Lyrics are mostly accurate but timing is occasionally sloppy, or visuals loosely relate to the theme without strongly connecting to specific concepts like messaging or longing.",
+   "5": "Text perfectly matches the fast, wordy delivery if used, and the imagery strongly and cleverly evokes the themes of late-night thoughts, messaging, and romantic uncertainty."
+  },
+  "VA": {
+   "1": "The video is visually messy, filled with obvious rendering glitches, muddy aesthetics, or jarring inconsistencies.",
+   "3": "The video looks decent overall but suffers from some noticeable artifacts, generic placeholder looks, or inconsistent lighting.",
+   "5": "The video looks professionally crafted with a cohesive color palette, intentional cinematography, and clean, high-quality rendering free of distracting errors."
+  },
+  "CR": {
+   "1": "The video is a basic, unimaginative visualizer that offers no new interpretation of the song.",
+   "3": "The video uses standard indie music video tropes effectively but safely, lacking a truly distinct creative voice.",
+   "5": "The video introduces a fresh, imaginative concept that elevates the song's themes of overthinking and youthful romance in a highly unique and memorable way."
+  }
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 1.3,
+   "kind": "section change"
+  },
+  {
+   "t": 2.4,
+   "kind": "sung line starts: \"late nights staying up messaging you\""
+  },
+  {
+   "t": 9.4,
+   "kind": "sung line starts: \"can i express what i'm feeling for you without revealing truths\""
+  },
+  {
+   "t": 13.7,
+   "kind": "section change"
+  },
+  {
+   "t": 15.9,
+   "kind": "sung line starts: \"i've been thinking about you lately lately\""
+  },
+  {
+   "t": 19.5,
+   "kind": "sung line starts: \"that's a massive understatement baby\""
+  },
+  {
+   "t": 23.0,
+   "kind": "sung line starts: \"i can't stop thinking about you all day and all night\""
+  },
+  {
+   "t": 27.7,
+   "kind": "sung line starts: \"but is it right\""
+  },
+  {
+   "t": 29.7,
+   "kind": "section change"
+  },
+  {
+   "t": 30.9,
+   "kind": "sung line starts: \"finally figured it out i got my head around it\""
+  },
+  {
+   "t": 38.0,
+   "kind": "sung line starts: \"although i know i've got to get myself out of this habit\""
+  },
+  {
+   "t": 42.2,
+   "kind": "section change"
+  },
+  {
+   "t": 45.4,
+   "kind": "sung line starts: \"of falling for someone who's out of reach it's unrealistic\""
+  },
+  {
+   "t": 52.2,
+   "kind": "sung line starts: \"mr dream won't become a reality but was it meant to be\""
+  },
+  {
+   "t": 58.6,
+   "kind": "sung line starts: \"i've been thinking about you lately lately\""
+  },
+  {
+   "t": 62.1,
+   "kind": "sung line starts: \"that's a massive understatement baby\""
+  },
+  {
+   "t": 65.7,
+   "kind": "sung line starts: \"cause i think about you all day and all night\""
+  },
+  {
+   "t": 70.4,
+   "kind": "sung line starts: \"but is it right\""
+  },
+  {
+   "t": 72.4,
+   "kind": "section change"
+  },
+  {
+   "t": 73.8,
+   "kind": "sung line starts: \"i don't know but i i know how it feels to me\""
+  },
+  {
+   "t": 80.2,
+   "kind": "sung line starts: \"maybe you're just playing games a game i don't wanna play\""
+  },
+  {
+   "t": 84.9,
+   "kind": "section change"
+  },
+  {
+   "t": 87.3,
+   "kind": "sung line starts: \"i don't know but i i know how it feels to me\""
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video exhibits a clear shift in visual energy, lighting, or scene exactly at the 13.7 second mark when the high-energy chorus hits."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "visual",
+   "check": "The visual intensity, pacing, or focus noticeably changes at 72.4 seconds to match the stripped-back, lower-energy instrumental bridge."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "visual",
+   "check": "The video marks the section change at 29.7 seconds with a distinct cut, camera movement, or change in visual focus."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "visual",
+   "check": "The picture responds to the final section change at 84.9 seconds as the instrumental energy begins to build again."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 90.0,
+  "approx_bpm": 136,
+  "section_changes_at_s": [
+   1.304,
+   13.744,
+   29.744,
+   42.184,
+   72.424,
+   84.864
+  ],
+  "sung_lines": [
+   {
+    "start": 2.404,
+    "end": 7.976,
+    "text": "late nights staying up messaging you"
+   },
+   {
+    "start": 9.442,
+    "end": 15.772,
+    "text": "can i express what i'm feeling for you without revealing truths"
+   },
+   {
+    "start": 15.93,
+    "end": 19.129,
+    "text": "i've been thinking about you lately lately"
+   },
+   {
+    "start": 19.474,
+    "end": 22.559,
+    "text": "that's a massive understatement baby"
+   },
+   {
+    "start": 22.998,
+    "end": 26.767,
+    "text": "i can't stop thinking about you all day and all night"
+   },
+   {
+    "start": 27.734,
+    "end": 29.176,
+    "text": "but is it right"
+   },
+   {
+    "start": 30.862,
+    "end": 36.752,
+    "text": "finally figured it out i got my head around it"
+   },
+   {
+    "start": 37.976,
+    "end": 43.909,
+    "text": "although i know i've got to get myself out of this habit"
+   },
+   {
+    "start": 45.381,
+    "end": 50.916,
+    "text": "of falling for someone who's out of reach it's unrealistic"
+   },
+   {
+    "start": 52.172,
+    "end": 57.812,
+    "text": "mr dream won't become a reality but was it meant to be"
+   },
+   {
+    "start": 58.624,
+    "end": 61.763,
+    "text": "i've been thinking about you lately lately"
+   },
+   {
+    "start": 62.084,
+    "end": 65.348,
+    "text": "that's a massive understatement baby"
+   },
+   {
+    "start": 65.671,
+    "end": 69.525,
+    "text": "cause i think about you all day and all night"
+   },
+   {
+    "start": 70.368,
+    "end": 72.079,
+    "text": "but is it right"
+   },
+   {
+    "start": 73.755,
+    "end": 79.55,
+    "text": "i don't know but i i know how it feels to me"
+   },
+   {
+    "start": 80.247,
+    "end": 86.087,
+    "text": "maybe you're just playing games a game i don't wanna play"
+   },
+   {
+    "start": 87.296,
+    "end": 90.0,
+    "text": "i don't know but i i know how it feels to me"
+   }
+  ]
+ }
+}

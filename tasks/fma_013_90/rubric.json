@@ -1,0 +1,162 @@
+{
+ "profile": "An underground, quirky UK hip-hop track featuring a heavy, slightly distorted bassline, boom-bap drums, and playful, nonsensical spoken-word/rap vocals. The mood is energetic, comedic, and slightly aggressive in a fun, eccentric way. The energy arc starts with a casual spoken intro, drops into a heavy groove, moves through several instrumental and stripped-back vocal breaks, and concludes with a sparse, deconstructed outro.",
+ "key_moments": [
+  {
+   "t": 17.9,
+   "what": "The casual background chatter of the intro ends, leaving a single voice to transition into the setup for the main beat drop."
+  },
+  {
+   "t": 38.0,
+   "what": "The main rap verse ends and an instrumental break begins, featuring vocal chops and a new synth melody."
+  },
+  {
+   "t": 48.0,
+   "what": "The beat strips back to a sparser arrangement with reduced percussion, focusing on the bassline and returning vocals."
+  },
+  {
+   "t": 76.0,
+   "what": "The energetic chorus ends and the main beat drops out, transitioning into a sparse, deconstructed outro section."
+  }
+ ],
+ "fitting_styles": "Kinetic typography is highly suitable due to the fast, rhythmic, and heavy rhyming nature of the vocals ('crap trap', 'map chap'). A quirky performance video featuring a charismatic, slightly eccentric character would fit the British underground vibe. Surreal or abstract animation would match the nonsensical lyrics ('shake your goose'). A serious, dramatic narrative or a soft, romantic aesthetic would heavily clash with the track's goofy, aggressive energy.",
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video shows a clear visual transition or a shift in focus at 17.9 seconds as the intro chatter stops."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "There is a distinct visual shift, such as a change in scene, color palette, or editing style, matching the start of the instrumental break at 38.0 seconds."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The visuals respond to the stripped-back musical arrangement at 48.0 seconds, perhaps by reducing visual density or isolating a single subject."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The video marks the transition into the sparse outro at 76.0 seconds with a noticeable drop in visual intensity or a change in aesthetic."
+  }
+ ],
+ "anchors": {
+  "UN": "1 is a serious drama or serene video that completely misses the track's quirky energy; 3 is a generic hip-hop video that fits the beat but ignores the comedic tone; 5 captures the weird, heavy, underground UK hip-hop vibe perfectly, regardless of the chosen visual style.",
+  "EM": "1 feels completely disconnected from the track's playful aggression; 3 conveys a generic high energy; 5 visually embodies the goofy, eccentric, and slightly unhinged mood of the song.",
+  "RH": "1 has edits and motion that ignore the music; 3 mostly hits the main kicks and snares; 5 features tight visual sync with the heavy boom-bap beat, the vocal chops, and the specific rhythms of the rap delivery.",
+  "ST": "1 is a single continuous loop with no response to the song's structure; 3 has some vague changes for the breaks; 5 clearly marks the intro transition (17.9s), the various breaks (38s, 48s), and the outro (76s) with distinct, purposeful visual shifts.",
+  "LY": "1 features completely wrong text or imagery that contradicts the track; 3 has mostly correct text or imagery that vaguely fits the vibe; 5 perfectly times the fast, nonsensical rhymes ('crap trap', 'shake your goose') if text is used, or features surreal, fitting imagery that directly plays off the eccentric lyrical themes.",
+  "VA": "1 is a glitchy, low-resolution mess or looks like an unedited, generic AI generation; 3 is clean but visually standard; 5 showcases a strong, intentional aesthetic (e.g., gritty underground, highly stylised animation, or slick kinetic typography) with excellent execution.",
+  "CR": "1 is a basic, unimaginative audio visualiser; 3 is a competent but standard hip-hop performance or typography video; 5 presents a highly original, surprising concept that brilliantly elevates the track's weird 'goose' theme or underground hip-hop tropes."
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 17.9,
+   "kind": "section change"
+  },
+  {
+   "t": 38.0,
+   "kind": "section change"
+  },
+  {
+   "t": 48.0,
+   "kind": "section change"
+  },
+  {
+   "t": 76.0,
+   "kind": "section change"
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video shows a clear visual transition or a shift in focus at 17.9 seconds as the intro chatter stops."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "There is a distinct visual shift, such as a change in scene, color palette, or editing style, matching the start of the instrumental break at 38.0 seconds."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The visuals respond to the stripped-back musical arrangement at 48.0 seconds, perhaps by reducing visual density or isolating a single subject."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The video marks the transition into the sparse outro at 76.0 seconds with a noticeable drop in visual intensity or a change in aesthetic."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 90.0,
+  "approx_bpm": 120,
+  "section_changes_at_s": [
+   17.92,
+   37.98,
+   48.0,
+   75.98
+  ],
+  "sung_lines": []
+ }
+}

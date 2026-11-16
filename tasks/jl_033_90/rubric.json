@@ -1,0 +1,260 @@
+{
+ "profile": "An energetic, driving indie pop/rock track with clear, emotive male vocals in Spanish. The instrumentation is driven by pulsing synths, a prominent, groovy bassline, and upbeat drum patterns. The mood is urgent, slightly frustrated, yet ultimately liberating and anthemic. Lyrically, the song explores the desire to speak one's mind without fear ('sin miedo') and the explosive consequences of absolute honesty ('como explotaria el mundo'). The energy arc starts abruptly high, drops into a groovier, tension-building verse at 16s, builds back up, and explodes into a full-energy chorus at 50s, concluding with a driving instrumental outro.",
+ "key_moments": [
+  {
+   "t": 0.0,
+   "what": "The song starts abruptly with full vocals and high-energy instrumentation; there is no intro buildup."
+  },
+  {
+   "t": 16.3,
+   "what": "The energy drops as the song transitions into a verse, driven primarily by a punchy bassline and drums."
+  },
+  {
+   "t": 48.8,
+   "what": "A quick drum fill and musical swell that serves as a rapid transition back into the chorus."
+  },
+  {
+   "t": 50.8,
+   "what": "The explosive return of the chorus ('todo seria mejor...'); full energy and instrumentation return."
+  },
+  {
+   "t": 83.4,
+   "what": "The vocals end and an energetic instrumental outro begins, led by driving synths and guitars."
+  }
+ ],
+ "fitting_styles": "High-energy band performance with dynamic lighting would suit the upbeat indie-rock instrumentation. A narrative approach about breaking free from social constraints, keeping secrets, or feeling overwhelmed would perfectly match the lyrics. Abstract or kinetic styles using vibrant pop-art, fast-paced typography, or 'explosive' visual metaphors would brilliantly reflect the lyrics about worlds and brains exploding. Slow, melancholic, desaturated, or ambient cinematic styles would clash severely with the song's driving 4/4 rhythm and anthemic energy.",
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video starts immediately with high energy or a sudden visual impact at 0.0s, avoiding a slow or subtle fade-in."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "There is a clear visual shift, such as a change in lighting, scene, or editing pace, at 16.3s to match the drop into the verse."
+  },
+  {
+   "id": "S3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video delivers a major visual impact, burst of brightness, or scene change at exactly 50.8s to mark the return of the explosive chorus."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "visual",
+   "check": "Between 18.3s and 48.8s, the visuals reflect a building sense of tension, urgency, or the 'explosive' metaphors mentioned in the lyrics."
+  },
+  {
+   "id": "S5",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The visual focus shifts away from singing characters or vocal performance cues at 83.4s when the instrumental outro begins."
+  }
+ ],
+ "anchors": {
+  "UN": "Score 5 if the concept perfectly captures the urgent, liberating indie-pop vibe and themes of honesty; score 3 if it fits an upbeat song but misses the specific thematic nuances; score 1 if it is slow, melancholic, or completely ignores the driving energy.",
+  "EM": "Score 5 if the visual emotion tracks the song's arc perfectly, showing restraint in the verses and euphoric release in the choruses; score 3 if the mood is generally upbeat but emotionally flat; score 1 if the mood is depressing or relaxing, actively clashing with the track.",
+  "RH": "Score 5 if the editing and motion are tightly locked to the driving drum beat, bassline, and vocal emphases; score 3 if cuts generally follow the tempo but miss the syncopated hits; score 1 if visuals float or cut randomly with no connection to the rhythm.",
+  "ST": "Score 5 if visual changes sharply delineate the abrupt start, the verse drop (16.3s), the chorus explosion (50.8s), and the outro (83.4s); score 3 if it responds to the main chorus but ignores other sections; score 1 if it is a single continuous loop ignoring the song's structure.",
+  "LY": "Score 5 if imagery conceptually matches truth-telling and explosive consequences, or if kinetic text is perfectly synced to key phrases like 'sin miedo'; score 3 if imagery is only loosely related to the lyrics; score 1 if text is gibberish or imagery directly contradicts the theme of fearless honesty.",
+  "VA": "Score 5 for crisp, professional rendering with a cohesive art direction and zero distracting AI artifacts; score 3 for legible quality that suffers from occasional glitches or awkward morphing; score 1 for a video plagued by heavy warping, blurry assets, or a low-effort placeholder look.",
+  "CR": "Score 5 for a highly distinctive and memorable concept, like literalizing the 'exploding brain' metaphor in a unique art style; score 3 for a standard but appropriate band performance or basic narrative; score 1 for a generic, uninspired audio visualizer or cliché template."
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 0.0,
+   "kind": "sung line starts: \"todo seria mejor si pudieras decir lo que piensas sin miedo\""
+  },
+  {
+   "t": 2.0,
+   "kind": "section change"
+  },
+  {
+   "t": 16.3,
+   "kind": "section change"
+  },
+  {
+   "t": 18.3,
+   "kind": "sung line starts: \"no soy capaz de imaginar\""
+  },
+  {
+   "t": 26.4,
+   "kind": "sung line starts: \"como explotaria el mundo si solo contamos la verdad\""
+  },
+  {
+   "t": 34.6,
+   "kind": "sung line starts: \"no soy capaz de imaginar\""
+  },
+  {
+   "t": 42.6,
+   "kind": "sung line starts: \"como explotara mi cerebro si solo me cuentan la verdad\""
+  },
+  {
+   "t": 48.8,
+   "kind": "section change"
+  },
+  {
+   "t": 50.8,
+   "kind": "sung line starts: \"todo seria mejor si pudiera decir lo que siento sin miedo\""
+  },
+  {
+   "t": 59.0,
+   "kind": "sung line starts: \"todo seria mejor si pudieras decir lo que sientes sin miedo\""
+  },
+  {
+   "t": 69.6,
+   "kind": "sung line starts: \"sin miedo\""
+  },
+  {
+   "t": 77.7,
+   "kind": "sung line starts: \"sin miedo\""
+  },
+  {
+   "t": 83.4,
+   "kind": "section change"
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video starts immediately with high energy or a sudden visual impact at 0.0s, avoiding a slow or subtle fade-in."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "There is a clear visual shift, such as a change in lighting, scene, or editing pace, at 16.3s to match the drop into the verse."
+  },
+  {
+   "id": "S3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video delivers a major visual impact, burst of brightness, or scene change at exactly 50.8s to mark the return of the explosive chorus."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "visual",
+   "check": "Between 18.3s and 48.8s, the visuals reflect a building sense of tension, urgency, or the 'explosive' metaphors mentioned in the lyrics."
+  },
+  {
+   "id": "S5",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The visual focus shifts away from singing characters or vocal performance cues at 83.4s when the instrumental outro begins."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 90.0,
+  "approx_bpm": 117,
+  "section_changes_at_s": [
+   2.04,
+   16.26,
+   48.82,
+   83.42
+  ],
+  "sung_lines": [
+   {
+    "start": 0.0,
+    "end": 1.863,
+    "text": "todo seria mejor si pudieras decir lo que piensas sin miedo"
+   },
+   {
+    "start": 18.312,
+    "end": 23.037,
+    "text": "no soy capaz de imaginar"
+   },
+   {
+    "start": 26.387,
+    "end": 32.967,
+    "text": "como explotaria el mundo si solo contamos la verdad"
+   },
+   {
+    "start": 34.564,
+    "end": 39.474,
+    "text": "no soy capaz de imaginar"
+   },
+   {
+    "start": 42.649,
+    "end": 49.284,
+    "text": "como explotara mi cerebro si solo me cuentan la verdad"
+   },
+   {
+    "start": 50.805,
+    "end": 58.702,
+    "text": "todo seria mejor si pudiera decir lo que siento sin miedo"
+   },
+   {
+    "start": 58.965,
+    "end": 67.193,
+    "text": "todo seria mejor si pudieras decir lo que sientes sin miedo"
+   },
+   {
+    "start": 69.568,
+    "end": 71.446,
+    "text": "sin miedo"
+   },
+   {
+    "start": 77.741,
+    "end": 79.614,
+    "text": "sin miedo"
+   }
+  ]
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "task_id": "jl_005_90",
+ "song_id": "jl_005",
+ "clip_start": 19.04,
+ "clip_end": 109.04,
+ "length_class": 90,
+ "difficulty_tier": "easy",
+ "spec": {
+  "resolution": [
+   1920,
+   1080
+  ],
+  "fps": 30,
+  "duration_tol": 0.1,
+  "duration": 90.0
+ },
+ "song": {
+  "title": "Vision",
+  "artist": "LUNABLIND",
+  "genre": "Pop",
+  "language": "en",
+  "license": "CC BY-NC",
+  "url": "https://www.jamendo.com/track/1492699/vision-radio-edit"
+ },
+ "lyrics_text": [
+  "racking and jacking my mind up",
+  "cannot be telling the time i",
+  "don't care no",
+  "i don't care no",
+  "you send thirty messages drunk",
+  "and dirty messages drunk",
+  "but i don't look",
+  "no i can't be to look",
+  "i could not breathe",
+  "you took your toll on me",
+  "you're suffocating please",
+  "but since i watched you leave",
+  "i can see for the first time",
+  "and i can see for the first time",
+  "and i can see for the first time",
+  "for the first time",
+  "and i can see for the first time",
+  "you get jealous easily",
+  "you did not make it easy",
+  "but what was i expecting",
+  "it's a very fitting ending",
+  "you say i hurt you bad well",
+  "that was never my intent",
+  "i was looking out for myself",
+  "and all of my mental health",
+  "i cannot breathe",
+  "you took your toll on me"
+ ],
+ "prompt": "Make a music video for this song. Make it as good as you possibly can.",
+ "free": true,
+ "difficulty": {
+  "d_rhythm": -0.27,
+  "d_structure": -0.55,
+  "d_dynamics": -0.25,
+  "d_lyrics": 0.89,
+  "d_genre": 0.0,
+  "d_length": -0.17,
+  "difficulty": -0.058
+ },
+ "alignment_fix": "2026-11-07: clip window corrected from 129.54 to 19.04 (audio/rubric were built for this window)"
+}

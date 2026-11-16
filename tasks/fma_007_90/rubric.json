@@ -1,0 +1,176 @@
+{
+ "profile": "The song is a dark, driving electronic synth-pop track featuring gritty synth-bass, steady four-on-the-floor percussion, and a rhythmic, almost robotic spoken-word British vocal. The mood is intense, focused, clinical, and slightly cyberpunk, dealing with lyrical themes of martial arts, meditation, and mental preparation for combat. The energy arc moves from a tense, atmospheric spoken intro into a relentless mid-tempo groove, pulls back for a moody, ambient breakdown, and slams back into a heavy climax before an abrupt end.",
+ "key_moments": [
+  {
+   "t": 17.0,
+   "what": "The main electronic beat and gritty synth-bass drop in, marking the end of the intro and the start of the core groove."
+  },
+  {
+   "t": 40.2,
+   "what": "A rhythmic shift where the instrumental pulls back slightly to highlight the repeating 'With preparation' vocal hook."
+  },
+  {
+   "t": 52.6,
+   "what": "The heavy beat drops out completely for an atmospheric, tension-building breakdown featuring synths and spoken-word vocals."
+  },
+  {
+   "t": 68.1,
+   "what": "The climax of the track where the full driving beat and bassline crash back in alongside the 'Excuse my fighting skills' vocal."
+  },
+  {
+   "t": 89.8,
+   "what": "The track abruptly ends, cutting the energy to zero."
+  }
+ ],
+ "fitting_styles": "A sci-fi, cyberpunk, or gritty underground narrative style suits this perfectly due to the dark electronic instrumentation. A martial arts choreography or performance video would directly and effectively respond to the lyrical themes of fighting and meditation. A kinetic typography approach would also excel here by leaning into the rigid, rhythmic delivery of the spoken-word vocals. Conversely, bright, cheerful, pastel aesthetics, acoustic/folk rustic imagery, or slapstick comedy would heavily clash with the track's tense, clinical, and serious tone.",
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video exhibits a major visual transition, cut, or sudden spike in energy at exactly ~17.0s when the kick drum and bassline enter."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "visual",
+   "check": "The visual pacing noticeably slows down, darkens, or shifts to a more atmospheric/calm state during the breakdown starting at ~52.6s."
+  },
+  {
+   "id": "S3",
+   "level": "core",
+   "modality": "visual",
+   "check": "There is a sharp, high-impact visual re-entry (e.g., dynamic lighting flash, rapid motion, or hard cut) at ~68.1s when the beat returns."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual edits or on-screen kinetic impacts match the rigid, repetitive four-on-the-floor pulse of the track during the main sections (17-52s and 68-89s)."
+  }
+ ],
+ "anchors": {
+  "UN": "1: The video uses bright, whimsical, or organic imagery that completely ignores the track's dark, synthetic, and martial themes. 3: The video uses generic dark or electronic visualizers that fit the musical genre but miss the specific themes of focus, preparation, or combat. 5: The video perfectly channels the track's intense, clinical edge, whether through gritty sci-fi settings, deliberate martial arts motifs, or razor-sharp abstract kinetic graphics.",
+  "EM": "1: The visual mood is uniformly happy or relaxed, heavily contradicting the tension of the music. 3: The video maintains a somewhat tense mood but remains completely flat, failing to contour to the song's build-ups and releases. 5: The visual accurately conveys a strong sense of focused tension, effectively relaxing into the ambient breakdown and spiking in aggression during the drops.",
+  "RH": "1: Camera movements and cuts float aimlessly, completely disconnected from the driving electronic grid. 3: Edits occasionally land on downbeats, but the visuals fail to capture the relentless, steady pulse of the synth-bass. 5: The visual rhythm is tightly locked to the music, with cuts, lighting changes, or graphic movements perfectly accenting the sharp kicks and staccato vocals.",
+  "ST": "1: The video plods along without changing at any of the distinct musical shifts (17s, 52s, 68s). 3: The video changes at the first drop (17s) but ignores the crucial structural change of the breakdown at 52.6s. 5: Distinct visual chapters clearly delineate the intro, the driving main groove, the atmospheric breakdown, and the aggressive final climax.",
+  "LY": "1: The video shows activities entirely unrelated to the lyrics, or displays wildly inaccurate, garbled AI text. 3: The imagery generally fits an edgy vibe but doesn't touch on concepts of fighting or meditation, or on-screen text is mostly correct but lacks rhythmic timing. 5: The imagery brilliantly incorporates concepts of physical combat, mental focus, or preparation, or utilizes kinetic typography that perfectly echoes the vocal delivery.",
+  "VA": "1: The video is plagued by heavy AI artifacting, blurry rendering, or looks like a disjointed, low-effort placeholder. 3: The video has an acceptable look but suffers from occasional distracting morphing, inconsistent lighting, or a generic stock-footage feel. 5: The visuals are crisp, highly polished, and stylishly graded, with deliberate, high-end composition and zero distracting glitches.",
+  "CR": "1: The result is a completely uninspired, default audio waveform or a random slideshow of images. 3: The video uses a logical but safe interpretation, like a standard gym workout montage or a basic neon-lit street scene. 5: The video employs a striking, distinctive concept—like a surreal digital dojo, microscopic battles, or avant-garde abstract tension—that elevates the song to a new level."
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 17.0,
+   "kind": "section change"
+  },
+  {
+   "t": 40.2,
+   "kind": "section change"
+  },
+  {
+   "t": 52.6,
+   "kind": "section change"
+  },
+  {
+   "t": 68.1,
+   "kind": "section change"
+  },
+  {
+   "t": 77.4,
+   "kind": "section change"
+  },
+  {
+   "t": 89.8,
+   "kind": "section change"
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video exhibits a major visual transition, cut, or sudden spike in energy at exactly ~17.0s when the kick drum and bassline enter."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "visual",
+   "check": "The visual pacing noticeably slows down, darkens, or shifts to a more atmospheric/calm state during the breakdown starting at ~52.6s."
+  },
+  {
+   "id": "S3",
+   "level": "core",
+   "modality": "visual",
+   "check": "There is a sharp, high-impact visual re-entry (e.g., dynamic lighting flash, rapid motion, or hard cut) at ~68.1s when the beat returns."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual edits or on-screen kinetic impacts match the rigid, repetitive four-on-the-floor pulse of the track during the main sections (17-52s and 68-89s)."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 90.0,
+  "approx_bpm": 157,
+  "section_changes_at_s": [
+   16.998,
+   40.238,
+   52.618,
+   68.118,
+   77.398,
+   89.778
+  ],
+  "sung_lines": []
+ }
+}

@@ -1,0 +1,307 @@
+{
+ "profile": "The song is a fiery, energetic dance-pop track driven by upbeat acoustic guitar strumming, lively percussion, and subtle synth/horn layers. The male lead vocals are delivered with a fast-paced, syncopated, and passionate rhythm. The lyrical theme revolves around being captivated by a woman's dancing, highlighting the sensual and almost 'dangerous' allure of her movements ('démons dans tes hanches'). The energy arc starts with a brief acapella lead-in, drops into a steady infectious groove, hits high-energy instrumental and vocal peaks, sharply pulls back into a sparse, clapping-driven breakdown, and finally builds back to an explosive final chorus.",
+ "key_moments": [
+  {
+   "t": 2.0,
+   "what": "The initial beat and acoustic guitar rhythm kick in after the vocal lead-in."
+  },
+  {
+   "t": 14.4,
+   "what": "The groove thickens as the bass and lower-end elements enter."
+  },
+  {
+   "t": 30.8,
+   "what": "A high-energy instrumental drop/hook begins, significantly raising the track's intensity."
+  },
+  {
+   "t": 51.3,
+   "what": "A dramatic breakdown where the main beat drops out entirely, leaving only vocals, rhythmic clapping, and sparse accompaniment."
+  },
+  {
+   "t": 65.6,
+   "what": "The rhythm section returns, initiating a build-up phase."
+  },
+  {
+   "t": 84.1,
+   "what": "The final full-energy chorus drops."
+  }
+ ],
+ "fitting_styles": "Narrative or performance styles focused on dance, clubs, or romantic tension work perfectly here, given the explicit lyrical focus on movement and attraction. A fast-paced rhythmic montage highlighting body movements or kinetic typography playing with the rapid, syncopated lyrics would also excel. Conversely, slow-paced, melancholic, ambient, or cold sci-fi approaches would clash horribly, as they ignore the organic, fiery, and distinctly human energy of the track.",
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video marks the arrival of the main instrumental groove at 2.0s with a noticeable visual event (e.g., a cut, motion start, or text appearance)."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The visuals respond to the high-energy drop and instrumental hook at 30.8s."
+  },
+  {
+   "id": "S3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The visual intensity significantly decreases, or the scene shifts starkly, to match the stripped-back breakdown at 51.3s."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The picture explicitly marks the return of the final energetic chorus at 84.1s."
+  }
+ ],
+ "anchors": {
+  "UN": "1: The video completely ignores the fiery, upbeat dance-pop genre. 3: The video has an upbeat vibe but feels slightly generic and misses the Latin-inspired flair. 5: The video perfectly captures the track's sensual, rhythmic, and passionate energy.",
+  "EM": "1: The mood is cold, flat, or totally disconnected from the audio. 3: The video shows general energy but misses the specific seductive and romantic undertones. 5: The visuals intensely project the fiery, captivated, and slightly dangerous romantic emotion of the song.",
+  "RH": "1: Visuals are completely decoupled from the lively tempo and guitar strumming. 3: Cuts land on the main beat but miss the syncopated rhythm of the rapid vocal delivery. 5: Visual pacing and motion perfectly lock into the lively percussion, acoustic guitar, and the singer's fast phrasing.",
+  "ST": "1: The video flows identically through builds, drops, and breakdowns with no structural awareness. 3: The video marks the biggest drops but ignores the crucial shift in energy during the breakdown. 5: Visuals clearly delineate the intro, the deepening groove, the high-energy hooks, and the dramatic stripped-back breakdown at 51.3s.",
+  "LY": "1: If text is used, it's incorrect or poorly timed; if no text, the imagery has nothing to do with dancing or physical attraction. 3: Lyrics are mostly accurate but timing is slightly loose; imagery loosely relates to the themes of the song. 5: Kinetic typography matches the rapid singing perfectly, or the visual narrative strongly emphasizes themes of dance, hips, and seduction as dictated by the lyrics.",
+  "VA": "1: The video is plagued by heavy AI artifacts, low resolution, or incoherent composition. 3: The video is reasonably clean but has some noticeable visual glitches or a generic, unpolished AI look. 5: The video looks highly professional, featuring crisp rendering, intentional lighting, and excellent color grading.",
+  "CR": "1: The video is a basic, unimaginative slideshow or generic visualizer. 3: The video uses an appropriate concept but relies heavily on standard music video clichés (e.g., generic club scenes). 5: The video executes a striking, highly original concept that perfectly elevates the song's fiery and rhythmic character."
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 1.7,
+   "kind": "sung line starts: \"allez tournes tournes autant qu'il est possible de tourner\""
+  },
+  {
+   "t": 2.0,
+   "kind": "section change"
+  },
+  {
+   "t": 10.0,
+   "kind": "sung line starts: \"comme si le sol était brulant comme si tu voulais t'envoler\""
+  },
+  {
+   "t": 14.4,
+   "kind": "section change"
+  },
+  {
+   "t": 18.1,
+   "kind": "sung line starts: \"allez danse danse pour moi danse à faire pâlir la nuit\""
+  },
+  {
+   "t": 26.3,
+   "kind": "sung line starts: \"allez danse une dernière fois danse jusqu'au bout de l'envie\""
+  },
+  {
+   "t": 30.8,
+   "kind": "section change"
+  },
+  {
+   "t": 34.8,
+   "kind": "sung line starts: \"y'a pas que tes pas qui m'inspire\""
+  },
+  {
+   "t": 39.3,
+   "kind": "sung line starts: \"belle j'ai vu des démons dans tes hanches\""
+  },
+  {
+   "t": 42.8,
+   "kind": "sung line starts: \"qui roule qui se cambre et se penchent\""
+  },
+  {
+   "t": 47.5,
+   "kind": "sung line starts: \"comme un danger qui m'attire\""
+  },
+  {
+   "t": 50.9,
+   "kind": "sung line starts: \"allez bouges bouges encore bouges tant que tu le peux\""
+  },
+  {
+   "t": 51.3,
+   "kind": "section change"
+  },
+  {
+   "t": 59.4,
+   "kind": "sung line starts: \"serpente ondule sans effort sans effort y'a personne qui ne le fait mieux\""
+  },
+  {
+   "t": 65.6,
+   "kind": "section change"
+  },
+  {
+   "t": 67.3,
+   "kind": "sung line starts: \"allez allumes les interdits rouge la lune dans tes danses\""
+  },
+  {
+   "t": 75.6,
+   "kind": "sung line starts: \"dans tes reins glisse ma folie dans chacun de tes pas une transe\""
+  },
+  {
+   "t": 84.1,
+   "kind": "section change"
+  },
+  {
+   "t": 84.1,
+   "kind": "sung line starts: \"y'a pas que tes pas qui m'inspire\""
+  },
+  {
+   "t": 88.6,
+   "kind": "sung line starts: \"belle j'ai vu des démons dans tes hanches\""
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video marks the arrival of the main instrumental groove at 2.0s with a noticeable visual event (e.g., a cut, motion start, or text appearance)."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The visuals respond to the high-energy drop and instrumental hook at 30.8s."
+  },
+  {
+   "id": "S3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The visual intensity significantly decreases, or the scene shifts starkly, to match the stripped-back breakdown at 51.3s."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The picture explicitly marks the return of the final energetic chorus at 84.1s."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 90.0,
+  "approx_bpm": 115,
+  "section_changes_at_s": [
+   2.04,
+   14.36,
+   30.76,
+   51.26,
+   65.64,
+   84.08
+  ],
+  "sung_lines": [
+   {
+    "start": 1.662,
+    "end": 8.503,
+    "text": "allez tournes tournes autant qu'il est possible de tourner"
+   },
+   {
+    "start": 9.984,
+    "end": 16.672,
+    "text": "comme si le sol était brulant comme si tu voulais t'envoler"
+   },
+   {
+    "start": 18.085,
+    "end": 24.916,
+    "text": "allez danse danse pour moi danse à faire pâlir la nuit"
+   },
+   {
+    "start": 26.256,
+    "end": 33.891,
+    "text": "allez danse une dernière fois danse jusqu'au bout de l'envie"
+   },
+   {
+    "start": 34.83,
+    "end": 37.66,
+    "text": "y'a pas que tes pas qui m'inspire"
+   },
+   {
+    "start": 39.313,
+    "end": 41.556,
+    "text": "belle j'ai vu des démons dans tes hanches"
+   },
+   {
+    "start": 42.815,
+    "end": 45.69,
+    "text": "qui roule qui se cambre et se penchent"
+   },
+   {
+    "start": 47.504,
+    "end": 50.01,
+    "text": "comme un danger qui m'attire"
+   },
+   {
+    "start": 50.921,
+    "end": 57.977,
+    "text": "allez bouges bouges encore bouges tant que tu le peux"
+   },
+   {
+    "start": 59.406,
+    "end": 65.975,
+    "text": "serpente ondule sans effort sans effort y'a personne qui ne le fait mieux"
+   },
+   {
+    "start": 67.273,
+    "end": 74.366,
+    "text": "allez allumes les interdits rouge la lune dans tes danses"
+   },
+   {
+    "start": 75.618,
+    "end": 83.356,
+    "text": "dans tes reins glisse ma folie dans chacun de tes pas une transe"
+   },
+   {
+    "start": 84.093,
+    "end": 86.922,
+    "text": "y'a pas que tes pas qui m'inspire"
+   },
+   {
+    "start": 88.551,
+    "end": 90.0,
+    "text": "belle j'ai vu des démons dans tes hanches"
+   }
+  ]
+ }
+}

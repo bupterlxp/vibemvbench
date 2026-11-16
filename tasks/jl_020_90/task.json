@@ -1,0 +1,53 @@
+{
+ "task_id": "jl_020_90",
+ "song_id": "jl_020",
+ "clip_start": 104.07,
+ "clip_end": 194.07,
+ "length_class": 90,
+ "difficulty_tier": "easy",
+ "spec": {
+  "resolution": [
+   1920,
+   1080
+  ],
+  "fps": 30,
+  "duration_tol": 0.1,
+  "duration": 90.0
+ },
+ "song": {
+  "title": "Freifliegen",
+  "artist": "Durch Dick und Dünn",
+  "genre": "Rock",
+  "language": "de",
+  "license": "CC BY-SA",
+  "url": "https://www.jamendo.com/track/34276/freifliegen/lyrics"
+ },
+ "lyrics_text": [
+  "greif die chance",
+  "fasse mut",
+  "befreie dich auch",
+  "befreie dich von mir",
+  "ich folge meinem herzen",
+  "woher es auch ruft",
+  "und flieg mich frei von jedem zwang",
+  "ein käfig ist zu klein",
+  "für das was ich leben will",
+  "leben will",
+  "erfüllung deiner träume",
+  "will ich dir wünschen",
+  "erbaue dir eine neue welt",
+  "einen käfig der sie hält"
+ ],
+ "prompt": "Make a music video for this song. Make it as good as you possibly can.",
+ "free": true,
+ "difficulty": {
+  "d_rhythm": -0.38,
+  "d_structure": -1.22,
+  "d_dynamics": -0.53,
+  "d_lyrics": 0.88,
+  "d_genre": 0.0,
+  "d_length": 0.25,
+  "difficulty": -0.167
+ },
+ "alignment_fix": "2026-11-07: clip window corrected from 10.08 to 104.07 (audio/rubric were built for this window)"
+}

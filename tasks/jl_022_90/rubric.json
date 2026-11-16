@@ -1,0 +1,295 @@
+{
+ "profile": "The song is an upbeat, sunny reggae track. The instrumentation starts with a stripped-back acoustic feel before dropping into a full band arrangement at 17 seconds, featuring a bouncy bassline, drum kit with prominent rimshots, classic skanking rhythm guitar/keys, and bright brass stabs. The vocals consist of a warm, expressive male lead singing in Spanish, supported by catchy, harmonised 'ooh ooh' backing vocals. The mood is uplifting, carefree, and laid-back yet rhythmically driving. Lyrically, it is an anti-hustle anthem—it talks about escaping the stressful rat race, not being a slave to time, and remembering to stop and rest instead of frantically 'intentando destacar' (trying to stand out). The energy arc builds from the sparse intro to a steady, head-nodding groove, accelerates slightly in vocal urgency during the bridge ('mira se van...'), and culminates in a lively, celebratory brass instrumental section.",
+ "key_moments": [
+  {
+   "t": 17.4,
+   "what": "The sparse intro ends and the full band drops in, establishing the main bouncy reggae groove."
+  },
+  {
+   "t": 25.0,
+   "what": "The lead vocal switches to a melodic, harmonised 'ooh ooh' backing vocal section."
+  },
+  {
+   "t": 63.3,
+   "what": "A section change occurs where the rhythm drives forward and the vocal delivery becomes noticeably faster and more urgent ('mira se van...')."
+  },
+  {
+   "t": 82.1,
+   "what": "The vocals conclude and the song transitions into an energetic, brass-led instrumental outro."
+  }
+ ],
+ "fitting_styles": "Narrative approaches work very well if they contrast a stressed, rushed lifestyle (like an office rat race) with a relaxed, sunny escape, directly mirroring the lyrics. Performance videos would suit the track if they depict a live band in a bright, outdoor, sunny setting to capture the organic reggae energy. Rhythmic/kinetic typography would also fit, using bouncy animations on the offbeats to highlight the anti-stress message. Dark, gritty cyberpunk, hyper-aggressive action montages, or cold, melancholic abstract styles would completely clash with the song's warm, relaxed, and joyful reggae vibe.",
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video features a clear visual transition, a major cut, or the introduction of new elements at exactly 17.4s to match the full band dropping into the reggae groove."
+  },
+  {
+   "id": "S2",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The visual pacing, editing speed, or on-screen motion increases in intensity at 63.3s to match the faster, more urgent vocal delivery."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "There is a noticeable visual shift, scene change, or focal change at 82.1s when the vocals end and the final brass instrumental section begins."
+  }
+ ],
+ "anchors": {
+  "UN": "1: The video uses an aggressive, dark, or melancholic concept that completely misses the uplifting reggae genre and anti-stress theme. 3: The concept is generally positive and fits the tempo, but feels like generic stock footage that misses the specific 'escaping the rat race' reggae vibe. 5: The chosen style perfectly complements the sunny reggae groove and clearly grasps the song's thematic contrast between stressful rushing and joyful relaxation.",
+  "EM": "1: The visual mood is intense, anxious, scary, or sad throughout, fighting the music. 3: The video is pleasantly upbeat but feels emotionally flat or disconnected from the singer's expressive joy. 5: The picture consistently radiates a carefree, sunny, and liberated energy that perfectly matches the song's uplifting emotional arc.",
+  "RH": "1: Cuts and movements are random or ignore the distinctive bouncy, syncopated offbeats of the reggae rhythm. 3: The visuals generally follow the tempo but feel a bit rigid, missing the characteristic swing and bounce of the reggae groove. 5: Visual hits, cuts, and character/camera motions are tightly locked to the drum rimshots and guitar skanks, capturing the song's infectious bounce.",
+  "ST": "1: The video ignores all structural shifts, playing like a continuous loop regardless of the musical sections. 3: The video reacts to some changes but misses major structural transitions like the full band drop at 17.4s or the final brass section at 82.1s. 5: The visuals structurally respond to the sparse intro, decisively shift at the 17.4s drop, adapt to the bridge at 63.3s, and change for the brass outro at 82.1s.",
+  "LY": "1: Depicted themes purely celebrate chaotic rushing or stress without the resolution to rest, or on-screen text is gibberish. 3: The imagery or text generally matches the Spanish lyrics but misses the deeper anti-stress message, perhaps just showing people running. 5: Imagery perfectly captures the theme of slowing down and resting ('parate a descansar'), or kinetic typography accurately syncs the Spanish lyrics to the vocals.",
+  "VA": "1: The video is marred by noticeable AI glitches, poor rendering, awkward deformations, or a cheap placeholder aesthetic. 3: The visual quality is acceptable but unremarkable, with some minor inconsistencies in lighting, colour grading, or composition. 5: The rendering is crisp, cohesive, and visually appealing, with strong composition, vibrant colours, and professional polish.",
+  "CR": "1: The video is a predictable, uninspired template or a boring slideshow of generic reggae tropes (e.g., just stock footage of palm trees). 3: The idea is appropriate (e.g., a simple band performance or a literal story of leaving work) but executed in a standard, expected way. 5: The video brings the anti-hustle theme to life with a highly original, surprising visual metaphor or a uniquely stylised aesthetic that stands out."
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 2.5,
+   "kind": "sung line starts: \"intentando destacar\""
+  },
+  {
+   "t": 12.5,
+   "kind": "sung line starts: \"intentando\""
+  },
+  {
+   "t": 17.4,
+   "kind": "section change"
+  },
+  {
+   "t": 20.2,
+   "kind": "sung line starts: \"busca un hueco en la agenda para sonreir otra vez\""
+  },
+  {
+   "t": 25.0,
+   "kind": "sung line starts: \"ooh ooh ooh ooh oh oh ooh ooh ooh ooh\""
+  },
+  {
+   "t": 30.9,
+   "kind": "sung line starts: \"que no te hunda el ritmo que te impone ese tren\""
+  },
+  {
+   "t": 36.2,
+   "kind": "sung line starts: \"ooh ooh ooh ooh oh oh ooh ooh ooh ooh\""
+  },
+  {
+   "t": 41.1,
+   "kind": "section change"
+  },
+  {
+   "t": 42.1,
+   "kind": "sung line starts: \"de qué sirve vivir rebosante con estrés\""
+  },
+  {
+   "t": 47.3,
+   "kind": "sung line starts: \"ooh ooh ooh ooh oh oh ooh ooh ooh ooh\""
+  },
+  {
+   "t": 53.2,
+   "kind": "sung line starts: \"esclavo de tu tiempo hazlo al revés\""
+  },
+  {
+   "t": 58.5,
+   "kind": "sung line starts: \"ooh ooh ooh ooh\""
+  },
+  {
+   "t": 63.3,
+   "kind": "section change"
+  },
+  {
+   "t": 63.3,
+   "kind": "sung line starts: \"mira se van corre donde van\""
+  },
+  {
+   "t": 65.3,
+   "kind": "sung line starts: \"no pierdas ni un segundo que lo vas a alcanzar\""
+  },
+  {
+   "t": 68.6,
+   "kind": "sung line starts: \"y cuando llegues si es que llegas no te olvides parate a descansar\""
+  },
+  {
+   "t": 73.4,
+   "kind": "sung line starts: \"mira se van corre donde van\""
+  },
+  {
+   "t": 75.6,
+   "kind": "sung line starts: \"tus sueños huyeron\""
+  },
+  {
+   "t": 78.5,
+   "kind": "sung line starts: \"mientras corrias sin dudar a toda prisa intentando destacar\""
+  },
+  {
+   "t": 82.1,
+   "kind": "section change"
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video features a clear visual transition, a major cut, or the introduction of new elements at exactly 17.4s to match the full band dropping into the reggae groove."
+  },
+  {
+   "id": "S2",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The visual pacing, editing speed, or on-screen motion increases in intensity at 63.3s to match the faster, more urgent vocal delivery."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "There is a noticeable visual shift, scene change, or focal change at 82.1s when the vocals end and the final brass instrumental section begins."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 90.0,
+  "approx_bpm": 191,
+  "section_changes_at_s": [
+   17.423,
+   41.063,
+   63.343,
+   82.123
+  ],
+  "sung_lines": [
+   {
+    "start": 2.476,
+    "end": 8.915,
+    "text": "intentando destacar"
+   },
+   {
+    "start": 12.472,
+    "end": 13.93,
+    "text": "intentando"
+   },
+   {
+    "start": 20.178,
+    "end": 24.818,
+    "text": "busca un hueco en la agenda para sonreir otra vez"
+   },
+   {
+    "start": 24.991,
+    "end": 30.796,
+    "text": "ooh ooh ooh ooh oh oh ooh ooh ooh ooh"
+   },
+   {
+    "start": 30.9,
+    "end": 35.919,
+    "text": "que no te hunda el ritmo que te impone ese tren"
+   },
+   {
+    "start": 36.158,
+    "end": 42.261,
+    "text": "ooh ooh ooh ooh oh oh ooh ooh ooh ooh"
+   },
+   {
+    "start": 42.06,
+    "end": 47.232,
+    "text": "de qué sirve vivir rebosante con estrés"
+   },
+   {
+    "start": 47.326,
+    "end": 53.156,
+    "text": "ooh ooh ooh ooh oh oh ooh ooh ooh ooh"
+   },
+   {
+    "start": 53.243,
+    "end": 58.366,
+    "text": "esclavo de tu tiempo hazlo al revés"
+   },
+   {
+    "start": 58.475,
+    "end": 63.314,
+    "text": "ooh ooh ooh ooh"
+   },
+   {
+    "start": 63.314,
+    "end": 65.254,
+    "text": "mira se van corre donde van"
+   },
+   {
+    "start": 65.254,
+    "end": 68.166,
+    "text": "no pierdas ni un segundo que lo vas a alcanzar"
+   },
+   {
+    "start": 68.551,
+    "end": 72.639,
+    "text": "y cuando llegues si es que llegas no te olvides parate a descansar"
+   },
+   {
+    "start": 73.361,
+    "end": 75.248,
+    "text": "mira se van corre donde van"
+   },
+   {
+    "start": 75.566,
+    "end": 77.769,
+    "text": "tus sueños huyeron"
+   },
+   {
+    "start": 78.532,
+    "end": 82.758,
+    "text": "mientras corrias sin dudar a toda prisa intentando destacar"
+   }
+  ]
+ }
+}

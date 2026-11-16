@@ -1,0 +1,654 @@
+[
+ {
+  "system": "codex-deepseek-v4-pro-0813-max",
+  "stimulus": "accel",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0
+ },
+ {
+  "system": "codex-deepseek-v4-pro-0813-max",
+  "stimulus": "halftime",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0,
+  "bpm_rel_err": 0.0
+ },
+ {
+  "system": "codex-deepseek-v4-pro-0813-max",
+  "stimulus": "kickdrop",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0,
+  "bpm_rel_err": 0.0
+ },
+ {
+  "system": "codex-deepseek-v4-pro-0813-max",
+  "stimulus": "m34",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0,
+  "bpm_rel_err": 0.0
+ },
+ {
+  "system": "codex-deepseek-v4-pro-0813-max",
+  "stimulus": "m54",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0,
+  "bpm_rel_err": 0.0
+ },
+ {
+  "system": "codex-deepseek-v4-pro-0813-max",
+  "stimulus": "m78",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 0.0,
+  "bpm_rel_err": 0.0
+ },
+ {
+  "system": "codex-deepseek-v4-pro-0813-max",
+  "stimulus": "nokick",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0,
+  "bpm_rel_err": 0.0
+ },
+ {
+  "system": "codex-deepseek-v4-pro-0813-max",
+  "stimulus": "padonly",
+  "delivered": true,
+  "beat_f": 1.0,
+  "bpm_rel_err": 0.0
+ },
+ {
+  "system": "codex-deepseek-v4-pro-0813-max",
+  "stimulus": "rit",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0
+ },
+ {
+  "system": "codex-deepseek-v4-pro-0813-max",
+  "stimulus": "section",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0,
+  "bpm_rel_err": 0.0,
+  "section_f": 1.0
+ },
+ {
+  "system": "codex-deepseek-v4-pro-0813-max",
+  "stimulus": "stoptime",
+  "delivered": true,
+  "beat_f": 0.956,
+  "downbeat_f": 0.0,
+  "bpm_rel_err": 0.0,
+  "section_f": 1.0
+ },
+ {
+  "system": "codex-deepseek-v4-pro-0813-max",
+  "stimulus": "swing",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0,
+  "bpm_rel_err": 0.0
+ },
+ {
+  "system": "codex-deepseek-v4-pro-0813-max",
+  "stimulus": "synco",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0,
+  "bpm_rel_err": 0.0
+ },
+ {
+  "system": "codex-deepseek-v4-pro-0813-max",
+  "stimulus": "t060",
+  "delivered": true,
+  "beat_f": 0.676,
+  "downbeat_f": 0.667,
+  "bpm_rel_err": 1.0
+ },
+ {
+  "system": "codex-deepseek-v4-pro-0813-max",
+  "stimulus": "t090",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0,
+  "bpm_rel_err": 0.0
+ },
+ {
+  "system": "codex-deepseek-v4-pro-0813-max",
+  "stimulus": "t120_base",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0,
+  "bpm_rel_err": 0.0
+ },
+ {
+  "system": "codex-deepseek-v4-pro-0813-max",
+  "stimulus": "t160",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0,
+  "bpm_rel_err": 0.0
+ },
+ {
+  "system": "codex-deepseek-v4-pro-0813-max",
+  "stimulus": "t200",
+  "delivered": true,
+  "beat_f": 0.667,
+  "downbeat_f": 0.667,
+  "bpm_rel_err": 0.5
+ },
+ {
+  "system": "codex-deepseek-v4-pro-0813-max",
+  "stimulus": "words",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0,
+  "bpm_rel_err": 0.0,
+  "word_found": 1.0,
+  "word_onset_err": 0.02
+ },
+ {
+  "system": "codex-deepseek-v4-pro-0813-max",
+  "stimulus": "words_fast",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0,
+  "bpm_rel_err": 0.0,
+  "word_found": 0.0,
+  "word_onset_err": null
+ },
+ {
+  "system": "codex-gpt-6-astra-max",
+  "stimulus": "accel",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0
+ },
+ {
+  "system": "codex-gpt-6-astra-max",
+  "stimulus": "halftime",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0,
+  "bpm_rel_err": 0.0
+ },
+ {
+  "system": "codex-gpt-6-astra-max",
+  "stimulus": "kickdrop",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0,
+  "bpm_rel_err": 0.0
+ },
+ {
+  "system": "codex-gpt-6-astra-max",
+  "stimulus": "m34",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0,
+  "bpm_rel_err": 0.0
+ },
+ {
+  "system": "codex-gpt-6-astra-max",
+  "stimulus": "m54",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0,
+  "bpm_rel_err": 0.0
+ },
+ {
+  "system": "codex-gpt-6-astra-max",
+  "stimulus": "m78",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0,
+  "bpm_rel_err": 0.0
+ },
+ {
+  "system": "codex-gpt-6-astra-max",
+  "stimulus": "nokick",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0,
+  "bpm_rel_err": 0.0
+ },
+ {
+  "system": "codex-gpt-6-astra-max",
+  "stimulus": "padonly",
+  "delivered": true,
+  "beat_f": 1.0,
+  "bpm_rel_err": 0.0
+ },
+ {
+  "system": "codex-gpt-6-astra-max",
+  "stimulus": "rit",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0
+ },
+ {
+  "system": "codex-gpt-6-astra-max",
+  "stimulus": "section",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0,
+  "bpm_rel_err": 0.0,
+  "section_f": 1.0
+ },
+ {
+  "system": "codex-gpt-6-astra-max",
+  "stimulus": "stoptime",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0,
+  "bpm_rel_err": 0.0,
+  "section_f": 1.0
+ },
+ {
+  "system": "codex-gpt-6-astra-max",
+  "stimulus": "swing",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0,
+  "bpm_rel_err": 0.0
+ },
+ {
+  "system": "codex-gpt-6-astra-max",
+  "stimulus": "synco",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0,
+  "bpm_rel_err": 0.0
+ },
+ {
+  "system": "codex-gpt-6-astra-max",
+  "stimulus": "t060",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0,
+  "bpm_rel_err": 0.0
+ },
+ {
+  "system": "codex-gpt-6-astra-max",
+  "stimulus": "t090",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0,
+  "bpm_rel_err": 0.0
+ },
+ {
+  "system": "codex-gpt-6-astra-max",
+  "stimulus": "t120_base",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0,
+  "bpm_rel_err": 0.0
+ },
+ {
+  "system": "codex-gpt-6-astra-max",
+  "stimulus": "t160",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0,
+  "bpm_rel_err": 0.0
+ },
+ {
+  "system": "codex-gpt-6-astra-max",
+  "stimulus": "t200",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0,
+  "bpm_rel_err": 0.0
+ },
+ {
+  "system": "codex-gpt-6-astra-max",
+  "stimulus": "words",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0,
+  "bpm_rel_err": 0.0,
+  "word_found": 1.0,
+  "word_onset_err": 0.0
+ },
+ {
+  "system": "codex-gpt-6-astra-max",
+  "stimulus": "words_fast",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0,
+  "bpm_rel_err": 0.0,
+  "word_found": 1.0,
+  "word_onset_err": 0.0
+ },
+ {
+  "system": "codex-gpt-6.1-sol-max",
+  "stimulus": "accel",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0
+ },
+ {
+  "system": "codex-gpt-6.1-sol-max",
+  "stimulus": "halftime",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0,
+  "bpm_rel_err": 0.0
+ },
+ {
+  "system": "codex-gpt-6.1-sol-max",
+  "stimulus": "kickdrop",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0,
+  "bpm_rel_err": 0.0
+ },
+ {
+  "system": "codex-gpt-6.1-sol-max",
+  "stimulus": "m34",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0,
+  "bpm_rel_err": 0.0
+ },
+ {
+  "system": "codex-gpt-6.1-sol-max",
+  "stimulus": "m54",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0,
+  "bpm_rel_err": 0.0
+ },
+ {
+  "system": "codex-gpt-6.1-sol-max",
+  "stimulus": "m78",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0,
+  "bpm_rel_err": 0.0
+ },
+ {
+  "system": "codex-gpt-6.1-sol-max",
+  "stimulus": "nokick",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0,
+  "bpm_rel_err": 0.0
+ },
+ {
+  "system": "codex-gpt-6.1-sol-max",
+  "stimulus": "padonly",
+  "delivered": true,
+  "beat_f": 1.0,
+  "bpm_rel_err": 0.0
+ },
+ {
+  "system": "codex-gpt-6.1-sol-max",
+  "stimulus": "rit",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0
+ },
+ {
+  "system": "codex-gpt-6.1-sol-max",
+  "stimulus": "section",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0,
+  "bpm_rel_err": 0.0,
+  "section_f": 1.0
+ },
+ {
+  "system": "codex-gpt-6.1-sol-max",
+  "stimulus": "stoptime",
+  "delivered": true,
+  "beat_f": 0.956,
+  "downbeat_f": 0.957,
+  "bpm_rel_err": 0.0,
+  "section_f": 1.0
+ },
+ {
+  "system": "codex-gpt-6.1-sol-max",
+  "stimulus": "swing",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0,
+  "bpm_rel_err": 0.0
+ },
+ {
+  "system": "codex-gpt-6.1-sol-max",
+  "stimulus": "synco",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0,
+  "bpm_rel_err": 0.0
+ },
+ {
+  "system": "codex-gpt-6.1-sol-max",
+  "stimulus": "t060",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0,
+  "bpm_rel_err": 0.0
+ },
+ {
+  "system": "codex-gpt-6.1-sol-max",
+  "stimulus": "t090",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0,
+  "bpm_rel_err": 0.0
+ },
+ {
+  "system": "codex-gpt-6.1-sol-max",
+  "stimulus": "t120_base",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0,
+  "bpm_rel_err": 0.0
+ },
+ {
+  "system": "codex-gpt-6.1-sol-max",
+  "stimulus": "t160",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0,
+  "bpm_rel_err": 0.0
+ },
+ {
+  "system": "codex-gpt-6.1-sol-max",
+  "stimulus": "t200",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0,
+  "bpm_rel_err": 0.0
+ },
+ {
+  "system": "codex-gpt-6.1-sol-max",
+  "stimulus": "words",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0,
+  "bpm_rel_err": 0.0,
+  "word_found": 1.0,
+  "word_onset_err": 0.0
+ },
+ {
+  "system": "codex-gpt-6.1-sol-max",
+  "stimulus": "words_fast",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0,
+  "bpm_rel_err": 0.0,
+  "word_found": 1.0,
+  "word_onset_err": 0.02
+ },
+ {
+  "system": "codex-grok-4.7-max",
+  "stimulus": "accel",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0
+ },
+ {
+  "system": "codex-grok-4.7-max",
+  "stimulus": "halftime",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0,
+  "bpm_rel_err": 0.0
+ },
+ {
+  "system": "codex-grok-4.7-max",
+  "stimulus": "kickdrop",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0,
+  "bpm_rel_err": 0.0
+ },
+ {
+  "system": "codex-grok-4.7-max",
+  "stimulus": "m34",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0,
+  "bpm_rel_err": 0.0
+ },
+ {
+  "system": "codex-grok-4.7-max",
+  "stimulus": "m54",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0,
+  "bpm_rel_err": 0.0
+ },
+ {
+  "system": "codex-grok-4.7-max",
+  "stimulus": "m78",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0,
+  "bpm_rel_err": 0.0
+ },
+ {
+  "system": "codex-grok-4.7-max",
+  "stimulus": "nokick",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0,
+  "bpm_rel_err": 0.0
+ },
+ {
+  "system": "codex-grok-4.7-max",
+  "stimulus": "padonly",
+  "delivered": true,
+  "beat_f": 1.0,
+  "bpm_rel_err": 0.0
+ },
+ {
+  "system": "codex-grok-4.7-max",
+  "stimulus": "rit",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0
+ },
+ {
+  "system": "codex-grok-4.7-max",
+  "stimulus": "section",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0,
+  "bpm_rel_err": 0.0,
+  "section_f": 1.0
+ },
+ {
+  "system": "codex-grok-4.7-max",
+  "stimulus": "stoptime",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0,
+  "bpm_rel_err": 0.0,
+  "section_f": 1.0
+ },
+ {
+  "system": "codex-grok-4.7-max",
+  "stimulus": "swing",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0,
+  "bpm_rel_err": 0.0
+ },
+ {
+  "system": "codex-grok-4.7-max",
+  "stimulus": "synco",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0,
+  "bpm_rel_err": 0.0
+ },
+ {
+  "system": "codex-grok-4.7-max",
+  "stimulus": "t060",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0,
+  "bpm_rel_err": 0.0
+ },
+ {
+  "system": "codex-grok-4.7-max",
+  "stimulus": "t090",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0,
+  "bpm_rel_err": 0.0
+ },
+ {
+  "system": "codex-grok-4.7-max",
+  "stimulus": "t120_base",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0,
+  "bpm_rel_err": 0.0
+ },
+ {
+  "system": "codex-grok-4.7-max",
+  "stimulus": "t160",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0,
+  "bpm_rel_err": 0.0
+ },
+ {
+  "system": "codex-grok-4.7-max",
+  "stimulus": "t200",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0,
+  "bpm_rel_err": 0.0
+ },
+ {
+  "system": "codex-grok-4.7-max",
+  "stimulus": "words",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0,
+  "bpm_rel_err": 0.0,
+  "word_found": 0.0,
+  "word_onset_err": null
+ },
+ {
+  "system": "codex-grok-4.7-max",
+  "stimulus": "words_fast",
+  "delivered": true,
+  "beat_f": 1.0,
+  "downbeat_f": 1.0,
+  "bpm_rel_err": 0.0,
+  "word_found": 0.0,
+  "word_onset_err": null
+ }
+]

@@ -1,0 +1,38 @@
+{
+ "task_id": "fma_011_90",
+ "song_id": "fma_011",
+ "clip_start": 61.79,
+ "clip_end": 151.79,
+ "length_class": 90,
+ "difficulty_tier": "medium",
+ "spec": {
+  "resolution": [
+   1920,
+   1080
+  ],
+  "fps": 30,
+  "duration_tol": 0.1,
+  "duration": 90.0
+ },
+ "song": {
+  "title": "River Went Dry - Instrumental",
+  "artist": "Josh Woodward",
+  "genre": "Pop",
+  "language": "unk",
+  "license": "CC-BY 4.0",
+  "url": "http://freemusicarchive.org/music/Josh_Woodward/Only_Whispering/JoshWoodward-NQC-NoVox-11-RiverWentDry_1883"
+ },
+ "lyrics_text": [],
+ "prompt": "Make a music video for this song. Make it as good as you possibly can.",
+ "free": true,
+ "difficulty": {
+  "d_rhythm": -0.56,
+  "d_structure": -0.95,
+  "d_dynamics": 0.68,
+  "d_lyrics": -0.47,
+  "d_genre": 0.0,
+  "d_length": 1.66,
+  "difficulty": 0.061
+ },
+ "alignment_fix": "2026-11-07: clip window corrected from 221.26 to 61.79 (audio/rubric were built for this window)"
+}

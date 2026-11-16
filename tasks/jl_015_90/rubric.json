@@ -1,0 +1,324 @@
+{
+ "profile": "The song is a fast-paced indie/punk rock track featuring distorted electric guitars, driving bass, and energetic drum beats. The male lead vocals are delivered with an urgent, slightly nasal, quintessential punk attitude in German. The mood is rebellious, nostalgic, and slightly disillusioned. Lyrically, it contrasts past youthful revolutionary ideals ('Weißt du noch damals', 'Revolution in den Köpfen') with modern-day globalised protests ('Seattle und Cancun'), ending on a note of personal aimlessness on the streets. The energy arc starts high and remains frantic through the verses and a long instrumental guitar solo, before suddenly dropping into a heavy, half-time syncopated breakdown at the very end.",
+ "key_moments": [
+  {
+   "t": 9.7,
+   "what": "The intro riff concludes, and the chord progression shifts slightly to set up the verse."
+  },
+  {
+   "t": 11.7,
+   "what": "The male lead vocal enters, establishing the energetic and nostalgic narrative."
+  },
+  {
+   "t": 40.6,
+   "what": "A lengthy instrumental interlude begins, driven by a melodic lead guitar over the fast rhythm."
+  },
+  {
+   "t": 57.7,
+   "what": "The vocals return for the second verse after the long instrumental break."
+  },
+  {
+   "t": 81.2,
+   "what": "A dramatic structural breakdown: the fast punk beat abruptly stops, replaced by heavy, half-time, syncopated guitar and drum hits."
+  }
+ ],
+ "fitting_styles": "Narrative (following rebellious youth, urban protests, or aging punks), Performance (a gritty, high-energy band playing in a garage, dive bar, or street setting), Kinetic Typography (fanzine, grunge, or collage style matching the punk aesthetic), and fast-paced Rhythmic Montage (urban exploration, skate videos, or protest footage) are highly suitable. Slow-paced cinematic ambient visuals, pristine high-budget pop choreography, soft pastel animations, or sleek futuristic sci-fi would heavily clash with the raw, earthy punk rock vibe.",
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video's editing, motion, or scene must abruptly shift at 81.2s to match the sudden heavy, syncopated breakdown."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video must visually distinguish the long instrumental interlude starting at 40.6s from the vocal sections (e.g., shifting focus to instruments, action, or environment)."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "visual",
+   "check": "If singing is depicted, characters must stop lip-syncing during the instrumental section between 40.6s and 57.7s."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The visual narrative or intensity must shift to acknowledge the start of the first verse/vocals between 9.7s and 11.7s."
+  }
+ ],
+ "anchors": {
+  "UN": "1 = The concept ignores the punk rock genre entirely, opting for a style that clashes with the raw guitars and fast tempo; 3 = The video feels like a generic rock video but misses the specific rebellious, indie-punk essence; 5 = The concept perfectly captures the raw, fast-paced indie-punk vibe, aligning flawlessly with themes of youth, rebellion, or urban disillusionment.",
+  "EM": "1 = The visual mood is entirely mismatched, such as being serene, glamorous, or completely passive; 3 = The video is moderately energetic but lacks the urgent, angsty, and nostalgic drive of the track; 5 = The picture consistently conveys the urgent, rebellious, and slightly nostalgic energy of the song from start to finish.",
+  "RH": "1 = The visual edits and movements are completely disconnected from the fast, driving punk beat; 3 = The cuts generally follow the tempo but feel repetitive or miss the sharp accents of the snare and guitars; 5 = The editing is tightly locked to the fast tempo, with dynamic cuts and visual hits that emphasize the frantic drumming and guitar strokes.",
+  "ST": "1 = The video is visually flat and ignores major musical shifts like the instrumental break and the final breakdown; 3 = The video reacts to some section changes (like the intro to verse) but misses the dramatic shift at the end; 5 = The visual narrative or style clearly shifts for the verse (9.7s), the long instrumental solo (40.6s), and drops heavily for the syncopated breakdown (81.2s).",
+  "LY": "1 = Included text is completely incorrect, or lip-syncing is noticeably wrong/hallucinated; 3 = Text or lip-sync is mostly accurate, or the thematic imagery loosely fits the idea of looking back; 5 = Lyrics (if used) are perfectly timed and stylised (e.g., punk zine aesthetic), or a textless video strongly reflects the themes of streets, revolution, and past vs. present.",
+  "VA": "1 = The video is plagued by heavy AI artifacts, low resolution, or nonsensical, morphing imagery; 3 = The video has a decent look but suffers from minor AI inconsistencies or a slightly generic stock-footage feel; 5 = The video looks intentional and highly polished, whether it opts for a gritty lo-fi punk aesthetic or crisp, high-quality cinematic footage.",
+  "CR": "1 = The video is a basic, unimaginative visualizer or a completely random sequence of images; 3 = The video uses a standard rock band performance setup without adding a unique twist; 5 = The video presents a highly creative concept, such as clever fanzine collage animation, an engaging urban narrative, or a uniquely stylized performance that elevates the song."
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 9.7,
+   "kind": "section change"
+  },
+  {
+   "t": 11.7,
+   "kind": "sung line starts: \"weißt du noch damals\""
+  },
+  {
+   "t": 14.6,
+   "kind": "sung line starts: \"als wir durch die straßen gingen\""
+  },
+  {
+   "t": 18.2,
+   "kind": "sung line starts: \"weißt du noch damals\""
+  },
+  {
+   "t": 20.7,
+   "kind": "sung line starts: \"als die revolution in den köpfen war\""
+  },
+  {
+   "t": 24.7,
+   "kind": "sung line starts: \"und damals dachten sie\""
+  },
+  {
+   "t": 27.4,
+   "kind": "sung line starts: \"sie wären unbesiegbar\""
+  },
+  {
+   "t": 31.2,
+   "kind": "sung line starts: \"und damals fühlten sie sich\""
+  },
+  {
+   "t": 33.9,
+   "kind": "sung line starts: \"zusammen einfach unschlagbar\""
+  },
+  {
+   "t": 40.6,
+   "kind": "section change"
+  },
+  {
+   "t": 57.7,
+   "kind": "sung line starts: \"heute sind sie\""
+  },
+  {
+   "t": 60.1,
+   "kind": "sung line starts: \"in seattle und cancun\""
+  },
+  {
+   "t": 63.7,
+   "kind": "sung line starts: \"streiten für freiheit\""
+  },
+  {
+   "t": 66.6,
+   "kind": "sung line starts: \"und für revoluzzer ruhm\""
+  },
+  {
+   "t": 70.5,
+   "kind": "sung line starts: \"sie rufen gemeinsam\""
+  },
+  {
+   "t": 72.9,
+   "kind": "sung line starts: \"zur letzten großen schlacht\""
+  },
+  {
+   "t": 76.7,
+   "kind": "sung line starts: \"den hüttenfrieden\""
+  },
+  {
+   "t": 79.6,
+   "kind": "sung line starts: \"rohe gewalt kostet macht\""
+  },
+  {
+   "t": 81.2,
+   "kind": "section change"
+  },
+  {
+   "t": 83.2,
+   "kind": "sung line starts: \"und ich steh' auf der straße ich steh auf der straße\""
+  },
+  {
+   "t": 86.7,
+   "kind": "sung line starts: \"und weiß nicht was soll ich und weiß nicht was soll ich\""
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video's editing, motion, or scene must abruptly shift at 81.2s to match the sudden heavy, syncopated breakdown."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video must visually distinguish the long instrumental interlude starting at 40.6s from the vocal sections (e.g., shifting focus to instruments, action, or environment)."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "visual",
+   "check": "If singing is depicted, characters must stop lip-syncing during the instrumental section between 40.6s and 57.7s."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The visual narrative or intensity must shift to acknowledge the start of the first verse/vocals between 9.7s and 11.7s."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 90.0,
+  "approx_bpm": 148,
+  "section_changes_at_s": [
+   9.74,
+   40.62,
+   81.22
+  ],
+  "sung_lines": [
+   {
+    "start": 11.748,
+    "end": 14.536,
+    "text": "weißt du noch damals"
+   },
+   {
+    "start": 14.589,
+    "end": 17.72,
+    "text": "als wir durch die straßen gingen"
+   },
+   {
+    "start": 18.246,
+    "end": 20.716,
+    "text": "weißt du noch damals"
+   },
+   {
+    "start": 20.716,
+    "end": 23.947,
+    "text": "als die revolution in den köpfen war"
+   },
+   {
+    "start": 24.734,
+    "end": 27.178,
+    "text": "und damals dachten sie"
+   },
+   {
+    "start": 27.366,
+    "end": 30.824,
+    "text": "sie wären unbesiegbar"
+   },
+   {
+    "start": 31.238,
+    "end": 33.908,
+    "text": "und damals fühlten sie sich"
+   },
+   {
+    "start": 33.908,
+    "end": 37.448,
+    "text": "zusammen einfach unschlagbar"
+   },
+   {
+    "start": 57.693,
+    "end": 59.899,
+    "text": "heute sind sie"
+   },
+   {
+    "start": 60.097,
+    "end": 63.041,
+    "text": "in seattle und cancun"
+   },
+   {
+    "start": 63.677,
+    "end": 66.313,
+    "text": "streiten für freiheit"
+   },
+   {
+    "start": 66.585,
+    "end": 69.999,
+    "text": "und für revoluzzer ruhm"
+   },
+   {
+    "start": 70.478,
+    "end": 72.684,
+    "text": "sie rufen gemeinsam"
+   },
+   {
+    "start": 72.89,
+    "end": 76.022,
+    "text": "zur letzten großen schlacht"
+   },
+   {
+    "start": 76.727,
+    "end": 79.215,
+    "text": "den hüttenfrieden"
+   },
+   {
+    "start": 79.573,
+    "end": 82.705,
+    "text": "rohe gewalt kostet macht"
+   },
+   {
+    "start": 83.217,
+    "end": 86.967,
+    "text": "und ich steh' auf der straße ich steh auf der straße"
+   },
+   {
+    "start": 86.657,
+    "end": 89.912,
+    "text": "und weiß nicht was soll ich und weiß nicht was soll ich"
+   }
+  ]
+ }
+}

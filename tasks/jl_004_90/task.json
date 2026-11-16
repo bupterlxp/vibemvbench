@@ -1,0 +1,69 @@
+{
+ "task_id": "jl_004_90",
+ "song_id": "jl_004",
+ "clip_start": 0.02,
+ "clip_end": 90.02,
+ "length_class": 90,
+ "difficulty_tier": "medium",
+ "spec": {
+  "resolution": [
+   1920,
+   1080
+  ],
+  "fps": 30,
+  "duration_tol": 0.1,
+  "duration": 90.0
+ },
+ "song": {
+  "title": "Bad Side",
+  "artist": "Rxbyn",
+  "genre": "RNB",
+  "language": "en",
+  "license": "CC BY",
+  "url": "https://www.jamendo.com/track/1556580/bad-side"
+ },
+ "lyrics_text": [
+  "one two three",
+  "see you looking at me with those eyes",
+  "four five six",
+  "i know that you want this",
+  "am i right think i'm right",
+  "let's skip the games",
+  "fast forward to the what's your name",
+  "why take our time time",
+  "so one two three",
+  "know you heard about me",
+  "that's alright",
+  "just hit my line oh",
+  "so come to me",
+  "tonight we don't have to be enemies",
+  "keep it going like it's meant to be",
+  "meant to be just wait and see",
+  "so come with me",
+  "and maybe you can touch my body",
+  "don't be scared to take ahold of me",
+  "take me in and breathe tear me up to pieces",
+  "oh",
+  "get a taste of my bad side",
+  "just a taste of my bad side",
+  "you want a taste of my bad side",
+  "just a taste of my bad side",
+  "you wanna know what it feels like",
+  "to get a taste of my bad side",
+  "la di da di",
+  "bet you'll think it's nothing",
+  "till it drops all at once"
+ ],
+ "prompt": "Make a music video for this song. Make it as good as you possibly can.",
+ "free": true,
+ "difficulty": {
+  "d_rhythm": -0.55,
+  "d_structure": 0.27,
+  "d_dynamics": 0.07,
+  "d_lyrics": 1.36,
+  "d_genre": 0.0,
+  "d_length": -0.23,
+  "difficulty": 0.156
+ },
+ "alignment_fix": "2026-11-07: clip window corrected from 21.89 to 0.02 (audio/rubric were built for this window)"
+}

@@ -1,0 +1,132 @@
+{
+ "profile": "A club-ready electronic dance track driven by a pulsing 4/4 beat, rhythmic synth bass, and a hypnotic, repetitive vocal sample instructing the listener to move 'to the right, to the left, push'. The mood is energetic, kinetic, and designed for the dancefloor. The energy stays consistently high until a sudden atmospheric breakdown, which builds tension before dropping back into the main driving groove.",
+ "key_moments": [
+  {
+   "t": 46.0,
+   "what": "The heavy drum beat drops out for an atmospheric breakdown, leaving airy synth chords and the vocal samples."
+  },
+  {
+   "t": 60.0,
+   "what": "The heavy beat kicks back in, returning to the high-energy dance groove."
+  }
+ ],
+ "fitting_styles": "Dance performance (choreography emphasizing left/right lateral movements), rhythmic montage (quick cuts tightly matching the driving beat), or abstract/kinetic typography (playing creatively with the directional lyrics and shapes) are highly suitable. A slow, complex narrative or a live acoustic band performance would clash heavily with the repetitive, club-focused electronic nature of the track.",
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video shows a noticeable shift in energy, lighting, or editing pace to match the breakdown at 46.0s."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video marks the return of the heavy beat at 60.0s with a significant visual impact, transition, or burst of motion."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "visual",
+   "check": "Visual elements (e.g., dancers, camera pans, kinetic text, or abstract shapes) reflect the 'left' and 'right' directional instructions heard in the vocal samples."
+  }
+ ],
+ "anchors": {
+  "UN": "5 = The video perfectly matches the track's club energy, adopting a dance, abstract, or highly rhythmic style that embraces the hypnotic repetition; 3 = The style loosely fits an electronic track but lacks focus on the specific rhythmic or directional elements; 1 = The chosen concept clashes completely, such as a slow dramatic storyline or a rock band setup.",
+  "EM": "5 = Conveys a highly energetic, hypnotic, and kinetic mood that compels the viewer to move; 3 = Maintains a somewhat upbeat feel but feels a bit static or loses the immersive club vibe; 1 = The mood is flat, lifeless, or entirely disconnected from the dancefloor energy.",
+  "RH": "5 = Editing, visual accents, and subject motion are tightly locked to the pulsing 4/4 beat and the rhythmic vocal chops; 3 = Cuts generally follow the tempo but miss the machine-like tightness required for an electronic dance track; 1 = Visual pacing is random, sluggish, and ignores the driving beat entirely.",
+  "ST": "5 = The video clearly relaxes its energy during the 46s breakdown and hits hard when the beat returns at 60s; 3 = There is some minor visual acknowledgment of the breakdown and drop, but the dynamic contrast could be much stronger; 1 = The video plows through the 46s and 60s transitions with no structural change in the visuals.",
+  "LY": "5 = The concepts of 'left', 'right', and 'push' are clearly translated into choreography, camera movement, or kinetic typography; 3 = The video matches the vocal rhythm but doesn't particularly reflect the specific directional words; 1 = On-screen text is wrong, or the visual movement explicitly contradicts the left/right cues.",
+  "VA": "5 = Crisp, vibrant, and polished visuals that suit a modern electronic track, with dynamic lighting and no AI glitches; 3 = Acceptable visual quality but with some minor inconsistencies, artifacting, or a slightly generic aesthetic; 1 = Heavily distorted, glitchy, or placeholder visuals that distract from the music.",
+  "CR": "5 = An inventive take on the repetitive directional instructions, using clever choreography, editing tricks, or abstract animation to elevate the simple concept; 3 = A functional but predictable dance or club-themed video; 1 = A basic, uninspired visualizer with no creative connection to the song's specific flavor."
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 46.0,
+   "kind": "section change"
+  },
+  {
+   "t": 60.0,
+   "kind": "section change"
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video shows a noticeable shift in energy, lighting, or editing pace to match the breakdown at 46.0s."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video marks the return of the heavy beat at 60.0s with a significant visual impact, transition, or burst of motion."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "visual",
+   "check": "Visual elements (e.g., dancers, camera pans, kinetic text, or abstract shapes) reflect the 'left' and 'right' directional instructions heard in the vocal samples."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 90.0,
+  "approx_bpm": 120,
+  "section_changes_at_s": [
+   45.98,
+   60.0
+  ],
+  "sung_lines": []
+ }
+}

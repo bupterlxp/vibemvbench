@@ -1,0 +1,162 @@
+{
+ "profile": "The song is a quirky, upbeat pop instrumental built entirely from vocal samples or synthesized voices singing wordless 'la-la-la' and 'ah/ooh' syllables. The mood is playful, bouncy, and slightly whimsical. The energy arc starts with a brief, calm intro, jumps into a bouncy and highly rhythmic main section, drops into a floating, sustained bridge, returns to the bouncy rhythm, and finally winds down into a calm, ambient outro.",
+ "key_moments": [
+  {
+   "t": 3.4,
+   "what": "The transition from the smooth, ambient intro to the bouncy, rhythmic, staccato 'la-la-la' vocal melody."
+  },
+  {
+   "t": 45.6,
+   "what": "The rhythmic vocals drop out abruptly, shifting into a slower, floating bridge with sustained 'ah/ooh' harmonies."
+  },
+  {
+   "t": 54.1,
+   "what": "The energetic, highly syncopated 'la-la-la' section returns."
+  },
+  {
+   "t": 71.0,
+   "what": "The rhythmic section ends for the final time, giving way to a fading, ambient outro with sustained vocal chords."
+  }
+ ],
+ "fitting_styles": "Abstract animations, rhythmic motion graphics, colorful stop-motion, or quirky, whimsical narratives work well to match the playful, wordless nature of the track. Heavily dramatic narratives, gritty realism, or standard lip-sync performance videos would clash heavily due to the lack of actual lyrics and the track's bouncy, slightly uncanny vocal-synth arrangement.",
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "visual",
+   "check": "The visual pacing, editing, or motion sharply increases or changes at 3.4s to match the start of the bouncy, staccato rhythm."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "visual",
+   "check": "The visual energy noticeably drops, smoothes out, or shifts to a floating quality at 45.6s when the rhythmic vocals pause."
+  },
+  {
+   "id": "S3",
+   "level": "core",
+   "modality": "visual",
+   "check": "The energetic, rhythmic visual style established earlier returns at 54.1s as the 'la-la-la' melody resumes."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "visual",
+   "check": "The video responds to the final wind-down at 71.0s, visually transitioning into a calmer, concluding state for the outro."
+  }
+ ],
+ "anchors": {
+  "UN": "1: The video's style completely misses the lighthearted, vocal-sample nature of the track. 3: The concept is adequate but somewhat generic, not fully capitalizing on the track's quirky charm. 5: The chosen concept perfectly matches the whimsical, a cappella pop feel, showing a deep understanding of the song's unique sonic palette.",
+  "EM": "1: The mood clashes entirely, feeling tense, aggressive, or somber. 3: The mood is appropriately light but misses the contrast between the bouncy sections and the floating bridge. 5: The video beautifully captures the playful, bouncy joy of the main sections while providing a satisfying, calm contrast during the bridge and outro.",
+  "RH": "1: The visuals ignore the strong, staccato rhythm of the vocal samples. 3: There is some rhythmic synchronization, but it feels loose or repetitive. 5: Visual events are tightly locked to the syncopated 'la-la-la' phrasing, enhancing the bouncy feel without becoming monotonous.",
+  "ST": "1: The video is visually monotonous, completely ignoring the structural shifts. 3: The video marks the initial drop at 3.4s but fails to clearly distinguish the bridge at 45.6s or the return at 54.1s. 5: The visual narrative or progression clearly and distinctively responds to every section change at 3.4s, 45.6s, 54.1s, and 71.0s.",
+  "LY": "1: The video invents actual words as on-screen text, which clashes with the wordless vocalise. 3: The video uses no text, making this dimension mostly non-applicable, or includes basic typography without syncing. 5: The video cleverly visualizes the 'la-la' syllables as typography, or uses no text but fits the wordless vocalise perfectly (e.g., characters mouthing the syllables playfully).",
+  "VA": "1: The video looks glitchy, messy, or like a low-effort placeholder. 3: The rendering is clean and competent, though it may lack distinct polish or a cohesive color palette. 5: The visuals are pristine, featuring excellent composition, lighting, and a well-curated aesthetic that elevates the music.",
+  "CR": "1: The video uses a very basic, uninspired template or generic visualizer. 3: The concept is standard but executed well enough to keep the viewer engaged. 5: The video uses a highly distinctive, imaginative idea (e.g., a clever stop-motion concept or a unique abstract world) that feels surprisingly perfect for the song."
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 3.4,
+   "kind": "section change"
+  },
+  {
+   "t": 45.6,
+   "kind": "section change"
+  },
+  {
+   "t": 54.1,
+   "kind": "section change"
+  },
+  {
+   "t": 71.0,
+   "kind": "section change"
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "visual",
+   "check": "The visual pacing, editing, or motion sharply increases or changes at 3.4s to match the start of the bouncy, staccato rhythm."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "visual",
+   "check": "The visual energy noticeably drops, smoothes out, or shifts to a floating quality at 45.6s when the rhythmic vocals pause."
+  },
+  {
+   "id": "S3",
+   "level": "core",
+   "modality": "visual",
+   "check": "The energetic, rhythmic visual style established earlier returns at 54.1s as the 'la-la-la' melody resumes."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "visual",
+   "check": "The video responds to the final wind-down at 71.0s, visually transitioning into a calmer, concluding state for the outro."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 90.0,
+  "approx_bpm": 144,
+  "section_changes_at_s": [
+   3.36,
+   45.62,
+   54.06,
+   71.04
+  ],
+  "sung_lines": []
+ }
+}

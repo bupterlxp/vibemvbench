@@ -1,0 +1,55 @@
+{
+ "task_id": "jl_017_90",
+ "song_id": "jl_017",
+ "clip_start": 10.36,
+ "clip_end": 100.36,
+ "length_class": 90,
+ "difficulty_tier": "hard",
+ "spec": {
+  "resolution": [
+   1920,
+   1080
+  ],
+  "fps": 30,
+  "duration_tol": 0.1,
+  "duration": 90.0
+ },
+ "song": {
+  "title": "Disparan",
+  "artist": "CRIATURA",
+  "genre": "Rock",
+  "language": "es",
+  "license": "CC BY-NC-SA",
+  "url": "https://www.jamendo.com/track/1314277/10-disparan/lyrics"
+ },
+ "lyrics_text": [
+  "disparan la linea hay que cruzar",
+  "la linea que separa su mundo que es mejor",
+  "cruzar dar la vida buscar trabajo un sitio un lugar",
+  "apostar todo a una ficha él yo tu y quién mas",
+  "los que van a cruzar la linea",
+  "cruzar las balas la cerca su dignidad",
+  "quieren encontrar un lugar",
+  "disparan la linea hay que cruzar",
+  "separan la tierra hay que alcanzar",
+  "protegen su mundo que es mejor",
+  "nos alejan por la fuerza",
+  "cruzar dar la vida buscar trabajo un sitio un lugar",
+  "apostar todo a una ficha él yo tu y quién mas",
+  "los que van a cruzar la linea",
+  "cruzar las balas la cerca su dignidad",
+  "quieren encontrar un lugar"
+ ],
+ "prompt": "Make a music video for this song. Make it as good as you possibly can.",
+ "free": true,
+ "difficulty": {
+  "d_rhythm": -0.08,
+  "d_structure": 2.13,
+  "d_dynamics": -0.5,
+  "d_lyrics": 1.32,
+  "d_genre": 0.0,
+  "d_length": -1.02,
+  "difficulty": 0.31
+ },
+ "alignment_fix": "2026-11-07: clip window corrected from 9.74 to 10.36 (audio/rubric were built for this window)"
+}

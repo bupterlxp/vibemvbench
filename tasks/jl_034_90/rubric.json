@@ -1,0 +1,343 @@
+{
+ "profile": "The song is a heartfelt Latin folk acoustic ballad. The instrumentation features warm acoustic guitar strumming and plucking, a steady bassline, and subtle percussion. The male vocals are passionate, sincere, and emotionally resonant, singing entirely in Spanish. The lyrical theme revolves around deep romantic love, expressing profound gratitude, apologies, and the spiritual weight of the words 'te amo' (I love you). The energy arc starts intimately with an instrumental intro, builds steadily as the vocals enter, lifts slightly during the emotive 'te amo' choruses, and culminates in a passionate, repeating vocal outro.",
+ "key_moments": [
+  {
+   "t": 10.1,
+   "what": "The male vocals enter, ending the instrumental introduction and starting the first verse."
+  },
+  {
+   "t": 28.1,
+   "what": "The first chorus begins with the core phrase 'te amo son dos palabras', lifting the emotional intensity."
+  },
+  {
+   "t": 63.0,
+   "what": "The final chorus begins, driving the central romantic theme home."
+  },
+  {
+   "t": 80.5,
+   "what": "The emotional climax and outro begin, featuring the passionate, repeating phrase 'te amo te amo te amo'."
+  }
+ ],
+ "fitting_styles": "Narrative (a tender love story, a couple's shared history, or a tribute to a loved one), Performance (an intimate, warmly lit acoustic performance by a singer-songwriter), and Lyric/Kinetic typography (elegant, poetic text emphasizing the Spanish lyrics) all fit perfectly. High-energy, aggressive, cyberpunk, futuristic, or heavily abstract/glitchy visual styles would clash severely with the warm, acoustic, and deeply romantic mood.",
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video responds to the start of the vocals at 10.1s with a clear visual transition, such as introducing a main character, changing the scene, or shifting focus."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "There is a noticeable structural or thematic visual shift at 28.1s to accompany the main 'te amo' hook."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The repetitive emotional outro starting at 80.5s is visually emphasized through rhythmic editing, pacing changes, or a climactic visual sequence."
+  },
+  {
+   "id": "S4",
+   "level": "core",
+   "modality": "visual",
+   "check": "The visual imagery consistently reflects themes of romance, affection, warmth, or deep emotional connection."
+  },
+  {
+   "id": "S5",
+   "level": "detail",
+   "modality": "text",
+   "check": "If on-screen text is used, it displays accurate Spanish lyrics from the song (e.g., 'te amo'); if no text is present, this check automatically passes."
+  }
+ ],
+ "anchors": {
+  "UN": "Song understanding: 1 = The video completely ignores the romantic Latin folk vibe, using inappropriate futuristic or aggressive concepts; 3 = The video is appropriately slow and pleasant but misses the deep, passionate romance specific to these lyrics; 5 = The concept beautifully matches the sincere, romantic acoustic mood, whether through narrative, intimate performance, or poetic lyricism.",
+  "EM": "Emotion: 1 = The video is cold, chaotic, or unsettling, entirely ruining the tender mood; 3 = The video is gentle but feels a bit too detached or lacks the heartfelt peaks of the vocal delivery; 5 = The imagery perfectly captures the warmth, gratitude, and profound love of the song, soaring effortlessly alongside the vocal highs.",
+  "RH": "Rhythm: 1 = The visual editing ignores the steady acoustic phrasing entirely; 3 = The cuts generally follow the beat but occasionally feel too rigid or slightly disconnected from the flowing melody; 5 = The visual pacing glides beautifully with the acoustic strumming and vocal phrasing, breathing naturally with the song's tempo.",
+  "ST": "Structure: 1 = The video is a monotonous loop that ignores the transitions between verses and choruses; 3 = The video changes occasionally but misses key structural cues like the main hook at 28.1s or the outro at 80.5s; 5 = The visual sections clearly and effectively distinguish the instrumental intro, the verses, the defining choruses, and the emotional outro.",
+  "LY": "Lyrics: 1 = The on-screen text is in the wrong language, heavily misspelled, or visually incongruent with the song's meaning; 3 = The lyrics are mostly accurate and readable but sometimes drift out of sync with the singer; 5 = The imagery beautifully reflects the themes of love and gratitude, and any on-screen text is perfectly synced, spelled correctly in Spanish, and elegantly stylized.",
+  "VA": "Visual quality: 1 = The video is plagued by obvious AI glitches, poor lighting, or jarring inconsistencies; 3 = The visuals are decent and mostly cohesive but lack a professional cinematic polish; 5 = The video looks stunning, featuring excellent composition, warm lighting, and a cohesive, highly professional aesthetic.",
+  "CR": "Creativity: 1 = A completely generic, lazy visualizer with no original thought; 3 = A standard, functional approach to a romantic song that is pleasing but somewhat predictable; 5 = A highly creative interpretation that elevates the acoustic folk theme with unique visual metaphors, compelling character interactions, or stunning stylistic execution."
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 2.2,
+   "kind": "section change"
+  },
+  {
+   "t": 10.1,
+   "kind": "sung line starts: \"y la alegria que estoy sintiendo\""
+  },
+  {
+   "t": 10.9,
+   "kind": "section change"
+  },
+  {
+   "t": 14.5,
+   "kind": "sung line starts: \"es sentimiento vuelto expresion\""
+  },
+  {
+   "t": 18.8,
+   "kind": "sung line starts: \"por inspirarme el pronunciarlas\""
+  },
+  {
+   "t": 21.8,
+   "kind": "section change"
+  },
+  {
+   "t": 23.2,
+   "kind": "sung line starts: \"una y mil veces gracias mi amor\""
+  },
+  {
+   "t": 28.1,
+   "kind": "sung line starts: \"te amo son dos palabras\""
+  },
+  {
+   "t": 31.9,
+   "kind": "sung line starts: \"que brotan llanas en la expresion\""
+  },
+  {
+   "t": 36.3,
+   "kind": "sung line starts: \"pero al decirlas con toda el alma\""
+  },
+  {
+   "t": 37.1,
+   "kind": "section change"
+  },
+  {
+   "t": 40.6,
+   "kind": "sung line starts: \"el sentimiento les da valor\""
+  },
+  {
+   "t": 45.6,
+   "kind": "sung line starts: \"te amo son dos palabras\""
+  },
+  {
+   "t": 45.8,
+   "kind": "section change"
+  },
+  {
+   "t": 49.4,
+   "kind": "sung line starts: \"que al pronunciarlas me acerca a dios\""
+  },
+  {
+   "t": 53.8,
+   "kind": "sung line starts: \"por no decirlas en su momento\""
+  },
+  {
+   "t": 58.1,
+   "kind": "sung line starts: \"una y mil veces pido perdon\""
+  },
+  {
+   "t": 63.0,
+   "kind": "sung line starts: \"te amo son dos palabras\""
+  },
+  {
+   "t": 63.3,
+   "kind": "section change"
+  },
+  {
+   "t": 66.8,
+   "kind": "sung line starts: \"que al pronunciarlas me acerca a dios\""
+  },
+  {
+   "t": 71.2,
+   "kind": "sung line starts: \"por inspirarme lo que yo siento\""
+  },
+  {
+   "t": 75.6,
+   "kind": "sung line starts: \"una y mil veces gracias mi amor\""
+  },
+  {
+   "t": 80.5,
+   "kind": "sung line starts: \"te amo te amo te amo\""
+  },
+  {
+   "t": 80.7,
+   "kind": "section change"
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video responds to the start of the vocals at 10.1s with a clear visual transition, such as introducing a main character, changing the scene, or shifting focus."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "There is a noticeable structural or thematic visual shift at 28.1s to accompany the main 'te amo' hook."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The repetitive emotional outro starting at 80.5s is visually emphasized through rhythmic editing, pacing changes, or a climactic visual sequence."
+  },
+  {
+   "id": "S4",
+   "level": "core",
+   "modality": "visual",
+   "check": "The visual imagery consistently reflects themes of romance, affection, warmth, or deep emotional connection."
+  },
+  {
+   "id": "S5",
+   "level": "detail",
+   "modality": "text",
+   "check": "If on-screen text is used, it displays accurate Spanish lyrics from the song (e.g., 'te amo'); if no text is present, this check automatically passes."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 90.0,
+  "approx_bpm": 111,
+  "section_changes_at_s": [
+   2.18,
+   10.92,
+   21.82,
+   37.1,
+   45.82,
+   63.28,
+   80.74
+  ],
+  "sung_lines": [
+   {
+    "start": 10.119,
+    "end": 14.164,
+    "text": "y la alegria que estoy sintiendo"
+   },
+   {
+    "start": 14.466,
+    "end": 18.56,
+    "text": "es sentimiento vuelto expresion"
+   },
+   {
+    "start": 18.82,
+    "end": 23.008,
+    "text": "por inspirarme el pronunciarlas"
+   },
+   {
+    "start": 23.192,
+    "end": 27.101,
+    "text": "una y mil veces gracias mi amor"
+   },
+   {
+    "start": 28.12,
+    "end": 31.716,
+    "text": "te amo son dos palabras"
+   },
+   {
+    "start": 31.92,
+    "end": 36.036,
+    "text": "que brotan llanas en la expresion"
+   },
+   {
+    "start": 36.276,
+    "end": 40.409,
+    "text": "pero al decirlas con toda el alma"
+   },
+   {
+    "start": 40.65,
+    "end": 44.544,
+    "text": "el sentimiento les da valor"
+   },
+   {
+    "start": 45.57,
+    "end": 49.135,
+    "text": "te amo son dos palabras"
+   },
+   {
+    "start": 49.361,
+    "end": 53.54,
+    "text": "que al pronunciarlas me acerca a dios"
+   },
+   {
+    "start": 53.752,
+    "end": 57.84,
+    "text": "por no decirlas en su momento"
+   },
+   {
+    "start": 58.094,
+    "end": 62.249,
+    "text": "una y mil veces pido perdon"
+   },
+   {
+    "start": 63.021,
+    "end": 66.587,
+    "text": "te amo son dos palabras"
+   },
+   {
+    "start": 66.828,
+    "end": 70.972,
+    "text": "que al pronunciarlas me acerca a dios"
+   },
+   {
+    "start": 71.205,
+    "end": 75.216,
+    "text": "por inspirarme lo que yo siento"
+   },
+   {
+    "start": 75.56,
+    "end": 79.45,
+    "text": "una y mil veces gracias mi amor"
+   },
+   {
+    "start": 80.48,
+    "end": 89.659,
+    "text": "te amo te amo te amo"
+   }
+  ]
+ }
+}

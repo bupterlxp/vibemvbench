@@ -1,0 +1,337 @@
+{
+ "profile": "The song is a brooding, mid-tempo electronic/synthpop track driven by a pulsing bassline and an emotive, breathy female vocal. The mood transitions from melancholic and betrayed to a feeling of urgent liberation and harsh realization. Lyrically, it explores the pain of a one-sided, toxic relationship ('selfish heart', 'one way street', 'bleeding blades and knifes') and the moment of finally seeing the truth ('wide awake'). The energy arc starts with atmospheric tension, builds steadily into a vocal chorus, explodes into a high-energy, beat-heavy instrumental drop with vocal chops, and concludes with a resolute, driving vocal aftermath.",
+ "key_moments": [
+  {
+   "t": 0.4,
+   "what": "The track begins with the opening vocal line 'tears are like diamonds in my eyes', immediately establishing the melancholic, atmospheric electronic soundscape."
+  },
+  {
+   "t": 26.6,
+   "what": "The chorus begins ('who will save you from this dark'); the beat becomes more driving and urgent, elevating the emotional stakes."
+  },
+  {
+   "t": 41.1,
+   "what": "A major section change into a high-energy instrumental drop featuring heavy synths, a driving dance beat, and chopped vocal samples. This is the peak energy moment of the clip."
+  },
+  {
+   "t": 68.6,
+   "what": "The instrumental drop ends, transitioning back to a vocal section. The energy shifts from dancefloor intensity to a steady, resolute narrative drive."
+  },
+  {
+   "t": 68.9,
+   "what": "The vocal returns with 'wide awake yeah i've crossed the line', marking a thematic turning point of realization and escape."
+  },
+  {
+   "t": 88.6,
+   "what": "The final lyrical line of the clip, 'there's nothing left of us but bleeding blades and knifes', delivers a dark, lingering concluding image."
+  }
+ ],
+ "fitting_styles": "Narrative styles (e.g., a neon-lit night drive, an escape from a confining, surreal environment, or a tense dramatic confrontation) work beautifully with the 'one way street' metaphor and the brooding energy. Performance styles featuring an edgy, emotive artist in moody, high-contrast lighting that erupts into intense choreography during the drop would be highly effective. Abstract or kinetic typography approaches using sharp, glitchy, or crystalline visuals (diamonds, blades) paired with deep reds and blacks would also fit the lyrical motifs well. Conversely, overly bright, sunny, wholesome, or acoustic-folk aesthetics (like a happy daytime beach trip or a slow romantic montage) would clash horribly with the toxic, edgy themes and driving electronic beat.",
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video exhibits a significant shift in visual energy, pacing, or narrative intensity at the 41.1s mark to match the explosive instrumental drop."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "visual",
+   "check": "The overall color palette and lighting maintain a dramatic, moody, or edgy aesthetic (e.g., dark, neon, high-contrast), avoiding completely bright, cheerful daytime settings."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "visual",
+   "check": "A distinct visual transition (e.g., a scene change, shift in lighting, or change in character behavior) occurs around 68.6s / 68.9s as the vocals return to signal the 'wide awake' realization."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "text",
+   "check": "If lyrics are shown on screen, the words 'one way street' appear precisely around 33.2s."
+  }
+ ],
+ "anchors": {
+  "UN": "A score of 5 indicates the video perfectly aligns with the brooding synthpop genre and the themes of betrayal and realization; 3 means it uses generic electronic music tropes but lacks the specific melancholic edge; 1 means the concept fundamentally misinterprets the track (e.g., upbeat, sunny, cheerful).",
+  "EM": "A score of 5 shows a dynamic emotional arc, moving from atmospheric hurt to high-energy release (at the drop) and finally to cold resolution; 3 means the mood is generally moody but remains emotionally flat throughout; 1 means the visual emotion contradicts the audio entirely.",
+  "RH": "A score of 5 features cuts, camera movements, and visual impacts that lock flawlessly to the driving four-on-the-floor beat and synth chops, particularly during the drop; 3 means the edits loosely follow the tempo but miss key kinetic accents; 1 means the visuals ignore the prominent electronic rhythm entirely.",
+  "ST": "A score of 5 presents clear visual 'chapters' that recognize the intro, the rising chorus, the massive instrumental drop at 41.1s, and the vocal return at 68.6s; 3 acknowledges the drop but blends the other sections together without distinction; 1 features a continuous loop or random footage that ignores the song's structural shifts.",
+  "LY": "A score of 5 cleverly incorporates imagery reflecting the lyrics (e.g., sharp objects/blades, diamonds, literal or figurative 'one way streets', night escapes) or features perfectly timed, stylistically appropriate typography; 3 shows a generic heartbreak or dancing theme without specific lyrical nods; 1 contradicts the lyrics, such as showing a thriving, happy relationship.",
+  "VA": "A score of 5 is visually stunning, with deliberate lighting, cohesive art direction, and high-quality rendering free of unintentional artifacts; 3 is visually passable but relies on overly basic assets or displays slight AI morphing; 1 is marred by low resolution, severe logical glitches, or a chaotic, unpolished look.",
+  "CR": "A score of 5 elevates the 'one way street' or 'blades' metaphors into a highly original, captivating visual concept that goes beyond standard club visuals; 3 successfully but safely executes standard electronic/synthpop tropes (e.g., neon lights, simple performance); 1 is entirely derivative, confusing, or lacks any cohesive creative thought."
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 0.4,
+   "kind": "sung line starts: \"tears are like diamonds in my eyes\""
+  },
+  {
+   "t": 3.8,
+   "kind": "sung line starts: \"blind me so now you're out of sight\""
+  },
+  {
+   "t": 7.2,
+   "kind": "sung line starts: \"it's enough it's too late to break this silence\""
+  },
+  {
+   "t": 14.1,
+   "kind": "sung line starts: \"in a rose coloured view of us\""
+  },
+  {
+   "t": 17.5,
+   "kind": "sung line starts: \"either cause could i realize\""
+  },
+  {
+   "t": 21.0,
+   "kind": "sung line starts: \"all your lies would be blades to knifes\""
+  },
+  {
+   "t": 24.5,
+   "kind": "sung line starts: \"to stab me inside\""
+  },
+  {
+   "t": 26.6,
+   "kind": "sung line starts: \"who will save you from this dark\""
+  },
+  {
+   "t": 30.0,
+   "kind": "sung line starts: \"who will fix your selfish heart\""
+  },
+  {
+   "t": 33.2,
+   "kind": "sung line starts: \"a one way street that's how you live\""
+  },
+  {
+   "t": 36.6,
+   "kind": "sung line starts: \"why do you always take and never give\""
+  },
+  {
+   "t": 41.1,
+   "kind": "section change"
+  },
+  {
+   "t": 68.6,
+   "kind": "section change"
+  },
+  {
+   "t": 68.9,
+   "kind": "sung line starts: \"wide awake yeah i've crossed the line\""
+  },
+  {
+   "t": 72.0,
+   "kind": "sung line starts: \"i'm coming home\""
+  },
+  {
+   "t": 73.0,
+   "kind": "sung line starts: \"i'm running back to real life\""
+  },
+  {
+   "t": 75.8,
+   "kind": "sung line starts: \"through the start\""
+  },
+  {
+   "t": 76.9,
+   "kind": "sung line starts: \"where i could breathin' freely baby\""
+  },
+  {
+   "t": 81.5,
+   "kind": "sung line starts: \"can't you see we ran off time\""
+  },
+  {
+   "t": 82.3,
+   "kind": "section change"
+  },
+  {
+   "t": 83.7,
+   "kind": "sung line starts: \"chasing happiness while you get what you need\""
+  },
+  {
+   "t": 88.6,
+   "kind": "sung line starts: \"there's nothing left of us but bleeding blades and knifes\""
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video exhibits a significant shift in visual energy, pacing, or narrative intensity at the 41.1s mark to match the explosive instrumental drop."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "visual",
+   "check": "The overall color palette and lighting maintain a dramatic, moody, or edgy aesthetic (e.g., dark, neon, high-contrast), avoiding completely bright, cheerful daytime settings."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "visual",
+   "check": "A distinct visual transition (e.g., a scene change, shift in lighting, or change in character behavior) occurs around 68.6s / 68.9s as the vocals return to signal the 'wide awake' realization."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "text",
+   "check": "If lyrics are shown on screen, the words 'one way street' appear precisely around 33.2s."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 90.0,
+  "approx_bpm": 70,
+  "section_changes_at_s": [
+   41.14,
+   68.56,
+   82.26
+  ],
+  "sung_lines": [
+   {
+    "start": 0.428,
+    "end": 3.375,
+    "text": "tears are like diamonds in my eyes"
+   },
+   {
+    "start": 3.78,
+    "end": 6.895,
+    "text": "blind me so now you're out of sight"
+   },
+   {
+    "start": 7.232,
+    "end": 12.228,
+    "text": "it's enough it's too late to break this silence"
+   },
+   {
+    "start": 14.079,
+    "end": 17.175,
+    "text": "in a rose coloured view of us"
+   },
+   {
+    "start": 17.524,
+    "end": 20.591,
+    "text": "either cause could i realize"
+   },
+   {
+    "start": 20.961,
+    "end": 24.088,
+    "text": "all your lies would be blades to knifes"
+   },
+   {
+    "start": 24.474,
+    "end": 26.125,
+    "text": "to stab me inside"
+   },
+   {
+    "start": 26.555,
+    "end": 29.838,
+    "text": "who will save you from this dark"
+   },
+   {
+    "start": 29.955,
+    "end": 33.028,
+    "text": "who will fix your selfish heart"
+   },
+   {
+    "start": 33.197,
+    "end": 36.314,
+    "text": "a one way street that's how you live"
+   },
+   {
+    "start": 36.554,
+    "end": 40.098,
+    "text": "why do you always take and never give"
+   },
+   {
+    "start": 68.939,
+    "end": 71.945,
+    "text": "wide awake yeah i've crossed the line"
+   },
+   {
+    "start": 72.0,
+    "end": 73.016,
+    "text": "i'm coming home"
+   },
+   {
+    "start": 73.016,
+    "end": 75.367,
+    "text": "i'm running back to real life"
+   },
+   {
+    "start": 75.788,
+    "end": 76.689,
+    "text": "through the start"
+   },
+   {
+    "start": 76.857,
+    "end": 80.611,
+    "text": "where i could breathin' freely baby"
+   },
+   {
+    "start": 81.55,
+    "end": 83.537,
+    "text": "can't you see we ran off time"
+   },
+   {
+    "start": 83.747,
+    "end": 87.721,
+    "text": "chasing happiness while you get what you need"
+   },
+   {
+    "start": 88.627,
+    "end": 90.0,
+    "text": "there's nothing left of us but bleeding blades and knifes"
+   }
+  ]
+ }
+}

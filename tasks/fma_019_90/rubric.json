@@ -1,0 +1,204 @@
+{
+ "profile": "This is an instrumental 8-bit chiptune track featuring classic retro video game instrumentation (square and triangle waves, noise channel percussion). There are no vocals. The mood is nostalgic, wistful, and energetic yet underscored by a distinct melancholy. The energy arc starts high and driving, suddenly drops into a sparse, reflective breakdown at 34 seconds, gradually builds tension back up at 61 seconds, and returns to a full, dense energetic climax at 76 seconds before an abrupt conclusion.",
+ "key_moments": [
+  {
+   "t": 3.4,
+   "what": "The brief intro ends, and the main driving chiptune beat and upbeat lead melody begin."
+  },
+  {
+   "t": 17.1,
+   "what": "The melody shifts to a different progression and register, introducing the B-section while maintaining the energetic groove."
+  },
+  {
+   "t": 34.3,
+   "what": "A stark breakdown occurs; the drums drop out, leaving a sparse, slower, and melancholic square-wave melody with a simple bassline."
+  },
+  {
+   "t": 61.7,
+   "what": "The beat returns slightly alongside an arpeggiated melody, beginning to build tension back up."
+  },
+  {
+   "t": 76.3,
+   "what": "The full energetic groove returns, marking the climax of the song with complex intertwined melodies."
+  },
+  {
+   "t": 89.1,
+   "what": "The track abruptly concludes with a final note ringing out briefly."
+  }
+ ],
+ "fitting_styles": "Fitting approaches include pixel art, retro gaming narratives, abstract 8-bit visualizers, rhythmic montages of nostalgic technology, or vibrant cyber/retro-future animations, as they naturally complement the 8-bit chiptune sound palette. Clashing approaches would be ultra-realistic historical or serious live-action dramatic narratives, slow cinematic nature landscapes, or hyper-modern pristine 3D renders that completely ignore the lo-fi retro aesthetic.",
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The visuals exhibit a noticeable shift, edit, or introduction of motion marking the start of the main groove at 3.4s."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video responds to the stark breakdown at 34.3s, visibly lowering the energy, reducing motion, or shifting the mood to match the sparse instrumentation."
+  },
+  {
+   "id": "S3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The visuals react to the return of the full beat and melodic climax at 76.3s with a clear increase in visual energy or complexity."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The abrupt end of the track at 89.1s is reflected by a hard cut to black, a freeze frame, or a sudden visual stop."
+  }
+ ],
+ "anchors": {
+  "UN": {
+   "1": "The video uses a wildly inappropriate concept, such as a hyper-realistic serious drama, that completely ignores the nostalgic 8-bit chiptune aesthetic.",
+   "3": "The video fits the upbeat retro vibe but feels a bit generic, capturing the chiptune sound without fully adapting to its underlying wistful mood.",
+   "5": "The video perfectly marries the nostalgic, 8-bit sound with complementary visuals (like pixel art, retro-digital environments, or clever thematic contrasts) that capture both the upbeat energy and the melancholic undertones."
+  },
+  "EM": {
+   "1": "The emotional tone is completely flat or mismatched, ignoring the wistful nostalgia and the dramatic mood shift of the breakdown.",
+   "3": "The video captures the track's retro playfulness but doesn't fully lean into the contrasting emotional weight of the sparse breakdown.",
+   "5": "The visuals effectively portray the wistful nostalgia of the track, pulling back the mood during the melancholic breakdown and triumphantly lifting it during the climax."
+  },
+  "RH": {
+   "1": "Visual movements and edits are completely disconnected from the fast chiptune tempo and 8-bit drum patterns.",
+   "3": "The video cuts on the main downbeats but misses opportunities to sync with the rapid arpeggios and syncopated noise-channel percussion.",
+   "5": "The visuals feel tightly locked to the chiptune grid, with motion accents and edits perfectly bouncing to the staccato synth notes and snappy drum hits."
+  },
+  "ST": {
+   "1": "The video plods along without acknowledging major structural shifts, entirely missing the stark breakdown and the final climax.",
+   "3": "The visuals react to the major breakdown at 34s, but overlook the subtle build-up at 61s or the structural return at 76s.",
+   "5": "Clear visual transformations mark all key structural points, particularly emphasizing the sudden drop at 34.3s, the building tension at 61.7s, and the explosive climax at 76.3s."
+  },
+  "LY": null,
+  "VA": {
+   "1": "The imagery is full of messy AI glitches, muddy rendering, or looks like a low-effort placeholder that fails to establish a deliberate aesthetic.",
+   "3": "The visuals are reasonably clean but lack polish, with some inconsistent elements in the retro or digital art direction.",
+   "5": "High-quality, polished visuals with a consistent and striking art direction (e.g., crisp pixel art, clean abstract geometry) and zero noticeable glitches or muddy frames."
+  },
+  "CR": {
+   "1": "A basic, uninspired audio visualizer or a completely generic montage of people playing video games.",
+   "3": "A solid concept that fits the chiptune genre but relies heavily on expected retro-gaming tropes without adding a unique twist.",
+   "5": "A highly creative, surprising concept that takes the chiptune aesthetic in an unexpected direction, elevating the track far beyond standard arcade nostalgia."
+  }
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 3.4,
+   "kind": "section change"
+  },
+  {
+   "t": 17.1,
+   "kind": "section change"
+  },
+  {
+   "t": 34.3,
+   "kind": "section change"
+  },
+  {
+   "t": 61.7,
+   "kind": "section change"
+  },
+  {
+   "t": 76.3,
+   "kind": "section change"
+  },
+  {
+   "t": 89.1,
+   "kind": "section change"
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The visuals exhibit a noticeable shift, edit, or introduction of motion marking the start of the main groove at 3.4s."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video responds to the stark breakdown at 34.3s, visibly lowering the energy, reducing motion, or shifting the mood to match the sparse instrumentation."
+  },
+  {
+   "id": "S3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The visuals react to the return of the full beat and melodic climax at 76.3s with a clear increase in visual energy or complexity."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The abrupt end of the track at 89.1s is reflected by a hard cut to black, a freeze frame, or a sudden visual stop."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 90.0,
+  "approx_bpm": 140,
+  "section_changes_at_s": [
+   3.42,
+   17.12,
+   34.28,
+   61.7,
+   76.26,
+   89.1
+  ],
+  "sung_lines": []
+ }
+}

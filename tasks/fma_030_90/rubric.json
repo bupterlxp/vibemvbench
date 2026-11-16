@@ -1,0 +1,169 @@
+{
+ "profile": "The audio is a dark, complex IDM (Intelligent Dance Music) instrumental. It features deep, synthetic bass, distorted and highly syncopated electronic percussion, frantic sequenced synths, and dark ambient pads. There are no vocals. The mood is tense, dystopian, cybernetic, and unsettling. The energy arc moves from a mysterious, sparse ambient intro to a massive, heavy glitch-beat drop, escalates into a chaotic and fast-paced section, and then abruptly drops out into an eerie, desolate atmospheric breakdown.",
+ "key_moments": [
+  {
+   "t": 17.9,
+   "what": "The ambient intro ends, and the track drops into a heavy, syncopated IDM/glitch-hop beat with a driving, distorted bassline."
+  },
+  {
+   "t": 44.8,
+   "what": "A fast, chaotic, high-pitched sequenced synth lead enters, adding a frantic layer of energy over the dense beat."
+  },
+  {
+   "t": 73.5,
+   "what": "A sudden breakdown occurs where the heavy drums and bass completely cut out, leaving a dark, sparse ambient atmosphere with eerie textures."
+  }
+ ],
+ "fitting_styles": "Abstract (glitch art, fractals, or generative visuals fit the complex IDM rhythms perfectly), narrative (cyberpunk, dystopian, or sci-fi thriller themes match the dark, futuristic mood), and rhythmic montage (rapid cuts matching the erratic percussion) would suit this song. Traditional band performances, bright/cheerful narratives (like a sunny day or romantic comedy), or lyric-focused typography approaches would completely clash with its dark, instrumental, and cerebral electronic nature.",
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The picture marks the heavy IDM beat drop at ~17.9 s with a significant visual shift, transition, or impact."
+  },
+  {
+   "id": "S2",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The picture noticeably responds to the introduction of the frantic sequenced synth at ~44.8 s (e.g., increased edit pace, chaotic motion, or a new visual element)."
+  },
+  {
+   "id": "S3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The picture visually reflects the sudden drop in energy for the ambient breakdown at ~73.5 s (e.g., significantly slower motion, darker tones, or fewer cuts)."
+  }
+ ],
+ "anchors": {
+  "UN": {
+   "1": "The video presents a bright, upbeat, or acoustic-driven concept that completely clashes with the dark, electronic, and glitchy IDM sound.",
+   "3": "The concept is broadly dark or sci-fi but feels generic and doesn't fully capture the track's specific cybernetic, complex IDM identity.",
+   "5": "The video embraces the dark, dystopian, and glitchy nature of the track, feeling perfectly aligned with its tense, electronic mood whether through abstract generative art, cyberpunk narrative, or unsettling atmosphere."
+  },
+  "EM": {
+   "1": "The video conveys a lighthearted, cheerful, or relaxed mood that directly contradicts the track's dark, aggressive, and eerie tension.",
+   "3": "The visuals establish a dark mood but remain emotionally flat, failing to reflect the escalating tension or the eerie emptiness of the breakdown.",
+   "5": "The video perfectly translates the track's unsettling, aggressive, and cerebral energy, matching the chaotic buildup and the chilling desolation of the breakdown."
+  },
+  "RH": {
+   "1": "The visual pacing is entirely disconnected from the music, ignoring the complex, syncopated IDM rhythms and glitchy percussion.",
+   "3": "The visuals hit on the primary downbeats but miss the opportunity to sync with the track's defining erratic, stuttering micro-rhythms.",
+   "5": "The editing and visual motion are tightly locked to the complex, broken beats and glitchy textures, creating a dynamic visual rhythm that matches the music's erratic pulse."
+  },
+  "ST": {
+   "1": "The video ignores all structural shifts, plowing through the drop and breakdown with no visual acknowledgement.",
+   "3": "The video marks the initial heavy drop at 17.9s but fails to change visual pacing for the chaotic synth at 44.8s or the ambient breakdown at 73.5s.",
+   "5": "The visual narrative or aesthetic clearly shifts for the massive drop at 17.9s, the frantic escalation at 44.8s, and the sudden atmospheric breakdown at 73.5s."
+  },
+  "LY": {
+   "1": "The video inexplicably features lip-syncing or irrelevant hallucinated lyrics for this purely instrumental track.",
+   "3": "The video includes text or typography that is visually adequate but feels somewhat disconnected from the track's dark, cybernetic themes.",
+   "5": "Since the track is instrumental, the video successfully relies entirely on its striking imagery to convey the mood, or integrates diegetic text (like sci-fi UI) that perfectly enhances the dystopian vibe."
+  },
+  "VA": {
+   "1": "The visuals are messy, low-resolution, or resemble a cheap, unmodified audio visualizer preset.",
+   "3": "The visuals are competent but lack a distinct, polished aesthetic, perhaps feeling like standard stock footage or basic 3D rendering.",
+   "5": "The video boasts pristine rendering, strong composition, and a highly polished, cohesive aesthetic that elevates the dark, electronic vibe."
+  },
+  "CR": {
+   "1": "The video relies entirely on exhausted clichés, like basic hacker code screens or a generic waveforms.",
+   "3": "The video applies a fitting but expected approach (like standard neon cyberpunk streets) without introducing a unique or surprising twist.",
+   "5": "The video presents a highly original, striking visual interpretation of the IDM sound, utilizing surprising visual metaphors, cutting-edge abstract generation, or a compellingly weird concept."
+  }
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 17.9,
+   "kind": "section change"
+  },
+  {
+   "t": 44.8,
+   "kind": "section change"
+  },
+  {
+   "t": 73.5,
+   "kind": "section change"
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The picture marks the heavy IDM beat drop at ~17.9 s with a significant visual shift, transition, or impact."
+  },
+  {
+   "id": "S2",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The picture noticeably responds to the introduction of the frantic sequenced synth at ~44.8 s (e.g., increased edit pace, chaotic motion, or a new visual element)."
+  },
+  {
+   "id": "S3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The picture visually reflects the sudden drop in energy for the ambient breakdown at ~73.5 s (e.g., significantly slower motion, darker tones, or fewer cuts)."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 90.0,
+  "approx_bpm": 133,
+  "section_changes_at_s": [
+   17.92,
+   44.82,
+   73.48
+  ],
+  "sung_lines": []
+ }
+}

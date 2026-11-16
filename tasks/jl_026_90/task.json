@@ -1,0 +1,64 @@
+{
+ "task_id": "jl_026_90",
+ "song_id": "jl_026",
+ "clip_start": 84.66,
+ "clip_end": 174.66,
+ "length_class": 90,
+ "difficulty_tier": "medium",
+ "spec": {
+  "resolution": [
+   1920,
+   1080
+  ],
+  "fps": 30,
+  "duration_tol": 0.1,
+  "duration": 90.0
+ },
+ "song": {
+  "title": "Les files d'attente",
+  "artist": "LAW'",
+  "genre": "Pop",
+  "language": "fr",
+  "license": "CC BY-SA",
+  "url": "https://www.jamendo.com/track/964535/les-files-d-attente/lyrics"
+ },
+ "lyrics_text": [
+  "ils s'entassent tous en silence",
+  "comme des tas de vers de terre",
+  "ils ne veulent plus croire en la science",
+  "ils ont toujours peur de l'enfer",
+  "ils ne connaissent pas leur chance",
+  "d'être si à sens unique",
+  "jamais ils ne disent ce qu'ils pensent",
+  "ils écoutent bien trop la politique",
+  "allez offrez vous un peu d'rêve un peu d'rêve",
+  "à tous ceux qui ne font plus de trêve",
+  "allez allez jetez vous dans l'arène dans l'arène",
+  "le roi est mort vive la reine",
+  "oh oh chacun est pour l'autre le suivant",
+  "personne ne bouge tout l'monde attend oh oh oh oh",
+  "marchez vous d'ssus montrez les dents",
+  "crachez vous d'ssus il est encore temps",
+  "allez allez allez allez",
+  "allez allez allez",
+  "oh oh oh oh oh oh",
+  "oh oh oh oh oh oh",
+  "oh oh oh oh oh oh",
+  "oh oh oh oh oh oh",
+  "oh oh oh oh oh oh",
+  "oh oh oh oh oh oh",
+  "oh oh oh oh oh oh",
+  "oh oh oh oh oh oh"
+ ],
+ "prompt": "Make a music video for this song. Make it as good as you possibly can.",
+ "free": true,
+ "difficulty": {
+  "d_rhythm": -0.19,
+  "d_structure": 0.69,
+  "d_dynamics": -0.48,
+  "d_lyrics": 1.6,
+  "d_genre": 0.0,
+  "d_length": -0.52,
+  "difficulty": 0.184
+ }
+}

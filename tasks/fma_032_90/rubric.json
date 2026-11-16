@@ -1,0 +1,162 @@
+{
+ "profile": "The audio is a dark, beatless ambient electronic track. Instrumentation consists entirely of slowly evolving synthesizer drones, deep atmospheric pads, and subtle electronic crackles. There are no vocals or percussion. The mood is expansive, desolate yet cinematic, gradually shifting from an eerie darkness to a slightly more awe-inspiring or 'hopeful' tone as brighter layers are introduced. The energy arc is very flat and slow-building, relying on gradual textural shifts rather than sudden drops or rhythmic changes.",
+ "key_moments": [
+  {
+   "t": 11.3,
+   "what": "A bright, sweeping, wide synth pad enters, lifting the mood from dark to more expansive."
+  },
+  {
+   "t": 45.1,
+   "what": "A new, slightly higher-pitched drone layer becomes prominent in the mix, adding density to the soundscape."
+  },
+  {
+   "t": 56.4,
+   "what": "The synth texture develops a subtle modulation or pulsing quality, adding slight movement to the drone."
+  },
+  {
+   "t": 67.7,
+   "what": "A noticeable chord and bass shift occurs, changing the emotional colour of the underlying drone."
+  }
+ ],
+ "fitting_styles": "Highly abstract visuals (fluid dynamics, slowly evolving fractals, light leaks), slow-cinema narrative (long, unbroken takes of desolate landscapes, space exploration, or macro-photography), and atmospheric visualizer approaches fit perfectly. The pacing must be slow and fluid to match the beatless drones. Rapid rhythmic montages, high-energy performance styles, lip-syncing, or anything requiring fast, sharp cuts would severely clash with the slow, ambient nature of the track.",
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video responds to the entry of the sweeping synth pad at ~11.3 s with a transition, the introduction of a new visual element, or a significant shift in lighting and atmosphere."
+  },
+  {
+   "id": "S2",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The visual reflects the subtle textural shift at ~45.1 s, perhaps with a slow pan, fade, or the introduction of a new atmospheric layer."
+  },
+  {
+   "id": "S3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video marks the distinct chord change at ~67.7 s with a noticeable shift in colour palette, camera perspective, or emotional tone in the scene."
+  },
+  {
+   "id": "S4",
+   "level": "core",
+   "modality": "visual",
+   "check": "The editing avoids rapid, beat-driven cuts throughout the entire video, maintaining a slow, fluid visual pace suitable for beatless ambient music."
+  }
+ ],
+ "anchors": {
+  "UN": "5 = Concept perfectly matches the ambient genre, using slow, atmospheric, or abstract imagery that reflects the expansive drones; 3 = Concept is generally atmospheric but includes elements that feel a bit too fast or structured for the music; 1 = Concept is wildly inappropriate, such as a high-energy dance routine or fast-paced action sequence.",
+  "EM": "5 = Visually captures the cinematic, desolate, yet awe-inspiring and gradually hopeful mood of the track; 3 = Mood is somewhat dark or ambient but remains emotionally flat or misses the subtle shifts toward hope; 1 = Mood completely contradicts the audio, appearing aggressively chaotic, brightly comedic, or overly frantic.",
+  "RH": "5 = Visual motion and transitions are fluid, slow, and drift seamlessly with the textural swells, avoiding the need for sharp cuts; 3 = Mostly fluid, but occasionally tries to force cuts to non-existent beats, resulting in slightly jerky moments; 1 = Editing attempts fast, rhythmic cuts that look entirely disjointed and glitchy against the beatless audio.",
+  "ST": "5 = The picture evolves or introduces new visual phases in tandem with the subtle textural additions and chord shifts at 11.3s, 45.1s, 56.4s, and 67.7s; 3 = Responds to the major shifts like 11.3s or 67.7s but ignores the more subtle textural changes; 1 = The video is a static loop or changes randomly, ignoring all structural evolutions in the music.",
+  "LY": "5 = Although instrumental, the imagery beautifully reflects the title's theme of 'hope' and connection emerging from darkness or vastness; 3 = Imagery is ambiguous and doesn't strongly evoke the title's theme, but doesn't contradict it either; 1 = Imagery directly contradicts the idea of 'hope', depicting sheer violence, isolation, or despair.",
+  "VA": "5 = High-quality rendering with cohesive colour grading, smooth motion, and no artifacts or placeholder elements; 3 = Acceptable visual quality but suffers from occasional artifacts, a generic stock-footage look, or slight inconsistencies; 1 = Poor visual quality, heavy glitches, disjointed AI artifacts, or resembles a rough draft.",
+  "CR": "5 = Offers a mesmerizing, highly original visual interpretation of the ambient soundscape, going far beyond a basic waveform visualizer; 3 = Uses a standard but effective ambient visual approach, like slow drone shots or basic particle systems; 1 = Completely uninspired, such as a static image or a generic, repetitive template visualizer."
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 11.3,
+   "kind": "section change"
+  },
+  {
+   "t": 45.1,
+   "kind": "section change"
+  },
+  {
+   "t": 56.4,
+   "kind": "section change"
+  },
+  {
+   "t": 67.7,
+   "kind": "section change"
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video responds to the entry of the sweeping synth pad at ~11.3 s with a transition, the introduction of a new visual element, or a significant shift in lighting and atmosphere."
+  },
+  {
+   "id": "S2",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The visual reflects the subtle textural shift at ~45.1 s, perhaps with a slow pan, fade, or the introduction of a new atmospheric layer."
+  },
+  {
+   "id": "S3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video marks the distinct chord change at ~67.7 s with a noticeable shift in colour palette, camera perspective, or emotional tone in the scene."
+  },
+  {
+   "id": "S4",
+   "level": "core",
+   "modality": "visual",
+   "check": "The editing avoids rapid, beat-driven cuts throughout the entire video, maintaining a slow, fluid visual pace suitable for beatless ambient music."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 90.0,
+  "approx_bpm": 112,
+  "section_changes_at_s": [
+   11.28,
+   45.14,
+   56.44,
+   67.74
+  ],
+  "sung_lines": []
+ }
+}

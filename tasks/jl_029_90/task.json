@@ -1,0 +1,59 @@
+{
+ "task_id": "jl_029_90",
+ "song_id": "jl_029",
+ "clip_start": 36.595,
+ "clip_end": 126.595,
+ "length_class": 90,
+ "difficulty_tier": "easy",
+ "spec": {
+  "resolution": [
+   1920,
+   1080
+  ],
+  "fps": 30,
+  "duration_tol": 0.1,
+  "duration": 90.0
+ },
+ "song": {
+  "title": "Miedo",
+  "artist": "YUANAN “J.A.R”",
+  "genre": "Reggae",
+  "language": "es",
+  "license": "CC BY-NC-SA",
+  "url": "https://www.jamendo.com/track/814951/yuanan-miedo/lyrics"
+ },
+ "lyrics_text": [
+  "nuevo mecanismo de control miedo para la poblacion",
+  "dominacion mediante el terror",
+  "cada dia vemos en television",
+  "atentados guerras muertes y destruccion",
+  "pero nadie se encarga de decir la verdad de la situacion",
+  "porque si se",
+  "miedo miedo nos engañan con el miedo chilli boop haay",
+  "miedo miedo nos engañan con el miedo te lo digo a ti",
+  "miedo miedo nos engañan con el miedo no",
+  "miedo miedo nos engañan con el miedo",
+  "mr money esta detras del miedo",
+  "imponiendo su ley all over the world",
+  "todo se compra todo se vende",
+  "almas cuerpos vidas inocentes",
+  "todo se compra todo se vende",
+  "almas cuerpos vidas inocentes",
+  "miedo miedo nos engañan con el miedo chilli boop haay",
+  "miedo miedo nos engañan con el miedo te lo digo a ti",
+  "miedo miedo nos engañan con el miedo no",
+  "miedo miedo nos engañan con el miedo",
+  "mercado de preocupacion consumo excesivo como evasion"
+ ],
+ "prompt": "Make a music video for this song. Make it as good as you possibly can.",
+ "free": true,
+ "difficulty": {
+  "d_rhythm": -0.75,
+  "d_structure": -0.12,
+  "d_dynamics": -0.31,
+  "d_lyrics": 1.57,
+  "d_genre": 0.0,
+  "d_length": -0.89,
+  "difficulty": -0.085
+ }
+}

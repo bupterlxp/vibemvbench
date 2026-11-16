@@ -1,0 +1,282 @@
+{
+ "profile": "An intimate, melancholic folk track driven by a delicate acoustic guitar and a soft, close-mic'd male vocal. The lyrical theme is deeply poetic and sorrowful, reflecting on how sadness feeds on beauty and feeling as empty as a 'magician's hat where there is no rabbit'. The energy is consistently low and gentle, with a slow, meditative arc that subtly lifts during the wordless vocal melodies.",
+ "key_moments": [
+  {
+   "t": 8.7,
+   "what": "The transition from the opening lyrics to a melodic, wordless vocal section ('ah ah ah ah')."
+  },
+  {
+   "t": 17.4,
+   "what": "The start of the main verse introducing the evocative 'magician's hat' metaphor."
+  },
+  {
+   "t": 34.9,
+   "what": "The return of the opening lyrical refrain ('la tristeza es muy extraña')."
+  },
+  {
+   "t": 43.6,
+   "what": "The beginning of an extended instrumental acoustic guitar passage."
+  },
+  {
+   "t": 61.0,
+   "what": "The re-entry of the vocals with a soft, breathy 'ooh ooh ooh' melody."
+  }
+ ],
+ "fitting_styles": "Narrative (e.g., a poetic story about memory and loss), abstract mood pieces (slow-moving textures, shadows, nature), elegant lyric videos, or intimate performance setups suit the melancholic, acoustic folk vibe perfectly. Fast-paced rhythmic montages, hyper-kinetic visuals, aggressive glitch art, or high-energy club aesthetics would clash entirely with the song's delicate, measured pace.",
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "text",
+   "check": "If lyrics are used, the phrase 'sombrero de un mago' appears around 17.4 s."
+  },
+  {
+   "id": "S2",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "A noticeable visual shift, new scene, or lighting change marks the beginning of the instrumental section at 43.6 s."
+  },
+  {
+   "id": "S3",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video maintains a slow, measured pacing throughout, avoiding rapid, strobe-like cutting that would contradict the gentle acoustic arrangement."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The picture responds in some way to the re-entry of the 'ooh ooh ooh' vocals at 61.0 s."
+  }
+ ],
+ "anchors": {
+  "UN": "1 - A high-energy, aggressive, or strictly electronic concept that completely misreads the acoustic folk genre. 3 - A calm visualizer that fits the slow tempo but lacks the melancholic depth of the lyrics. 5 - A deeply atmospheric concept that perfectly matches the intimate acoustic guitar, soft vocals, and poetic sadness.",
+  "EM": "1 - Visuals convey happiness, aggression, or chaotic excitement. 3 - Visuals are subdued but emotionally flat. 5 - Visuals evoke a profound sense of melancholy, strange beauty, and emptiness, perfectly tracking the song's intimate sorrow.",
+  "RH": "1 - Cuts are hyperactive, jarring, and ignore the gentle acoustic rhythm. 3 - The visual pacing is slow enough to not offend, but doesn't feel actively connected to the guitar phrasing. 5 - Visual movements, cuts, and transitions breathe in perfect sync with the delicate guitar fingerpicking and soft vocal delivery.",
+  "ST": "1 - The video remains entirely static with no structural evolution over 90 seconds. 3 - The video acknowledges major changes, such as marking the instrumental guitar break at 43.6 s. 5 - The visual narrative clearly and elegantly distinguishes between the lyrical verses, the wordless vocal melodies, and the instrumental passages.",
+  "LY": "1 - Text contains severe errors or the imagery completely contradicts the somber lyrical themes of sadness and illusion. 3 - Lyrics are present but unstylized, or imagery is generally sad but ignores the specific poetic metaphors. 5 - Kinetic typography is beautifully integrated, or the visual storytelling cleverly adapts metaphors like the empty magician's hat or the kiss that leaves no trace.",
+  "VA": "1 - Noticeable AI morphing artifacts, poor resolution, or jarringly cheap stock footage. 3 - Clean, acceptable visuals but lacking a cohesive cinematic color grade or artistic polish. 5 - Stunning, beautifully composed imagery with evocative lighting, textures, or illustration that feels highly professional and cinematic.",
+  "CR": "1 - A generic slow-motion loop of someone walking in a field. 3 - A competent but predictable 'sad indie folk' aesthetic. 5 - A uniquely poetic and imaginative interpretation that breathes visual life into the song's abstract metaphors without being overly literal."
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 0.0,
+   "kind": "sung line starts: \"la tristeza es muy extraña\""
+  },
+  {
+   "t": 4.2,
+   "kind": "sung line starts: \"se alimenta de la belleza\""
+  },
+  {
+   "t": 8.7,
+   "kind": "section change"
+  },
+  {
+   "t": 8.7,
+   "kind": "sung line starts: \"ah ah ah ah ah ah\""
+  },
+  {
+   "t": 17.4,
+   "kind": "sung line starts: \"soy el sombrero de un mago\""
+  },
+  {
+   "t": 17.5,
+   "kind": "section change"
+  },
+  {
+   "t": 21.8,
+   "kind": "sung line starts: \"donde no hay un conejo\""
+  },
+  {
+   "t": 26.2,
+   "kind": "sung line starts: \"un beso que no deja huella\""
+  },
+  {
+   "t": 30.5,
+   "kind": "sung line starts: \"ni palpita en el recuerdo\""
+  },
+  {
+   "t": 34.9,
+   "kind": "section change"
+  },
+  {
+   "t": 34.9,
+   "kind": "sung line starts: \"la tristeza es muy extraña\""
+  },
+  {
+   "t": 39.1,
+   "kind": "sung line starts: \"se alimenta de la belleza\""
+  },
+  {
+   "t": 43.6,
+   "kind": "section change"
+  },
+  {
+   "t": 52.4,
+   "kind": "section change"
+  },
+  {
+   "t": 61.0,
+   "kind": "sung line starts: \"ooh ooh ooh ooh\""
+  },
+  {
+   "t": 61.1,
+   "kind": "section change"
+  },
+  {
+   "t": 69.8,
+   "kind": "section change"
+  },
+  {
+   "t": 78.5,
+   "kind": "section change"
+  },
+  {
+   "t": 87.3,
+   "kind": "section change"
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "text",
+   "check": "If lyrics are used, the phrase 'sombrero de un mago' appears around 17.4 s."
+  },
+  {
+   "id": "S2",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "A noticeable visual shift, new scene, or lighting change marks the beginning of the instrumental section at 43.6 s."
+  },
+  {
+   "id": "S3",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video maintains a slow, measured pacing throughout, avoiding rapid, strobe-like cutting that would contradict the gentle acoustic arrangement."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The picture responds in some way to the re-entry of the 'ooh ooh ooh' vocals at 61.0 s."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 90.0,
+  "approx_bpm": 167,
+  "section_changes_at_s": [
+   8.733,
+   17.473,
+   34.913,
+   43.633,
+   52.373,
+   61.053,
+   69.793,
+   78.513,
+   87.253
+  ],
+  "sung_lines": [
+   {
+    "start": 0.0,
+    "end": 4.092,
+    "text": "la tristeza es muy extraña"
+   },
+   {
+    "start": 4.213,
+    "end": 8.352,
+    "text": "se alimenta de la belleza"
+   },
+   {
+    "start": 8.74,
+    "end": 16.3,
+    "text": "ah ah ah ah ah ah"
+   },
+   {
+    "start": 17.374,
+    "end": 21.339,
+    "text": "soy el sombrero de un mago"
+   },
+   {
+    "start": 21.776,
+    "end": 24.973,
+    "text": "donde no hay un conejo"
+   },
+   {
+    "start": 26.169,
+    "end": 30.104,
+    "text": "un beso que no deja huella"
+   },
+   {
+    "start": 30.531,
+    "end": 33.703,
+    "text": "ni palpita en el recuerdo"
+   },
+   {
+    "start": 34.92,
+    "end": 39.067,
+    "text": "la tristeza es muy extraña"
+   },
+   {
+    "start": 39.134,
+    "end": 43.583,
+    "text": "se alimenta de la belleza"
+   },
+   {
+    "start": 61.02,
+    "end": 90.0,
+    "text": "ooh ooh ooh ooh"
+   }
+  ]
+ }
+}

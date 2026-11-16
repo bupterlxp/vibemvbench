@@ -1,0 +1,37 @@
+{
+ "task_id": "fma_021_90",
+ "song_id": "fma_021",
+ "clip_start": 65.039,
+ "clip_end": 155.039,
+ "length_class": 90,
+ "difficulty_tier": "medium",
+ "spec": {
+  "resolution": [
+   1920,
+   1080
+  ],
+  "fps": 30,
+  "duration_tol": 0.1,
+  "duration": 90.0
+ },
+ "song": {
+  "title": "Untitled",
+  "artist": "The Shivers",
+  "genre": "Folk",
+  "language": "en",
+  "license": "CC-BY-NC-SA 3.0",
+  "url": "http://freemusicarchive.org/music/The_Shivers/Phoning_It_In_061005/Untitled_1269"
+ },
+ "lyrics_text": [],
+ "prompt": "Make a music video for this song. Make it as good as you possibly can.",
+ "free": true,
+ "difficulty": {
+  "d_rhythm": -0.36,
+  "d_structure": -0.67,
+  "d_dynamics": 0.43,
+  "d_lyrics": -0.47,
+  "d_genre": 1.0,
+  "d_length": 0.38,
+  "difficulty": 0.049
+ }
+}

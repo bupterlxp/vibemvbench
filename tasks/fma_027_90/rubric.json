@@ -1,0 +1,154 @@
+{
+ "profile": "The song is an atmospheric alternative rock track featuring ethereal, haunting female vocals. It opens with solitary, moody piano and singing. At 45 seconds, the energy dramatically explodes with the entry of heavy distorted guitars, a driving bassline, and aggressive rock drums. At 69 seconds, the instrumentation abruptly drops away, returning to the sparse, vulnerable piano and vocal arrangement. The mood is melancholic, dramatic, and slightly angsty, with lyrics exploring themes of existential doubt, fragile realities, and fading connections.",
+ "key_moments": [
+  {
+   "t": 45.0,
+   "what": "Explosive entry of the full rock band (drums, heavy bass, distorted guitars), significantly increasing the track's volume, intensity, and rhythm."
+  },
+  {
+   "t": 69.0,
+   "what": "Sudden breakdown where the rock instrumentation stops completely, instantly dropping the energy back to just soft piano and vocals."
+  }
+ ],
+ "fitting_styles": "Narrative styles suited to dark, dramatic, or psychological themes work perfectly to match the melancholic tone. Performance videos are highly appropriate, offering a chance to contrast a solitary pianist with a full, energetic band. Abstract or textural visualizers (e.g., grunge aesthetics, ink bleeds, cinematic stormy elements) would also match the dramatic shifts well. Conversely, bright, cheerful, hyper-colorful pop aesthetics, or overly rigid electronic/synthwave styles would heavily clash with the organic, moody rock instrumentation.",
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video features a major spike in visual energy, cutting pace, or lighting intensity at exactly ~45 seconds to match the full band entering."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The visual energy significantly drops, slows down, or fades at ~69 seconds to reflect the sudden musical breakdown."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "visual",
+   "check": "The mood is maintained through appropriately dark, melancholic, or gritty visual styling (e.g., desaturated colors, low-key lighting) rather than bright and cheerful imagery."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "If musicians or instruments are depicted, they match the audio: piano is present during the quiet sections, while drums and guitars are prominent only between 45s and 69s."
+  }
+ ],
+ "anchors": {
+  "UN": "Score 1 for a bright, cheerful concept that ignores the alt-rock genre entirely; 3 for a generic moody concept that loosely fits but feels disconnected from the specific audio; 5 for a dark, dramatic concept that perfectly captures the melancholic tension and dynamic shifts of the song.",
+  "EM": "Score 1 if the video feels emotionally flat or inappropriately upbeat; 3 if it maintains a basic moody tone without evolving; 5 if the visual emotion arcs perfectly, mirroring the haunting intro, the aggressive release at 45s, and the vulnerable breakdown at 69s.",
+  "RH": "Score 1 if visual motion ignores the heavy drum beat entirely; 3 if there is some rhythmic cutting during the loud section but it lacks precision; 5 if the pacing flawlessly contrasts the slow, floating intro with tight, aggressive cuts locked to the rock groove from 45s to 69s.",
+  "ST": "Score 1 if the video entirely misses the massive structural shifts; 3 if it reacts slightly to the drop or build but misses exact timing; 5 if the video clearly and impactfully changes visual themes, lighting, or action exactly at the 45.0s entry and 69.0s breakdown.",
+  "LY": "Score 1 if depicted lyrics are wildly incorrect or imagery completely misaligns with the somber tone; 3 if the visuals vaguely match the existential lyrics without deep connection; 5 if text or imagery deeply enhances the lyrical themes of disillusionment and fragile reality.",
+  "VA": "Score 1 for glitchy, incoherent, or visibly artifact-heavy rendering; 3 for decent visual quality that occasionally breaks immersion or looks like a template; 5 for a beautifully rendered, stylized, and cohesive piece that looks professionally directed across the entire 90 seconds.",
+  "CR": "Score 1 for a basic, uninspired visualizer that adds nothing to the track; 3 for a standard performance or narrative that is competent but predictable; 5 for an imaginative, striking visual metaphor that brilliantly elevates the song's themes and dynamic contrasts."
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 3.0,
+   "kind": "section change"
+  },
+  {
+   "t": 45.0,
+   "kind": "section change"
+  },
+  {
+   "t": 69.0,
+   "kind": "section change"
+  },
+  {
+   "t": 90.0,
+   "kind": "section change"
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video features a major spike in visual energy, cutting pace, or lighting intensity at exactly ~45 seconds to match the full band entering."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The visual energy significantly drops, slows down, or fades at ~69 seconds to reflect the sudden musical breakdown."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "visual",
+   "check": "The mood is maintained through appropriately dark, melancholic, or gritty visual styling (e.g., desaturated colors, low-key lighting) rather than bright and cheerful imagery."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "If musicians or instruments are depicted, they match the audio: piano is present during the quiet sections, while drums and guitars are prominent only between 45s and 69s."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 90.0,
+  "approx_bpm": 80,
+  "section_changes_at_s": [
+   2.986,
+   44.966,
+   68.986,
+   89.966
+  ],
+  "sung_lines": []
+ }
+}

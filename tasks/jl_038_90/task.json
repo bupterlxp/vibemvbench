@@ -1,0 +1,63 @@
+{
+ "task_id": "jl_038_90",
+ "song_id": "jl_038",
+ "clip_start": 9.59,
+ "clip_end": 99.59,
+ "length_class": 90,
+ "difficulty_tier": "hard",
+ "spec": {
+  "resolution": [
+   1920,
+   1080
+  ],
+  "fps": 30,
+  "duration_tol": 0.1,
+  "duration": 90.0
+ },
+ "song": {
+  "title": "Vente",
+  "artist": "FAFARULO CALABAZA",
+  "genre": "Electronic",
+  "language": "es",
+  "license": "CC BY-NC",
+  "url": "https://www.jamendo.com/track/1474051/vente/lyrics"
+ },
+ "lyrics_text": [
+  "vente",
+  "conmigo es diferente",
+  "como agua fresca que calma la fiebre",
+  "hasta las nubes hoy mienten",
+  "y te explota en la cabeza",
+  "una tremenda tormenta",
+  "fuerte",
+  "abrazame muy fuerte",
+  "mi amor nunca me sueltes",
+  "ay que extraña es tu manera de quererme",
+  "que lindo que seria estar con vos y conversar",
+  "de cosas",
+  "no se de cuales cosas",
+  "cosas poco importantes y es que es muy duro olvidarte",
+  "no me digas que aun no nos veremos",
+  "y tendremos que esperar",
+  "mas tiempo",
+  "decime cuanto tiempo",
+  "si pareciera que no hubiera nada",
+  "y haga lo que haga",
+  "no paro de extrañarte",
+  "y de perderte cada dia mas",
+  "y el amor es asi",
+  "cuando lo dejamos ir"
+ ],
+ "prompt": "Make a music video for this song. Make it as good as you possibly can.",
+ "free": true,
+ "difficulty": {
+  "d_rhythm": -0.68,
+  "d_structure": 1.38,
+  "d_dynamics": -0.5,
+  "d_lyrics": 1.52,
+  "d_genre": 0.0,
+  "d_length": 1.46,
+  "difficulty": 0.528
+ },
+ "alignment_fix": "2026-11-07: clip window corrected from 69.62 to 9.59 (audio/rubric were built for this window)"
+}

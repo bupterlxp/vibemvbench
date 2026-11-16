@@ -1,0 +1,57 @@
+{
+ "task_id": "jl_001_90",
+ "song_id": "jl_001",
+ "clip_start": 14.2,
+ "clip_end": 104.2,
+ "length_class": 90,
+ "difficulty_tier": "medium",
+ "spec": {
+  "resolution": [
+   1920,
+   1080
+  ],
+  "fps": 30,
+  "duration_tol": 0.1,
+  "duration": 90.0
+ },
+ "song": {
+  "title": "One Way Street",
+  "artist": "The.Madpix.Project",
+  "genre": "Electronic",
+  "language": "en",
+  "license": "CC BY-NC-SA",
+  "url": "https://www.jamendo.com/track/1530532/one-way-street"
+ },
+ "lyrics_text": [
+  "tears are like diamonds in my eyes",
+  "blind me so now you're out of sight",
+  "it's enough it's too late to break this silence",
+  "in a rose coloured view of us",
+  "either cause could i realize",
+  "all your lies would be blades to knifes",
+  "to stab me inside",
+  "who will save you from this dark",
+  "who will fix your selfish heart",
+  "a one way street that's how you live",
+  "why do you always take and never give",
+  "wide awake yeah i've crossed the line",
+  "i'm coming home",
+  "i'm running back to real life",
+  "through the start",
+  "where i could breathin' freely baby",
+  "can't you see we ran off time",
+  "chasing happiness while you get what you need",
+  "there's nothing left of us but bleeding blades and knifes"
+ ],
+ "prompt": "Make a music video for this song. Make it as good as you possibly can.",
+ "free": true,
+ "difficulty": {
+  "d_rhythm": 1.6,
+  "d_structure": -0.63,
+  "d_dynamics": -0.22,
+  "d_lyrics": 0.73,
+  "d_genre": 0.0,
+  "d_length": -0.87,
+  "difficulty": 0.101
+ }
+}

@@ -1,0 +1,181 @@
+{
+ "profile": "The track is a heavy, aggressive trap/hip-hop song featuring two female rappers. The instrumentation relies on a booming 808 bassline, crisp trap percussion (fast hi-hats, punchy snares), and minimal, dark synth accents. The vocals are delivered with a confident, confrontational, and boastful swagger. The lyrical theme centers on flexing wealth and authenticity while calling out 'fake' or broke women (referencing food stamps, fake designer bags, and the recurring 'B*tch you ain't a Barbie' motif). The energy arc starts high with a rapid-fire first verse, shifts into a hypnotic, highly repetitive chanted chorus, maintains the hype with a new flow in the second verse, and abruptly drops off after the final vocal line.",
+ "key_moments": [
+  {
+   "t": 45.0,
+   "what": "The first verse ends and the highly repetitive, chanted chorus ('B*tch you ain't no Barbie') begins, shifting the vocal rhythm from rapid-fire to a hypnotic loop."
+  },
+  {
+   "t": 69.0,
+   "what": "The chorus ends and the second verse begins, introducing a new vocalist with a slightly different, punchy flow."
+  },
+  {
+   "t": 87.0,
+   "what": "The vocals conclude ('top priority') and the beat plays out instrumentally for the final few seconds."
+  }
+ ],
+ "fitting_styles": "Performance-based videos (classic hip-hop flexing with high fashion, cars, and attitude) or Narrative approaches (contrasting the 'real' wealthy protagonist with the 'fake' Barbies) are perfect fits. A Kinetic Typography or Lyric video would also work exceptionally well to emphasize the aggressive, punchy delivery and the repetitive hook. Clashing styles would include anything soft, ethereal, slow-paced, melancholic, or acoustic/indie-leaning, as these would completely undermine the track's heavy trap beat and confrontational swagger.",
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video shows a clear visual shift or change in editing pattern to mark the start of the repetitive chorus at ~45 s."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video introduces a new visual element, scene, or character focus to mark the start of the second verse (and the new vocalist) at ~69 s."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "During the chorus (45s to 69s), the visuals reflect the highly repetitive, chanted nature of the vocals (e.g., through looping imagery, rhythmic flashing, or repetitive text placement)."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The video visually acknowledges the end of the vocal track and transitions into a wrap-up or outro sequence at ~87 s."
+  }
+ ],
+ "anchors": {
+  "UN": {
+   "1": "The video completely ignores the aggressive trap genre and flexing theme, perhaps using soft, slow, or unrelated melancholic imagery.",
+   "3": "The video matches a general hip-hop aesthetic but misses the specific confrontational 'fake Barbie' theme or fails to visually distinguish the dual-vocalist structure.",
+   "5": "The video perfectly captures the aggressive, boastful trap energy, visually distinguishing the verses from the repetitive hook and effectively reflecting the themes of wealth versus artificiality."
+  },
+  "EM": {
+   "1": "The mood feels relaxed, sad, or completely disconnected from the track's hype and aggression.",
+   "3": "The video is energetic but lacks the specific confrontational, boastful attitude and swagger present in the vocal delivery.",
+   "5": "The video exudes high confidence, aggression, and swagger, perfectly matching the rappers' confrontational and boastful tone throughout."
+  },
+  "RH": {
+   "1": "Cuts and visual movements are random, ignoring the heavy 808 bass hits and fast trap hi-hats.",
+   "3": "The video cuts on the main beats but misses the opportunity to accent the fast vocal flows or syncopated trap rhythms.",
+   "5": "Visual edits and kinetic accents are tightly locked to the heavy trap beat, snare hits, and the rapid-fire, punchy vocal delivery."
+  },
+  "ST": {
+   "1": "The video is a single continuous loop or completely ignores the major structural changes in the song.",
+   "3": "The video changes at the hook (45s) but fails to visually distinguish the transition into the second verse (69s).",
+   "5": "The video clearly demarcates the first verse, the hypnotic hook at 45s, the second verse at 69s, and the instrumental outro at 87s with distinct visual shifts."
+  },
+  "LY": {
+   "1": "If text is used, it is completely wrong; if imagery is used, it contradicts the lyrics (e.g., showing poverty as a positive, or unrelated sci-fi scenes).",
+   "3": "Imagery or text loosely relates to hip-hop tropes but misses specific, prominent lyrical references like 'Barbie', 'Louis bags', or 'rentals'.",
+   "5": "Text is perfectly synced and accurate; imagery cleverly plays on the lyrics about fake designer gear, plastic/artificial 'Barbies', and flexing wealth."
+  },
+  "VA": {
+   "1": "The video looks like a cheap, glitchy AI generation with morphing faces, incoherent details, or placeholder graphics.",
+   "3": "The visuals are decent but lack the polished, high-end, or heavily stylized look expected of a modern hip-hop music video.",
+   "5": "The video features crisp, high-quality rendering, strong color grading, and a polished aesthetic that fits a premium, high-energy music video."
+  },
+  "CR": {
+   "1": "A basic, uninspired audio visualizer or a generic, repetitive slideshow of cars and money.",
+   "3": "A standard hip-hop performance video that hits the expected tropes but offers nothing uniquely tailored to this specific song.",
+   "5": "A highly original concept—such as a satirical take on plastic dolls, a hyper-stylized kinetic typography piece, or a unique narrative—that elevates and expands on the song's theme."
+  }
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 45.0,
+   "kind": "section change"
+  },
+  {
+   "t": 69.0,
+   "kind": "section change"
+  },
+  {
+   "t": 87.0,
+   "kind": "section change"
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video shows a clear visual shift or change in editing pattern to mark the start of the repetitive chorus at ~45 s."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video introduces a new visual element, scene, or character focus to mark the start of the second verse (and the new vocalist) at ~69 s."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "During the chorus (45s to 69s), the visuals reflect the highly repetitive, chanted nature of the vocals (e.g., through looping imagery, rhythmic flashing, or repetitive text placement)."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The video visually acknowledges the end of the vocal track and transitions into a wrap-up or outro sequence at ~87 s."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 90.0,
+  "approx_bpm": 80,
+  "section_changes_at_s": [
+   45.0,
+   69.0,
+   87.0
+  ],
+  "sung_lines": []
+ }
+}

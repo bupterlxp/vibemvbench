@@ -1,0 +1,37 @@
+{
+ "task_id": "fma_008_90",
+ "song_id": "fma_008",
+ "clip_start": 158.604,
+ "clip_end": 248.604,
+ "length_class": 90,
+ "difficulty_tier": "hard",
+ "spec": {
+  "resolution": [
+   1920,
+   1080
+  ],
+  "fps": 30,
+  "duration_tol": 0.1,
+  "duration": 90.0
+ },
+ "song": {
+  "title": "Panic Room",
+  "artist": "Malachi",
+  "genre": "Electronic",
+  "language": "unk",
+  "license": "CC-BY 4.0",
+  "url": "http://freemusicarchive.org/music/Malachi/Panic_Room/Panic_Room"
+ },
+ "lyrics_text": [],
+ "prompt": "Make a music video for this song. Make it as good as you possibly can.",
+ "free": true,
+ "difficulty": {
+  "d_rhythm": -0.64,
+  "d_structure": 1.42,
+  "d_dynamics": 2.78,
+  "d_lyrics": -0.47,
+  "d_genre": 0.0,
+  "d_length": 0.24,
+  "difficulty": 0.553
+ }
+}

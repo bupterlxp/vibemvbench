@@ -1,0 +1,317 @@
+{
+ "profile": "An upbeat, festive French pop song driven by bright synthesizers, rhythmic beats, and likely Christmas accents like bells. The vocals are cheerful and melodic, transitioning between French verses and English-sprinkled hooks. The mood is joyful, nostalgic, and romantic, centered around lyrical themes of childhood memories, winter nights by the fire, and a desire to spend the holidays with a loved one. The energy arc opens with catchy vocalizations, drops into a steady, rhythmic verse at 4.9s, builds up anticipation, and bursts into a high-energy, festive chorus at 45.0s, peaking with an immensely catchy, repetitive post-chorus hook at 64.9s.",
+ "key_moments": [
+  {
+   "t": 4.9,
+   "what": "The intro vocalizations conclude as the instrumental establishes the main rhythmic groove for the first verse."
+  },
+  {
+   "t": 45.0,
+   "what": "The chorus begins, significantly lifting the song's energy with an uplifting, festive pop arrangement."
+  },
+  {
+   "t": 64.9,
+   "what": "The final post-chorus hook drops with repetitive, high-energy English and French lines, marking the vibrant climax of the track."
+  }
+ ],
+ "fitting_styles": "A narrative style depicting a cozy winter romance, couples by the fireplace, or childhood snow memories suits the lyrics well; a festive performance video with bright holiday lighting and winter aesthetics would also work perfectly, as would a vibrant, snow-themed lyric or kinetic typography video. Approaches that would clash include dark, aggressive, horror, cyberpunk, or summer beach themes, as they strongly contradict the track's explicitly festive, wintery, and romantic pop tone.",
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video includes explicitly wintery, festive, or romantic visual motifs (e.g., snow, holiday colors, cozy lights, or couples) matching the Christmas theme."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "A major visual transition, burst of light, or significant energy increase occurs exactly at the chorus drop at 45.0 seconds."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The edit introduces a noticeable shift in scene or pacing when the first verse starts at 4.9 seconds."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The visual intensity reaches its peak or shifts to a new repeating visual motif for the final hook at 64.9 seconds."
+  }
+ ],
+ "anchors": {
+  "UN": {
+   "1": "The visual concept completely ignores the festive French pop nature of the track, using clashing or irrelevant imagery.",
+   "3": "The video recognizes the upbeat pop genre but uses generic seasonal imagery without fully capturing the romantic or nostalgic nuances.",
+   "5": "The chosen concept flawlessly embodies the song's festive, nostalgic, and romantic Christmas pop identity through perfectly suited visuals."
+  },
+  "EM": {
+   "1": "The mood feels cold, dark, or aggressively off-putting, clashing with the track's joyful warmth.",
+   "3": "The visuals are generally cheerful but lack the specific cozy, romantic longing conveyed by the lyrics.",
+   "5": "The video radiates a heartwarming, joyful, and nostalgic feeling that perfectly traces the song's uplifting emotional arc."
+  },
+  "RH": {
+   "1": "The visual cuts and movements are completely detached from the song's upbeat pop rhythm.",
+   "3": "The editing aligns with the basic beat but misses opportunities to highlight specific vocal hooks or drum accents.",
+   "5": "The visual rhythm perfectly locks into the bouncy pop beat and vocal phrasing, maintaining dynamic and engaging momentum."
+  },
+  "ST": {
+   "1": "The video maintains a single visual state, completely ignoring the structural shifts in the music.",
+   "3": "The editing acknowledges the chorus at 45.0s but treats the verses and post-chorus similarly without further dynamic evolution.",
+   "5": "The video visibly evolves across the track, cleanly demarcating the intro, the verse at 4.9s, the chorus at 45.0s, and the climax at 64.9s."
+  },
+  "LY": {
+   "1": "Text or narrative actions directly contradict the themes of winter, Christmas, or romance.",
+   "3": "The video generally fits the winter holiday theme but misses specific narrative beats like being by the fire or nostalgic longing.",
+   "5": "The visual storytelling perfectly mirrors the nostalgic, romantic winter themes, and any included typography is accurately timed and beautifully integrated."
+  },
+  "VA": {
+   "1": "The video suffers from obvious rendering glitches, messy typography, or a low-effort placeholder appearance.",
+   "3": "The visual quality is adequate and clean but lacks stylistic polish or feels somewhat stock-like.",
+   "5": "The video features gorgeous composition, cohesive color grading, and high-quality rendering that looks like a premium pop music video."
+  },
+  "CR": {
+   "1": "The video relies entirely on boring, static templates or uninspired seasonal stock footage.",
+   "3": "The creator presents a standard, expected Christmas pop video without any unique stylistic flair.",
+   "5": "The video elevates the festive pop track with a highly imaginative, beautifully executed concept that feels distinctive and memorable."
+  }
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 0.0,
+   "kind": "sung line starts: \"oh ah ah oh ah ah oh ahha\""
+  },
+  {
+   "t": 1.7,
+   "kind": "sung line starts: \"oh ah ah oh ah ah oh ahha\""
+  },
+  {
+   "t": 4.9,
+   "kind": "section change"
+  },
+  {
+   "t": 5.0,
+   "kind": "sung line starts: \"quand vient l'hiver je l'attends comme les cloches sonnent en automne\""
+  },
+  {
+   "t": 11.6,
+   "kind": "sung line starts: \"sur cette air je m'émerveille quand viennent les souhaits que je fredonne\""
+  },
+  {
+   "t": 18.3,
+   "kind": "sung line starts: \"une mélodie de noël pour des nostalgies d'enfance\""
+  },
+  {
+   "t": 25.0,
+   "kind": "sung line starts: \"juste un regard vers le ciel toi et moi quand j'y repense\""
+  },
+  {
+   "t": 31.7,
+   "kind": "sung line starts: \"j'attendrais si il le faut un couplet et quelques voeux\""
+  },
+  {
+   "t": 38.3,
+   "kind": "sung line starts: \"ce soir quand il fera chaud quelques heures au coin du feu\""
+  },
+  {
+   "t": 45.0,
+   "kind": "section change"
+  },
+  {
+   "t": 45.0,
+   "kind": "sung line starts: \"un seul souhait oui j'aimerais merry christmas everyday\""
+  },
+  {
+   "t": 51.6,
+   "kind": "sung line starts: \"te revoir même qu'une fois christmas christmas avec toi\""
+  },
+  {
+   "t": 58.3,
+   "kind": "sung line starts: \"j'attendrais jusqu'au matin un happy end un refrain\""
+  },
+  {
+   "t": 64.9,
+   "kind": "section change"
+  },
+  {
+   "t": 65.0,
+   "kind": "sung line starts: \"christmas christmas all i want is only you\""
+  },
+  {
+   "t": 71.6,
+   "kind": "sung line starts: \"christmas christmas notre amour en rendez vous\""
+  },
+  {
+   "t": 78.3,
+   "kind": "sung line starts: \"christmas christmas all i want is only you\""
+  },
+  {
+   "t": 85.0,
+   "kind": "sung line starts: \"christmas christmas un regard quelques mots doux\""
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video includes explicitly wintery, festive, or romantic visual motifs (e.g., snow, holiday colors, cozy lights, or couples) matching the Christmas theme."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "A major visual transition, burst of light, or significant energy increase occurs exactly at the chorus drop at 45.0 seconds."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The edit introduces a noticeable shift in scene or pacing when the first verse starts at 4.9 seconds."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The visual intensity reaches its peak or shifts to a new repeating visual motif for the final hook at 64.9 seconds."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 90.0,
+  "approx_bpm": 144,
+  "section_changes_at_s": [
+   4.924,
+   44.984,
+   64.924
+  ],
+  "sung_lines": [
+   {
+    "start": 0.0,
+    "end": 1.238,
+    "text": "oh ah ah oh ah ah oh ahha"
+   },
+   {
+    "start": 1.655,
+    "end": 4.568,
+    "text": "oh ah ah oh ah ah oh ahha"
+   },
+   {
+    "start": 4.988,
+    "end": 11.237,
+    "text": "quand vient l'hiver je l'attends comme les cloches sonnent en automne"
+   },
+   {
+    "start": 11.629,
+    "end": 18.004,
+    "text": "sur cette air je m'émerveille quand viennent les souhaits que je fredonne"
+   },
+   {
+    "start": 18.324,
+    "end": 24.672,
+    "text": "une mélodie de noël pour des nostalgies d'enfance"
+   },
+   {
+    "start": 24.982,
+    "end": 31.343,
+    "text": "juste un regard vers le ciel toi et moi quand j'y repense"
+   },
+   {
+    "start": 31.659,
+    "end": 37.708,
+    "text": "j'attendrais si il le faut un couplet et quelques voeux"
+   },
+   {
+    "start": 38.32,
+    "end": 44.528,
+    "text": "ce soir quand il fera chaud quelques heures au coin du feu"
+   },
+   {
+    "start": 44.973,
+    "end": 51.228,
+    "text": "un seul souhait oui j'aimerais merry christmas everyday"
+   },
+   {
+    "start": 51.645,
+    "end": 57.945,
+    "text": "te revoir même qu'une fois christmas christmas avec toi"
+   },
+   {
+    "start": 58.312,
+    "end": 64.766,
+    "text": "j'attendrais jusqu'au matin un happy end un refrain"
+   },
+   {
+    "start": 64.982,
+    "end": 70.804,
+    "text": "christmas christmas all i want is only you"
+   },
+   {
+    "start": 71.633,
+    "end": 77.511,
+    "text": "christmas christmas notre amour en rendez vous"
+   },
+   {
+    "start": 78.309,
+    "end": 84.205,
+    "text": "christmas christmas all i want is only you"
+   },
+   {
+    "start": 84.975,
+    "end": 90.0,
+    "text": "christmas christmas un regard quelques mots doux"
+   }
+  ]
+ }
+}

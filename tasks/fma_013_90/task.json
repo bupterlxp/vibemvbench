@@ -1,0 +1,38 @@
+{
+ "task_id": "fma_013_90",
+ "song_id": "fma_013",
+ "clip_start": 38.06,
+ "clip_end": 128.06,
+ "length_class": 90,
+ "difficulty_tier": "easy",
+ "spec": {
+  "resolution": [
+   1920,
+   1080
+  ],
+  "fps": 30,
+  "duration_tol": 0.1,
+  "duration": 90.0
+ },
+ "song": {
+  "title": "Gospelgoose(step)",
+  "artist": "Sans Blanc",
+  "genre": "Hip-Hop",
+  "language": "unk",
+  "license": "CC-BY-NC-SA 3.0",
+  "url": "http://freemusicarchive.org/music/Sans_Blanc/Modluv/Gospelgoosestep"
+ },
+ "lyrics_text": [],
+ "prompt": "Make a music video for this song. Make it as good as you possibly can.",
+ "free": true,
+ "difficulty": {
+  "d_rhythm": -0.07,
+  "d_structure": -0.28,
+  "d_dynamics": 0.45,
+  "d_lyrics": -0.47,
+  "d_genre": 0.0,
+  "d_length": -0.79,
+  "difficulty": -0.191
+ },
+ "alignment_fix": "2026-11-07: clip window corrected from 10.04 to 38.06 (audio/rubric were built for this window)"
+}

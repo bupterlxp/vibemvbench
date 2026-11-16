@@ -1,0 +1,54 @@
+{
+ "task_id": "jl_009_90",
+ "song_id": "jl_009",
+ "clip_start": 92.88,
+ "clip_end": 182.88,
+ "length_class": 90,
+ "difficulty_tier": "hard",
+ "spec": {
+  "resolution": [
+   1920,
+   1080
+  ],
+  "fps": 30,
+  "duration_tol": 0.1,
+  "duration": 90.0
+ },
+ "song": {
+  "title": "Capotes à un Franc",
+  "artist": "EL MANU",
+  "genre": "Country",
+  "language": "fr",
+  "license": "CC BY-NC-SA",
+  "url": "https://www.jamendo.com/track/4242/capotes-a-un-franc/lyrics"
+ },
+ "lyrics_text": [
+  "tu sais t'aurais pas du crever la vie n'était pas terminée",
+  "hier encore y'avait des vagues et puis du vent",
+  "on aurait pu aller surfer mais t'as préféré te casser",
+  "dans le jardin d'éden dans le jardin du temps",
+  "mais tu te dis que maintenant que les capotes sont à un franc",
+  "ton coeur battrait plus fort quand arrive l'été",
+  "tu sentirais encore le vent les grains de sable et puis le temps",
+  "couler entre tes doigts et glisser sous tes pieds",
+  "ok je sais bien qu'elle était super bandante à en crever",
+  "elle t'a entraîné dans son lit tu pouvais pas r'fuser",
+  "tu n'avais que deux francs sur toi et t'as pensé 'tention sida",
+  "mais qu'une fille belle comme ça était immunisée",
+  "et tu te dis que maintenant que les capotes sont à un franc",
+  "tu serais encore là et tu raconterais",
+  "que t'avais fait l'amour deux fois sans penser qu'avec cette fille là",
+  "l'amour et la mort étaient à jamais liés"
+ ],
+ "prompt": "Make a music video for this song. Make it as good as you possibly can.",
+ "free": true,
+ "difficulty": {
+  "d_rhythm": -0.56,
+  "d_structure": 1.29,
+  "d_dynamics": -0.69,
+  "d_lyrics": 1.38,
+  "d_genre": 1.0,
+  "d_length": -0.63,
+  "difficulty": 0.3
+ }
+}

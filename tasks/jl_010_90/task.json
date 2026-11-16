@@ -1,0 +1,56 @@
+{
+ "task_id": "jl_010_90",
+ "song_id": "jl_010",
+ "clip_start": 134.455,
+ "clip_end": 224.455,
+ "length_class": 90,
+ "difficulty_tier": "medium",
+ "spec": {
+  "resolution": [
+   1920,
+   1080
+  ],
+  "fps": 30,
+  "duration_tol": 0.1,
+  "duration": 90.0
+ },
+ "song": {
+  "title": "Caralibro",
+  "artist": "VAGOS PERMANENTES",
+  "genre": "Reggae",
+  "language": "es",
+  "license": "CC BY-NC-SA",
+  "url": "https://www.jamendo.com/track/723359/caralibro/lyrics"
+ },
+ "lyrics_text": [
+  "si si es tu vida una patraña",
+  "sin hazañas que te engaña es una puta castaña",
+  "existencia ermitaña que te nubla y te empaña",
+  "todo juicio y razon",
+  "te lo digo sin rencor",
+  "pero te falta un hervor",
+  "y poco a poco estas cayendo en el hoyo de la enajenacion",
+  "por favor",
+  "sal de tu letargo",
+  "y hazte cargo de que el mundo no se encierra tras tu pobre monitor",
+  "hoy sali a la calle todo es nuevo para mi",
+  "llevaba mas de tres años metido en mi cuchitril",
+  "me he sentido solo sin saber a donde ir",
+  "ahora entiendo porque dicen que soy un freak",
+  "tengo cuatro mil amigos soy un tio super popular",
+  "a pesar de que a ninguno he visto jamas",
+  "si echo en falta compañia va siendo hora de activar el chat",
+  "todo es falso pero me da igual"
+ ],
+ "prompt": "Make a music video for this song. Make it as good as you possibly can.",
+ "free": true,
+ "difficulty": {
+  "d_rhythm": -0.56,
+  "d_structure": 0.6,
+  "d_dynamics": -0.44,
+  "d_lyrics": 1.02,
+  "d_genre": 0.0,
+  "d_length": 0.65,
+  "difficulty": 0.213
+ }
+}

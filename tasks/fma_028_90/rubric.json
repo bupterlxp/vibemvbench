@@ -1,0 +1,162 @@
+{
+ "profile": "A fast, high-energy, 90s-style punk rock track (skate punk/riot grrrl vibe) featuring driving drums, overdriven guitars, and snarky, rapid-fire female vocals. The mood is chaotic, rebellious, fast-paced, and fun. Lyrical themes revolve around feeling 'out of whack', lacking communication, the fast pace of life causing us to break, and a weird encounter with a man who 'looks like a yeti' ending in things getting 'messy'. The energy arc starts high, maintains a relentless driving pace, peaks during a chaotic guitar solo, and ends abruptly on a final shouted word.",
+ "key_moments": [
+  {
+   "t": 16.5,
+   "what": "The lead vocals enter for the first time, kicking off the first verse with high punk energy."
+  },
+  {
+   "t": 45.2,
+   "what": "Vocals drop out as an energetic, driving instrumental break begins, repeating the main riff."
+  },
+  {
+   "t": 66.2,
+   "what": "A wild, chaotic guitar solo begins right after the lyric 'we all break', marking the musical climax of the song."
+  },
+  {
+   "t": 88.0,
+   "what": "The song abruptly stops on a final band hit and the shouted word 'Messy!', leaving only a decaying cymbal ring."
+  }
+ ],
+ "fitting_styles": "Fitting styles include gritty performance videos (garage or basement shows with mosh pits), fast-paced narrative or comedic videos (skaters, chaotic deliveries matching the 'Pizzas' title), rhythmic montages (VHS-style footage, rapid urban cuts), or aggressive kinetic typography (zine-style ransom note text). These suit the relentless tempo and rebellious punk attitude. Approaches that would clash include slow, ethereal cinematic sequences, elegant slow-motion, highly polished corporate styles, or gentle romantic narratives, which would feel completely disconnected from the fast, aggressive instrumentation.",
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The visual shows a clear reaction or shift when the lead vocals enter for the first time at exactly 16.5s (e.g., a character starts singing, or the scene cuts)."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video visually acknowledges the instrumental break at 45.2s, moving focus away from vocal delivery to match the driving guitar riff."
+  },
+  {
+   "id": "S3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The editing or on-screen action increases in chaos, or visual focus shifts to an instrument, to mark the start of the wild guitar solo at 66.2s."
+  },
+  {
+   "id": "S4",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video's action concludes, freezes, or abruptly cuts to black synchronously with the song's hard stop at 88.0s."
+  }
+ ],
+ "anchors": {
+  "UN": "1: The concept entirely misses the punk rock genre, using soft, elegant, or slow imagery that ignores the chaotic tone. 3: The video generally fits the energetic rock vibe but lacks the specific snarky, gritty, skate-punk attitude of the track. 5: The chosen concept perfectly captures the rapid-fire, slightly humorous, rebellious punk energy of the song.",
+  "EM": "1: The mood feels serene, melancholic, or overly serious, totally clashing with the track's frantic nature. 3: Conveys high energy but misses the slightly unhinged and fun emotional peaks, remaining visually too steady. 5: The visual mood matches the frantic, 'out of whack' feeling, peaking beautifully in chaos during the guitar solo.",
+  "RH": "1: The editing is slow and ignores the rapid snare hits and fast tempo of the punk rhythm. 3: The video follows the general beat but feels monotonous, missing the opportunity to accent rapid fills or changes. 5: Visual hits, camera movements, and cuts are tightly locked to the fast-paced punk tempo and drum accents.",
+  "ST": "1: The visual flow is uniform and ignores the intro, verses, solo, and outro completely. 3: Responds to the vocal entrance but glosses over the instrumental break and guitar solo. 5: Clear, distinct visual shifts mark the verse (16.5s), instrumental break (45.2s), chaotic solo (66.2s), and the abrupt ending (88.0s).",
+  "LY": "1: Text is heavily misspelled or out of sync; or narrative imagery completely contradicts the lyrics' chaotic themes. 3: Lyrics are mostly accurate if shown; imagery fits the general vibe but misses specific fun details like 'out of whack' or the 'yeti'. 5: Kinetic text (if used) is timed perfectly to the fast vocals in a punk style; narrative imagery creatively reflects the themes of going too fast, feeling out of place, or messy situations.",
+  "VA": "1: The video looks like a cheap AI generation with severe glitches, poor composition, or an inappropriate generic filter. 3: The visuals are competent and clean but lack a cohesive artistic direction or feel like standard stock footage. 5: Excellent visual quality with a cohesive aesthetic (e.g., authentic-looking grimy VHS, polished 2D animation, or crisp live-action punk aesthetic) without distracting flaws.",
+  "CR": "1: A very basic, predictable band performance or generic lyric template with no creative angle. 3: A solid, appropriate idea (like a skate montage) that works well but takes no unique creative risks. 5: A highly distinctive and surprising concept that perfectly fits the punk ethos, perhaps interpreting the fast-paced or 'messy' elements in a fresh, memorable way."
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 16.5,
+   "kind": "section change"
+  },
+  {
+   "t": 45.2,
+   "kind": "section change"
+  },
+  {
+   "t": 66.2,
+   "kind": "section change"
+  },
+  {
+   "t": 88.0,
+   "kind": "section change"
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The visual shows a clear reaction or shift when the lead vocals enter for the first time at exactly 16.5s (e.g., a character starts singing, or the scene cuts)."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video visually acknowledges the instrumental break at 45.2s, moving focus away from vocal delivery to match the driving guitar riff."
+  },
+  {
+   "id": "S3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The editing or on-screen action increases in chaos, or visual focus shifts to an instrument, to mark the start of the wild guitar solo at 66.2s."
+  },
+  {
+   "id": "S4",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video's action concludes, freezes, or abruptly cuts to black synchronously with the song's hard stop at 88.0s."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 90.0,
+  "approx_bpm": 144,
+  "section_changes_at_s": [
+   16.523,
+   45.183,
+   66.223,
+   87.963
+  ],
+  "sung_lines": []
+ }
+}

@@ -1,0 +1,461 @@
+{
+ "profile": "The track is an upbeat, cheerful acoustic pop song in French ('Chanson Française'). Instrumentation features bouncy acoustic guitar strumming, a driving, warm bassline, light rhythmic percussion (claps/snaps), and later a whimsical whistling-style synth melody. The male vocals are delivered with a casual, relaxed tone, blending slightly spoken narrative verses with a highly melodic, optimistic chorus. The mood is carefree, resilient, and ironic. Lyrically, the song details a litany of comical everyday misfortunes and absolute disasters (a stolen car, losing a lighter, bad rumors, getting fired, a cheating partner, catching herpes), but the core theme is the protagonist's stubborn refusal to let it ruin their day, insisting they remain 'de bonne humeur' (in a good mood) and take things with 'douceur' (gentleness). The energy kicks off high with an immediate chorus, dips slightly into a more conversational, bass-driven groove for the verses, and peaks again during the choruses and the bouncy instrumental bridge.",
+ "key_moments": [
+  {
+   "t": 0.0,
+   "what": "The song starts abruptly with high energy, dropping immediately into the catchy chorus with acoustic guitar, upbeat rhythm, and cheerful vocals."
+  },
+  {
+   "t": 17.4,
+   "what": "Transition to the first verse. The instrumentation strips back slightly to highlight a bouncy bassline, and the vocal delivery becomes more narrative and conversational."
+  },
+  {
+   "t": 34.8,
+   "what": "The upbeat chorus returns, bringing the energy and full acoustic arrangement back to the forefront."
+  },
+  {
+   "t": 46.4,
+   "what": "An instrumental section begins, marked by the absence of vocals and the introduction of a bright, whimsical whistling/synth melody."
+  },
+  {
+   "t": 63.9,
+   "what": "The second verse begins, returning to the stripped-back, bass-driven instrumental and narrative storytelling style."
+  },
+  {
+   "t": 79.4,
+   "what": "The final chorus hits, restoring the song's peak optimistic energy to drive toward the conclusion."
+  }
+ ],
+ "fitting_styles": "A comedic narrative style works best here, perhaps showing a relentlessly smiling protagonist going through a series of increasingly absurd disasters (getting splashed by a car, getting fired, etc.) while maintaining a chipper attitude. A bright, colorful kinetic typography video would also work well to highlight the contrast between the upbeat music and the disastrous French lyrics. A relaxed, sunny performance video (e.g., playing guitar in a park) could fit the acoustic vibe. Dark, edgy, cyberpunk, aggressive, or overly serious dramatic styles would clash terribly with the track's bouncy, acoustic, and ironic nature.",
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video must show a visual transition (e.g., a cut, a shift in lighting, or a change in scene) at t=17.4 to match the shift from the upbeat chorus to the slightly more subdued, bass-driven first verse."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At t=46.4, when the instrumental whistling/synth melody begins and the vocals drop out, the video must reflect this change (e.g., by introducing a new visual motif, shifting away from lip-syncing, or changing the editing pace)."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "text",
+   "check": "If lyrics are displayed, the recurring phrase 'de bonne humeur' must appear accurately timed with the singing, such as around t=2.2, t=33.2, or t=79.6."
+  },
+  {
+   "id": "S4",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video must visually register the return to the final, high-energy chorus at t=79.4, perhaps by returning to a main 'hook' visual or increasing the overall brightness/movement."
+  }
+ ],
+ "anchors": {
+  "UN": {
+   "1": "The video's concept is dark, heavy, or aggressive, completely ignoring the lighthearted, bouncy acoustic pop genre and the ironic optimism of the track.",
+   "3": "The video matches the upbeat tone but misses the lyrical irony, settling for a generic cheerful concept without acknowledging the 'good mood despite bad luck' theme.",
+   "5": "The video perfectly captures the sunny, resilient acoustic pop feel, leaning into the contrast between the cheerful vibe and the narrative of comedic misfortune."
+  },
+  "EM": {
+   "1": "The emotional tone feels gloomy, tense, or flat, directly contradicting the singer's cheerful resilience.",
+   "3": "The mood is generally positive but remains static, failing to distinguish between the bright choruses and the slightly more cynical storytelling in the verses.",
+   "5": "The video radiates a carefree, optimistic energy that perfectly matches the vocal delivery, maintaining a smile even while depicting or implying the narrator's bad luck."
+  },
+  "RH": {
+   "1": "The visual edits and movements are completely disconnected from the bouncy acoustic guitar strumming and rhythmic claps.",
+   "3": "The video cuts on the beat adequately but feels a bit stiff, missing the relaxed, syncopated groove of the acoustic arrangement.",
+   "5": "Visual actions, character movements, and cuts are tightly locked to the acoustic strumming and the snappy, bouncy rhythm, enhancing the song's groove."
+  },
+  "ST": {
+   "1": "The video consists of a single looped scene or ignores the clear structural shifts between the verses, choruses, and the instrumental break.",
+   "3": "The video marks some major transitions (like the first verse at 17.4s) but fails to give a distinct visual treatment to the whistling instrumental section at 46.4s.",
+   "5": "The video clearly distinguishes the song's structure, with specific visual treatments for the high-energy choruses, the narrative verses, and the whimsical instrumental bridge."
+  },
+  "LY": {
+   "1": "On-screen text is heavily misspelled or mistimed, or the visual imagery completely contradicts the French lyrics about bad luck and staying positive.",
+   "3": "Lyrics are mostly accurate but have minor sync issues, or the visuals only vaguely relate to the concept of taking things in stride.",
+   "5": "The video features flawless kinetic typography for the French lyrics, or creates brilliant, comedic visual metaphors for the disastrous events (e.g., getting fired, losing things) while keeping the cheerful tone."
+  },
+  "VA": {
+   "1": "The video suffers from severe visual artifacts, glitchy rendering, or looks like a muddy, low-effort placeholder.",
+   "3": "The video is competently generated but lacks a cohesive, bright color palette or the polished aesthetic expected of a cheerful pop video.",
+   "5": "The video boasts crisp, vibrant visuals with a bright, sunny color grade and excellent composition that perfectly complements the upbeat acoustic pop style."
+  },
+  "CR": {
+   "1": "A basic, uninspired slideshow of generic smiling people or a standard audio visualizer.",
+   "3": "A straightforward performance video or literal lyric video that works but doesn't add any unique conceptual flair to the song's premise.",
+   "5": "A highly creative and distinctive concept, such as a cartoonish, escalating Rube Goldberg machine of bad luck happening to a relentlessly smiling protagonist."
+  }
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 0.0,
+   "kind": "section change"
+  },
+  {
+   "t": 0.4,
+   "kind": "sung line starts: \"on m'la chourrer c'est un cauchemar\""
+  },
+  {
+   "t": 2.2,
+   "kind": "sung line starts: \"de bonne humeur même de bonne heure\""
+  },
+  {
+   "t": 6.0,
+   "kind": "sung line starts: \"je prends les choses avec douceur\""
+  },
+  {
+   "t": 9.9,
+   "kind": "sung line starts: \"de bonne humeur même de bonne heure\""
+  },
+  {
+   "t": 13.8,
+   "kind": "sung line starts: \"il en faut plus pour m'donner des sueurs\""
+  },
+  {
+   "t": 17.4,
+   "kind": "section change"
+  },
+  {
+   "t": 17.7,
+   "kind": "sung line starts: \"même si j'traîne les pieds dans la rue\""
+  },
+  {
+   "t": 19.6,
+   "kind": "sung line starts: \"et qu'mon briquet à disparu\""
+  },
+  {
+   "t": 21.6,
+   "kind": "sung line starts: \"même si les rumeurs sur mon compte\""
+  },
+  {
+   "t": 23.5,
+   "kind": "sung line starts: \"s'amplifient à chaque secondes\""
+  },
+  {
+   "t": 25.6,
+   "kind": "sung line starts: \"même si on m'attends au bureau\""
+  },
+  {
+   "t": 27.6,
+   "kind": "sung line starts: \"j'suis quand même vert pour ma clio\""
+  },
+  {
+   "t": 29.3,
+   "kind": "sung line starts: \"et quand bien même j'ai de l'herpès\""
+  },
+  {
+   "t": 31.5,
+   "kind": "sung line starts: \"je n'oublie pas qu'il faut qu'je reste\""
+  },
+  {
+   "t": 33.2,
+   "kind": "sung line starts: \"de bonne humeur même de bonne heure\""
+  },
+  {
+   "t": 34.8,
+   "kind": "section change"
+  },
+  {
+   "t": 37.0,
+   "kind": "sung line starts: \"je prends les choses avec douceur\""
+  },
+  {
+   "t": 40.9,
+   "kind": "sung line starts: \"de bonne humeur même de bonne heure\""
+  },
+  {
+   "t": 44.8,
+   "kind": "sung line starts: \"il en faut plus pour m'donner des sueurs\""
+  },
+  {
+   "t": 46.4,
+   "kind": "section change"
+  },
+  {
+   "t": 63.9,
+   "kind": "section change"
+  },
+  {
+   "t": 64.1,
+   "kind": "sung line starts: \"même si j'ai pas les numéros\""
+  },
+  {
+   "t": 66.1,
+   "kind": "sung line starts: \"gagnant au tirage du loto\""
+  },
+  {
+   "t": 68.0,
+   "kind": "sung line starts: \"même si je me suis fait virer\""
+  },
+  {
+   "t": 70.1,
+   "kind": "sung line starts: \"car mon réveil n'a pas sonné\""
+  },
+  {
+   "t": 71.9,
+   "kind": "sung line starts: \"même si ma copine s'est tapé\""
+  },
+  {
+   "t": 74.0,
+   "kind": "sung line starts: \"le fils du voisin de palier\""
+  },
+  {
+   "t": 75.8,
+   "kind": "sung line starts: \"même si je ressens un p'tit stress\""
+  },
+  {
+   "t": 77.9,
+   "kind": "sung line starts: \"je n'oublie pas qu'il faut qu'je reste\""
+  },
+  {
+   "t": 79.4,
+   "kind": "section change"
+  },
+  {
+   "t": 79.6,
+   "kind": "sung line starts: \"de bonne humeur même de bonne heure\""
+  },
+  {
+   "t": 83.5,
+   "kind": "sung line starts: \"je prends les choses avec douceur\""
+  },
+  {
+   "t": 87.4,
+   "kind": "sung line starts: \"de bonne humeur ouais même de bonne heure\""
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video must show a visual transition (e.g., a cut, a shift in lighting, or a change in scene) at t=17.4 to match the shift from the upbeat chorus to the slightly more subdued, bass-driven first verse."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At t=46.4, when the instrumental whistling/synth melody begins and the vocals drop out, the video must reflect this change (e.g., by introducing a new visual motif, shifting away from lip-syncing, or changing the editing pace)."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "text",
+   "check": "If lyrics are displayed, the recurring phrase 'de bonne humeur' must appear accurately timed with the singing, such as around t=2.2, t=33.2, or t=79.6."
+  },
+  {
+   "id": "S4",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video must visually register the return to the final, high-energy chorus at t=79.4, perhaps by returning to a main 'hook' visual or increasing the overall brightness/movement."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 90.0,
+  "approx_bpm": 125,
+  "section_changes_at_s": [
+   0.0,
+   17.42,
+   34.84,
+   46.44,
+   63.86,
+   79.36
+  ],
+  "sung_lines": [
+   {
+    "start": 0.432,
+    "end": 2.201,
+    "text": "on m'la chourrer c'est un cauchemar"
+   },
+   {
+    "start": 2.201,
+    "end": 5.41,
+    "text": "de bonne humeur même de bonne heure"
+   },
+   {
+    "start": 6.033,
+    "end": 9.416,
+    "text": "je prends les choses avec douceur"
+   },
+   {
+    "start": 9.933,
+    "end": 13.299,
+    "text": "de bonne humeur même de bonne heure"
+   },
+   {
+    "start": 13.806,
+    "end": 17.048,
+    "text": "il en faut plus pour m'donner des sueurs"
+   },
+   {
+    "start": 17.693,
+    "end": 19.625,
+    "text": "même si j'traîne les pieds dans la rue"
+   },
+   {
+    "start": 19.625,
+    "end": 21.574,
+    "text": "et qu'mon briquet à disparu"
+   },
+   {
+    "start": 21.574,
+    "end": 23.493,
+    "text": "même si les rumeurs sur mon compte"
+   },
+   {
+    "start": 23.493,
+    "end": 25.432,
+    "text": "s'amplifient à chaque secondes"
+   },
+   {
+    "start": 25.613,
+    "end": 27.371,
+    "text": "même si on m'attends au bureau"
+   },
+   {
+    "start": 27.553,
+    "end": 29.305,
+    "text": "j'suis quand même vert pour ma clio"
+   },
+   {
+    "start": 29.305,
+    "end": 31.269,
+    "text": "et quand bien même j'ai de l'herpès"
+   },
+   {
+    "start": 31.485,
+    "end": 33.185,
+    "text": "je n'oublie pas qu'il faut qu'je reste"
+   },
+   {
+    "start": 33.185,
+    "end": 36.592,
+    "text": "de bonne humeur même de bonne heure"
+   },
+   {
+    "start": 37.041,
+    "end": 40.564,
+    "text": "je prends les choses avec douceur"
+   },
+   {
+    "start": 40.929,
+    "end": 44.483,
+    "text": "de bonne humeur même de bonne heure"
+   },
+   {
+    "start": 44.784,
+    "end": 48.252,
+    "text": "il en faut plus pour m'donner des sueurs"
+   },
+   {
+    "start": 64.12,
+    "end": 66.066,
+    "text": "même si j'ai pas les numéros"
+   },
+   {
+    "start": 66.066,
+    "end": 68.028,
+    "text": "gagnant au tirage du loto"
+   },
+   {
+    "start": 68.028,
+    "end": 69.937,
+    "text": "même si je me suis fait virer"
+   },
+   {
+    "start": 70.137,
+    "end": 71.889,
+    "text": "car mon réveil n'a pas sonné"
+   },
+   {
+    "start": 71.889,
+    "end": 73.836,
+    "text": "même si ma copine s'est tapé"
+   },
+   {
+    "start": 74.029,
+    "end": 75.756,
+    "text": "le fils du voisin de palier"
+   },
+   {
+    "start": 75.756,
+    "end": 77.73,
+    "text": "même si je ressens un p'tit stress"
+   },
+   {
+    "start": 77.932,
+    "end": 79.627,
+    "text": "je n'oublie pas qu'il faut qu'je reste"
+   },
+   {
+    "start": 79.627,
+    "end": 82.837,
+    "text": "de bonne humeur même de bonne heure"
+   },
+   {
+    "start": 83.496,
+    "end": 86.79,
+    "text": "je prends les choses avec douceur"
+   },
+   {
+    "start": 87.363,
+    "end": 90.0,
+    "text": "de bonne humeur ouais même de bonne heure"
+   }
+  ]
+ }
+}

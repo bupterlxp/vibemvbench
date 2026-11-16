@@ -1,0 +1,401 @@
+{
+ "profile": "The audio is a driving, edgy French pop song with a cynical, satirical tone. Instrumentation features a tight, staccato beat with prominent bass, claps, and synths. The female vocals are delivered with a fast, almost spoken-word rhythmic precision during the verses, transitioning into anthemic chants and sung choruses. The lyrics critique herd mentality, politics, and societal aggression ('piling up like earthworms', 'throw yourselves into the arena', 'spit on each other'). The energy builds from a tense, sparse verse, escalating through a pre-chorus into a heavy, danceable drop, followed by an aggressive instrumental section and an anthemic chanting outro.",
+ "key_moments": [
+  {
+   "t": 17.1,
+   "what": "Section change: The instrumental texture shifts and gains momentum as the second verse segment begins."
+  },
+  {
+   "t": 30.2,
+   "what": "Vocal build-up: The delivery becomes more melodic and urgent ('allez offrez vous un peu d'rêve') acting as a pre-chorus."
+  },
+  {
+   "t": 41.9,
+   "what": "Chorus/Drop: Immediately following 'vive la reine', a heavy, rhythmic and aggressive chorus kicks in."
+  },
+  {
+   "t": 60.9,
+   "what": "Dance break/Instrumental: A major section change introduces intense, driving electronic beats without lead vocals."
+  },
+  {
+   "t": 76.2,
+   "what": "Outro: The driving beat breaks down into a rhythmic, repetitive 'oh oh oh' vocal chant."
+  }
+ ],
+ "fitting_styles": "Narrative or conceptual styles depicting dystopian conformity, mindless crowds, or satirical social critique fit perfectly with the lyrical themes. An edgy, high-energy performance video with sharp choreography would match the staccato rhythm, while rhythmic kinetic typography would work excellently due to the fast, percussive vocal delivery. Clashing styles include anything overly romantic, soft, nostalgic, or pastoral, as these would completely miss the dark, biting, and aggressive tone of the track.",
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video displays a significant increase in visual energy or a major scene change at the chorus drop at 41.9 seconds."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video responds visually to the intense instrumental dance break starting at 60.9 seconds with fast cuts, heavy motion, or a distinct stylistic shift."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "visual",
+   "check": "The imagery features elements related to crowds, waiting lines, conformity, or aggressive competition, reflecting the song's themes."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "text",
+   "check": "If lyrics are shown, the phrase 'le roi est mort vive la reine' appears precisely timed around 41.7 seconds."
+  }
+ ],
+ "anchors": {
+  "UN": "1: The video fundamentally misunderstands the track, showing a peaceful or overly sweet scene. 3: The video recognizes it as an upbeat pop song but misses the darker, cynical undertones. 5: The video perfectly captures the driving, edgy energy and satirical, conformist/rebellious themes of the song.",
+  "EM": "1: The mood is completely contradictory, feeling serene, romantic, or purely happy. 3: The video has energy but feels too generic, lacking the biting, slightly dark edge of the track. 5: The video effectively conveys a sense of tension, rebellion, or dark satire, matching the emotional arc from the tense verses to the explosive, aggressive chorus.",
+  "RH": "1: Visuals are disconnected from the tight, driving beat. 3: Cuts land on the main heavy beats but miss the staccato vocal rhythms and syncopated claps. 5: The editing is locked tightly to the percussive bass, snaps, and the fast, rhythmic delivery of the French vocals.",
+  "ST": "1: The video ignores structural changes, maintaining flat pacing throughout. 3: The video reacts to the chorus at 41.9s but misses the massive instrumental shift at 60.9s. 5: Clear visual shifts mark the verse transitions at 17.1s, the drop at 41.9s, the intense dance break at 60.9s, and the chanting outro at 76.2s.",
+  "LY": "1: Visuals completely contradict the lyrics, or kinetic typography is grossly mistimed. 3: Visuals loosely relate to the song, or text has minor timing errors with the fast French lyrics. 5: Imagery cleverly depicts the song's themes of crowds, arenas, and people stepping on each other, or typography is flawlessly synced to the complex vocal rhythms.",
+  "VA": "1: The video is visually messy, glitched, or looks like a raw, unpolished AI generation. 3: The visual quality is decent but lacks a cohesive color palette or feels slightly repetitive in its composition. 5: The rendering is crisp, with deliberate composition, lighting, and grading that enhances the edgy, modern pop aesthetic.",
+  "CR": "1: A basic, uninspired visualizer that adds nothing to the music's themes. 3: A functional interpretation (e.g., just literal people waiting in line) but lacks a unique twist. 5: A highly creative, striking concept—such as a surreal dystopian society or a fiercely stylized choreographic piece—that elevates the song's satirical message."
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 0.2,
+   "kind": "sung line starts: \"ils s'entassent tous en silence\""
+  },
+  {
+   "t": 4.0,
+   "kind": "sung line starts: \"comme des tas de vers de terre\""
+  },
+  {
+   "t": 7.8,
+   "kind": "sung line starts: \"ils ne veulent plus croire en la science\""
+  },
+  {
+   "t": 11.6,
+   "kind": "sung line starts: \"ils ont toujours peur de l'enfer\""
+  },
+  {
+   "t": 15.4,
+   "kind": "sung line starts: \"ils ne connaissent pas leur chance\""
+  },
+  {
+   "t": 17.1,
+   "kind": "section change"
+  },
+  {
+   "t": 19.2,
+   "kind": "sung line starts: \"d'être si à sens unique\""
+  },
+  {
+   "t": 23.0,
+   "kind": "sung line starts: \"jamais ils ne disent ce qu'ils pensent\""
+  },
+  {
+   "t": 26.6,
+   "kind": "sung line starts: \"ils écoutent bien trop la politique\""
+  },
+  {
+   "t": 30.2,
+   "kind": "sung line starts: \"allez offrez vous un peu d'rêve un peu d'rêve\""
+  },
+  {
+   "t": 34.5,
+   "kind": "sung line starts: \"à tous ceux qui ne font plus de trêve\""
+  },
+  {
+   "t": 37.8,
+   "kind": "sung line starts: \"allez allez jetez vous dans l'arène dans l'arène\""
+  },
+  {
+   "t": 41.7,
+   "kind": "sung line starts: \"le roi est mort vive la reine\""
+  },
+  {
+   "t": 41.9,
+   "kind": "section change"
+  },
+  {
+   "t": 45.2,
+   "kind": "sung line starts: \"oh oh chacun est pour l'autre le suivant\""
+  },
+  {
+   "t": 49.7,
+   "kind": "sung line starts: \"personne ne bouge tout l'monde attend oh oh oh oh\""
+  },
+  {
+   "t": 53.5,
+   "kind": "sung line starts: \"marchez vous d'ssus montrez les dents\""
+  },
+  {
+   "t": 57.3,
+   "kind": "sung line starts: \"crachez vous d'ssus il est encore temps\""
+  },
+  {
+   "t": 60.8,
+   "kind": "sung line starts: \"allez allez allez allez\""
+  },
+  {
+   "t": 60.9,
+   "kind": "section change"
+  },
+  {
+   "t": 71.5,
+   "kind": "sung line starts: \"allez allez allez\""
+  },
+  {
+   "t": 76.2,
+   "kind": "section change"
+  },
+  {
+   "t": 76.2,
+   "kind": "sung line starts: \"oh oh oh oh oh oh\""
+  },
+  {
+   "t": 78.1,
+   "kind": "sung line starts: \"oh oh oh oh oh oh\""
+  },
+  {
+   "t": 80.0,
+   "kind": "sung line starts: \"oh oh oh oh oh oh\""
+  },
+  {
+   "t": 81.9,
+   "kind": "sung line starts: \"oh oh oh oh oh oh\""
+  },
+  {
+   "t": 83.8,
+   "kind": "sung line starts: \"oh oh oh oh oh oh\""
+  },
+  {
+   "t": 85.7,
+   "kind": "sung line starts: \"oh oh oh oh oh oh\""
+  },
+  {
+   "t": 87.6,
+   "kind": "sung line starts: \"oh oh oh oh oh oh\""
+  },
+  {
+   "t": 89.5,
+   "kind": "sung line starts: \"oh oh oh oh oh oh\""
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video displays a significant increase in visual energy or a major scene change at the chorus drop at 41.9 seconds."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video responds visually to the intense instrumental dance break starting at 60.9 seconds with fast cuts, heavy motion, or a distinct stylistic shift."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "visual",
+   "check": "The imagery features elements related to crowds, waiting lines, conformity, or aggressive competition, reflecting the song's themes."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "text",
+   "check": "If lyrics are shown, the phrase 'le roi est mort vive la reine' appears precisely timed around 41.7 seconds."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 90.0,
+  "approx_bpm": 125,
+  "section_changes_at_s": [
+   17.14,
+   41.9,
+   60.94,
+   76.18
+  ],
+  "sung_lines": [
+   {
+    "start": 0.173,
+    "end": 2.649,
+    "text": "ils s'entassent tous en silence"
+   },
+   {
+    "start": 4.0,
+    "end": 6.596,
+    "text": "comme des tas de vers de terre"
+   },
+   {
+    "start": 7.818,
+    "end": 10.151,
+    "text": "ils ne veulent plus croire en la science"
+   },
+   {
+    "start": 11.626,
+    "end": 13.539,
+    "text": "ils ont toujours peur de l'enfer"
+   },
+   {
+    "start": 15.422,
+    "end": 18.852,
+    "text": "ils ne connaissent pas leur chance"
+   },
+   {
+    "start": 19.214,
+    "end": 22.728,
+    "text": "d'être si à sens unique"
+   },
+   {
+    "start": 23.046,
+    "end": 26.151,
+    "text": "jamais ils ne disent ce qu'ils pensent"
+   },
+   {
+    "start": 26.602,
+    "end": 29.407,
+    "text": "ils écoutent bien trop la politique"
+   },
+   {
+    "start": 30.2,
+    "end": 34.355,
+    "text": "allez offrez vous un peu d'rêve un peu d'rêve"
+   },
+   {
+    "start": 34.507,
+    "end": 37.544,
+    "text": "à tous ceux qui ne font plus de trêve"
+   },
+   {
+    "start": 37.835,
+    "end": 41.562,
+    "text": "allez allez jetez vous dans l'arène dans l'arène"
+   },
+   {
+    "start": 41.658,
+    "end": 44.873,
+    "text": "le roi est mort vive la reine"
+   },
+   {
+    "start": 45.227,
+    "end": 49.496,
+    "text": "oh oh chacun est pour l'autre le suivant"
+   },
+   {
+    "start": 49.735,
+    "end": 54.723,
+    "text": "personne ne bouge tout l'monde attend oh oh oh oh"
+   },
+   {
+    "start": 53.534,
+    "end": 56.506,
+    "text": "marchez vous d'ssus montrez les dents"
+   },
+   {
+    "start": 57.345,
+    "end": 59.36,
+    "text": "crachez vous d'ssus il est encore temps"
+   },
+   {
+    "start": 60.757,
+    "end": 68.503,
+    "text": "allez allez allez allez"
+   },
+   {
+    "start": 71.549,
+    "end": 74.619,
+    "text": "allez allez allez"
+   },
+   {
+    "start": 76.168,
+    "end": 77.962,
+    "text": "oh oh oh oh oh oh"
+   },
+   {
+    "start": 78.088,
+    "end": 79.737,
+    "text": "oh oh oh oh oh oh"
+   },
+   {
+    "start": 80.004,
+    "end": 81.63,
+    "text": "oh oh oh oh oh oh"
+   },
+   {
+    "start": 81.89,
+    "end": 83.815,
+    "text": "oh oh oh oh oh oh"
+   },
+   {
+    "start": 83.815,
+    "end": 85.507,
+    "text": "oh oh oh oh oh oh"
+   },
+   {
+    "start": 85.724,
+    "end": 87.494,
+    "text": "oh oh oh oh oh oh"
+   },
+   {
+    "start": 87.614,
+    "end": 89.316,
+    "text": "oh oh oh oh oh oh"
+   },
+   {
+    "start": 89.521,
+    "end": 90.0,
+    "text": "oh oh oh oh oh oh"
+   }
+  ]
+ }
+}

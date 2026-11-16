@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Profile Review</title>
+<style>
+:root{--bg:#fafaf8;--card:#fff;--ink:#1d1d1b;--ink2:#5f5f5a;--line:#e3e2dc;--acc:#2f6fd6;--ok:#2f8f4e;--warn:#b7791f;--bad:#c2452d}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#17181a;--card:#202124;--ink:#ecebe6;--ink2:#a9a8a1;--line:#34353a;--acc:#6ea2ff;--ok:#5cc27f;--warn:#e0a84a;--bad:#ff7a5c}}
+:root[data-theme="dark"]{--bg:#17181a;--card:#202124;--ink:#ecebe6;--ink2:#a9a8a1;--line:#34353a;--acc:#6ea2ff;--ok:#5cc27f;--warn:#e0a84a;--bad:#ff7a5c}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.55 -apple-system,BlinkMacSystemFont,"PingFang SC","Segoe UI",sans-serif}
+main{max-width:900px;margin:0 auto;padding:16px}
+header{display:flex;flex-wrap:wrap;gap:12px;align-items:center;justify-content:space-between;margin-bottom:12px}
+h1{font-size:18px;margin:0}.muted{color:var(--ink2);font-size:13px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:16px;margin-bottom:12px}
+.row{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+button{font:inherit;border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:8px;padding:6px 11px;cursor:pointer}
+button.on{outline:2px solid var(--acc)}button.ok.on{background:var(--ok);color:#fff;border-color:var(--ok)}
+button.warn.on{background:var(--warn);color:#fff;border-color:var(--warn)}button.bad.on{background:var(--bad);color:#fff;border-color:var(--bad)}
+audio{width:100%;margin:8px 0}
+.km{border-top:1px solid var(--line);padding:10px 0}.km:first-child{border-top:0}
+.t{font:600 13px ui-monospace,monospace;color:var(--acc);cursor:pointer;margin-right:6px}
+.progress{height:6px;background:var(--line);border-radius:3px;overflow:hidden;flex:1;min-width:120px}.progress div{height:100%;background:var(--ok)}
+textarea{width:100%;font:13px ui-monospace,monospace;min-height:60px;border:1px solid var(--line);border-radius:8px;padding:8px;background:var(--bg);color:var(--ink)}
+input[type=text]{font:inherit;border:1px solid var(--line);border-radius:6px;padding:4px 8px;background:var(--bg);color:var(--ink);width:100%}
+.label{font-size:13px;font-weight:600;margin:10px 0 4px}
+</style>
+</head>
+<body>
+<main>
+<header>
+  <div><h1>歌曲档案抽查 · Profile Review</h1><div class="muted">10 首歌。核对模型写的歌曲描述和关键时刻是否准确。</div></div>
+  <div class="row" style="flex:1;justify-content:flex-end"><div class="progress"><div id="bar"></div></div><span class="muted" id="count"></span></div>
+</header>
+
+<div class="card muted">
+  每首歌：先完整听一遍。<b>① 整体描述</b>（配器、人声、情绪、能量走向）对不对；<b>② 每个关键时刻</b>：点时间可跳过去听，判断"那个时刻确实发生了所描述的事"，时间差在 1 秒内算准。看不懂的直接选"说不准"。进度自动保存，做完点最下面"下载结果"。
+</div>
+
+<div class="card"><audio id="au" controls preload="auto"></audio><div id="item"></div></div>
+
+<div class="card">
+  <div class="row"><button id="prev">← 上一首</button><button id="next">下一首 →</button><span style="flex:1"></span>
+  <span class="muted">标注人</span><input type="text" id="name" style="width:140px"></div>
+</div>
+<div class="card">
+  <div class="row"><b style="flex:1">导出</b><button id="export">下载结果 JSON</button></div>
+  <textarea id="out" readonly></textarea>
+</div>
+</main>
+<script>
+const KEY="profile_review_v1"; let items=[], idx=0, st={};
+const $=id=>document.getElementById(id);
+try{st=JSON.parse(localStorage.getItem(KEY)||"{}")}catch(e){st={}}
+try{$("name").value=localStorage.getItem(KEY+"_name")||""}catch(e){}
+function save(){try{localStorage.setItem(KEY,JSON.stringify(st));localStorage.setItem(KEY+"_name",$("name").value)}catch(e){}; meta()}
+function esc(s){return String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]))}
+function choice(group,val,opts){return opts.map(([v,l,c])=>`<button class="${c}${val===v?" on":""}" data-g="${group}" data-v="${v}">${l}</button>`).join(" ")}
+let loaded=null;
+function render(){
+  const it=items[idx], s=st[it.id]||{km:{}};
+  const au=$("au"); if(loaded!==it.id){au.pause();au.src=it.audio;au.load();loaded=it.id}
+  $("item").innerHTML=`<div class="row" style="justify-content:space-between"><div><b>${esc(it.title)}</b> <span class="muted">${esc(it.artist)} · ${esc(it.genre||"")} · ${it.tier} · 第 ${idx+1}/${items.length} 首</span></div></div>
+  <div class="label">① 整体描述</div><div class="muted">${esc(it.profile)}</div>
+  <div class="row" style="margin-top:8px">${choice("profile",s.profile,[["ok","准确","ok"],["partly","部分对","warn"],["wrong","明显不对","bad"],["unsure","说不准",""]])}</div>
+  <div class="label">② 关键时刻</div>
+  ${it.key_moments.map((k,i)=>`<div class="km"><span class="t" data-t="${k.t}">${k.t.toFixed(1)}s ▶</span>${esc(k.what)}
+     <div class="row" style="margin-top:6px">${choice("km"+i,(s.km||{})[i],[["ok","准（±1s）","ok"],["late","有，但时间差>1s","warn"],["wrong","没发生/描述不对","bad"],["unsure","说不准",""]])}</div></div>`).join("")}
+  <div class="label">备注（可选）</div><input type="text" id="note" value="${esc(s.note||"")}">`;
+  $("item").querySelectorAll(".t").forEach(e=>e.onclick=()=>{const a=$("au"),t=Math.max(0,+e.dataset.t-2);
+     const go=()=>{a.currentTime=t;a.play()}; if(a.readyState>=1)go(); else a.addEventListener("loadedmetadata",go,{once:true})});
+  $("item").querySelectorAll("button[data-g]").forEach(b=>b.onclick=()=>{const s=st[it.id]=st[it.id]||{km:{}};const g=b.dataset.g;
+     if(g==="profile")s.profile=b.dataset.v;else s.km[+g.slice(2)]=b.dataset.v; save(); render()});
+  $("note").oninput=e=>{(st[it.id]=st[it.id]||{km:{}}).note=e.target.value; save()};
+  meta();
+}
+function done(it){const s=st[it.id];return s&&s.profile&&it.key_moments.every((_,i)=>(s.km||{})[i])}
+function meta(){const n=items.filter(done).length;$("count").textContent=`${n}/${items.length}`;$("bar").style.width=(100*n/items.length)+"%";
+  $("out").value=JSON.stringify({annotator:$("name").value,results:items.map(it=>({id:it.id,...(st[it.id]||{}),key_moment_times:it.key_moments.map(k=>k.t)}))})}
+$("prev").onclick=()=>{idx=(idx-1+items.length)%items.length;render()};$("next").onclick=()=>{idx=(idx+1)%items.length;render()};
+$("name").oninput=save;
+$("export").onclick=()=>{const b=new Blob([$("out").value],{type:"application/json"});const a=document.createElement("a");a.href=URL.createObjectURL(b);a.download=`profile_review_${$("name").value||"anon"}.json`;a.click()};
+fetch("items.json").then(r=>r.json()).then(j=>{items=j;const f=items.findIndex(i=>!done(i));idx=f<0?0:f;render()});
+</script>
+</body>
+</html>

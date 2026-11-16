@@ -1,0 +1,37 @@
+{
+ "task_id": "fma_029_full",
+ "song_id": "fma_029",
+ "clip_start": 0.0,
+ "clip_end": 74.075,
+ "length_class": "full",
+ "difficulty_tier": "easy",
+ "spec": {
+  "resolution": [
+   1920,
+   1080
+  ],
+  "fps": 30,
+  "duration_tol": 0.1,
+  "duration": 74.075
+ },
+ "song": {
+  "title": "Stay Hungry",
+  "artist": "Angstbreaker",
+  "genre": "Punk",
+  "language": "unk",
+  "license": "CC-BY-SA 3.0",
+  "url": "http://freemusicarchive.org/music/Angstbreaker/Time_To_Live_w_Angstbreaker_-_Split_1437/09-Angstbreaker-Stay-Hungry"
+ },
+ "lyrics_text": [],
+ "prompt": "Make a music video for this song. Make it as good as you possibly can.",
+ "free": true,
+ "difficulty": {
+  "d_rhythm": -0.37,
+  "d_structure": -0.19,
+  "d_dynamics": 0.21,
+  "d_lyrics": -0.47,
+  "d_genre": 0.0,
+  "d_length": -2.24,
+  "difficulty": -0.512
+ }
+}

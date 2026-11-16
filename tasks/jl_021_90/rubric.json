@@ -1,0 +1,341 @@
+{
+ "profile": "A classic acoustic jazz track featuring a swinging rhythm section (piano, upright bass, brushed drums) and smooth, expressive female vocals singing in Spanish. The mood is a captivating blend of upbeat, bouncing energy and nostalgic, romantic wistfulness. The lyrics describe being haunted by memories of a past love, reminiscing about lost youth, and lamenting a missed connection ('algo mas que amigos'). The energy arc starts with a lively instrumental intro, settles into elegant vocal verses, breaks out into an energetic piano solo in the middle, and then builds to a passionate vocal climax in the final verse.",
+ "key_moments": [
+  {
+   "t": 1.6,
+   "what": "The full jazz rhythm section establishes the upbeat, walking swing groove."
+  },
+  {
+   "t": 19.4,
+   "what": "The female vocals enter for the first time, beginning the lyrical narrative."
+  },
+  {
+   "t": 52.8,
+   "what": "The vocals drop out as a lively, energetic instrumental piano solo takes over the track."
+  },
+  {
+   "t": 75.0,
+   "what": "The piano solo concludes and the vocals re-enter to deliver the final emotional verses."
+  },
+  {
+   "t": 85.5,
+   "what": "The vocal performance hits a passionate, dramatic peak with the line 'mi alma se alborota'."
+  }
+ ],
+ "fitting_styles": "Narrative (vintage romance, memory exploration, or a Parisian-themed story fitting the lyrics), Performance (a classic, smoky jazz club or elegant stage with a singer and acoustic band), and Lyric/Kinetic (sophisticated typography that embraces the vintage jazz aesthetic) are highly suitable. Approaches that would clash include cyberpunk, heavy sci-fi, high-octane action montages, or aggressive glitch art, which would completely contradict the warm, acoustic, and nostalgic jazz feel.",
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video introduces a visual shift, such as showing the singer or changing the on-screen action, when the vocals first enter at ~19.4 s."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The picture marks the transition to the instrumental piano solo at ~52.8 s with a cut, a new scene, or a distinct change in visual focus."
+  },
+  {
+   "id": "S3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The visual narrative marks the return of the vocals at ~75.0 s after the extended instrumental break."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "There is a visible response, such as an increase in visual intensity or an expressive character movement, matching the passionate vocal peak at ~85.5 s."
+  },
+  {
+   "id": "S5",
+   "level": "detail",
+   "modality": "text",
+   "check": "If lyrics are shown, the words 'via a paris' appear on screen precisely around ~37.1 s."
+  }
+ ],
+ "anchors": {
+  "UN": {
+   "1": "The video uses an aggressively modern, sci-fi, or heavy electronic style that completely ignores the acoustic, vintage jazz feel and nostalgic lyrics.",
+   "3": "The video fits the jazz genre well enough but feels a bit generic or doesn't fully capture the nuanced blend of upbeat swing and wistful longing.",
+   "5": "The video embraces the romantic, swinging jazz atmosphere, perfectly matching the acoustic instrumentation and lyrical themes of nostalgic memories."
+  },
+  "EM": {
+   "1": "The visual mood is chaotic, unsettling, or emotionally flat, completely missing the song's swinging nostalgia and romantic regret.",
+   "3": "The mood is generally romantic or upbeat but doesn't fully adapt to the emotional shifts between the smooth vocal verses and the lively piano solo.",
+   "5": "The visuals effortlessly capture the wistful yet bouncy mood, transitioning smoothly from nostalgic longing during the vocals to lively, playful energy during the solo."
+  },
+  "RH": {
+   "1": "The visual cuts and movements are random, completely ignoring the steady swing beat and jazz phrasing.",
+   "3": "The video cuts on the beat adequately but misses the distinctive swung rhythm, walking bassline, or playful piano accents.",
+   "5": "The editing breathes with the jazz rhythm, syncing cuts and motion beautifully to the walking bassline and piano syncopations."
+  },
+  "ST": {
+   "1": "The video ignores all structural changes, treating the instrumental intro, vocal verses, and piano solo exactly the same.",
+   "3": "The video changes scenes for the vocal entry but doesn't clearly acknowledge the extended piano solo or the vocals' return.",
+   "5": "Clear visual transitions perfectly mark the end of the intro (19.4 s), the start of the lively piano solo (52.8 s), and the vocal return (75.0 s)."
+  },
+  "LY": {
+   "1": "The lyrics are completely wrong, misspell the Spanish words, or are wildly out of sync with the singer.",
+   "3": "The lyrics are mostly correct but have minor timing issues, or the non-lyric visual narrative only loosely relates to themes of memory and past love.",
+   "5": "The lyrics are perfectly timed and elegantly integrated, or the visual narrative beautifully and accurately captures the themes of a past Parisian romance and lost youth."
+  },
+  "VA": {
+   "1": "The video looks like a messy AI test with obvious glitches, morphing artifacts, or cheap placeholder graphics.",
+   "3": "The video looks good overall but has occasional rendering artifacts or stylistic inconsistencies.",
+   "5": "The video is visually gorgeous and polished, maintaining a consistent aesthetic (like cinematic vintage film or elegant 2D animation) with clean execution."
+  },
+  "CR": {
+   "1": "The concept is a basic, uninspired slideshow of stock photos or a standard audio-reactive waveform.",
+   "3": "The video features a predictable jazz club scene or a basic lyric presentation without much narrative depth or visual surprise.",
+   "5": "A highly creative concept, such as a stylised animated journey through Parisian memories or a clever visual metaphor for the 'shadow' of the past, making the video distinct and memorable."
+  }
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 1.6,
+   "kind": "section change"
+  },
+  {
+   "t": 19.4,
+   "kind": "sung line starts: \"sigue aun mis pasos\""
+  },
+  {
+   "t": 21.5,
+   "kind": "sung line starts: \"es como una sombra\""
+  },
+  {
+   "t": 23.3,
+   "kind": "sung line starts: \"y vuelve a mi\""
+  },
+  {
+   "t": 28.3,
+   "kind": "sung line starts: \"y esos recuerdos\""
+  },
+  {
+   "t": 29.9,
+   "kind": "sung line starts: \"solo quise borrarlos\""
+  },
+  {
+   "t": 32.2,
+   "kind": "sung line starts: \"hoy vuelven a mi\""
+  },
+  {
+   "t": 37.1,
+   "kind": "sung line starts: \"como encontrar una via a paris\""
+  },
+  {
+   "t": 42.0,
+   "kind": "sung line starts: \"que me lleve hacia ti\""
+  },
+  {
+   "t": 46.1,
+   "kind": "sung line starts: \"como olvidar nuestra juventud\""
+  },
+  {
+   "t": 50.5,
+   "kind": "sung line starts: \"y aquella vida\""
+  },
+  {
+   "t": 52.8,
+   "kind": "section change"
+  },
+  {
+   "t": 75.0,
+   "kind": "sung line starts: \"algo mas que amigos\""
+  },
+  {
+   "t": 76.6,
+   "kind": "sung line starts: \"nos asusto el destino\""
+  },
+  {
+   "t": 80.8,
+   "kind": "sung line starts: \"cobardes fuimos\""
+  },
+  {
+   "t": 83.6,
+   "kind": "sung line starts: \"recuerdo su sonrisa\""
+  },
+  {
+   "t": 85.5,
+   "kind": "sung line starts: \"mi alma se alborota\""
+  },
+  {
+   "t": 89.6,
+   "kind": "sung line starts: \"necesito ya\""
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video introduces a visual shift, such as showing the singer or changing the on-screen action, when the vocals first enter at ~19.4 s."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The picture marks the transition to the instrumental piano solo at ~52.8 s with a cut, a new scene, or a distinct change in visual focus."
+  },
+  {
+   "id": "S3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The visual narrative marks the return of the vocals at ~75.0 s after the extended instrumental break."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "There is a visible response, such as an increase in visual intensity or an expressive character movement, matching the passionate vocal peak at ~85.5 s."
+  },
+  {
+   "id": "S5",
+   "level": "detail",
+   "modality": "text",
+   "check": "If lyrics are shown, the words 'via a paris' appear on screen precisely around ~37.1 s."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 90.0,
+  "approx_bpm": 108,
+  "section_changes_at_s": [
+   1.64,
+   52.76
+  ],
+  "sung_lines": [
+   {
+    "start": 19.382,
+    "end": 21.465,
+    "text": "sigue aun mis pasos"
+   },
+   {
+    "start": 21.465,
+    "end": 23.173,
+    "text": "es como una sombra"
+   },
+   {
+    "start": 23.333,
+    "end": 26.92,
+    "text": "y vuelve a mi"
+   },
+   {
+    "start": 28.27,
+    "end": 29.92,
+    "text": "y esos recuerdos"
+   },
+   {
+    "start": 29.92,
+    "end": 32.223,
+    "text": "solo quise borrarlos"
+   },
+   {
+    "start": 32.223,
+    "end": 35.606,
+    "text": "hoy vuelven a mi"
+   },
+   {
+    "start": 37.147,
+    "end": 40.863,
+    "text": "como encontrar una via a paris"
+   },
+   {
+    "start": 41.958,
+    "end": 45.304,
+    "text": "que me lleve hacia ti"
+   },
+   {
+    "start": 46.081,
+    "end": 49.725,
+    "text": "como olvidar nuestra juventud"
+   },
+   {
+    "start": 50.478,
+    "end": 52.915,
+    "text": "y aquella vida"
+   },
+   {
+    "start": 74.955,
+    "end": 76.631,
+    "text": "algo mas que amigos"
+   },
+   {
+    "start": 76.631,
+    "end": 78.759,
+    "text": "nos asusto el destino"
+   },
+   {
+    "start": 80.819,
+    "end": 82.799,
+    "text": "cobardes fuimos"
+   },
+   {
+    "start": 83.634,
+    "end": 85.546,
+    "text": "recuerdo su sonrisa"
+   },
+   {
+    "start": 85.546,
+    "end": 88.261,
+    "text": "mi alma se alborota"
+   },
+   {
+    "start": 89.596,
+    "end": 90.0,
+    "text": "necesito ya"
+   }
+  ]
+ }
+}

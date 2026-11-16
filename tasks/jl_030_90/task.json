@@ -1,0 +1,54 @@
+{
+ "task_id": "jl_030_90",
+ "song_id": "jl_030",
+ "clip_start": 107.04,
+ "clip_end": 197.04,
+ "length_class": 90,
+ "difficulty_tier": "easy",
+ "spec": {
+  "resolution": [
+   1920,
+   1080
+  ],
+  "fps": 30,
+  "duration_tol": 0.1,
+  "duration": 90.0
+ },
+ "song": {
+  "title": "Palabras",
+  "artist": "JAVIER GÓMEZ BELLO",
+  "genre": "Pop",
+  "language": "es",
+  "license": "CC BY-NC-SA",
+  "url": "https://www.jamendo.com/track/1379393/palabras/lyrics"
+ },
+ "lyrics_text": [
+  "tu musa de mi desesperacion eres protagonista en una peli de accion",
+  "y yo en opuesta contraposicion",
+  "soy un monje budista en plena meditacion",
+  "coje mi silencio tomalo yo te ofrezco la bebida del desierto",
+  "el desconcierto del mundo interior",
+  "ya sé qué es dificil para ti pero no hay otro remedio lo comprendo",
+  "si te entiendo por qué tu no a mi",
+  "soy un orador silenciado un poliglota en el paro",
+  "censurado por las leyes de la soledad",
+  "un profeta que ha perdido palabras en el cajon del olvido",
+  "y quién sabe si algun dia",
+  "soy un orador silenciado un poliglota en el paro",
+  "censurado por las leyes de la soledad",
+  "un profeta que ha perdido palabras en el cajon del olvido",
+  "y quién sabe si algun dia volveran"
+ ],
+ "prompt": "Make a music video for this song. Make it as good as you possibly can.",
+ "free": true,
+ "difficulty": {
+  "d_rhythm": -0.1,
+  "d_structure": -0.48,
+  "d_dynamics": -0.42,
+  "d_lyrics": 1.17,
+  "d_genre": 0.0,
+  "d_length": -0.23,
+  "difficulty": -0.011
+ },
+ "alignment_fix": "2026-11-07: clip window corrected from 125.62 to 107.04 (audio/rubric were built for this window)"
+}

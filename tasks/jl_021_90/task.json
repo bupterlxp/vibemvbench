@@ -1,0 +1,55 @@
+{
+ "task_id": "jl_021_90",
+ "song_id": "jl_021",
+ "clip_start": 29.4,
+ "clip_end": 119.4,
+ "length_class": 90,
+ "difficulty_tier": "hard",
+ "spec": {
+  "resolution": [
+   1920,
+   1080
+  ],
+  "fps": 30,
+  "duration_tol": 0.1,
+  "duration": 90.0
+ },
+ "song": {
+  "title": "Háblame - (Talk to me)",
+  "artist": "BRUNELA CROCHENCI",
+  "genre": "Jazz",
+  "language": "es",
+  "license": "CC BY-NC-SA",
+  "url": "https://www.jamendo.com/track/1601038/hablame-talk-to-me/lyrics"
+ },
+ "lyrics_text": [
+  "sigue aun mis pasos",
+  "es como una sombra",
+  "y vuelve a mi",
+  "y esos recuerdos",
+  "solo quise borrarlos",
+  "hoy vuelven a mi",
+  "como encontrar una via a paris",
+  "que me lleve hacia ti",
+  "como olvidar nuestra juventud",
+  "y aquella vida",
+  "algo mas que amigos",
+  "nos asusto el destino",
+  "cobardes fuimos",
+  "recuerdo su sonrisa",
+  "mi alma se alborota",
+  "necesito ya"
+ ],
+ "prompt": "Make a music video for this song. Make it as good as you possibly can.",
+ "free": true,
+ "difficulty": {
+  "d_rhythm": 0.39,
+  "d_structure": -1.21,
+  "d_dynamics": 0.88,
+  "d_lyrics": 0.85,
+  "d_genre": 1.0,
+  "d_length": -0.27,
+  "difficulty": 0.275
+ },
+ "alignment_fix": "2026-11-07: clip window corrected from 48.3 to 29.40 (audio/rubric were built for this window)"
+}

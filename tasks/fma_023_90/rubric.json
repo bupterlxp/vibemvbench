@@ -1,0 +1,162 @@
+{
+ "profile": "The track is a classic French lo-fi hip-hop song characterized by a relaxed boom-bap drum loop, warm and melancholic electric piano (Rhodes) chords, a steady bassline, and vintage vinyl crackle. The vocals feature a male rapper with a laid-back, conversational French flow, later joined by subtle melodic backing layers. The mood is highly chill, nostalgic, nocturnal, and introspective. Lyrically, it touches on everyday street life, quiet confidence, and relaxing ('c'est qui le patron'). The energy arc is very steady, establishing a comfortable groove early on, riding it consistently with only minor structural variations, and finally melting into a soft instrumental outro.",
+ "key_moments": [
+  {
+   "t": 1.5,
+   "what": "The brief vocal/sample intro ends, and the main boom-bap beat, bass, and keyboard loop drop in to establish the primary groove."
+  },
+  {
+   "t": 45.5,
+   "what": "The vocal flow shifts as the track transitions into a hook/chorus section, slightly changing the rhythmic feel of the delivery."
+  },
+  {
+   "t": 61.5,
+   "what": "A structural breakdown where the drums drop out for a brief moment of suspension, leaving just the vocals and keys before the beat returns."
+  },
+  {
+   "t": 77.5,
+   "what": "The drums stop completely, transitioning the track into a mellow, beatless instrumental outro driven by the electric piano and vinyl hiss."
+  }
+ ],
+ "fitting_styles": "Aesthetic lo-fi animation (like continuous anime-style loops of studying or commuting), slice-of-life narratives, moody night-time urban cinematography, or a laid-back street performance are highly fitting due to the chill, nostalgic vibe. Rhythmic montage could work if paced slowly to match the boom-bap groove. Conversely, high-energy dance choreography, epic action sequences, or hyper-fast frantic editing would clash terribly with the song's relaxed tempo and introspective atmosphere.",
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video establishes its main visual rhythm, scene, or narrative effectively when the primary beat drops at 1.5s."
+  },
+  {
+   "id": "S2",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "There is a noticeable visual transition, change in scene, or shift in editing style at 45.5s to mark the arrival of the new vocal section/hook."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The video visually acknowledges the brief drum breakdown at 61.5s (e.g., with a visual pause, a held shot, or a specific effect)."
+  },
+  {
+   "id": "S4",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The visual energy distinctly drops, slows down, or transitions into an ending sequence at 77.5s when the drums cut out for the outro."
+  }
+ ],
+ "anchors": {
+  "UN": "1: The video uses hyper-energetic, aggressive, or EDM-festival visuals that completely contradict the track's mellow lo-fi nature. 3: The video uses generic urban imagery that somewhat fits the hip-hop beat but lacks the specific nostalgic and relaxed atmosphere of lo-fi. 5: The video perfectly captures the chill, nocturnal, or introspective lo-fi vibe through cohesive aesthetic animation, moody cinematography, or a laid-back narrative.",
+  "EM": "1: Frantic, stressful, or overly jubilant imagery clashes harshly with the track's mellow, melancholic mood. 3: The visuals are neutral and unobtrusive, neither fighting the mood nor doing much to enhance the song's nostalgic feel. 5: The visuals strongly evoke a sense of late-night relaxation, quiet contemplation, or nostalgia, deeply amplifying the track's emotional resonance.",
+  "RH": "1: The editing is chaotic and completely ignores the slow, steady boom-bap drum groove. 3: The cuts generally align with the tempo, but the editing feels rigid or misses the laid-back 'pocket' of the beat. 5: Visual events, motion, and cuts ride the relaxed groove perfectly, hitting the kicks and snares without ever feeling rushed.",
+  "ST": "1: The video is a single static shot or a series of random cuts that ignore all of the song's structural changes. 3: The video reacts to major points like the beginning and end but glazes over the subtle shifts like the hook (45.5s) or breakdown (61.5s). 5: The video clearly demarcates the intro drop (1.5s), the hook transition (45.5s), the breakdown (61.5s), and the beatless outro (77.5s) with purposeful visual changes.",
+  "LY": "1: Included lyrics are entirely wrong, or the imagery depicts high-stakes action that violently contradicts the laid-back, conversational themes of the rap. 3: Text is mostly accurate but poorly synchronized to the French flow, or imagery is generically 'street' without capturing the track's relaxed attitude. 5: Typography perfectly tracks the laid-back French delivery, or the imagery flawlessly interprets the themes of quiet confidence and everyday street life.",
+  "VA": "1: The video suffers from heavy compression, jarring AI glitches, morphing faces, or a completely disjointed placeholder appearance. 3: The visual quality is acceptable but features inconsistent styling, slightly muddy colors, or unpolished transitions. 5: The video boasts a clean, cohesive art direction (such as stylized vintage anime or cinematic night footage) with excellent color grading, composition, and rendering.",
+  "CR": "1: The concept is a completely uninspired static image with a basic audio waveform. 3: The video relies on a standard, predictable 'lo-fi girl' template or a basic street performance without adding any unique flavor. 5: The video offers a fresh, captivating take on the lo-fi aesthetic, utilizing clever visual metaphors, a unique animation style, or an engaging, atmospheric slice-of-life story."
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 1.5,
+   "kind": "section change"
+  },
+  {
+   "t": 45.5,
+   "kind": "section change"
+  },
+  {
+   "t": 61.5,
+   "kind": "section change"
+  },
+  {
+   "t": 77.5,
+   "kind": "section change"
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video establishes its main visual rhythm, scene, or narrative effectively when the primary beat drops at 1.5s."
+  },
+  {
+   "id": "S2",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "There is a noticeable visual transition, change in scene, or shift in editing style at 45.5s to mark the arrival of the new vocal section/hook."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The video visually acknowledges the brief drum breakdown at 61.5s (e.g., with a visual pause, a held shot, or a specific effect)."
+  },
+  {
+   "id": "S4",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The visual energy distinctly drops, slows down, or transitions into an ending sequence at 77.5s when the drums cut out for the outro."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 90.0,
+  "approx_bpm": 120,
+  "section_changes_at_s": [
+   1.481,
+   45.481,
+   61.461,
+   77.461
+  ],
+  "sung_lines": []
+ }
+}

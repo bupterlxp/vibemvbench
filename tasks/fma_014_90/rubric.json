@@ -1,0 +1,162 @@
+{
+ "profile": "An eccentric, lo-fi art-punk or avant-garde rock track characterized by frantic drums, driving bass, chaotic synths, and bizarre vocals. The vocals alternate between rapid, hyperactive rhythmic delivery and drawn-out, high-pitched wails. The energy arc is intense and chaotic, abruptly dropping to complete silence in the second half, before returning as a slow, wobbly, disorienting instrumental outro. The mood is surreal, rebellious, and highly unpredictable.",
+ "key_moments": [
+  {
+   "t": 17.5,
+   "what": "The fast, frantic vocals shift to long, drawn-out wails over the driving beat."
+  },
+  {
+   "t": 37.1,
+   "what": "The frantic, rapid-fire rhythmic vocals and chaotic energy abruptly return."
+  },
+  {
+   "t": 55.1,
+   "what": "The music abruptly and completely cuts out, leaving an extended period of silence."
+  },
+  {
+   "t": 68.8,
+   "what": "The silence is broken by a slow, wobbly, and distorted lo-fi instrumental outro."
+  }
+ ],
+ "fitting_styles": "Surreal, abstract, stop-motion, mixed-media collage, or chaotic kinetic typography suit this perfectly, as the song's lo-fi, disjointed nature demands unconventional and boundary-pushing visuals. Polished pop choreography, slick high-budget narratives, or standard realistic band performances would clash severely with its bizarre structure and the abrupt, extended silence.",
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video noticeably reacts to the abrupt musical silence at 55.1s (e.g., cutting to black, freezing, or showing a completely still/silent scene)."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The visual pacing and style dramatically shift at 68.8s to match the slow, wobbly, distorted instrumental outro, completely distinct from the earlier frantic sections."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "There is a clear visual shift or change in performance style at 17.5s reflecting the transition to the drawn-out, wailing vocals."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The visual rhythm returns to a fast, frantic pace at 37.1s when the rapid vocals resume."
+  }
+ ],
+ "anchors": {
+  "UN": "Score 5 if the video perfectly captures the eccentric, avant-garde, art-punk vibe; score 3 if it fits reasonably well but feels a bit too conventional for the track; score 1 if it applies a slick, mainstream aesthetic that ignores the song's bizarre nature.",
+  "EM": "Score 5 if the video conveys the hyperactive chaos of the beginning, the eerie suspense of the silence, and the disorienting haze of the outro; score 3 if it captures the chaos but misses the tonal shifts; score 1 if the emotional tone is monotone or entirely mismatched.",
+  "RH": "Score 5 if visual cuts and movements are extremely frantic initially, stop or drastically slow down during the silence, and become sluggish/wobbly in the outro; score 3 if it follows the general beat but misses the extreme dynamic shifts; score 1 if it ignores the fast tempo or fails to reflect the complete absence of rhythm during the silence.",
+  "ST": "Score 5 if there are distinct visual responses at 17.5s, 37.1s, the cut to silence at 55.1s, and the outro at 68.8s; score 3 if it reacts to the silence and outro but misses the vocal shifts; score 1 if it ignores major structural changes and plays through the silence as if nothing happened.",
+  "LY": "Score 5 if any text is as chaotic as the delivery, or if no text, the imagery feels as quirky and surreal as the vocal performance; score 3 if lyrics/imagery are present but feel too clean or generic; score 1 if text is wildly out of sync or the imagery is completely inappropriate for the eccentric vocal style.",
+  "VA": "Score 5 for high-quality rendering that intentionally and effectively uses a lo-fi, collage, or experimental aesthetic without looking like an AI glitch; score 3 for average quality with some unintentional artifacts; score 1 for a messy, incoherent look that resembles unpolished default AI output.",
+  "CR": "Score 5 for a highly inventive, bizarre, and original concept that makes perfect sense for an experimental art-punk track; score 3 for a standard 'weird' visualizer that works but isn't memorable; score 1 for a generic, uninspired template video."
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 17.5,
+   "kind": "section change"
+  },
+  {
+   "t": 37.1,
+   "kind": "section change"
+  },
+  {
+   "t": 55.1,
+   "kind": "section change"
+  },
+  {
+   "t": 68.8,
+   "kind": "section change"
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video noticeably reacts to the abrupt musical silence at 55.1s (e.g., cutting to black, freezing, or showing a completely still/silent scene)."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The visual pacing and style dramatically shift at 68.8s to match the slow, wobbly, distorted instrumental outro, completely distinct from the earlier frantic sections."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "There is a clear visual shift or change in performance style at 17.5s reflecting the transition to the drawn-out, wailing vocals."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The visual rhythm returns to a fast, frantic pace at 37.1s when the rapid vocals resume."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 90.0,
+  "approx_bpm": 246,
+  "section_changes_at_s": [
+   17.549,
+   37.069,
+   55.149,
+   68.829
+  ],
+  "sung_lines": []
+ }
+}

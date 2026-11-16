@@ -1,0 +1,61 @@
+{
+ "task_id": "jl_024_90",
+ "song_id": "jl_024",
+ "clip_start": 102.54,
+ "clip_end": 192.54,
+ "length_class": 90,
+ "difficulty_tier": "medium",
+ "spec": {
+  "resolution": [
+   1920,
+   1080
+  ],
+  "fps": 30,
+  "duration_tol": 0.1,
+  "duration": 90.0
+ },
+ "song": {
+  "title": "l'abandon",
+  "artist": "FLO",
+  "genre": "Country",
+  "language": "fr",
+  "license": "CC BY",
+  "url": "https://www.jamendo.com/track/48843/l-abandon/lyrics"
+ },
+ "lyrics_text": [
+  "toi et moi on n'se connait plus comme une légère p'tite impression",
+  "d'avoir légèrement tout perdu dans un flot de contrefaçons",
+  "mais la vie est bien trop courte pour avoir la main légère",
+  "avec ou sans trop d'amour je ne vous détesterai guère",
+  "il paraitrait qu'au petit jour ma ville serai plein de nuances",
+  "à cette heure ci elle est trop floue et ne manque pas de non sens",
+  "ces extra rires dans toutes ces dunes",
+  "et me tiennent là haut dans la lune",
+  "pour ca j'ai toujours été là",
+  "ne me demande pas pourquoi",
+  "mais plus ça va plus ça empire",
+  "même quand il n'y a plus rien à dire",
+  "en tout cas il faut qu'j'compte sur moi",
+  "je n'te dirai pas pourquoi",
+  "maint'nant il faut que j'me rendorme",
+  "en croyant rester dans les normes",
+  "mais cela ne m'regarde pas",
+  "allez savoir pourquoi",
+  "ah ah",
+  "oh oh oh oh oh oh oh",
+  "oh oh ne me demande pas pourquoi",
+  "oh oh oh oh oh oh oh",
+  "oh oh je n'te dirai pas pourquoi"
+ ],
+ "prompt": "Make a music video for this song. Make it as good as you possibly can.",
+ "free": true,
+ "difficulty": {
+  "d_rhythm": -0.69,
+  "d_structure": -0.39,
+  "d_dynamics": -0.03,
+  "d_lyrics": 1.6,
+  "d_genre": 1.0,
+  "d_length": -0.32,
+  "difficulty": 0.195
+ }
+}

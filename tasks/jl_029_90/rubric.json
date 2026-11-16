@@ -1,0 +1,380 @@
+{
+ "profile": "Instrumentation features a classic roots reggae arrangement with a steady drum beat, prominent walking bassline, off-beat guitar/keys skanks, and occasional brass accents. The vocals are delivered by a male singer in a gritty, passionate, toasting style in Spanish. The mood is rebellious, conscious, and critical, yet anchored by an upbeat, head-nodding groove. The lyrical theme is a sharp socio-political commentary on fear ('miedo') being used as a mechanism of control by the elite ('Mr. Money') through television, war, and consumerism. The energy arc starts with a steady, observational verse, drops into a more expansive instrumental feel at 13s, hits the main catchy chorus at 18s, drops back for another verse, and climaxes with the energetic return of the chorus at 62s.",
+ "key_moments": [
+  {
+   "t": 13.1,
+   "what": "A structural section change where the instrumentation shifts and drops in fully, setting up the anticipation for the chorus."
+  },
+  {
+   "t": 18.6,
+   "what": "The start of the main vocal hook ('miedo miedo nos engañan...'), a prime moment to introduce the core visual theme of fear and manipulation."
+  },
+  {
+   "t": 40.0,
+   "what": "The lyric introduces 'mr money', offering a specific opportunity for character introduction or thematic imagery relating to wealth and control."
+  },
+  {
+   "t": 62.7,
+   "what": "The return of the main chorus, acting as a major energetic and structural peak that the video should reflect dynamically."
+  }
+ ],
+ "fitting_styles": "Suitable approaches include a narrative video following an oppressed citizen or a corrupt 'Mr. Money' figure, a rhythmic montage combining gritty news clips, protests, and TVs paired with the reggae beat, a performance video featuring a reggae singer in a gritty urban setting, or a bold lyric/kinetic typography video emphasizing the protest message. These suit the song's conscious, anti-establishment themes and reggae genre perfectly. Clashing styles would be high-gloss pop aesthetics, cute/romantic themes, or overly polished, peaceful pastoral scenes, as they completely contradict the gritty, rebellious, and political nature of the audio.",
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video visibly marks the instrumental section change at 13.1 seconds with a noticeable transition, cut, or change in scene."
+  },
+  {
+   "id": "S2",
+   "level": "detail",
+   "modality": "visual",
+   "check": "At 18.6 seconds, the visuals shift to emphasize the core theme of the hook ('miedo/fear') as the chorus vocals begin."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "visual",
+   "check": "Around 40.0 seconds, the imagery reflects the introduction of 'mr money' or themes of wealth, capitalism, and control."
+  },
+  {
+   "id": "S4",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "A major visual shift, cut, or increase in energy coincides with the return of the chorus and section change at 62.7 seconds."
+  }
+ ],
+ "anchors": {
+  "UN": {
+   "1": "The video ignores the reggae groove and political lyrics, feeling like a generic pop, romantic, or unrelated ambient visualizer.",
+   "3": "The video captures the reggae feel or a generally dark theme, but misses the specific anti-system, conscious message about fear and control.",
+   "5": "The video perfectly embodies the rebellious reggae spirit, aligning its concept tightly with the themes of fear, media manipulation, and the steady rhythmic skank."
+  },
+  "EM": {
+   "1": "The video conveys flat, overly happy, or inappropriately serene emotions that violently clash with the critical lyrics.",
+   "3": "The video conveys some tension or groove but doesn't fully capture the passionate, critical, 'waking up the masses' vibe of the vocal delivery.",
+   "5": "The video strongly projects the song's critical, anti-establishment mood, balancing the heavy political message with the infectious, head-nodding reggae groove."
+  },
+  "RH": {
+   "1": "The visual cuts and movements are completely disconnected from the steady reggae beat and off-beat syncopation.",
+   "3": "The video features basic editing to the main drum beat, but misses the characteristic reggae skanks and the flow of the vocal phrasing.",
+   "5": "Cuts, motions, and visual accents are tightly locked to the reggae groove, effectively highlighting the drum hits, basslines, and passionate vocal delivery without becoming repetitive."
+  },
+  "ST": {
+   "1": "The video maintains a single visual state, completely ignoring the song's verse-chorus structure and instrumental shifts.",
+   "3": "The video acknowledges major changes, like the chorus return at 62.7s, but misses the earlier instrumental shifts or verse transitions.",
+   "5": "Clear visual transitions sharply mark the instrumental section change at 13.1s, the arrival of the vocal hook at 18.6s, and the climactic return of the chorus at 62.7s."
+  },
+  "LY": {
+   "1": "Any on-screen lyrics are heavily misspelled or mistimed, or the imagery completely contradicts the words (e.g., showing a party during mentions of war and destruction).",
+   "3": "The imagery loosely fits the themes of control and fear, and any text is mostly correct but with minor timing or typo issues.",
+   "5": "Text, if present, is perfectly synced and boldly styled; otherwise, the imagery powerfully and accurately depicts the specific lyrical themes of TVs, war, Mr. Money, and fear."
+  },
+  "VA": {
+   "1": "The video suffers from muddy rendering, severe AI hallucinations, or looks like a cheap, glitchy prompt test with poor composition.",
+   "3": "The video has decent rendering and composition, but lacks a cohesive color grade, stylistic polish, or deliberate artistic direction.",
+   "5": "The video boasts a high-quality, cohesive aesthetic—whether gritty, stylized, or realistic—with strong composition, moody color grading, and sharp rendering."
+  },
+  "CR": {
+   "1": "The concept relies on an uninspired literal stock footage montage of protests or a basic, generic audio visualizer.",
+   "3": "The video uses a solid but predictable approach, like a standard performance video or a straightforward narrative.",
+   "5": "The video features a highly imaginative concept—such as a creative satirical animation about 'Mr. Money' or a unique, surreal take on media consumption—that elevates the song's conscious message."
+  }
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 0.0,
+   "kind": "sung line starts: \"nuevo mecanismo de control miedo para la poblacion\""
+  },
+  {
+   "t": 2.2,
+   "kind": "sung line starts: \"dominacion mediante el terror\""
+  },
+  {
+   "t": 5.1,
+   "kind": "sung line starts: \"cada dia vemos en television\""
+  },
+  {
+   "t": 7.7,
+   "kind": "sung line starts: \"atentados guerras muertes y destruccion\""
+  },
+  {
+   "t": 12.6,
+   "kind": "sung line starts: \"pero nadie se encarga de decir la verdad de la situacion\""
+  },
+  {
+   "t": 13.1,
+   "kind": "section change"
+  },
+  {
+   "t": 17.4,
+   "kind": "sung line starts: \"porque si se\""
+  },
+  {
+   "t": 18.6,
+   "kind": "sung line starts: \"miedo miedo nos engañan con el miedo chilli boop haay\""
+  },
+  {
+   "t": 24.1,
+   "kind": "sung line starts: \"miedo miedo nos engañan con el miedo te lo digo a ti\""
+  },
+  {
+   "t": 29.6,
+   "kind": "sung line starts: \"miedo miedo nos engañan con el miedo no\""
+  },
+  {
+   "t": 35.1,
+   "kind": "sung line starts: \"miedo miedo nos engañan con el miedo\""
+  },
+  {
+   "t": 40.0,
+   "kind": "sung line starts: \"mr money esta detras del miedo\""
+  },
+  {
+   "t": 45.7,
+   "kind": "sung line starts: \"imponiendo su ley all over the world\""
+  },
+  {
+   "t": 46.2,
+   "kind": "section change"
+  },
+  {
+   "t": 51.2,
+   "kind": "sung line starts: \"todo se compra todo se vende\""
+  },
+  {
+   "t": 54.0,
+   "kind": "sung line starts: \"almas cuerpos vidas inocentes\""
+  },
+  {
+   "t": 56.7,
+   "kind": "sung line starts: \"todo se compra todo se vende\""
+  },
+  {
+   "t": 59.5,
+   "kind": "sung line starts: \"almas cuerpos vidas inocentes\""
+  },
+  {
+   "t": 62.7,
+   "kind": "section change"
+  },
+  {
+   "t": 62.7,
+   "kind": "sung line starts: \"miedo miedo nos engañan con el miedo chilli boop haay\""
+  },
+  {
+   "t": 68.2,
+   "kind": "sung line starts: \"miedo miedo nos engañan con el miedo te lo digo a ti\""
+  },
+  {
+   "t": 73.7,
+   "kind": "sung line starts: \"miedo miedo nos engañan con el miedo no\""
+  },
+  {
+   "t": 73.8,
+   "kind": "section change"
+  },
+  {
+   "t": 79.3,
+   "kind": "sung line starts: \"miedo miedo nos engañan con el miedo\""
+  },
+  {
+   "t": 84.6,
+   "kind": "sung line starts: \"mercado de preocupacion consumo excesivo como evasion\""
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video visibly marks the instrumental section change at 13.1 seconds with a noticeable transition, cut, or change in scene."
+  },
+  {
+   "id": "S2",
+   "level": "detail",
+   "modality": "visual",
+   "check": "At 18.6 seconds, the visuals shift to emphasize the core theme of the hook ('miedo/fear') as the chorus vocals begin."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "visual",
+   "check": "Around 40.0 seconds, the imagery reflects the introduction of 'mr money' or themes of wealth, capitalism, and control."
+  },
+  {
+   "id": "S4",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "A major visual shift, cut, or increase in energy coincides with the return of the chorus and section change at 62.7 seconds."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 90.0,
+  "approx_bpm": 88,
+  "section_changes_at_s": [
+   13.065,
+   46.165,
+   62.725,
+   73.765
+  ],
+  "sung_lines": [
+   {
+    "start": 0.0,
+    "end": 1.83,
+    "text": "nuevo mecanismo de control miedo para la poblacion"
+   },
+   {
+    "start": 2.229,
+    "end": 4.639,
+    "text": "dominacion mediante el terror"
+   },
+   {
+    "start": 5.128,
+    "end": 7.437,
+    "text": "cada dia vemos en television"
+   },
+   {
+    "start": 7.748,
+    "end": 11.748,
+    "text": "atentados guerras muertes y destruccion"
+   },
+   {
+    "start": 12.61,
+    "end": 17.384,
+    "text": "pero nadie se encarga de decir la verdad de la situacion"
+   },
+   {
+    "start": 17.384,
+    "end": 18.412,
+    "text": "porque si se"
+   },
+   {
+    "start": 18.609,
+    "end": 23.954,
+    "text": "miedo miedo nos engañan con el miedo chilli boop haay"
+   },
+   {
+    "start": 24.131,
+    "end": 29.459,
+    "text": "miedo miedo nos engañan con el miedo te lo digo a ti"
+   },
+   {
+    "start": 29.609,
+    "end": 34.785,
+    "text": "miedo miedo nos engañan con el miedo no"
+   },
+   {
+    "start": 35.147,
+    "end": 38.961,
+    "text": "miedo miedo nos engañan con el miedo"
+   },
+   {
+    "start": 39.976,
+    "end": 44.795,
+    "text": "mr money esta detras del miedo"
+   },
+   {
+    "start": 45.691,
+    "end": 50.61,
+    "text": "imponiendo su ley all over the world"
+   },
+   {
+    "start": 51.18,
+    "end": 53.75,
+    "text": "todo se compra todo se vende"
+   },
+   {
+    "start": 53.981,
+    "end": 56.688,
+    "text": "almas cuerpos vidas inocentes"
+   },
+   {
+    "start": 56.688,
+    "end": 59.241,
+    "text": "todo se compra todo se vende"
+   },
+   {
+    "start": 59.463,
+    "end": 62.445,
+    "text": "almas cuerpos vidas inocentes"
+   },
+   {
+    "start": 62.71,
+    "end": 68.011,
+    "text": "miedo miedo nos engañan con el miedo chilli boop haay"
+   },
+   {
+    "start": 68.239,
+    "end": 73.747,
+    "text": "miedo miedo nos engañan con el miedo te lo digo a ti"
+   },
+   {
+    "start": 73.747,
+    "end": 78.77,
+    "text": "miedo miedo nos engañan con el miedo no"
+   },
+   {
+    "start": 79.288,
+    "end": 83.133,
+    "text": "miedo miedo nos engañan con el miedo"
+   },
+   {
+    "start": 84.617,
+    "end": 90.0,
+    "text": "mercado de preocupacion consumo excesivo como evasion"
+   }
+  ]
+ }
+}

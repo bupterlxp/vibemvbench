@@ -1,0 +1,160 @@
+{
+ "profile": "A haunting, industrial blues track. It begins with a raw, field-recording style a cappella vocal singing about roses on a grave. At 13.6s, a massive, distorted, stomping beat drops in, creating a heavy, gritty, southern gothic atmosphere. The beat abruptly cuts out at 42.9s, leaving the solitary, mournful vocal to carry the rest of the track. The mood is dark, earthy, and ominous, with an energy arc that spikes dramatically in the middle third before returning to a stark, haunting emptiness.",
+ "key_moments": [
+  {
+   "t": 13.6,
+   "what": "A heavy, distorted, stomping beat drops in, shattering the sparse a cappella intro."
+  },
+  {
+   "t": 42.9,
+   "what": "The heavy beat abruptly stops, returning the song to a stark, unaccompanied vocal."
+  }
+ ],
+ "fitting_styles": "Fitting approaches include southern gothic narrative, gritty performance, dark abstract/rhythmic montage, or kinetic typography with distressed textures. The raw, heavy nature of the track demands high contrast, grit, and a dark, earthy aesthetic. Clashing approaches would be bright, colorful pop, clean futuristic sci-fi, lighthearted comedy, or polished corporate styles.",
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video shows a major visual transition, impact, or energy increase precisely at the beat drop at 13.6s."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video shows a clear reduction in visual energy, pacing, or complexity when the beat cuts out at 42.9s."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "visual",
+   "check": "During the heavy section (13.6s to 42.9s), the visual edits, camera shakes, or motions emphasize the slow, heavy, stomping rhythm."
+  }
+ ],
+ "anchors": {
+  "UN": {
+   "1": "A bright, upbeat, or polished concept that completely ignores the raw, dark blues genre.",
+   "3": "A dark or moody concept that fits somewhat but lacks the specific gritty, southern gothic, or industrial weight of the track.",
+   "5": "A concept that perfectly captures the raw, haunting, and heavy industrial blues atmosphere, whether through a dark narrative, gritty performance, or textured abstraction."
+  },
+  "EM": {
+   "1": "The video feels cheerful, energetic in a pop sense, or completely emotionally detached.",
+   "3": "The video is dark but remains emotionally flat, not fully capturing the mournful or ominous weight of the vocals.",
+   "5": "The video effectively conveys the haunting, ominous, and mournful mood, matching the heavy emotional weight of the vocals and the oppressive beat."
+  },
+  "RH": {
+   "1": "Visual edits and movements are random and completely ignore the heavy stomping rhythm.",
+   "3": "Some cuts align with the beat, but the visual pacing doesn't fully lock into the slow, dragging, heavy groove.",
+   "5": "Visual events, cuts, and motion accents are tightly locked to the heavy stomps and claps, enhancing the track's driving, industrial rhythm."
+  },
+  "ST": {
+   "1": "The video maintains a single visual intensity throughout, ignoring the massive structural shifts in the music.",
+   "3": "The video reacts to either the drop at 13.6s or the cut-out at 42.9s, but not both, or the visual reactions are too subtle.",
+   "5": "The video features stark, undeniable visual shifts that perfectly mark both the explosive beat drop at 13.6s and the sudden emptiness at 42.9s."
+  },
+  "LY": {
+   "1": "Imagery completely contradicts the themes of death, graves, or mourning, or on-screen lyrics are entirely wrong.",
+   "3": "Imagery is generally dark but doesn't specifically evoke the lyrical themes, or text has minor sync/spelling issues.",
+   "5": "Imagery strongly evokes themes of mortality, graves, roses, or dark southern gothic tropes, or on-screen text is perfectly synced, readable, and stylistically fitting."
+  },
+  "VA": {
+   "1": "The video is plagued by severe AI morphing, glitches, or looks like a cheap, incoherent placeholder.",
+   "3": "The video is visually competent but lacks a cohesive, intentional aesthetic or has noticeable rendering flaws.",
+   "5": "The video boasts a clean, cohesive, and highly intentional visual style (e.g., cinematic grit, high-contrast black and white, rich textures) with no distracting artifacts."
+  },
+  "CR": {
+   "1": "A basic, uninspired template or a completely literal, unimaginative slideshow.",
+   "3": "A standard dark performance or basic narrative that works but offers no visual surprises.",
+   "5": "A highly distinctive and imaginative interpretation of the southern gothic/industrial blues vibe that elevates the raw audio into a compelling visual piece."
+  }
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 13.6,
+   "kind": "section change"
+  },
+  {
+   "t": 42.9,
+   "kind": "section change"
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video shows a major visual transition, impact, or energy increase precisely at the beat drop at 13.6s."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video shows a clear reduction in visual energy, pacing, or complexity when the beat cuts out at 42.9s."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "visual",
+   "check": "During the heavy section (13.6s to 42.9s), the visual edits, camera shakes, or motions emphasize the slow, heavy, stomping rhythm."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 90.0,
+  "approx_bpm": 120,
+  "section_changes_at_s": [
+   13.64,
+   42.88
+  ],
+  "sung_lines": []
+ }
+}

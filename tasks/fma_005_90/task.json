@@ -1,0 +1,37 @@
+{
+ "task_id": "fma_005_90",
+ "song_id": "fma_005",
+ "clip_start": 100.206,
+ "clip_end": 190.206,
+ "length_class": 90,
+ "difficulty_tier": "easy",
+ "spec": {
+  "resolution": [
+   1920,
+   1080
+  ],
+  "fps": 30,
+  "duration_tol": 0.1,
+  "duration": 90.0
+ },
+ "song": {
+  "title": "l3go",
+  "artist": "Rolemusic",
+  "genre": "Chiptune",
+  "language": "unk",
+  "license": "CC-BY 3.0",
+  "url": "http://freemusicarchive.org/music/Rolemusic/gigs_n_contest/rolemusic_-_gigs_n_contest_-_07_l3go"
+ },
+ "lyrics_text": [],
+ "prompt": "Make a music video for this song. Make it as good as you possibly can.",
+ "free": true,
+ "difficulty": {
+  "d_rhythm": 0.47,
+  "d_structure": -0.51,
+  "d_dynamics": -0.77,
+  "d_lyrics": -0.47,
+  "d_genre": 0.0,
+  "d_length": -0.59,
+  "difficulty": -0.313
+ }
+}

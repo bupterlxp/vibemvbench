@@ -1,0 +1,48 @@
+{
+ "task_id": "jl_033_90",
+ "song_id": "jl_033",
+ "clip_start": 130.38,
+ "clip_end": 220.38,
+ "length_class": 90,
+ "difficulty_tier": "easy",
+ "spec": {
+  "resolution": [
+   1920,
+   1080
+  ],
+  "fps": 30,
+  "duration_tol": 0.1,
+  "duration": 90.0
+ },
+ "song": {
+  "title": "Sin miedo",
+  "artist": "LIVING CAMBOYA",
+  "genre": "Indie",
+  "language": "es",
+  "license": "CC BY-NC-SA",
+  "url": "https://www.jamendo.com/track/1733640/sin-miedo/lyrics"
+ },
+ "lyrics_text": [
+  "todo seria mejor si pudieras decir lo que piensas sin miedo",
+  "no soy capaz de imaginar",
+  "como explotaria el mundo si solo contamos la verdad",
+  "no soy capaz de imaginar",
+  "como explotara mi cerebro si solo me cuentan la verdad",
+  "todo seria mejor si pudiera decir lo que siento sin miedo",
+  "todo seria mejor si pudieras decir lo que sientes sin miedo",
+  "sin miedo",
+  "sin miedo"
+ ],
+ "prompt": "Make a music video for this song. Make it as good as you possibly can.",
+ "free": true,
+ "difficulty": {
+  "d_rhythm": -0.71,
+  "d_structure": -0.58,
+  "d_dynamics": -0.57,
+  "d_lyrics": 1.03,
+  "d_genre": 0.0,
+  "d_length": -0.14,
+  "difficulty": -0.161
+ },
+ "alignment_fix": "2026-11-07: clip window corrected from 107.52 to 130.38 (audio/rubric were built for this window)"
+}

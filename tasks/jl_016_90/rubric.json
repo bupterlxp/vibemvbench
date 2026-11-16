@@ -1,0 +1,293 @@
+{
+ "profile": "A driving, slightly dark indie pop/rock track featuring acoustic guitars, a prominent bassline, energetic drums, and female vocals. The mood is mysterious, empowering, and slightly haunting. Lyrically, it describes a powerful, immortal, misunderstood female figure—a 'goddess of the night' associated with eternal darkness and an unforgettable song. The energy arc starts with a steady, driving verse, explodes into a soaring, high-energy chorus, maintains the momentum through an anthemic vocalizing post-chorus, and finally drops abruptly into a sparse, atmospheric breakdown for a quiet, haunting final line.",
+ "key_moments": [
+  {
+   "t": 0.0,
+   "what": "The track begins immediately with driving indie-rock instrumentation and the opening vocal line."
+  },
+  {
+   "t": 42.6,
+   "what": "A drum fill launches the explosive chorus section, with a significant increase in energy and instrumental fullness."
+  },
+  {
+   "t": 64.0,
+   "what": "The lyrics transition to an anthemic, wordless 'uooo uooo' chant, keeping the energy high but shifting focus from the lyrics to the melody."
+  },
+  {
+   "t": 82.7,
+   "what": "The driving rhythm section drops out completely, leaving a sparse, atmospheric bed of sustained chords."
+  },
+  {
+   "t": 84.7,
+   "what": "A final, quiet, and isolated vocal line is delivered over the breakdown, bringing the song to a haunting close."
+  }
+ ],
+ "fitting_styles": "Narrative videos centered on a mysterious, mythological, or powerful female figure (e.g., modern fantasy, witches, goddesses); moody band performance videos utilizing shadows and dramatic lighting; or dark, kinetic abstract visualizations that explode with light during the chorus. Hyper-bright, bubblegum pop aesthetics, slow romantic ballad styles, or comedic/slapstick approaches would strongly clash with the driving beat and dark, mythical lyrics.",
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video marks the transition into the soaring chorus at 42.6s with a major increase in visual energy, brightness, or scale."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The visual pacing or scene abruptly shifts to a sparse, calm, or atmospheric state at 82.7s to match the instrumental breakdown."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "visual",
+   "check": "The imagery incorporates themes of darkness, shadows, or a powerful/mysterious female figure to reflect the 'eterna oscuridad' described in the lyrics."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "text",
+   "check": "If lyrics are displayed, the final line 'y dicen que ella vive aqui desde hace años' appears at 84.7s and reflects the quiet, haunting delivery of the audio."
+  }
+ ],
+ "anchors": {
+  "UN": "1 = ignores the indie rock driving feel and mysterious tone; 3 = fits the general vibe but misses the darker mythological edge; 5 = perfectly captures the mysterious, driving, empowering 'goddess of the night' theme through narrative, performance, or mood.",
+  "EM": "1 = emotionally flat or mismatched to the music; 3 = gets the high energy but misses the haunting, mysterious undertones; 5 = beautifully traverses the arc from mysterious driving verses to a soaring chorus and a hauntingly quiet end.",
+  "RH": "1 = cuts are random and ignore the driving drum beat; 3 = follows the main beat but feels a bit repetitive or misses the drum fills; 5 = visual pacing perfectly locks into the driving rhythm, drum fills, and vocal phrasing.",
+  "ST": "1 = visuals remain static across the big chorus drop at 42.6s and the outro at 82.7s; 3 = marks the chorus and outro but the transitions lack visual impact; 5 = strong visual shifts demarcate the verses, the soaring chorus (42.6s), the post-chorus chants (64.0s), and the sudden quiet breakdown (82.7s).",
+  "LY": "1 = text has major errors or imagery contradicts the idea of a powerful, dark female figure; 3 = text is mostly correct or imagery loosely fits the theme; 5 = lyrics are perfectly synced and styled, or textless imagery powerfully evokes the immortal, misunderstood 'eterna oscuridad'.",
+  "VA": "1 = looks like glitchy AI slop, blurry, or uses obvious placeholder graphics; 3 = decent quality but slightly generic or inconsistent lighting/style; 5 = high-quality, cinematic, or highly stylized visuals with excellent composition and a consistent aesthetic.",
+  "CR": "1 = a basic, uninspired performance or generic slideshow; 3 = a solid but expected interpretation of a mysterious woman; 5 = a highly imaginative take on the theme, using clever visual metaphors or a compelling narrative to elevate the song."
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 0.0,
+   "kind": "sung line starts: \"ella es un misterio para la humanidad\""
+  },
+  {
+   "t": 5.3,
+   "kind": "sung line starts: \"pero nadie duda de su inmortalidad\""
+  },
+  {
+   "t": 10.6,
+   "kind": "sung line starts: \"nadie le hace sombra es la eterna oscuridad\""
+  },
+  {
+   "t": 16.0,
+   "kind": "section change"
+  },
+  {
+   "t": 16.0,
+   "kind": "sung line starts: \"deja que te cuente un poco mas\""
+  },
+  {
+   "t": 21.3,
+   "kind": "sung line starts: \"fue incomprendida a causa de su gran poder\""
+  },
+  {
+   "t": 26.7,
+   "kind": "sung line starts: \"algo en su mirada puede hacerte estremecer\""
+  },
+  {
+   "t": 31.9,
+   "kind": "sung line starts: \"carga con heridas que no dejan de doler\""
+  },
+  {
+   "t": 37.3,
+   "kind": "sung line starts: \"deja que te cuente un poco mas\""
+  },
+  {
+   "t": 42.2,
+   "kind": "sung line starts: \"y dicen que ella vive aqui desde hace años\""
+  },
+  {
+   "t": 42.6,
+   "kind": "section change"
+  },
+  {
+   "t": 50.3,
+   "kind": "sung line starts: \"y qué pocos la veran\""
+  },
+  {
+   "t": 52.9,
+   "kind": "sung line starts: \"y dicen que nadie pudo olvidar su canto\""
+  },
+  {
+   "t": 63.6,
+   "kind": "sung line starts: \"uooo uooo uooo uooo\""
+  },
+  {
+   "t": 64.0,
+   "kind": "section change"
+  },
+  {
+   "t": 74.3,
+   "kind": "sung line starts: \"uooo uooo oo oooo\""
+  },
+  {
+   "t": 82.7,
+   "kind": "section change"
+  },
+  {
+   "t": 84.7,
+   "kind": "sung line starts: \"y dicen que ella vive aqui desde hace años\""
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video marks the transition into the soaring chorus at 42.6s with a major increase in visual energy, brightness, or scale."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The visual pacing or scene abruptly shifts to a sparse, calm, or atmospheric state at 82.7s to match the instrumental breakdown."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "visual",
+   "check": "The imagery incorporates themes of darkness, shadows, or a powerful/mysterious female figure to reflect the 'eterna oscuridad' described in the lyrics."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "text",
+   "check": "If lyrics are displayed, the final line 'y dicen que ella vive aqui desde hace años' appears at 84.7s and reflects the quiet, haunting delivery of the audio."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 90.0,
+  "approx_bpm": 91,
+  "section_changes_at_s": [
+   15.98,
+   42.64,
+   63.98,
+   82.66
+  ],
+  "sung_lines": [
+   {
+    "start": 0.0,
+    "end": 4.529,
+    "text": "ella es un misterio para la humanidad"
+   },
+   {
+    "start": 5.324,
+    "end": 9.731,
+    "text": "pero nadie duda de su inmortalidad"
+   },
+   {
+    "start": 10.647,
+    "end": 14.816,
+    "text": "nadie le hace sombra es la eterna oscuridad"
+   },
+   {
+    "start": 15.985,
+    "end": 19.919,
+    "text": "deja que te cuente un poco mas"
+   },
+   {
+    "start": 21.314,
+    "end": 25.975,
+    "text": "fue incomprendida a causa de su gran poder"
+   },
+   {
+    "start": 26.651,
+    "end": 31.195,
+    "text": "algo en su mirada puede hacerte estremecer"
+   },
+   {
+    "start": 31.946,
+    "end": 36.0,
+    "text": "carga con heridas que no dejan de doler"
+   },
+   {
+    "start": 37.315,
+    "end": 41.312,
+    "text": "deja que te cuente un poco mas"
+   },
+   {
+    "start": 42.232,
+    "end": 49.46,
+    "text": "y dicen que ella vive aqui desde hace años"
+   },
+   {
+    "start": 50.257,
+    "end": 52.28,
+    "text": "y qué pocos la veran"
+   },
+   {
+    "start": 52.896,
+    "end": 60.605,
+    "text": "y dicen que nadie pudo olvidar su canto"
+   },
+   {
+    "start": 63.574,
+    "end": 73.901,
+    "text": "uooo uooo uooo uooo"
+   },
+   {
+    "start": 74.325,
+    "end": 81.511,
+    "text": "uooo uooo oo oooo"
+   },
+   {
+    "start": 84.661,
+    "end": 90.0,
+    "text": "y dicen que ella vive aqui desde hace años"
+   }
+  ]
+ }
+}

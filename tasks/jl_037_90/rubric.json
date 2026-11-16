@@ -1,0 +1,346 @@
+{
+ "profile": "Instrumentation: Acoustic guitar, bass, drums, glockenspiel/bells, and prominent whistling. Vocals: Clear, playful, male French vocals delivered with a theatrical, cheerful tone. Mood: Joyful, innocent, bouncy, lighthearted, and sweet. Lyrical theme: A day in the life of a happy, energetic dog who loves playing outside, chasing squirrels, eating stones, and adoring its owner ('master'). Energy arc: Starts sparse with just voice and guitar, kicks into a lively bouncy groove at 14.3s, shifts to a staccato rhythm at 32.8s, peaks during a cheerful whistling instrumental at 45.1s, drops down for a softer breakdown at 73.8s, and builds back up for the finale.",
+ "key_moments": [
+  {
+   "t": 14.3,
+   "what": "The drums and bass enter, establishing a bouncy, driving rhythm after the sparse acoustic intro."
+  },
+  {
+   "t": 32.8,
+   "what": "The rhythm changes to a syncopated, staccato pattern (stop-start) accompanying shorter, devoted vocal phrases."
+  },
+  {
+   "t": 45.1,
+   "what": "A lively instrumental section begins, featuring a very prominent and cheerful whistling melody."
+  },
+  {
+   "t": 73.8,
+   "what": "The rhythm section drops out, leaving a sparser, softer arrangement of just guitar and vocals for the bridge."
+  }
+ ],
+ "fitting_styles": "Literal narrative (ideally from a dog's POV or featuring a dog's adventures), cheerful animation, playful performance, or bright kinetic typography suit this song perfectly due to its highly specific, innocent story and upbeat acoustic arrangement. Conversely, dark, moody, aggressive, or hyper-abstract sci-fi styles would clash entirely with the bright instrumentation and wholesome pet-themed lyrics.",
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video displays a noticeable shift in energy, motion, or editing pace when the drums and bass enter at 14.3."
+  },
+  {
+   "id": "S2",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The visual rhythm or motion accents the staccato, stop-start beats starting at 32.8."
+  },
+  {
+   "id": "S3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video transitions to a distinct visual sequence or highlights the whistling melody during the instrumental section at 45.1."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The visuals reflect the sudden drop in instrumentation and energy at 73.8."
+  },
+  {
+   "id": "S5",
+   "level": "detail",
+   "modality": "visual",
+   "check": "If representational subjects are shown, they align with the canine lyrical theme (e.g., a dog, a leash, chasing animals, fetching sticks) rather than mismatched human scenarios."
+  }
+ ],
+ "anchors": {
+  "UN": "1: The video fundamentally misunderstands the song, applying a dark, aggressive, or somber concept to a cheerful acoustic pop track. 3: The video matches the upbeat acoustic pop feel but misses the specific canine perspective of the lyrics, presenting generic happy human scenarios. 5: The video perfectly captures the joyful, lighthearted mood and, whether through narrative or clever abstraction, embraces the playful, innocent energy of the song.",
+  "EM": "1: The visual mood is gloomy, tense, or overly serious, entirely contradicting the song's joyful tone. 3: The video is generally upbeat but stays at a single emotional level, missing the sweet, loving nuances in the lyrics. 5: The video radiates pure joy and innocent enthusiasm, successfully tracking the song's shifts between high-energy playfulness and affectionate devotion.",
+  "RH": "1: The editing is either static or completely disconnected from the bouncy tempo and groove. 3: The video cuts to the main beat but misses the opportunity to play with the song's syncopated accents and staccato moments. 5: Visuals bounce along perfectly with the acoustic strumming and drum groove, with cuts or motions that snap satisfyingly to the staccato hits.",
+  "ST": "1: The video ignores all structural changes, maintaining a monotonous visual flow. 3: The video reacts to major changes like the beat drop (14.3) but ignores the instrumental whistling section or the breakdown. 5: Clear visual transitions mark the drum entry (14.3), the whistling instrumental (45.1), and the stripped-back bridge (73.8), giving the video a strong sense of progression.",
+  "LY": "1: On-screen text is poorly synced or inaccurate; or imagery depicts things that completely contradict the lyrics (e.g., driving a sports car instead of playing in dirt). 3: Lyrics are mostly synced with minor errors; imagery matches the general outdoor/playful vibe but lacks specific references to the song's events. 5: Text is perfectly timed and readable; imagery strongly reflects the dog's POV (leaves, sticks, squirrels, the 'master') if representational visuals are used.",
+  "VA": "1: The video looks unpolished, with glaring AI artifacts, glitchy rendering, or an unfinished placeholder appearance. 3: The video is visually acceptable and cohesive but relies on basic, generic aesthetics without much refinement. 5: The visuals are crisp, vibrant, and beautifully composed, using color and lighting to enhance the song's cheerful atmosphere.",
+  "CR": "1: The video is a generic, low-effort visualizer or a completely random sequence of unrelated stock-like clips. 3: The concept is logical but predictable, such as basic footage of dogs running in a park without a unique stylistic twist. 5: The video employs a highly creative and charming approach to the canine theme, such as a literal first-person dog POV, imaginative animation, or a clever visual metaphor that delights the viewer."
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 0.0,
+   "kind": "sung line starts: \"je sais que toute ma vie je n'oublierai jamais\""
+  },
+  {
+   "t": 3.9,
+   "kind": "sung line starts: \"ce bel après midi au soleil de janvier\""
+  },
+  {
+   "t": 8.0,
+   "kind": "sung line starts: \"c'était tellement génial que j'en tremblote encore\""
+  },
+  {
+   "t": 12.1,
+   "kind": "sung line starts: \"je suis rentré tout sale et maintenant je m'endors\""
+  },
+  {
+   "t": 14.3,
+   "kind": "section change"
+  },
+  {
+   "t": 16.2,
+   "kind": "sung line starts: \"c'est vraiment fatiguant de courir tout le jour\""
+  },
+  {
+   "t": 20.3,
+   "kind": "sung line starts: \"mais qu'est ce que c'est marrant de faire le gros balourd\""
+  },
+  {
+   "t": 24.4,
+   "kind": "sung line starts: \"j'ai sauté dans les feuilles et j'ai mangé des pierres\""
+  },
+  {
+   "t": 28.5,
+   "kind": "sung line starts: \"chassé les écureuils et labouré la terre\""
+  },
+  {
+   "t": 32.8,
+   "kind": "sung line starts: \"je vis pour lui\""
+  },
+  {
+   "t": 36.9,
+   "kind": "sung line starts: \"mon seigneur chéri\""
+  },
+  {
+   "t": 40.2,
+   "kind": "sung line starts: \"mon maître ami\""
+  },
+  {
+   "t": 45.1,
+   "kind": "section change"
+  },
+  {
+   "t": 57.4,
+   "kind": "section change"
+  },
+  {
+   "t": 59.3,
+   "kind": "sung line starts: \"j'ai flairé des chenilles et broyé des bâtons\""
+  },
+  {
+   "t": 63.4,
+   "kind": "sung line starts: \"mordillé les chevilles d'un vilain vieux mouton\""
+  },
+  {
+   "t": 67.4,
+   "kind": "sung line starts: \"je suis le plus heureux pour ça je remercie\""
+  },
+  {
+   "t": 71.5,
+   "kind": "sung line starts: \"mon vénérable dieu mon maître à moi chéri\""
+  },
+  {
+   "t": 73.8,
+   "kind": "section change"
+  },
+  {
+   "t": 75.7,
+   "kind": "sung line starts: \"il est si formidable je l'aime plus que ma vie\""
+  },
+  {
+   "t": 79.8,
+   "kind": "sung line starts: \"je veux être admirable parfois je réussis\""
+  },
+  {
+   "t": 83.8,
+   "kind": "sung line starts: \"a gagner une caresse entre mes deux oreilles\""
+  },
+  {
+   "t": 88.0,
+   "kind": "sung line starts: \"même si je tire en laisse j'écoute les bons conseils\""
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video displays a noticeable shift in energy, motion, or editing pace when the drums and bass enter at 14.3."
+  },
+  {
+   "id": "S2",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The visual rhythm or motion accents the staccato, stop-start beats starting at 32.8."
+  },
+  {
+   "id": "S3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video transitions to a distinct visual sequence or highlights the whistling melody during the instrumental section at 45.1."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The visuals reflect the sudden drop in instrumentation and energy at 73.8."
+  },
+  {
+   "id": "S5",
+   "level": "detail",
+   "modality": "visual",
+   "check": "If representational subjects are shown, they align with the canine lyrical theme (e.g., a dog, a leash, chasing animals, fetching sticks) rather than mismatched human scenarios."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 90.0,
+  "approx_bpm": 115,
+  "section_changes_at_s": [
+   14.34,
+   45.1,
+   57.44,
+   73.84
+  ],
+  "sung_lines": [
+   {
+    "start": 0.0,
+    "end": 3.356,
+    "text": "je sais que toute ma vie je n'oublierai jamais"
+   },
+   {
+    "start": 3.886,
+    "end": 7.454,
+    "text": "ce bel après midi au soleil de janvier"
+   },
+   {
+    "start": 8.02,
+    "end": 11.556,
+    "text": "c'était tellement génial que j'en tremblote encore"
+   },
+   {
+    "start": 12.071,
+    "end": 15.702,
+    "text": "je suis rentré tout sale et maintenant je m'endors"
+   },
+   {
+    "start": 16.181,
+    "end": 19.791,
+    "text": "c'est vraiment fatiguant de courir tout le jour"
+   },
+   {
+    "start": 20.259,
+    "end": 23.849,
+    "text": "mais qu'est ce que c'est marrant de faire le gros balourd"
+   },
+   {
+    "start": 24.358,
+    "end": 28.107,
+    "text": "j'ai sauté dans les feuilles et j'ai mangé des pierres"
+   },
+   {
+    "start": 28.455,
+    "end": 32.545,
+    "text": "chassé les écureuils et labouré la terre"
+   },
+   {
+    "start": 32.787,
+    "end": 36.127,
+    "text": "je vis pour lui"
+   },
+   {
+    "start": 36.886,
+    "end": 39.849,
+    "text": "mon seigneur chéri"
+   },
+   {
+    "start": 40.227,
+    "end": 42.024,
+    "text": "mon maître ami"
+   },
+   {
+    "start": 59.262,
+    "end": 63.093,
+    "text": "j'ai flairé des chenilles et broyé des bâtons"
+   },
+   {
+    "start": 63.361,
+    "end": 67.157,
+    "text": "mordillé les chevilles d'un vilain vieux mouton"
+   },
+   {
+    "start": 67.418,
+    "end": 71.023,
+    "text": "je suis le plus heureux pour ça je remercie"
+   },
+   {
+    "start": 71.548,
+    "end": 75.4,
+    "text": "mon vénérable dieu mon maître à moi chéri"
+   },
+   {
+    "start": 75.664,
+    "end": 79.178,
+    "text": "il est si formidable je l'aime plus que ma vie"
+   },
+   {
+    "start": 79.753,
+    "end": 83.318,
+    "text": "je veux être admirable parfois je réussis"
+   },
+   {
+    "start": 83.801,
+    "end": 87.637,
+    "text": "a gagner une caresse entre mes deux oreilles"
+   },
+   {
+    "start": 87.972,
+    "end": 90.0,
+    "text": "même si je tire en laisse j'écoute les bons conseils"
+   }
+  ]
+ }
+}

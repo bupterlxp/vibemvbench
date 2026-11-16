@@ -1,0 +1,426 @@
+{
+ "profile": "The song is an energetic indie/garage rock track with a slight surf-rock edge. It features driving electric guitars, a fast-paced drum beat, and slightly raw, emotive male vocals singing in Spanish. The mood is an interesting contrast: the instrumentation is upbeat and propulsive, while the lyrics convey loneliness and painful nostalgia ('la gente ya se fueron' / people have already left, 'me duele tanto recordar' / it hurts so much to remember), alongside surreal addresses to a 'tiburón' (shark). The energy kicks off immediately with the vocals and ramps up at the first section change, maintaining a steady, high-tempo groove with a brief, slightly more reflective bridge before returning to the main hook.",
+ "key_moments": [
+  {
+   "t": 0.0,
+   "what": "The song begins immediately with the somewhat lonely, isolated opening lyric 'la gente ya se fueron', establishing the narrative premise before the full groove hits."
+  },
+  {
+   "t": 9.4,
+   "what": "A structural section change where the band fully locks into the main driving groove, leading right into the primary 'oyeme tiburon' hook."
+  },
+  {
+   "t": 64.7,
+   "what": "The lyrics shift to 'todo estaba bien ese dia' (everything was fine that day), marking a bridge section that acts as a nostalgic flashback, feeling slightly more reflective before the energy pushes forward again."
+  },
+  {
+   "t": 84.2,
+   "what": "The vocals return to the opening line, 'la gente ya se fueron', bringing the song full circle structurally and narratively."
+  }
+ ],
+ "fitting_styles": "Fitting styles include a dynamic band performance (perhaps on a beach or in a garage) that captures the raw rock energy, a quirky or melancholic narrative video following a lonely surfer or beachgoer interacting with a metaphorical or literal shark, or a fast-paced kinetic typography video that plays on the rapid Spanish delivery. Clashing styles would be slow, brooding atmospheric films, sterile sci-fi/cyberpunk aesthetics, or hyper-polished luxury pop/club visuals, which would all completely miss the raw, upbeat, surf-rock tone.",
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video marks the energy shift and the start of the main groove with a significant visual change (cut, motion, or new scene) at 9.4s."
+  },
+  {
+   "id": "S2",
+   "level": "detail",
+   "modality": "visual",
+   "check": "The video visually acknowledges the narrative shift into the bridge/flashback section starting at 64.7s ('todo estaba bien ese dia')."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "visual",
+   "check": "The visual concept completes a cycle or mirrors the opening imagery when the introductory lyrics return at 84.2s ('la gente ya se fueron')."
+  }
+ ],
+ "anchors": {
+  "UN": {
+   "1": "The video feels like a generic pop or electronic visualizer, completely ignoring the indie rock instrumentation and surf-adjacent vibe.",
+   "3": "The video fits a general rock aesthetic but misses the specific oceanic, lonely, or quirky undertones of the lyrics.",
+   "5": "The video perfectly marries the high-energy indie rock instrumentation with the slightly melancholic, beach-related lyrical themes."
+  },
+  "EM": {
+   "1": "The imagery is entirely disconnected from the song's energetic yet nostalgic mood.",
+   "3": "The video captures the upbeat musical energy but misses the underlying loneliness or nostalgic elements present in the vocals.",
+   "5": "The video successfully portrays the engaging contrast between the driving, upbeat music and the lonely, reflective state of the singer."
+  },
+  "RH": {
+   "1": "Cuts and camera movements completely ignore the fast, driving drum beat and guitar strumming.",
+   "3": "Cuts loosely follow the rhythm but miss the specific vocal phrasing or the driving 8th-note energy of the guitars.",
+   "5": "Visuals are tightly locked to the fast drum groove and hit perfectly on the start of the rapid vocal phrases."
+  },
+  "ST": {
+   "1": "The video plays as one continuous, unchanging loop, ignoring the verse, chorus, and bridge structures.",
+   "3": "The video reacts to the initial drop at 9.4s but fails to acknowledge the bridge section later in the track.",
+   "5": "Clear visual shifts occur at the end of the intro (9.4s), the start of the bridge (64.7s), and the return of the opening lines (84.2s)."
+  },
+  "LY": {
+   "1": "Any text shown is gibberish, or the narrative imagery actively contradicts the concepts of the sea, loneliness, or a shark.",
+   "3": "The imagery broadly fits a rock song but lacks specific connection to the sea, the feeling of abandonment, or the 'tiburón' (shark) metaphor.",
+   "5": "The imagery cleverly incorporates a beach/sea setting, a literal or metaphorical shark, or kinetic text that perfectly matches the fast Spanish delivery."
+  },
+  "VA": {
+   "1": "The video looks like a low-resolution, glitchy AI test generation with morphing artifacts and no coherent style.",
+   "3": "The video has decent rendering quality but suffers from occasional temporal inconsistencies or a generic, uninspired aesthetic.",
+   "5": "The video boasts a high-quality, polished look with strong intentional art direction, consistent styling, and crisp resolution throughout."
+  },
+  "CR": {
+   "1": "The video is a basic, unedited performance template or a generic, repetitive visualizer with no unique concept.",
+   "3": "The video provides a standard, literal interpretation, such as simply showing a person walking on a beach looking sad.",
+   "5": "The video presents a highly creative take, such as a humorous interaction with a literal shark, a unique animation style, or a clever metaphorical representation of the lyrics."
+  }
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 0.0,
+   "kind": "sung line starts: \"la gente ya se fueron\""
+  },
+  {
+   "t": 1.8,
+   "kind": "sung line starts: \"y ya yo no se lo que hacer\""
+  },
+  {
+   "t": 9.4,
+   "kind": "section change"
+  },
+  {
+   "t": 9.7,
+   "kind": "sung line starts: \"oyeme tiburon\""
+  },
+  {
+   "t": 13.5,
+   "kind": "sung line starts: \"no hay razon por cual\""
+  },
+  {
+   "t": 17.7,
+   "kind": "section change"
+  },
+  {
+   "t": 18.1,
+   "kind": "sung line starts: \"oyeme tiburon\""
+  },
+  {
+   "t": 21.6,
+   "kind": "sung line starts: \"tiburon lo que quieres\""
+  },
+  {
+   "t": 23.9,
+   "kind": "sung line starts: \"ya lo se\""
+  },
+  {
+   "t": 26.4,
+   "kind": "sung line starts: \"oyeme tiburon\""
+  },
+  {
+   "t": 30.0,
+   "kind": "sung line starts: \"las gentes ya se fueron\""
+  },
+  {
+   "t": 34.8,
+   "kind": "sung line starts: \"oyeme tiburon\""
+  },
+  {
+   "t": 38.3,
+   "kind": "sung line starts: \"tiburon lo que quieres\""
+  },
+  {
+   "t": 40.6,
+   "kind": "sung line starts: \"ya lo se\""
+  },
+  {
+   "t": 42.8,
+   "kind": "section change"
+  },
+  {
+   "t": 43.8,
+   "kind": "sung line starts: \"oyeme tiburon\""
+  },
+  {
+   "t": 48.5,
+   "kind": "sung line starts: \"ya se lo que tu quieres\""
+  },
+  {
+   "t": 52.2,
+   "kind": "sung line starts: \"no hay razon por cual\""
+  },
+  {
+   "t": 55.0,
+   "kind": "sung line starts: \"tiburon lo que quieres\""
+  },
+  {
+   "t": 57.3,
+   "kind": "sung line starts: \"ya lo se\""
+  },
+  {
+   "t": 59.2,
+   "kind": "sung line starts: \"tiburon lo que quieres\""
+  },
+  {
+   "t": 61.5,
+   "kind": "sung line starts: \"ya lo se\""
+  },
+  {
+   "t": 64.7,
+   "kind": "sung line starts: \"todo estaba bien ese dia\""
+  },
+  {
+   "t": 67.5,
+   "kind": "sung line starts: \"y yo gozando en el mar\""
+  },
+  {
+   "t": 71.7,
+   "kind": "sung line starts: \"me duele tanto recordar\""
+  },
+  {
+   "t": 75.8,
+   "kind": "sung line starts: \"tiburon lo que quieres\""
+  },
+  {
+   "t": 78.2,
+   "kind": "sung line starts: \"ya lo se\""
+  },
+  {
+   "t": 80.0,
+   "kind": "sung line starts: \"tiburon lo que quieres\""
+  },
+  {
+   "t": 82.4,
+   "kind": "sung line starts: \"ya lo se\""
+  },
+  {
+   "t": 84.2,
+   "kind": "sung line starts: \"la gente ya se fueron\""
+  },
+  {
+   "t": 87.4,
+   "kind": "sung line starts: \"y ya yo no se lo que hacer\""
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video marks the energy shift and the start of the main groove with a significant visual change (cut, motion, or new scene) at 9.4s."
+  },
+  {
+   "id": "S2",
+   "level": "detail",
+   "modality": "visual",
+   "check": "The video visually acknowledges the narrative shift into the bridge/flashback section starting at 64.7s ('todo estaba bien ese dia')."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "visual",
+   "check": "The visual concept completes a cycle or mirrors the opening imagery when the introductory lyrics return at 84.2s ('la gente ya se fueron')."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 90.0,
+  "approx_bpm": 115,
+  "section_changes_at_s": [
+   9.351,
+   17.711,
+   42.751
+  ],
+  "sung_lines": [
+   {
+    "start": 0.0,
+    "end": 1.534,
+    "text": "la gente ya se fueron"
+   },
+   {
+    "start": 1.811,
+    "end": 9.057,
+    "text": "y ya yo no se lo que hacer"
+   },
+   {
+    "start": 9.725,
+    "end": 11.966,
+    "text": "oyeme tiburon"
+   },
+   {
+    "start": 13.516,
+    "end": 17.673,
+    "text": "no hay razon por cual"
+   },
+   {
+    "start": 18.088,
+    "end": 20.739,
+    "text": "oyeme tiburon"
+   },
+   {
+    "start": 21.588,
+    "end": 23.692,
+    "text": "tiburon lo que quieres"
+   },
+   {
+    "start": 23.949,
+    "end": 25.561,
+    "text": "ya lo se"
+   },
+   {
+    "start": 26.423,
+    "end": 28.659,
+    "text": "oyeme tiburon"
+   },
+   {
+    "start": 29.974,
+    "end": 33.503,
+    "text": "las gentes ya se fueron"
+   },
+   {
+    "start": 34.804,
+    "end": 37.53,
+    "text": "oyeme tiburon"
+   },
+   {
+    "start": 38.261,
+    "end": 40.23,
+    "text": "tiburon lo que quieres"
+   },
+   {
+    "start": 40.648,
+    "end": 42.468,
+    "text": "ya lo se"
+   },
+   {
+    "start": 43.794,
+    "end": 45.498,
+    "text": "oyeme tiburon"
+   },
+   {
+    "start": 48.48,
+    "end": 51.593,
+    "text": "ya se lo que tu quieres"
+   },
+   {
+    "start": 52.163,
+    "end": 54.742,
+    "text": "no hay razon por cual"
+   },
+   {
+    "start": 55.002,
+    "end": 57.024,
+    "text": "tiburon lo que quieres"
+   },
+   {
+    "start": 57.341,
+    "end": 58.894,
+    "text": "ya lo se"
+   },
+   {
+    "start": 59.16,
+    "end": 61.204,
+    "text": "tiburon lo que quieres"
+   },
+   {
+    "start": 61.511,
+    "end": 63.239,
+    "text": "ya lo se"
+   },
+   {
+    "start": 64.701,
+    "end": 67.164,
+    "text": "todo estaba bien ese dia"
+   },
+   {
+    "start": 67.535,
+    "end": 71.535,
+    "text": "y yo gozando en el mar"
+   },
+   {
+    "start": 71.713,
+    "end": 75.114,
+    "text": "me duele tanto recordar"
+   },
+   {
+    "start": 75.812,
+    "end": 77.968,
+    "text": "tiburon lo que quieres"
+   },
+   {
+    "start": 78.22,
+    "end": 79.807,
+    "text": "ya lo se"
+   },
+   {
+    "start": 80.013,
+    "end": 81.997,
+    "text": "tiburon lo que quieres"
+   },
+   {
+    "start": 82.388,
+    "end": 83.949,
+    "text": "ya lo se"
+   },
+   {
+    "start": 84.216,
+    "end": 87.1,
+    "text": "la gente ya se fueron"
+   },
+   {
+    "start": 87.375,
+    "end": 90.0,
+    "text": "y ya yo no se lo que hacer"
+   }
+  ]
+ }
+}

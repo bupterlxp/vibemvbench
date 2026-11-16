@@ -1,0 +1,171 @@
+{
+ "profile": "A melancholic lo-fi indie track featuring acoustic guitar, a sluggish hip-hop drum break, distorted ambient textures, and laid-back male vocals. The mood is gritty, nostalgic, and restless, anchored by lyrical themes of urban alienation, fatigue, and feeling trapped in the city. The energy starts acoustic and subdued, establishes a head-nodding groove, drops out entirely for a long, hazy ambient breakdown, and finally brings the heavy beat back for a climax.",
+ "key_moments": [
+  {
+   "t": 6.0,
+   "what": "Vocals begin ('Tired of living in the city') over the solo acoustic guitar."
+  },
+  {
+   "t": 14.0,
+   "what": "The lo-fi beat (drums and bass) drops in, establishing the main rhythmic groove."
+  },
+  {
+   "t": 46.0,
+   "what": "The beat abruptly drops out, transitioning the song into an ambient, distorted acoustic breakdown."
+  },
+  {
+   "t": 70.0,
+   "what": "Vocals re-enter ('This illness, this restlessness') floating over the beatless breakdown."
+  },
+  {
+   "t": 86.0,
+   "what": "The full drum beat drops back in for the track's final section."
+  }
+ ],
+ "fitting_styles": "Narrative (e.g., a character wandering through a gloomy or desolate city), performance (an indie artist playing in a messy, dimly lit bedroom), abstract/mood montage (grungy VHS textures, slow-panning urban decay), or a stylized lyric video with distressed typography would all suit the track beautifully. Approaches that would clash include high-energy dance choreography, glossy pop-style performances, vibrant neon party aesthetics, or overly clean, fast-paced commercial edits.",
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video visually marks the main beat drop at ~14.0 s with a noticeable cut, motion accent, or the introduction of new elements."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "There is a noticeable shift in visual energy, pacing, or scene when the beat drops out for the breakdown at ~46.0 s."
+  },
+  {
+   "id": "S3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video responds visually to the heavy beat returning at ~86.0 s with a cut, hit, or an increase in visual momentum."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "text",
+   "check": "If lyrics are displayed around ~70.0 s, they correctly feature the words 'illness' and 'restlessness'."
+  }
+ ],
+ "anchors": {
+  "UN": "1 = A glossy, upbeat pop or dance concept that completely ignores the gritty lo-fi melancholia; 3 = A standard lo-fi hip-hop aesthetic (e.g., a generic anime study loop) that fits the genre but feels uninspired; 5 = Deeply captures the restless urban fatigue and gritty atmosphere of the track, adapting to its unique arc.",
+  "EM": "1 = Cheerful, highly energetic, or emotionally disconnected from the lyrics' sense of alienation; 3 = Moody overall, but maintains the exact same emotional weight throughout, missing the deeper isolation of the breakdown; 5 = Conveys a palpable sense of alienation that intensifies during the ambient breakdown and climaxes when the beat returns.",
+  "RH": "1 = Cuts are manic or random, completely ignoring the sluggish lo-fi drum groove; 3 = Cuts hit the beat but feel too rigid, lacking the laid-back, swinging feel of the track; 5 = The editing flows perfectly with the dragging, laid-back lo-fi beat, smoothly accenting the kicks and snares without feeling rushed.",
+  "ST": "1 = The video ignores the song's major structural changes entirely; 3 = Acknowledges the beat drop at 14s but glides over the long ambient breakdown at 46s without a visual shift; 5 = Clear visual shifts punctuate the beat drop (14s), the long atmospheric breakdown (46s), and the final return of the beat (86s).",
+  "LY": "1 = Imagery blatantly contradicts the theme of being tired of the city, or on-screen lyrics are completely incorrect; 3 = Imagery vaguely fits the mood, and on-screen lyrics are mostly correct but contain minor typos or slight sync issues; 5 = Visuals perfectly reflect urban alienation, and any on-screen text is accurate and perfectly timed to the vocals.",
+  "VA": "1 = The video is plagued by heavy AI morphing, low resolution, or jarringly inconsistent visual styles; 3 = Decent overall look but contains generic AI tropes, minor rendering glitches, or lack of polish; 5 = A flawless, cohesive aesthetic (whether VHS grunge, stylised animation, or cinematic film) with strong composition and no distracting artifacts.",
+  "CR": "1 = A basic, unchanging visualizer or a completely generic 'sad person walking' cliché; 3 = A well-executed but familiar lo-fi trope, such as a night drive or someone smoking on a balcony; 5 = A highly imaginative take on urban fatigue, such as surreal decaying cityscapes, creative mixed-media, or a compelling narrative metaphor."
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 6.0,
+   "kind": "section change"
+  },
+  {
+   "t": 14.0,
+   "kind": "section change"
+  },
+  {
+   "t": 46.0,
+   "kind": "section change"
+  },
+  {
+   "t": 70.0,
+   "kind": "section change"
+  },
+  {
+   "t": 86.0,
+   "kind": "section change"
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video visually marks the main beat drop at ~14.0 s with a noticeable cut, motion accent, or the introduction of new elements."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "There is a noticeable shift in visual energy, pacing, or scene when the beat drops out for the breakdown at ~46.0 s."
+  },
+  {
+   "id": "S3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video responds visually to the heavy beat returning at ~86.0 s with a cut, hit, or an increase in visual momentum."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "text",
+   "check": "If lyrics are displayed around ~70.0 s, they correctly feature the words 'illness' and 'restlessness'."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 90.0,
+  "approx_bpm": 120,
+  "section_changes_at_s": [
+   5.982,
+   13.982,
+   45.982,
+   69.962,
+   85.982
+  ],
+  "sung_lines": []
+ }
+}

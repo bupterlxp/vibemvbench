@@ -1,0 +1,66 @@
+{
+ "task_id": "jl_028_90",
+ "song_id": "jl_028",
+ "clip_start": 42.829,
+ "clip_end": 132.829,
+ "length_class": 90,
+ "difficulty_tier": "easy",
+ "spec": {
+  "resolution": [
+   1920,
+   1080
+  ],
+  "fps": 30,
+  "duration_tol": 0.1,
+  "duration": 90.0
+ },
+ "song": {
+  "title": "¡Óyeme tiburón!",
+  "artist": "CORRIENTES",
+  "genre": "Rock",
+  "language": "es",
+  "license": "CC BY-NC-SA",
+  "url": "https://www.jamendo.com/track/196697/oyeme-tiburon/lyrics"
+ },
+ "lyrics_text": [
+  "la gente ya se fueron",
+  "y ya yo no se lo que hacer",
+  "oyeme tiburon",
+  "no hay razon por cual",
+  "oyeme tiburon",
+  "tiburon lo que quieres",
+  "ya lo se",
+  "oyeme tiburon",
+  "las gentes ya se fueron",
+  "oyeme tiburon",
+  "tiburon lo que quieres",
+  "ya lo se",
+  "oyeme tiburon",
+  "ya se lo que tu quieres",
+  "no hay razon por cual",
+  "tiburon lo que quieres",
+  "ya lo se",
+  "tiburon lo que quieres",
+  "ya lo se",
+  "todo estaba bien ese dia",
+  "y yo gozando en el mar",
+  "me duele tanto recordar",
+  "tiburon lo que quieres",
+  "ya lo se",
+  "tiburon lo que quieres",
+  "ya lo se",
+  "la gente ya se fueron",
+  "y ya yo no se lo que hacer"
+ ],
+ "prompt": "Make a music video for this song. Make it as good as you possibly can.",
+ "free": true,
+ "difficulty": {
+  "d_rhythm": -0.6,
+  "d_structure": -0.33,
+  "d_dynamics": -0.7,
+  "d_lyrics": 1.29,
+  "d_genre": 0.0,
+  "d_length": -0.74,
+  "difficulty": -0.178
+ }
+}

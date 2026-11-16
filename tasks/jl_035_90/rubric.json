@@ -1,0 +1,370 @@
+{
+ "profile": "A lo-fi, boom-bap hip-hop track with a melancholic and nostalgic atmosphere. The instrumentation features a steady, slow drum break, a sad piano loop, ambient synth strings, and subtle vinyl crackle. The vocals consist of an intimate spoken intro and outro, steady rapped verses in Spanish, and a slightly more melodic, echoed chorus. The lyrics are deeply romantic and reflective, focusing on missing a past lover, remembering shared moments, and confessing lingering feelings. The energy arc starts very low with a raw, acapella spoken intro, settles into a steady mid-tempo groove when the beat drops, takes a breather during an instrumental break, and finally drops to zero abruptly for a poignant spoken finale.",
+ "key_moments": [
+  {
+   "t": 0.0,
+   "what": "Spoken voice intro begins over faint ambiance, setting an intimate, conversational tone."
+  },
+  {
+   "t": 3.0,
+   "what": "Section change; a synth pad and vinyl crackle swell as the transition to the main instrumental begins."
+  },
+  {
+   "t": 6.4,
+   "what": "The main rapped verse starts over the newly established boom-bap hip-hop beat."
+  },
+  {
+   "t": 46.2,
+   "what": "Section change; the vocals pause, leading into a steady instrumental break."
+  },
+  {
+   "t": 52.7,
+   "what": "The chorus/hook begins ('cuando te vi por primera vez') with a more repetitive, melodic vocal delivery."
+  },
+  {
+   "t": 89.2,
+   "what": "Section change; the beat and music stop abruptly, leaving only a final acapella spoken outro."
+  }
+ ],
+ "fitting_styles": "Narrative (e.g., memories and flashbacks of a past relationship or a lonely protagonist reminiscing in a dimly lit setting), moody performance (a rapper delivering the lines emotionally in an atmospheric, urban, or rainy location), or a lo-fi kinetic typography lyric video. These suit the nostalgic, chill, and emotional hip-hop vibe. High-energy club visuals, fast-paced action sequences, or bright, comedic animations would deeply clash with the track's melancholic and grounded tone.",
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "A visual transition, cut, or the introduction of the main scene occurs between 3.0s and 6.4s, marking the shift from the ambient spoken intro to the main beat and rap verse."
+  },
+  {
+   "id": "S2",
+   "level": "detail",
+   "modality": "visual",
+   "check": "The visual narrative or performance shifts, pauses, or changes focus at 46.2s to reflect the instrumental break in the vocals."
+  },
+  {
+   "id": "S3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "A dramatic visual shift (such as cutting to black, a sudden freeze frame, or isolating a solitary final shot) occurs at exactly 89.2s when the instrumental track abruptly cuts out."
+  }
+ ],
+ "anchors": {
+  "UN": "1 = The video feels upbeat, aggressive, or uses a completely disconnected theme like high-octane sci-fi action.\n3 = The concept is a generic music video that somewhat fits but misses the specific intimate, lo-fi hip-hop nuances.\n5 = The concept perfectly matches the melancholic hip-hop vibe, expressing deep nostalgia and lost love.",
+  "EM": "1 = The emotional tone is flat, completely random, or inappropriately joyful.\n3 = The video feels generally sad but doesn't adapt to the stark intimacy of the spoken intro and outro.\n5 = The visuals perfectly capture the intimate longing of the intro/outro and the steady, reflective sadness of the main verses.",
+  "RH": "1 = The visuals drift aimlessly without any connection to the distinct hip-hop rhythm.\n3 = There is some rhythmic editing, but it occasionally misses the drum hits or feels too fast for the slow flow.\n5 = Visual edits, camera bobs, or character movements naturally lock into the slow boom-bap drum pattern and the rapper's steady delivery.",
+  "ST": "1 = The video is a single unvarying loop or ignores all major musical transitions.\n3 = The video reacts to the beat drop but misses the nuance of the instrumental break or the abrupt ending.\n5 = The video clearly and distinctly reacts to the beat drop (3.0s), the instrumental break (46.2s), and the sudden music stop (89.2s).",
+  "LY": "1 = The video depicts themes opposite to the lyrics, or has heavily misspelled/desynced text.\n3 = The imagery loosely fits a love song, or text is present but occasionally slightly off-sync with the vocals.\n5 = The imagery clearly highlights themes of memory and lost lovers, and any on-screen lyrics are perfectly synced to the Spanish rap.",
+  "VA": "1 = The video is glitchy, heavily distorted, or looks like an unpolished collage of generic AI generations.\n3 = The video is mostly coherent but suffers from occasional awkward AI morphing or uninspired, flat lighting.\n5 = Clean, moody aesthetic (e.g., stylized lo-fi, VHS, or cinematic lighting) with strong composition and no unintended artifacts.",
+  "CR": "1 = Uses the most basic, predictable visualizer templates without any distinct artistic choices.\n3 = Features a solid but standard 'sad protagonist in the dark' aesthetic without much narrative depth.\n5 = The video finds a creative, surprising visual metaphor for memory or longing, elevating it deeply beyond standard sad-rap visual tropes."
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 0.0,
+   "kind": "sung line starts: \"hola que quieres muchas gracias por todo lo que hemos pasado eh te quiero mucho\""
+  },
+  {
+   "t": 3.0,
+   "kind": "section change"
+  },
+  {
+   "t": 6.4,
+   "kind": "sung line starts: \"hola que tal espero que estés bien\""
+  },
+  {
+   "t": 9.0,
+   "kind": "sung line starts: \"no dejo de pensar en ti espero que tu también\""
+  },
+  {
+   "t": 12.1,
+   "kind": "sung line starts: \"yo estoy muy bien no niego que un poco triste\""
+  },
+  {
+   "t": 15.2,
+   "kind": "sung line starts: \"no saco de mi cabeza lo que tu me prometiste\""
+  },
+  {
+   "t": 18.2,
+   "kind": "sung line starts: \"si algo sentiste a veces me pongo a pensar\""
+  },
+  {
+   "t": 21.3,
+   "kind": "sung line starts: \"si verdaderamente conmigo querias estar\""
+  },
+  {
+   "t": 24.2,
+   "kind": "sung line starts: \"pero no vo' a negar que todavia te quiero\""
+  },
+  {
+   "t": 27.5,
+   "kind": "sung line starts: \"aunque ha pasado tiempo en mis brazos te espero\""
+  },
+  {
+   "t": 30.6,
+   "kind": "sung line starts: \"pues hay muchos recuerdos que yo tengo en mi mente\""
+  },
+  {
+   "t": 33.5,
+   "kind": "sung line starts: \"mis palabras mienten si dicen que nada sienten\""
+  },
+  {
+   "t": 36.7,
+   "kind": "sung line starts: \"presente en tu vida para siempre quisiera estar\""
+  },
+  {
+   "t": 40.0,
+   "kind": "sung line starts: \"juntos caminar y a tu lado despertar\""
+  },
+  {
+   "t": 43.9,
+   "kind": "sung line starts: \"y no puedo soportarlo mas no puedo estar no puedo estar sin ti\""
+  },
+  {
+   "t": 46.2,
+   "kind": "section change"
+  },
+  {
+   "t": 52.7,
+   "kind": "sung line starts: \"cuando te vi por primera vez te vi por primera vez\""
+  },
+  {
+   "t": 58.9,
+   "kind": "sung line starts: \"no pensé que me rendiria a tus pies\""
+  },
+  {
+   "t": 65.0,
+   "kind": "sung line starts: \"aqui estoy recordando y no te dejo de pensar\""
+  },
+  {
+   "t": 68.1,
+   "kind": "sung line starts: \"no te logro olvidar y te quiero besar\""
+  },
+  {
+   "t": 71.1,
+   "kind": "sung line starts: \"volver a recordar lo que fuimos tu y yo\""
+  },
+  {
+   "t": 77.3,
+   "kind": "sung line starts: \"aqui estoy recordando y no te dejo de pensar\""
+  },
+  {
+   "t": 80.4,
+   "kind": "sung line starts: \"no te logro olvidar y te quiero besar\""
+  },
+  {
+   "t": 83.5,
+   "kind": "sung line starts: \"volver a recordar lo que fuimos tu y yo\""
+  },
+  {
+   "t": 87.3,
+   "kind": "sung line starts: \"lo que fuimos tu y yo\""
+  },
+  {
+   "t": 89.2,
+   "kind": "section change"
+  },
+  {
+   "t": 89.6,
+   "kind": "sung line starts: \"ningun dia yo te dejo de pensar\""
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "A visual transition, cut, or the introduction of the main scene occurs between 3.0s and 6.4s, marking the shift from the ambient spoken intro to the main beat and rap verse."
+  },
+  {
+   "id": "S2",
+   "level": "detail",
+   "modality": "visual",
+   "check": "The visual narrative or performance shifts, pauses, or changes focus at 46.2s to reflect the instrumental break in the vocals."
+  },
+  {
+   "id": "S3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "A dramatic visual shift (such as cutting to black, a sudden freeze frame, or isolating a solitary final shot) occurs at exactly 89.2s when the instrumental track abruptly cuts out."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 90.0,
+  "approx_bpm": 78,
+  "section_changes_at_s": [
+   3.02,
+   46.16,
+   89.24
+  ],
+  "sung_lines": [
+   {
+    "start": 0.0,
+    "end": 4.995,
+    "text": "hola que quieres muchas gracias por todo lo que hemos pasado eh te quiero mucho"
+   },
+   {
+    "start": 6.366,
+    "end": 8.749,
+    "text": "hola que tal espero que estés bien"
+   },
+   {
+    "start": 8.989,
+    "end": 11.949,
+    "text": "no dejo de pensar en ti espero que tu también"
+   },
+   {
+    "start": 12.149,
+    "end": 15.023,
+    "text": "yo estoy muy bien no niego que un poco triste"
+   },
+   {
+    "start": 15.174,
+    "end": 18.067,
+    "text": "no saco de mi cabeza lo que tu me prometiste"
+   },
+   {
+    "start": 18.244,
+    "end": 21.143,
+    "text": "si algo sentiste a veces me pongo a pensar"
+   },
+   {
+    "start": 21.348,
+    "end": 24.093,
+    "text": "si verdaderamente conmigo querias estar"
+   },
+   {
+    "start": 24.23,
+    "end": 27.24,
+    "text": "pero no vo' a negar que todavia te quiero"
+   },
+   {
+    "start": 27.502,
+    "end": 30.337,
+    "text": "aunque ha pasado tiempo en mis brazos te espero"
+   },
+   {
+    "start": 30.59,
+    "end": 33.464,
+    "text": "pues hay muchos recuerdos que yo tengo en mi mente"
+   },
+   {
+    "start": 33.464,
+    "end": 36.482,
+    "text": "mis palabras mienten si dicen que nada sienten"
+   },
+   {
+    "start": 36.741,
+    "end": 39.715,
+    "text": "presente en tu vida para siempre quisiera estar"
+   },
+   {
+    "start": 39.997,
+    "end": 42.838,
+    "text": "juntos caminar y a tu lado despertar"
+   },
+   {
+    "start": 43.877,
+    "end": 52.697,
+    "text": "y no puedo soportarlo mas no puedo estar no puedo estar sin ti"
+   },
+   {
+    "start": 52.697,
+    "end": 58.713,
+    "text": "cuando te vi por primera vez te vi por primera vez"
+   },
+   {
+    "start": 58.85,
+    "end": 62.857,
+    "text": "no pensé que me rendiria a tus pies"
+   },
+   {
+    "start": 65.028,
+    "end": 67.823,
+    "text": "aqui estoy recordando y no te dejo de pensar"
+   },
+   {
+    "start": 68.112,
+    "end": 70.905,
+    "text": "no te logro olvidar y te quiero besar"
+   },
+   {
+    "start": 71.148,
+    "end": 74.64,
+    "text": "volver a recordar lo que fuimos tu y yo"
+   },
+   {
+    "start": 77.346,
+    "end": 80.132,
+    "text": "aqui estoy recordando y no te dejo de pensar"
+   },
+   {
+    "start": 80.401,
+    "end": 83.195,
+    "text": "no te logro olvidar y te quiero besar"
+   },
+   {
+    "start": 83.461,
+    "end": 86.989,
+    "text": "volver a recordar lo que fuimos tu y yo"
+   },
+   {
+    "start": 87.334,
+    "end": 89.19,
+    "text": "lo que fuimos tu y yo"
+   },
+   {
+    "start": 89.617,
+    "end": 90.0,
+    "text": "ningun dia yo te dejo de pensar"
+   }
+  ]
+ }
+}

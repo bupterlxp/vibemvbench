@@ -1,0 +1,132 @@
+{
+ "profile": "The song is a gritty, driving indie-rock track. It opens with a tense drum and bass groove before exploding into heavy, distorted guitars, then dropping back to the sparse groove. Raw, emotive male vocals deliver angsty, cynical lyrics about a toxic, manipulative partner ('she loves the way you lie', 'don't let her pull you down'). The energy arc goes from a tense, rhythmic build to a loud, aggressive burst, before dropping into a moody, driving verse, maintaining a dark and edgy atmosphere throughout.",
+ "key_moments": [
+  {
+   "t": 8.4,
+   "what": "Heavy, distorted electric guitars enter, significantly raising the energy and thickness of the track."
+  },
+  {
+   "t": 30.7,
+   "what": "The distorted guitars abruptly drop out, returning the instrumental to the sparser, tense drum and bass groove."
+  }
+ ],
+ "fitting_styles": "Gritty narrative (e.g., portraying a toxic, messy relationship or a downward spiral), energetic band performance (in a dark, underground, or sweaty venue), kinetic typography (with aggressive, scratchy fonts), or rhythmic montage (fast-paced, edgy cuts) would suit this well. Highly polished, bright pop aesthetics, serene nature visuals, or overly clean corporate styles would clash entirely with the raw indie-rock vibe.",
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video displays a clear visual shift or surge in energy at ~8.4s to match the entrance of the heavy distorted guitars."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "There is a noticeable drop in visual intensity, density, or a scene change at ~30.7s when the heavy guitars cut out."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "visual",
+   "check": "If narrative or symbolic, the imagery reflects themes of toxicity, warning, or emotional messiness, avoiding straightforward, wholesome romance."
+  }
+ ],
+ "anchors": {
+  "UN": "1: A bright, cheerful pop video that completely ignores the song's tone. 3: A generic grungy video that fits the genre but lacks a specific connection to the track's nuances. 5: The chosen concept perfectly encapsulates the tense, gritty indie-rock atmosphere and the cynical, toxic themes of the lyrics.",
+  "EM": "1: The video feels emotionally flat or inappropriately happy. 3: Conveys general angst or aggression but misses the tense, warning undertones. 5: Powerfully captures the song's dark, driving tension, the explosive frustration, and the cynical mood of the vocal performance.",
+  "RH": "1: Cuts are random and float over the driving beat. 3: Visuals generally follow the beat but become monotonous. 5: Dynamic editing locks tightly into the driving drum and bass groove, utilizing motion and cuts to emphasize the track's steady momentum.",
+  "ST": "1: The video plods along without acknowledging the major instrumental shifts. 3: Responds to the changes at 8.4s and 30.7s, but the visual transitions feel sluggish or generic. 5: Delivers highly impactful visual shifts exactly at the 8.4s guitar explosion and the 30.7s drop, structuring the video around these stark dynamics.",
+  "LY": "1: Imagery depicts a wholesome, perfect romance, directly contradicting the lyrics. 3: Broadly fits an angsty theme; if text is used, it has some errors or sync issues. 5: The imagery brilliantly reflects the cynical warnings about a toxic, manipulative partner, and any on-screen text accurately captures the explicit, raw lyrics with perfect timing.",
+  "VA": "1: Plagued by AI morphing, poor lighting, and a lack of cohesive style. 3: Decent aesthetic but features some standard AI artifacts or generic, unpolished looks. 5: A stunning, cohesive visual style—like a graded indie film, a gritty 90s MTV video, or polished animation—free of distracting glitches.",
+  "CR": "1: A basic, uninspired AI music visualizer or completely random montage. 3: A solid but expected 'underground band' or 'angsty teen' trope. 5: A highly inventive concept that takes the toxic relationship theme or the driving rhythm and visualizes it in a surprising, memorable way."
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 8.4,
+   "kind": "section change"
+  },
+  {
+   "t": 30.7,
+   "kind": "section change"
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video displays a clear visual shift or surge in energy at ~8.4s to match the entrance of the heavy distorted guitars."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "There is a noticeable drop in visual intensity, density, or a scene change at ~30.7s when the heavy guitars cut out."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "visual",
+   "check": "If narrative or symbolic, the imagery reflects themes of toxicity, warning, or emotional messiness, avoiding straightforward, wholesome romance."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 90.0,
+  "approx_bpm": 112,
+  "section_changes_at_s": [
+   8.4,
+   30.72
+  ],
+  "sung_lines": []
+ }
+}

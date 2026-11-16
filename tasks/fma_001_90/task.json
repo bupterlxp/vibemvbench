@@ -1,0 +1,37 @@
+{
+ "task_id": "fma_001_90",
+ "song_id": "fma_001",
+ "clip_start": 93.88,
+ "clip_end": 183.88,
+ "length_class": 90,
+ "difficulty_tier": "hard",
+ "spec": {
+  "resolution": [
+   1920,
+   1080
+  ],
+  "fps": 30,
+  "duration_tol": 0.1,
+  "duration": 90.0
+ },
+ "song": {
+  "title": "Grief And Sleep",
+  "artist": "Ghosts",
+  "genre": "Electronic",
+  "language": "unk",
+  "license": "CC-BY-NC-SA 3.0",
+  "url": "http://freemusicarchive.org/music/Ghosts/Judge_EP/Ghosts_06_Grief_And_Sleep"
+ },
+ "lyrics_text": [],
+ "prompt": "Make a music video for this song. Make it as good as you possibly can.",
+ "free": true,
+ "difficulty": {
+  "d_rhythm": 0.35,
+  "d_structure": 0.65,
+  "d_dynamics": -0.05,
+  "d_lyrics": -0.47,
+  "d_genre": 0.0,
+  "d_length": 2.57,
+  "difficulty": 0.508
+ }
+}

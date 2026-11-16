@@ -1,0 +1,37 @@
+{
+ "task_id": "fma_012_90",
+ "song_id": "fma_012",
+ "clip_start": 87.818,
+ "clip_end": 177.818,
+ "length_class": 90,
+ "difficulty_tier": "medium",
+ "spec": {
+  "resolution": [
+   1920,
+   1080
+  ],
+  "fps": 30,
+  "duration_tol": 0.1,
+  "duration": 90.0
+ },
+ "song": {
+  "title": "Action Potential",
+  "artist": "Kris Keyser",
+  "genre": "Electronic",
+  "language": "unk",
+  "license": "CC-BY-NC-SA 3.0",
+  "url": "http://freemusicarchive.org/music/Kris_Keyser/Symmetry/03_kriskeyser-actionpotential"
+ },
+ "lyrics_text": [],
+ "prompt": "Make a music video for this song. Make it as good as you possibly can.",
+ "free": true,
+ "difficulty": {
+  "d_rhythm": 0.07,
+  "d_structure": 1.79,
+  "d_dynamics": -0.91,
+  "d_lyrics": -0.47,
+  "d_genre": 0.0,
+  "d_length": 0.88,
+  "difficulty": 0.226
+ }
+}

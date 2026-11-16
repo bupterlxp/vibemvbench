@@ -1,0 +1,487 @@
+{
+ "profile": "Dark, sultry R&B track featuring atmospheric synths, crisp hi-hats, and deep, heavy trap-influenced bass drops. The breathy, confident female vocals express a dangerous, alluring, and intimate mood. The lyrics revolve around embracing one's 'crazy' or 'bad side' and inviting physical intimacy without hesitation. The energy arc starts sparse and eerie, introduces a steady groove, abruptly pulls back to build tension, and then explodes into a heavy, aggressive bass drop for the chorus, repeating this dynamic pattern of tension and release.",
+ "key_moments": [
+  {
+   "t": 8.7,
+   "what": "A driving drum groove kicks in, raising the energy after the atmospheric vocal intro."
+  },
+  {
+   "t": 17.5,
+   "what": "The beat suddenly drops out, shifting the song into a stripped-back, tense verse."
+  },
+  {
+   "t": 43.6,
+   "what": "The main chorus drop hits with heavy bass, full instrumentation, and an emphatic vocal 'oh'."
+  },
+  {
+   "t": 61.1,
+   "what": "The chorus ends and a new verse/bridge section begins, keeping the beat but changing the musical progression."
+  },
+  {
+   "t": 82.9,
+   "what": "The heavy chorus drop returns for the song's climax."
+  }
+ ],
+ "fitting_styles": "Fitting approaches include a neo-noir thriller narrative (e.g., a dangerous romance or femme fatale story), a sultry choreography-focused performance video, dark abstract visuals (such as slow-motion fluid dynamics or sharp glitch art that reacts to the heavy bass), or kinetic typography using aggressive, edgy fonts. Clashing styles would be bright pop aesthetics, wholesome/innocent romance, comedic or cartoonish animations, or rustic/acoustic indie visual styles.",
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video features a noticeable visual shift, cut, or entry of motion to mark the drums kicking in at ~8.7 s."
+  },
+  {
+   "id": "S2",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The visual energy noticeably decreases, calms, or shifts context at ~17.5 s when the beat drops out."
+  },
+  {
+   "id": "S3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "A major visual impact, intense transition, or peak in energy precisely aligns with the heavy chorus drop at ~43.6 s."
+  },
+  {
+   "id": "S4",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The visual energy spikes again or a major stylistic motif returns for the final drop at ~82.9 s."
+  }
+ ],
+ "anchors": {
+  "UN": "1=The concept completely ignores the dark, sultry R&B vibe, using bright or chaotic visuals that clash with the track. 3=The video uses a generic dark aesthetic that fits the moody tone but doesn't feel specifically tailored to the song's dangerous, alluring edge. 5=The chosen style perfectly captures the seductive, dangerous atmosphere, showing a deep understanding of the track's mood and genre.",
+  "EM": "1=The video conveys flat, contradictory, or overwhelmingly positive emotions that kill the song's dark vibe. 3=The picture sets a moody tone but fails to build the sultry tension and aggressive release felt in the music. 5=The visual emotion masterfully tracks the song's arc, building intimate tension in the verses and delivering overwhelming, aggressive energy during the drops.",
+  "RH": "1=Visual edits and movements are entirely disconnected from the rhythmic groove and trap-influenced drum patterns. 3=The video cuts on the main beats but misses the swagger of the vocal phrasing or the rapid hi-hat details. 5=Visual events, motion accents, and cuts feel perfectly locked to both the heavy downbeats and the subtle rhythmic groove, creating a mesmerizing flow.",
+  "ST": "1=The visual flow completely ignores the song's dynamic structure, treating the verses and massive bass drops equally. 3=The picture reacts to the main drop at 43.6s but misses the important tension-building beat drop-out at 17.5s. 5=Clear, deliberate visual shifts honor the song's structure, with distinct changes marking the beat entry at 8.7s, the breakdown at 17.5s, and the heavy drops at 43.6s and 82.9s.",
+  "LY": "1=Any depicted text is misspelled or out of sync, or the imagery strongly contradicts the seductive, 'bad side' theme. 3=The imagery generally fits a dark mood but lacks specific thematic ties to the lyrics about dangerous intimacy and being 'crazy'. 5=If used, typography is perfectly synced; imagery strongly reinforces the lyrical themes of embracing a dangerous, alluring alter ego.",
+  "VA": "1=The video suffers from poor rendering, muddy colors, jarring AI glitches, or a cheap placeholder appearance. 3=The visuals are competent and clean but lack stylistic polish, deep contrast, or high-end music video lighting. 5=The video boasts exceptional visual quality with deliberate lighting, deep shadows, cinematic color grading, and flawless composition.",
+  "CR": "1=The video relies on a completely generic visualizer template or an unedited, repetitive loop. 3=The concept is a standard moody performance or predictable narrative that works but takes no creative risks. 5=The video presents a highly original, surprising interpretation of the 'bad side' concept, using striking metaphors or unique visual techniques to stand out."
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 0.0,
+   "kind": "sung line starts: \"oh my oh me\""
+  },
+  {
+   "t": 1.6,
+   "kind": "sung line starts: \"i'm fucking crazy and i can't stop\""
+  },
+  {
+   "t": 6.0,
+   "kind": "sung line starts: \"it'll be fun ha\""
+  },
+  {
+   "t": 8.4,
+   "kind": "sung line starts: \"let's skip the games\""
+  },
+  {
+   "t": 8.7,
+   "kind": "section change"
+  },
+  {
+   "t": 10.0,
+   "kind": "sung line starts: \"fast forward to the what's your name\""
+  },
+  {
+   "t": 11.7,
+   "kind": "sung line starts: \"why take our time time\""
+  },
+  {
+   "t": 16.7,
+   "kind": "sung line starts: \"so oh my oh me\""
+  },
+  {
+   "t": 17.5,
+   "kind": "section change"
+  },
+  {
+   "t": 19.1,
+   "kind": "sung line starts: \"i'm fucking crazy\""
+  },
+  {
+   "t": 21.1,
+   "kind": "sung line starts: \"and i can't stop\""
+  },
+  {
+   "t": 23.2,
+   "kind": "sung line starts: \"so this'll be fun\""
+  },
+  {
+   "t": 25.8,
+   "kind": "sung line starts: \"so come to me\""
+  },
+  {
+   "t": 27.4,
+   "kind": "sung line starts: \"tonight we don't have to be enemies\""
+  },
+  {
+   "t": 29.7,
+   "kind": "sung line starts: \"keep it going like it's meant to be\""
+  },
+  {
+   "t": 32.7,
+   "kind": "sung line starts: \"meant to be just wait and see\""
+  },
+  {
+   "t": 34.6,
+   "kind": "sung line starts: \"so come with me\""
+  },
+  {
+   "t": 36.1,
+   "kind": "sung line starts: \"and maybe you can touch my body\""
+  },
+  {
+   "t": 38.4,
+   "kind": "sung line starts: \"don't be scared to take ahold of me\""
+  },
+  {
+   "t": 41.1,
+   "kind": "sung line starts: \"take me in and breathe tear me up to pieces\""
+  },
+  {
+   "t": 43.6,
+   "kind": "section change"
+  },
+  {
+   "t": 43.8,
+   "kind": "sung line starts: \"oh\""
+  },
+  {
+   "t": 46.6,
+   "kind": "sung line starts: \"get a taste of my bad side\""
+  },
+  {
+   "t": 50.9,
+   "kind": "sung line starts: \"just a taste of my bad side\""
+  },
+  {
+   "t": 55.2,
+   "kind": "sung line starts: \"you want a taste of my bad side\""
+  },
+  {
+   "t": 59.7,
+   "kind": "sung line starts: \"just a taste of my bad side\""
+  },
+  {
+   "t": 61.1,
+   "kind": "section change"
+  },
+  {
+   "t": 61.7,
+   "kind": "sung line starts: \"you wanna know what it feels like\""
+  },
+  {
+   "t": 63.9,
+   "kind": "sung line starts: \"to get a taste of my bad side come to me\""
+  },
+  {
+   "t": 66.7,
+   "kind": "sung line starts: \"tonight we don't have to be enemies\""
+  },
+  {
+   "t": 68.4,
+   "kind": "sung line starts: \"just a taste of my bad side\""
+  },
+  {
+   "t": 69.9,
+   "kind": "sung line starts: \"meant to be meant to be\""
+  },
+  {
+   "t": 72.7,
+   "kind": "sung line starts: \"you want a taste of my bad side come with me\""
+  },
+  {
+   "t": 75.3,
+   "kind": "sung line starts: \"and maybe you can touch my body\""
+  },
+  {
+   "t": 77.1,
+   "kind": "sung line starts: \"just a taste of my bad side take a hold of me\""
+  },
+  {
+   "t": 79.3,
+   "kind": "sung line starts: \"you wanna know what it feels like\""
+  },
+  {
+   "t": 81.3,
+   "kind": "sung line starts: \"to get a taste of my bad side\""
+  },
+  {
+   "t": 82.9,
+   "kind": "section change"
+  },
+  {
+   "t": 82.9,
+   "kind": "sung line starts: \"oh\""
+  },
+  {
+   "t": 85.8,
+   "kind": "sung line starts: \"get a taste of my bad side\""
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video features a noticeable visual shift, cut, or entry of motion to mark the drums kicking in at ~8.7 s."
+  },
+  {
+   "id": "S2",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The visual energy noticeably decreases, calms, or shifts context at ~17.5 s when the beat drops out."
+  },
+  {
+   "id": "S3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "A major visual impact, intense transition, or peak in energy precisely aligns with the heavy chorus drop at ~43.6 s."
+  },
+  {
+   "id": "S4",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The visual energy spikes again or a major stylistic motif returns for the final drop at ~82.9 s."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 90.0,
+  "approx_bpm": 110,
+  "section_changes_at_s": [
+   8.74,
+   17.46,
+   43.64,
+   61.1,
+   82.9
+  ],
+  "sung_lines": [
+   {
+    "start": 0.0,
+    "end": 1.399,
+    "text": "oh my oh me"
+   },
+   {
+    "start": 1.559,
+    "end": 4.871,
+    "text": "i'm fucking crazy and i can't stop"
+   },
+   {
+    "start": 6.0,
+    "end": 8.01,
+    "text": "it'll be fun ha"
+   },
+   {
+    "start": 8.402,
+    "end": 9.952,
+    "text": "let's skip the games"
+   },
+   {
+    "start": 9.952,
+    "end": 11.731,
+    "text": "fast forward to the what's your name"
+   },
+   {
+    "start": 11.731,
+    "end": 16.204,
+    "text": "why take our time time"
+   },
+   {
+    "start": 16.734,
+    "end": 19.061,
+    "text": "so oh my oh me"
+   },
+   {
+    "start": 19.061,
+    "end": 21.096,
+    "text": "i'm fucking crazy"
+   },
+   {
+    "start": 21.096,
+    "end": 22.317,
+    "text": "and i can't stop"
+   },
+   {
+    "start": 23.23,
+    "end": 24.594,
+    "text": "so this'll be fun"
+   },
+   {
+    "start": 25.819,
+    "end": 27.382,
+    "text": "so come to me"
+   },
+   {
+    "start": 27.382,
+    "end": 29.64,
+    "text": "tonight we don't have to be enemies"
+   },
+   {
+    "start": 29.697,
+    "end": 31.925,
+    "text": "keep it going like it's meant to be"
+   },
+   {
+    "start": 32.724,
+    "end": 34.553,
+    "text": "meant to be just wait and see"
+   },
+   {
+    "start": 34.553,
+    "end": 36.022,
+    "text": "so come with me"
+   },
+   {
+    "start": 36.097,
+    "end": 37.964,
+    "text": "and maybe you can touch my body"
+   },
+   {
+    "start": 38.365,
+    "end": 40.428,
+    "text": "don't be scared to take ahold of me"
+   },
+   {
+    "start": 41.095,
+    "end": 43.778,
+    "text": "take me in and breathe tear me up to pieces"
+   },
+   {
+    "start": 43.778,
+    "end": 44.277,
+    "text": "oh"
+   },
+   {
+    "start": 46.594,
+    "end": 48.356,
+    "text": "get a taste of my bad side"
+   },
+   {
+    "start": 50.948,
+    "end": 52.942,
+    "text": "just a taste of my bad side"
+   },
+   {
+    "start": 55.162,
+    "end": 57.383,
+    "text": "you want a taste of my bad side"
+   },
+   {
+    "start": 59.668,
+    "end": 61.563,
+    "text": "just a taste of my bad side"
+   },
+   {
+    "start": 61.722,
+    "end": 63.734,
+    "text": "you wanna know what it feels like"
+   },
+   {
+    "start": 63.898,
+    "end": 66.613,
+    "text": "to get a taste of my bad side come to me"
+   },
+   {
+    "start": 66.667,
+    "end": 68.862,
+    "text": "tonight we don't have to be enemies"
+   },
+   {
+    "start": 68.413,
+    "end": 69.909,
+    "text": "just a taste of my bad side"
+   },
+   {
+    "start": 69.909,
+    "end": 72.749,
+    "text": "meant to be meant to be"
+   },
+   {
+    "start": 72.684,
+    "end": 75.337,
+    "text": "you want a taste of my bad side come with me"
+   },
+   {
+    "start": 75.337,
+    "end": 77.471,
+    "text": "and maybe you can touch my body"
+   },
+   {
+    "start": 77.135,
+    "end": 79.28,
+    "text": "just a taste of my bad side take a hold of me"
+   },
+   {
+    "start": 79.28,
+    "end": 81.101,
+    "text": "you wanna know what it feels like"
+   },
+   {
+    "start": 81.327,
+    "end": 82.897,
+    "text": "to get a taste of my bad side"
+   },
+   {
+    "start": 82.897,
+    "end": 83.343,
+    "text": "oh"
+   },
+   {
+    "start": 85.834,
+    "end": 87.794,
+    "text": "get a taste of my bad side"
+   }
+  ]
+ }
+}

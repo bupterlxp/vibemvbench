@@ -1,0 +1,167 @@
+{
+ "profile": "The track is a high-energy, purely instrumental chiptune/electronic piece characterized by fast 8-bit synthesizers, rapid arpeggios, and driving programmed beats. The mood is exhilarating, action-packed, and retro-futuristic, evoking a high-speed video game sequence. The energy arc starts at a very high intensity, drops into a rhythmic breakdown halfway through, builds tension with a rising synth layer, and ultimately explodes back into a frantic, climactic final section.",
+ "key_moments": [
+  {
+   "t": 45.2,
+   "what": "The main lead melody drops out entirely, leaving a stripped-back, driving bassline and a simpler drum pattern that acts as a breakdown."
+  },
+  {
+   "t": 55.9,
+   "what": "A new, rising synth melody enters over the bassline, initiating a tense build-up phase."
+  },
+  {
+   "t": 64.4,
+   "what": "The full energetic beat and main lead melody return simultaneously, creating a powerful drop."
+  },
+  {
+   "t": 78.1,
+   "what": "The melody shifts into a more frantic, fast-paced sequence, escalating the track's climax before the end."
+  }
+ ],
+ "fitting_styles": "Narrative approaches centered around action (e.g., retro video game quests, sci-fi chases, cyberpunk battles) perfectly match the frantic, adventurous mood. Fast-paced rhythmic montages or abstract visuals (such as audio-reactive pixel art or geometric neon shapes) also suit the 8-bit electronic instrumentation. Clashing styles would include slow-paced dramatic live-action, romantic narratives, acoustic performance setups, or kinetic typography (as the track is entirely instrumental).",
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video displays a significant visual shift (e.g., lower energy, darker lighting, or a change of scene) that aligns with the breakdown at 45.2 s."
+  },
+  {
+   "id": "S2",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "A new visual layer, element, or character movement is introduced to match the synth build-up starting at 55.9 s."
+  },
+  {
+   "id": "S3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The picture marks the high-energy drop at 64.4 s with a major transition, impact, or a return to intense visual action."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The visuals escalate in speed, complexity, or focus to match the climactic melodic shift at 78.1 s."
+  }
+ ],
+ "anchors": {
+  "UN": "1: The video completely ignores the retro, electronic nature of the track, feeling disconnected from the fast-paced chiptune genre. 3: The concept broadly fits an electronic track but misses the specific retro-futuristic or high-action nuances of the 8-bit sound. 5: The chosen concept perfectly encapsulates the driving, 8-bit, action-packed energy and mood of the song.",
+  "EM": "1: The mood is static, melancholic, or completely misaligned with the track's high adrenaline. 3: The video is energetic but fails to dynamically track the tension-and-release arc of the breakdown and build-up. 5: The visuals convey a sense of thrilling action or urgent momentum, perfectly tracking the adrenaline and emotional arc of the music.",
+  "RH": "1: Visual cuts and movements are sluggish or entirely disconnected from the rapid BPM. 3: Cuts land on the main kicks but miss opportunities to sync with the track's fast arpeggios and dense rhythmic layers. 5: The editing is locked tightly to the fast-paced chiptune beats and rapid synth patterns without becoming visually chaotic or monotonous.",
+  "ST": "1: The video ignores major structural changes, floating right past the breakdown at 45.2 s and the drop at 64.4 s. 3: The video acknowledges the section changes, but the visual transitions feel loose or slightly off-time. 5: Sharp, deliberate visual changes perfectly punctuate the breakdown at 45.2 s, the build at 55.9 s, and the drop at 64.4 s.",
+  "LY": "1: The video hallucinates and displays lyrics, completely misunderstanding that the track is an instrumental. 3: N/A. 5: The video accurately treats the song as an instrumental, appropriately relying entirely on visual storytelling or abstraction with no lyrics.",
+  "VA": "1: The video is plagued by noticeable visual glitches, poor rendering, or a cheap placeholder aesthetic. 3: The visuals are competent and clean but lack a cohesive, polished, or distinctive artistic finish. 5: The video boasts high-quality rendering, strong composition, and a polished, distinctive aesthetic that elevates the core concept.",
+  "CR": "1: The video is a generic, uninspired audio visualizer or cliché slideshow. 3: The video has a functional idea but relies heavily on standard retro or sci-fi tropes without adding a unique spin. 5: The video executes a surprising, highly creative concept that brings the chiptune track to life in a memorable and distinct way."
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 45.2,
+   "kind": "section change"
+  },
+  {
+   "t": 55.9,
+   "kind": "section change"
+  },
+  {
+   "t": 64.4,
+   "kind": "section change"
+  },
+  {
+   "t": 78.1,
+   "kind": "section change"
+  },
+  {
+   "t": 86.3,
+   "kind": "section change"
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video displays a significant visual shift (e.g., lower energy, darker lighting, or a change of scene) that aligns with the breakdown at 45.2 s."
+  },
+  {
+   "id": "S2",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "A new visual layer, element, or character movement is introduced to match the synth build-up starting at 55.9 s."
+  },
+  {
+   "id": "S3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The picture marks the high-energy drop at 64.4 s with a major transition, impact, or a return to intense visual action."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The visuals escalate in speed, complexity, or focus to match the climactic melodic shift at 78.1 s."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 90.0,
+  "approx_bpm": 172,
+  "section_changes_at_s": [
+   45.202,
+   55.942,
+   64.402,
+   78.122,
+   86.342
+  ],
+  "sung_lines": []
+ }
+}

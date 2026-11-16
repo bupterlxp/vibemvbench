@@ -1,0 +1,211 @@
+{
+ "profile": "Instrumentation: Heavy electronic beat, gritty bass, driving drum machine, and a frantic high-pitched siren synth. Vocals: A confident, fast-paced rap verse followed by a repetitive, aggressive hook ('Turn the lights down low, jump, panic'). Mood: Tense, urgent, dark, rebellious, and chaotic. Lyrical theme: Wealth, power, and underworld connections ('pesos', 'payroll', 'compadre'), building to a feeling of adrenaline and panic. Energy arc: Starts sparse, kicks into full gear at 4.3s, reaches peak frenzy at 18.0s with the siren synth, shifts to a raw groove at 38.6s, drops the vocals for an instrumental section at 47.1s, and fades into an eerie stillness at 66.0s.",
+ "key_moments": [
+  {
+   "t": 4.3,
+   "what": "The full heavy beat and driving bassline drop in, intensifying the energy of the rap verse."
+  },
+  {
+   "t": 18.0,
+   "what": "The hook begins ('Turn the lights down low / Jump, panic') alongside a frantic, high-pitched siren synth, spiking the tension and energy."
+  },
+  {
+   "t": 38.6,
+   "what": "The piercing siren synth drops out, but the hook vocals and heavy beat continue, making the groove feel darker and more raw."
+  },
+  {
+   "t": 47.1,
+   "what": "The vocals end entirely, and the track transitions into a pure instrumental groove focused on the rhythm and bass."
+  },
+  {
+   "t": 66.0,
+   "what": "The heavy drums and bass cut out completely, leaving only a sparse, eerie ambient synth for the outro."
+  }
+ ],
+ "fitting_styles": "Fitting: Narrative (e.g., a tense heist, cyberpunk chase, or underground thriller), Performance (a gritty, strobe-lit club or warehouse rap performance), and Rhythmic montage (fast, aggressive editing matching the driving beat and repetitive hook). Clashing: Bright, sunny, wholesome, or pastoral aesthetics; slow, romantic pacing; anything that ignores the dark 'panic room' concept and the track's frantic, aggressive energy.",
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video marks the arrival of the full beat and bassline at 4.3s with a clear visual shift (e.g., a cut, sudden movement, or lighting change)."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The onset of the hook and the frantic siren synth at 18.0s triggers a major spike in visual intensity or a change in scene."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "visual",
+   "check": "During the hook (starting at 18.0s), the visuals reflect the 'turn the lights down low' lyric by visibly darkening the scene or using dramatic shadows and strobes."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The video responds to the structural change at 47.1s when the vocals end and the track transitions into a pure instrumental section."
+  },
+  {
+   "id": "S5",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The visual energy dissipates appropriately at 66.0s (e.g., fading to black, slowing motion, or emptying the scene) when the heavy beat drops out for the outro."
+  }
+ ],
+ "anchors": {
+  "UN": {
+   "1": "The video fundamentally misses the song's dark, aggressive electronic rap vibe, opting for an inappropriate mood like a sunny or peaceful setting.",
+   "3": "The concept fits the rap/electronic genre but feels like a generic visualizer, missing the specific tense, 'panic' atmosphere.",
+   "5": "The chosen concept perfectly captures the urgent, dark, and energetic mood, whether through a gritty narrative, intense club performance, or kinetic abstraction."
+  },
+  "EM": {
+   "1": "The visual mood is flat or contradictory, completely ignoring the tension and urgency of the track.",
+   "3": "The video conveys some energy but remains emotionally monotonous, failing to escalate during the frantic hook.",
+   "5": "The visuals build perfectly from confident swagger in the verse to chaotic panic in the hook, matching the song's tense emotional arc."
+  },
+  "RH": {
+   "1": "The visual edits and movements are completely disconnected from the track's heavy beat and fast vocal delivery.",
+   "3": "The video syncs to the main kicks and snares but misses the frantic pace of the hook and the punchy 'jump' accents.",
+   "5": "Editing and on-screen motion tightly lock to the fast rap flow, heavy bass drops, and sharp 'jump, panic' accents, creating a highly kinetic feel."
+  },
+  "ST": {
+   "1": "The video is visually monotonous and ignores the distinct structural sections of the song.",
+   "3": "The visuals mark some major changes like the hook at 18.0s, but miss other key transitions like the drop at 4.3s or the outro at 66.0s.",
+   "5": "The picture clearly delineates the verse, the frantic hook at 18.0s, the raw instrumental break at 47.1s, and the eerie fade-out at 66.0s."
+  },
+  "LY": {
+   "1": "The video shows incorrect text or imagery completely disconnected from the themes of power, wealth, or the dark 'panic' motif.",
+   "3": "The visuals or text capture some of the lyrics but miss the specific 'turn the lights down low' or 'panic' commands.",
+   "5": "The video masterfully reflects the lyrical themes of underworld power and explicitly visualizes the 'turn the lights down low' and 'panic' motifs, with perfectly synced kinetic typography if words are shown."
+  },
+  "VA": {
+   "1": "The video suffers from obvious glitches, low resolution, or unpolished AI hallucinations that ruin the viewing experience.",
+   "3": "The rendering and composition are decent, but the video lacks a cohesive color grade or professional polish.",
+   "5": "The video features high-fidelity, clean rendering with moody lighting, strong composition, and a premium finish suitable for a high-end music video."
+  },
+  "CR": {
+   "1": "The video uses a basic, unimaginative template or generic slideshow without any distinctive ideas.",
+   "3": "The video relies on standard rap or club tropes (e.g., generic cars, neon lights) without adding a unique spin.",
+   "5": "The video presents a striking, highly creative concept—such as a surreal dystopian chase or intense psychological thriller—that elevates the song."
+  }
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 4.3,
+   "kind": "section change"
+  },
+  {
+   "t": 18.0,
+   "kind": "section change"
+  },
+  {
+   "t": 38.6,
+   "kind": "section change"
+  },
+  {
+   "t": 47.1,
+   "kind": "section change"
+  },
+  {
+   "t": 66.0,
+   "kind": "section change"
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video marks the arrival of the full beat and bassline at 4.3s with a clear visual shift (e.g., a cut, sudden movement, or lighting change)."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The onset of the hook and the frantic siren synth at 18.0s triggers a major spike in visual intensity or a change in scene."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "visual",
+   "check": "During the hook (starting at 18.0s), the visuals reflect the 'turn the lights down low' lyric by visibly darkening the scene or using dramatic shadows and strobes."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The video responds to the structural change at 47.1s when the vocals end and the track transitions into a pure instrumental section."
+  },
+  {
+   "id": "S5",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The visual energy dissipates appropriately at 66.0s (e.g., fading to black, slowing motion, or emptying the scene) when the heavy beat drops out for the outro."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 90.0,
+  "approx_bpm": 70,
+  "section_changes_at_s": [
+   4.276,
+   17.956,
+   38.556,
+   47.116,
+   65.976
+  ],
+  "sung_lines": []
+ }
+}

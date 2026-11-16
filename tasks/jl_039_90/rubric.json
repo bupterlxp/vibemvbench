@@ -1,0 +1,356 @@
+{
+ "profile": "The song is an upbeat indie pop/rock track featuring bouncy bass, rhythmic guitars, and a steady drumbeat. The vocals are delivered by a male singer with a casual, slightly deadpan French phrasing that contrasts humorously with the lyrical content. The mood is ironic, lighthearted, and carefree. Lyrically, it tells the comical story of someone being arrested for playing music too loud and ending up in a holding cell, but instead of being upset, they decide to hotbox the cell and throw a wild party with the other inmates. The energy is consistently bouncy, with brief instrumental interludes that break up the steady stream of storytelling.",
+ "key_moments": [
+  {
+   "t": 2.8,
+   "what": "The vocal narrative begins over the bouncy instrumental intro."
+  },
+  {
+   "t": 39.4,
+   "what": "The lyrical pivot of the first verse ('mais j'continue encore à faire la fête'), signaling a thematic shift from the arrest to carefree partying."
+  },
+  {
+   "t": 44.0,
+   "what": "Section change; the vocals drop out for a brief instrumental interlude."
+  },
+  {
+   "t": 58.8,
+   "what": "Section change; a slight shift in the instrumental texture before the next narrative section."
+  },
+  {
+   "t": 71.4,
+   "what": "Section change; another instrumental break resetting the groove before the final vocal lines."
+  }
+ ],
+ "fitting_styles": "A literal comedic narrative showing the protagonist getting arrested and turning the jail cell into a hotboxed party; an energetic performance video of an indie band playing inside a mock police station; or playful kinetic typography that highlights the storytelling and the contrast between words like 'cellule' (cell) and 'fête' (party). Styles that would clash include ultra-serious true-crime realism, dark/gritty aesthetics, aggressive metal visual tropes, or slow ethereal ambient visuals, all of which would contradict the bouncy, ironic, and upbeat nature of the track.",
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video visually acknowledges the entry of the vocal narrative at 2.8 s (e.g., via a cut, a character starting to sing, or text appearing)."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "There is a shift in visual energy, mood, or action that reflects the lyrical pivot towards partying at 39.4 s."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "visual",
+   "check": "The picture marks the instrumental section change at 44.0 s with a noticeable shift in scene, editing pace, or visual style."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "visual",
+   "check": "The visual flow responds to the section change/instrumental break at 71.4 s."
+  }
+ ],
+ "anchors": {
+  "UN": "1: The video completely misses the ironic, upbeat indie vibe, using overly dark, aggressive, or serious aesthetics.\n3: The video matches the upbeat energy but uses generic tropes, missing the specific quirky and rebellious nature of the song.\n5: The video perfectly captures the ironic, carefree mood, successfully translating the bouncy energy and playful narrative into its chosen visual style.",
+  "EM": "1: The mood is gloomy, tense, or flat, completely contradicting the lighthearted, comical tone of the song.\n3: The video is generally positive but fails to capture the cheeky, rebellious 'party in a jail cell' attitude.\n5: The picture effortlessly conveys a humorous, carefree, and cheeky emotion, balancing the concept of confinement with rebellious fun.",
+  "RH": "1: The editing is entirely detached from the track's bouncy rhythm and steady drumbeat.\n3: The cuts generally align with the beat, but the visual pacing feels a bit repetitive and misses the lively bounce of the bassline.\n5: Visuals and edits lock perfectly into the bouncy indie groove, with motion accents matching the rhythmic vocal phrasing and driving beat.",
+  "ST": "1: The video ignores the song's structure, playing seamlessly through instrumental breaks without any visual acknowledgement.\n3: The video reacts to vocal entries but fails to visually distinguish the instrumental section changes (e.g., at 44.0 s or 71.4 s).\n5: The video clearly defines the song's structure, offering distinct edits or visual treatments for the vocal verses versus the instrumental breaks at 44.0 s and 71.4 s.",
+  "LY": "1: Any text or narrative contradicts the French lyrics about an arrest and throwing a party in a cell.\n3: The narrative vaguely touches on rebellion, or on-screen lyrics are present but occasionally out of sync with the fast, wordy delivery.\n5: The visuals cleverly depict the quirky jail-cell party narrative, or if text is used, the French lyrics are accurately transcribed and perfectly timed to the casual vocal phrasing. (Null if entirely abstract/instrumental interpretation and no text).",
+  "VA": "1: The rendering is poor, with obvious AI glitches, muddy colors, or a generally unappealing composition.\n3: The visuals are clear and acceptable but lack a cohesive stylistic polish, looking somewhat like generic AI outputs.\n5: The video boasts crisp, highly stylized visuals with excellent composition, appealing colors, and a polished, intentional art direction.",
+  "CR": "1: The concept is a lazy, basic visualizer with no connection to the track's unique ironic storyline.\n3: The idea is appropriate (e.g., a standard band performance) but lacks memorable, inventive, or surprising elements.\n5: The video employs a highly original and entertaining concept (like a stylized, comedic jail sequence or imaginative typography) that perfectly elevates the song."
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 2.8,
+   "kind": "sung line starts: \"outrage à agent menottes aux poings\""
+  },
+  {
+   "t": 5.2,
+   "kind": "sung line starts: \"et m'embarquant face aux voisins\""
+  },
+  {
+   "t": 7.6,
+   "kind": "sung line starts: \"eux qui sourient d'me voir emm'né poussé\""
+  },
+  {
+   "t": 10.4,
+   "kind": "sung line starts: \"a l'arrière d'la voiture\""
+  },
+  {
+   "t": 16.5,
+   "kind": "sung line starts: \"au commissariat et en calbute assis à côté d'une pute\""
+  },
+  {
+   "t": 21.3,
+   "kind": "sung line starts: \"j'attends qu'un gardien de la paix vienne me chercher\""
+  },
+  {
+   "t": 24.7,
+   "kind": "sung line starts: \"pour m'questionner\""
+  },
+  {
+   "t": 30.2,
+   "kind": "sung line starts: \"cette journée avait bien commencé\""
+  },
+  {
+   "t": 32.6,
+   "kind": "sung line starts: \"j'vois pas ce qui a pu merder\""
+  },
+  {
+   "t": 35.0,
+   "kind": "sung line starts: \"le son trop fort c'est ridicule\""
+  },
+  {
+   "t": 37.3,
+   "kind": "sung line starts: \"maint'nant je suis en cellule\""
+  },
+  {
+   "t": 39.4,
+   "kind": "sung line starts: \"mais j'continue encore à faire la fête\""
+  },
+  {
+   "t": 44.0,
+   "kind": "section change"
+  },
+  {
+   "t": 46.1,
+   "kind": "sung line starts: \"avec les putes et leurs proxénètes\""
+  },
+  {
+   "t": 50.8,
+   "kind": "sung line starts: \"j'avais gardé un p'tit pet'\""
+  },
+  {
+   "t": 54.2,
+   "kind": "sung line starts: \"la cellule on va vraiment l'enfumer\""
+  },
+  {
+   "t": 58.8,
+   "kind": "section change"
+  },
+  {
+   "t": 61.0,
+   "kind": "sung line starts: \"je m'en fous y peut plus rien m'arriver\""
+  },
+  {
+   "t": 65.7,
+   "kind": "sung line starts: \"moi j'suis déjà enfermé\""
+  },
+  {
+   "t": 69.1,
+   "kind": "sung line starts: \"mais j'continue encore à faire la fête\""
+  },
+  {
+   "t": 71.4,
+   "kind": "section change"
+  },
+  {
+   "t": 76.0,
+   "kind": "sung line starts: \"j'fais tourner l'joint j'fais des soufflettes\""
+  },
+  {
+   "t": 80.5,
+   "kind": "sung line starts: \"et ça nous monte à la tête\""
+  },
+  {
+   "t": 84.0,
+   "kind": "sung line starts: \"la cellule on l'a vraiment l'enfumée\""
+  },
+  {
+   "t": 86.3,
+   "kind": "section change"
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video visually acknowledges the entry of the vocal narrative at 2.8 s (e.g., via a cut, a character starting to sing, or text appearing)."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "There is a shift in visual energy, mood, or action that reflects the lyrical pivot towards partying at 39.4 s."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "visual",
+   "check": "The picture marks the instrumental section change at 44.0 s with a noticeable shift in scene, editing pace, or visual style."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "visual",
+   "check": "The visual flow responds to the section change/instrumental break at 71.4 s."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 90.0,
+  "approx_bpm": 105,
+  "section_changes_at_s": [
+   43.975,
+   58.815,
+   71.395,
+   86.275
+  ],
+  "sung_lines": [
+   {
+    "start": 2.839,
+    "end": 5.245,
+    "text": "outrage à agent menottes aux poings"
+   },
+   {
+    "start": 5.245,
+    "end": 7.581,
+    "text": "et m'embarquant face aux voisins"
+   },
+   {
+    "start": 7.581,
+    "end": 10.382,
+    "text": "eux qui sourient d'me voir emm'né poussé"
+   },
+   {
+    "start": 10.382,
+    "end": 13.996,
+    "text": "a l'arrière d'la voiture"
+   },
+   {
+    "start": 16.495,
+    "end": 21.274,
+    "text": "au commissariat et en calbute assis à côté d'une pute"
+   },
+   {
+    "start": 21.274,
+    "end": 24.659,
+    "text": "j'attends qu'un gardien de la paix vienne me chercher"
+   },
+   {
+    "start": 24.659,
+    "end": 27.411,
+    "text": "pour m'questionner"
+   },
+   {
+    "start": 30.177,
+    "end": 32.63,
+    "text": "cette journée avait bien commencé"
+   },
+   {
+    "start": 32.63,
+    "end": 34.984,
+    "text": "j'vois pas ce qui a pu merder"
+   },
+   {
+    "start": 34.984,
+    "end": 37.263,
+    "text": "le son trop fort c'est ridicule"
+   },
+   {
+    "start": 37.263,
+    "end": 39.206,
+    "text": "maint'nant je suis en cellule"
+   },
+   {
+    "start": 39.392,
+    "end": 45.758,
+    "text": "mais j'continue encore à faire la fête"
+   },
+   {
+    "start": 46.094,
+    "end": 50.177,
+    "text": "avec les putes et leurs proxénètes"
+   },
+   {
+    "start": 50.825,
+    "end": 53.728,
+    "text": "j'avais gardé un p'tit pet'"
+   },
+   {
+    "start": 54.25,
+    "end": 60.594,
+    "text": "la cellule on va vraiment l'enfumer"
+   },
+   {
+    "start": 60.991,
+    "end": 65.176,
+    "text": "je m'en fous y peut plus rien m'arriver"
+   },
+   {
+    "start": 65.653,
+    "end": 68.193,
+    "text": "moi j'suis déjà enfermé"
+   },
+   {
+    "start": 69.125,
+    "end": 75.553,
+    "text": "mais j'continue encore à faire la fête"
+   },
+   {
+    "start": 75.957,
+    "end": 80.074,
+    "text": "j'fais tourner l'joint j'fais des soufflettes"
+   },
+   {
+    "start": 80.517,
+    "end": 83.523,
+    "text": "et ça nous monte à la tête"
+   },
+   {
+    "start": 83.971,
+    "end": 90.0,
+    "text": "la cellule on l'a vraiment l'enfumée"
+   }
+  ]
+ }
+}

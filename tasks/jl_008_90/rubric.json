@@ -1,0 +1,435 @@
+{
+ "profile": "The song is an upbeat, energetic Indie Rock/Pop track. Instrumentation features driving acoustic drums, rhythmic electric guitars with a slightly crunchy tone, and a solid bassline. The vocals are female, delivered with a confident, defiant, and slightly playful tone. The mood is empowering, liberating, and upbeat, steering clear of sadness despite being a breakup song. Lyrically, it deals with leaving a toxic or disappointing relationship, realizing the partner wasn't special, and playing on the fairy tale trope of 'kissing toads' to find a prince. The energy arc starts with a brief vocal intro, kicks into high gear with the full band at 14 seconds, maintains a driving pace throughout the verses, and peaks with the highly catchy chorus at 62 seconds.",
+ "key_moments": [
+  {
+   "t": 14.1,
+   "what": "The full band kicks in with a driving drum beat and energetic guitar strumming, shifting the track into its primary upbeat indie-rock groove."
+  },
+  {
+   "t": 28.7,
+   "what": "A section change where the vocal melody shifts and the rhythm changes to a more insistent, driving pattern."
+  },
+  {
+   "t": 61.8,
+   "what": "The chorus begins with the titular lyric 'besando sapos' (kissing toads), marking the emotional and melodic peak of the clip."
+  }
+ ],
+ "fitting_styles": "A Narrative style focusing on a woman moving out, packing bags, or having fun with friends would fit the liberating breakup theme perfectly. A Performance style featuring a female-fronted indie rock band in a garage, a brightly lit room, or a club would suit the live-band feel of the instrumentation. A Lyric/Kinetic Typography style with bold, colorful, and slightly edgy fonts would work well with the upbeat tempo. Approaches that would clash include slow cinematic/moody visuals, dark/gothic aesthetics, or hyper-futuristic sci-fi themes, as the song is very grounded, relatable, and energetic.",
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video shows a clear jump in energy, a major transition, or introduces new visual elements at 14.1 seconds when the full band kicks in."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The picture reacts distinctly to the start of the chorus at 61.8 seconds with a scene change, shift in lighting, or a climax in visual energy."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "text",
+   "check": "If any text is displayed at 61.8 seconds, it correctly shows the words 'besando sapos'."
+  }
+ ],
+ "anchors": {
+  "UN": {
+   "1": "The video completely clashes with the song, such as using slow, dark, or sci-fi visuals for an upbeat indie pop track.",
+   "3": "The video fits the tempo but feels generic, lacking connection to the specific indie-rock aesthetic or the breakup theme.",
+   "5": "The chosen concept perfectly captures the empowering, liberating indie-rock vibe and the theme of moving on from a disappointing romance."
+  },
+  "EM": {
+   "1": "The video conveys a somber, melancholic, or scary mood that directly contradicts the upbeat music.",
+   "3": "The video's mood is neutral or inconsistent, occasionally matching the energy but missing the defiant, liberating tone.",
+   "5": "The video radiates a sense of liberation, confidence, and upbeat energy, perfectly matching the singer's defiant delivery."
+  },
+  "RH": {
+   "1": "The visual edits and movements are completely disconnected from the song's driving beat.",
+   "3": "The cuts generally follow the tempo, but miss the opportunity to accent the specific snare hits or guitar strumming patterns.",
+   "5": "Visual events, cuts, and motion accents are tightly locked to the driving drum beat and energetic guitar rhythms, enhancing the song's momentum."
+  },
+  "ST": {
+   "1": "The video ignores the song's structure, playing out as a continuous loop or random montage.",
+   "3": "The video reacts to the chorus but misses the initial band drop or other structural shifts.",
+   "5": "The video clearly shifts visual gears at the band drop (14.1s), the pre-chorus shift (28.7s), and the main chorus (61.8s)."
+  },
+  "LY": {
+   "1": "On-screen lyrics are completely wrong, or literal imagery contradicts the theme of the song.",
+   "3": "Lyrics are mostly correct but poorly timed, or imagery is only vaguely related to the breakup theme.",
+   "5": "Any on-screen text is perfectly synced and readable, or visual metaphors cleverly interpret the 'kissing toads' and moving on lyrics."
+  },
+  "VA": {
+   "1": "The video looks glitchy, distorted, or like a low-effort placeholder.",
+   "3": "The visuals are competent but lack a cohesive aesthetic, looking a bit generic or unpolished.",
+   "5": "The visual quality is pristine, with a cohesive color palette, strong composition, and a professional indie music video aesthetic."
+  },
+  "CR": {
+   "1": "The video is a basic, uninspired template or a generic audio visualizer.",
+   "3": "The video uses a standard performance or narrative setup without adding any unique flair.",
+   "5": "The video offers a fresh, highly inventive take on the breakup/empowerment theme or the 'frog/prince' metaphor, standing out from standard tropes."
+  }
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 12.0,
+   "kind": "sung line starts: \"esta es la ocasion\""
+  },
+  {
+   "t": 14.1,
+   "kind": "section change"
+  },
+  {
+   "t": 14.1,
+   "kind": "sung line starts: \"de verte marchar\""
+  },
+  {
+   "t": 16.1,
+   "kind": "sung line starts: \"por fin viviré\""
+  },
+  {
+   "t": 17.7,
+   "kind": "sung line starts: \"por fin voy a luchar\""
+  },
+  {
+   "t": 20.3,
+   "kind": "sung line starts: \"mi vida sin ti\""
+  },
+  {
+   "t": 22.3,
+   "kind": "sung line starts: \"mi vida y nadie mas\""
+  },
+  {
+   "t": 28.5,
+   "kind": "sung line starts: \"es el momento\""
+  },
+  {
+   "t": 28.7,
+   "kind": "section change"
+  },
+  {
+   "t": 30.5,
+   "kind": "sung line starts: \"de verme triunfar\""
+  },
+  {
+   "t": 32.6,
+   "kind": "sung line starts: \"de dejarte atras\""
+  },
+  {
+   "t": 34.0,
+   "kind": "sung line starts: \"decir adios sin mas\""
+  },
+  {
+   "t": 36.7,
+   "kind": "sung line starts: \"lo nuestro esta asi\""
+  },
+  {
+   "t": 38.7,
+   "kind": "sung line starts: \"que quieres de mi\""
+  },
+  {
+   "t": 44.8,
+   "kind": "sung line starts: \"salio la verdad\""
+  },
+  {
+   "t": 46.9,
+   "kind": "sung line starts: \"no me engañaras\""
+  },
+  {
+   "t": 49.0,
+   "kind": "sung line starts: \"yo quiero vivir\""
+  },
+  {
+   "t": 50.5,
+   "kind": "sung line starts: \"sin mirar atras\""
+  },
+  {
+   "t": 53.1,
+   "kind": "sung line starts: \"lo nuestro acabo\""
+  },
+  {
+   "t": 55.1,
+   "kind": "sung line starts: \"asumelo ya\""
+  },
+  {
+   "t": 61.8,
+   "kind": "sung line starts: \"besando sapos\""
+  },
+  {
+   "t": 63.8,
+   "kind": "sung line starts: \"paso la vida asi\""
+  },
+  {
+   "t": 65.9,
+   "kind": "sung line starts: \"buscando al guapo\""
+  },
+  {
+   "t": 67.9,
+   "kind": "sung line starts: \"que me haga sonreir\""
+  },
+  {
+   "t": 71.5,
+   "kind": "sung line starts: \"no sé quién me conto\""
+  },
+  {
+   "t": 74.1,
+   "kind": "sung line starts: \"que habia un final feliz\""
+  },
+  {
+   "t": 77.7,
+   "kind": "sung line starts: \"creia que tu\""
+  },
+  {
+   "t": 79.8,
+   "kind": "sung line starts: \"eras especial\""
+  },
+  {
+   "t": 81.8,
+   "kind": "sung line starts: \"un hombre distinto\""
+  },
+  {
+   "t": 83.9,
+   "kind": "sung line starts: \"a los demas\""
+  },
+  {
+   "t": 85.9,
+   "kind": "sung line starts: \"que tonta que fui\""
+  },
+  {
+   "t": 88.0,
+   "kind": "sung line starts: \"no entiendo que te vi\""
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video shows a clear jump in energy, a major transition, or introduces new visual elements at 14.1 seconds when the full band kicks in."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The picture reacts distinctly to the start of the chorus at 61.8 seconds with a scene change, shift in lighting, or a climax in visual energy."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "text",
+   "check": "If any text is displayed at 61.8 seconds, it correctly shows the words 'besando sapos'."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 90.0,
+  "approx_bpm": 117,
+  "section_changes_at_s": [
+   14.12,
+   28.72
+  ],
+  "sung_lines": [
+   {
+    "start": 12.046,
+    "end": 13.713,
+    "text": "esta es la ocasion"
+   },
+   {
+    "start": 14.105,
+    "end": 15.813,
+    "text": "de verte marchar"
+   },
+   {
+    "start": 16.138,
+    "end": 17.47,
+    "text": "por fin viviré"
+   },
+   {
+    "start": 17.658,
+    "end": 19.756,
+    "text": "por fin voy a luchar"
+   },
+   {
+    "start": 20.252,
+    "end": 21.859,
+    "text": "mi vida sin ti"
+   },
+   {
+    "start": 22.316,
+    "end": 25.609,
+    "text": "mi vida y nadie mas"
+   },
+   {
+    "start": 28.459,
+    "end": 29.953,
+    "text": "es el momento"
+   },
+   {
+    "start": 30.502,
+    "end": 32.247,
+    "text": "de verme triunfar"
+   },
+   {
+    "start": 32.569,
+    "end": 33.988,
+    "text": "de dejarte atras"
+   },
+   {
+    "start": 33.988,
+    "end": 36.361,
+    "text": "decir adios sin mas"
+   },
+   {
+    "start": 36.675,
+    "end": 38.36,
+    "text": "lo nuestro esta asi"
+   },
+   {
+    "start": 38.734,
+    "end": 41.433,
+    "text": "que quieres de mi"
+   },
+   {
+    "start": 44.812,
+    "end": 46.283,
+    "text": "salio la verdad"
+   },
+   {
+    "start": 46.897,
+    "end": 48.601,
+    "text": "no me engañaras"
+   },
+   {
+    "start": 48.987,
+    "end": 50.376,
+    "text": "yo quiero vivir"
+   },
+   {
+    "start": 50.502,
+    "end": 52.736,
+    "text": "sin mirar atras"
+   },
+   {
+    "start": 53.057,
+    "end": 54.778,
+    "text": "lo nuestro acabo"
+   },
+   {
+    "start": 55.148,
+    "end": 58.144,
+    "text": "asumelo ya"
+   },
+   {
+    "start": 61.787,
+    "end": 63.569,
+    "text": "besando sapos"
+   },
+   {
+    "start": 63.807,
+    "end": 65.884,
+    "text": "paso la vida asi"
+   },
+   {
+    "start": 65.884,
+    "end": 67.731,
+    "text": "buscando al guapo"
+   },
+   {
+    "start": 67.93,
+    "end": 70.464,
+    "text": "que me haga sonreir"
+   },
+   {
+    "start": 71.498,
+    "end": 73.916,
+    "text": "no sé quién me conto"
+   },
+   {
+    "start": 74.073,
+    "end": 76.329,
+    "text": "que habia un final feliz"
+   },
+   {
+    "start": 77.726,
+    "end": 79.362,
+    "text": "creia que tu"
+   },
+   {
+    "start": 79.77,
+    "end": 81.298,
+    "text": "eras especial"
+   },
+   {
+    "start": 81.811,
+    "end": 83.855,
+    "text": "un hombre distinto"
+   },
+   {
+    "start": 83.855,
+    "end": 85.547,
+    "text": "a los demas"
+   },
+   {
+    "start": 85.873,
+    "end": 87.705,
+    "text": "que tonta que fui"
+   },
+   {
+    "start": 87.966,
+    "end": 90.0,
+    "text": "no entiendo que te vi"
+   }
+  ]
+ }
+}

@@ -1,0 +1,57 @@
+{
+ "task_id": "jl_037_90",
+ "song_id": "jl_037",
+ "clip_start": 17.14,
+ "clip_end": 107.14,
+ "length_class": 90,
+ "difficulty_tier": "hard",
+ "spec": {
+  "resolution": [
+   1920,
+   1080
+  ],
+  "fps": 30,
+  "duration_tol": 0.1,
+  "duration": 90.0
+ },
+ "song": {
+  "title": "Une Vie De Roi",
+  "artist": "LÖHSTANA DAVID",
+  "genre": "Pop",
+  "language": "fr",
+  "license": "CC BY-NC-SA",
+  "url": "https://www.jamendo.com/track/1272521/une-vie-de-roi/lyrics"
+ },
+ "lyrics_text": [
+  "je sais que toute ma vie je n'oublierai jamais",
+  "ce bel après midi au soleil de janvier",
+  "c'était tellement génial que j'en tremblote encore",
+  "je suis rentré tout sale et maintenant je m'endors",
+  "c'est vraiment fatiguant de courir tout le jour",
+  "mais qu'est ce que c'est marrant de faire le gros balourd",
+  "j'ai sauté dans les feuilles et j'ai mangé des pierres",
+  "chassé les écureuils et labouré la terre",
+  "je vis pour lui",
+  "mon seigneur chéri",
+  "mon maître ami",
+  "j'ai flairé des chenilles et broyé des bâtons",
+  "mordillé les chevilles d'un vilain vieux mouton",
+  "je suis le plus heureux pour ça je remercie",
+  "mon vénérable dieu mon maître à moi chéri",
+  "il est si formidable je l'aime plus que ma vie",
+  "je veux être admirable parfois je réussis",
+  "a gagner une caresse entre mes deux oreilles",
+  "même si je tire en laisse j'écoute les bons conseils"
+ ],
+ "prompt": "Make a music video for this song. Make it as good as you possibly can.",
+ "free": true,
+ "difficulty": {
+  "d_rhythm": -0.61,
+  "d_structure": 0.83,
+  "d_dynamics": -0.62,
+  "d_lyrics": 1.2,
+  "d_genre": 0.0,
+  "d_length": 0.99,
+  "difficulty": 0.299
+ }
+}

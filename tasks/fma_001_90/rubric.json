@@ -1,0 +1,141 @@
+{
+ "profile": "A dark, atmospheric electronic track characterized by sparse ambient beginnings that evolve into a hypnotic, mid-tempo groove. Instrumentation features deep sub-bass, crisp hi-hats, atmospheric pads, and a sequenced synth arpeggio. Vocals are limited to heavily processed, whispered spoken-word samples that appear late in the clip. The mood is nocturnal, melancholic, and dreamlike, exploring themes of the subconscious, loss, or mourning. The energy arc is a slow, steady build: starting ambient, establishing a groove at 0:44, adding melodic layers at 0:55, and introducing the human element at 1:11, maintaining a mesmerizing, subdued intensity throughout.",
+ "key_moments": [
+  {
+   "t": 44.4,
+   "what": "The main beat drops, introducing a deep sub-bassline and crisp electronic percussion (hi-hats)."
+  },
+  {
+   "t": 55.9,
+   "what": "A bright, repeating synth arpeggio/sequence enters, adding a new melodic layer to the groove."
+  },
+  {
+   "t": 71.3,
+   "what": "Heavily processed, whispered vocal samples begin, introducing the lyrical theme."
+  }
+ ],
+ "fitting_styles": "Abstract or surreal visualizers, atmospheric narratives (e.g., a lonely nocturnal drive, wandering through a dark, empty city), and rhythmic montages suit the hypnotic, dreamlike, and melancholic mood. Approaches that would clash include high-energy dance choreography, bright/comedic storylines, or traditional live band performance setups, as the track is distinctly electronic, subdued, and sample-based.",
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video shows a clear visual transition, cut, or increase in energy at 44.4s to mark the entry of the bass and full beat."
+  },
+  {
+   "id": "S2",
+   "level": "detail",
+   "modality": "visual",
+   "check": "A new visual element, motif, or layer is introduced at 55.9s, corresponding to the new synth arpeggio."
+  },
+  {
+   "id": "S3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The visuals respond to the introduction of the vocal samples at 71.3s (e.g., through typography, a character speaking, or a thematic shift in imagery)."
+  }
+ ],
+ "anchors": {
+  "UN": "1: The concept completely clashes with the dark, atmospheric electronic tone. 3: The concept is acceptable but feels like a generic visualizer that doesn't fully capture the melancholic mood. 5: The chosen concept perfectly embodies the nocturnal, hypnotic, and dreamlike essence of the track.",
+  "EM": "1: The video feels emotionally disconnected, overly bright, or frantic. 3: The mood is somewhat dark and atmospheric but lacks consistency. 5: The imagery consistently evokes a strong sense of melancholy, isolation, or trance-like introspection, matching the song's emotional arc.",
+  "RH": "1: Visuals ignore the steady electronic groove entirely. 3: There is some rhythmic syncing, but it occasionally drifts or feels monotonous. 5: Cuts, motion, and visual accents are tightly locked to the crisp hi-hats and steady bass groove, enhancing the hypnotic feel.",
+  "ST": "1: The video is a continuous loop that ignores the song's progression. 3: The video acknowledges the beat drop at 44.4s but misses the subsequent melodic and vocal additions. 5: Clear visual shifts occur at the 44.4s beat drop, the 55.9s synth entry, and the 71.3s vocal entry.",
+  "LY": "1: Imagery contradicts the themes of grief or sleep, or any included text is incorrect/poorly timed. 3: Thematic connection to the title/vocals is loose, or text is present but not perfectly synced. 5: Imagery strongly reflects themes of dreams, mourning, or the subconscious, and any text perfectly aligns with the whispered vocals starting at 71.3s.",
+  "VA": "1: The video looks glitchy, low-effort, or uses obvious, unpolished placeholders. 3: The visual quality is decent but lacks atmospheric lighting or cohesive color grading. 5: High-quality rendering with excellent use of darkness, contrast, and atmospheric lighting that suits the track.",
+  "CR": "1: Uninspired, repetitive stock footage or a basic audio waveform. 3: A standard, predictable electronic music visualizer. 5: A highly distinctive, surreal, or compelling visual interpretation that elevates the hypnotic nature of the song."
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 44.4,
+   "kind": "section change"
+  },
+  {
+   "t": 55.9,
+   "kind": "section change"
+  },
+  {
+   "t": 71.3,
+   "kind": "section change"
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video shows a clear visual transition, cut, or increase in energy at 44.4s to mark the entry of the bass and full beat."
+  },
+  {
+   "id": "S2",
+   "level": "detail",
+   "modality": "visual",
+   "check": "A new visual element, motif, or layer is introduced at 55.9s, corresponding to the new synth arpeggio."
+  },
+  {
+   "id": "S3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The visuals respond to the introduction of the vocal samples at 71.3s (e.g., through typography, a character speaking, or a thematic shift in imagery)."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 90.0,
+  "approx_bpm": 125,
+  "section_changes_at_s": [
+   44.4,
+   55.94,
+   71.28
+  ],
+  "sung_lines": []
+ }
+}

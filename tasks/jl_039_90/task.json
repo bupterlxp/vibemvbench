@@ -1,0 +1,59 @@
+{
+ "task_id": "jl_039_90",
+ "song_id": "jl_039",
+ "clip_start": 129.765,
+ "clip_end": 219.765,
+ "length_class": 90,
+ "difficulty_tier": "medium",
+ "spec": {
+  "resolution": [
+   1920,
+   1080
+  ],
+  "fps": 30,
+  "duration_tol": 0.1,
+  "duration": 90.0
+ },
+ "song": {
+  "title": "En liberté",
+  "artist": "LÉYÀK",
+  "genre": "Indie",
+  "language": "fr",
+  "license": "CC BY-NC-SA",
+  "url": "https://www.jamendo.com/track/141082/en-liberte/lyrics"
+ },
+ "lyrics_text": [
+  "outrage à agent menottes aux poings",
+  "et m'embarquant face aux voisins",
+  "eux qui sourient d'me voir emm'né poussé",
+  "a l'arrière d'la voiture",
+  "au commissariat et en calbute assis à côté d'une pute",
+  "j'attends qu'un gardien de la paix vienne me chercher",
+  "pour m'questionner",
+  "cette journée avait bien commencé",
+  "j'vois pas ce qui a pu merder",
+  "le son trop fort c'est ridicule",
+  "maint'nant je suis en cellule",
+  "mais j'continue encore à faire la fête",
+  "avec les putes et leurs proxénètes",
+  "j'avais gardé un p'tit pet'",
+  "la cellule on va vraiment l'enfumer",
+  "je m'en fous y peut plus rien m'arriver",
+  "moi j'suis déjà enfermé",
+  "mais j'continue encore à faire la fête",
+  "j'fais tourner l'joint j'fais des soufflettes",
+  "et ça nous monte à la tête",
+  "la cellule on l'a vraiment l'enfumée"
+ ],
+ "prompt": "Make a music video for this song. Make it as good as you possibly can.",
+ "free": true,
+ "difficulty": {
+  "d_rhythm": -0.52,
+  "d_structure": 0.34,
+  "d_dynamics": 0.01,
+  "d_lyrics": 1.27,
+  "d_genre": 0.0,
+  "d_length": 0.02,
+  "difficulty": 0.189
+ }
+}

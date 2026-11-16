@@ -1,0 +1,365 @@
+{
+ "profile": "Despite the 'Country' genre tag, the audio is a high-energy, fast-paced electronic/eurodance track with bright synths and a driving 4/4 kick drum. The female French vocals are delivered with a hyper-pop, slightly bright and robotic feel. The mood is euphoric and frenetic on the surface, while the lyrics deal with lost connections, independence, and moving on. The energy arc starts very high, maintains its pace, builds subtle tension through a varied bridge section, and then explodes into a catchy, repetitive 'oh oh oh' vocal hook towards the end.",
+ "key_moments": [
+  {
+   "t": 0.0,
+   "what": "The track immediately bursts into a fast-paced, high-energy electronic instrumental beat."
+  },
+  {
+   "t": 13.7,
+   "what": "The first verse begins with the French vocals; a natural point to introduce the singer or the main narrative subject."
+  },
+  {
+   "t": 41.9,
+   "what": "A section change where the instrumental texture shifts slightly, creating a bridge-like build-up."
+  },
+  {
+   "t": 70.5,
+   "what": "The song hits its energetic peak with the massive 'oh oh oh' vocal hook, demanding a major visual payoff or drop."
+  }
+ ],
+ "fitting_styles": "Fast-paced rhythmic montages, hyper-pop aesthetics, retro anime (AMV style), vibrant Y2K neon/cyberpunk, or high-energy dance performance videos suit this track's rapid BPM and eurodance feel perfectly. Approaches that would heavily clash include slow, moody cinematic narratives, acoustic/unplugged performance tropes, or traditional rustic 'country' aesthetics (which the misleading genre tag might incorrectly suggest).",
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video visually acknowledges the first vocal entry at 13.7s (e.g., a character appears/starts singing, text appears, or there is a significant cut)."
+  },
+  {
+   "id": "S2",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "There is a distinct visual response, such as a scene shift or lighting change, aligning with the section change at 41.9s."
+  },
+  {
+   "id": "S3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The picture delivers a major visual payoff, scene drop, or burst of intense energy to match the climactic 'oh oh oh' hook at 70.5s."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "text",
+   "check": "If lyrics are displayed on screen, they correctly match the French words (e.g., 'toi et moi' at 13.7s) rather than generating disconnected English text."
+  }
+ ],
+ "anchors": {
+  "UN": "1 = The video uses slow, acoustic, or traditional country visuals that entirely mismatch the song's fast-paced eurodance reality; 3 = The video matches the upbeat electronic nature but feels like a generic template without capturing the song's specific vibe; 5 = The video fully embraces the high-speed, bright electronic energy and the defiant, independent tone of the track, successfully ignoring the misleading genre tag.",
+  "EM": "1 = The mood is sluggish, somber, or completely disconnected from the driving beat; 3 = The video conveys basic energy but lacks the euphoric rush present in the track; 5 = The imagery captures the euphoric, high-speed rush of the beat while reflecting the resilient, 'moving on' emotional arc of the lyrics.",
+  "RH": "1 = The editing pace is slow and floaty, ignoring the rapid-fire beat and prominent kick drum; 3 = Cuts hit on some downbeats, but the overall visual pacing struggles to keep up with the song's high BPM; 5 = Motion, cuts, and visual accents are tightly locked to the fast 4/4 rhythm, driving the video forward dynamically.",
+  "ST": "1 = The video is a continuous loop that fails to react to any musical changes; 3 = The video marks the vocal entry but lacks a significant change for the major hook at 70.5s; 5 = Clear visual shifts correspond beautifully to the intro (0.0s), the first verse (13.7s), the bridge (41.9s), and explode with energy for the 70.5s hook.",
+  "LY": "1 = On-screen text is in the wrong language, or visuals explicitly contradict the themes of independence; 3 = Lyrics are present but have slight timing errors, or visual themes loosely relate to the song without depth; 5 = Any shown lyrics are perfectly timed to the French vocals, and the visual narrative subtly echoes themes of nighttime ('lune'), cityscapes, or personal resilience.",
+  "VA": "1 = The video is severely glitched, warped, or looks like a low-effort unrendered placeholder; 3 = The visuals are decently coherent but suffer from noticeable blurring or inconsistent lighting; 5 = The visual execution is sharp, cohesive, and intentional, maintaining high aesthetic quality throughout.",
+  "CR": "1 = The video relies on a completely derivative, lowest-common-denominator slideshow of random images; 3 = The concept is standard for electronic music (e.g., a basic pulsing speaker) without a unique twist; 5 = The video offers a surprising and imaginative approach—such as a frantic night-drive or hyper-stylized animation—that elevates the song."
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 0.0,
+   "kind": "section change"
+  },
+  {
+   "t": 9.3,
+   "kind": "section change"
+  },
+  {
+   "t": 13.7,
+   "kind": "sung line starts: \"toi et moi on n'se connait plus comme une légère p'tite impression\""
+  },
+  {
+   "t": 18.4,
+   "kind": "sung line starts: \"d'avoir légèrement tout perdu dans un flot de contrefaçons\""
+  },
+  {
+   "t": 23.0,
+   "kind": "sung line starts: \"mais la vie est bien trop courte pour avoir la main légère\""
+  },
+  {
+   "t": 28.3,
+   "kind": "sung line starts: \"avec ou sans trop d'amour je ne vous détesterai guère\""
+  },
+  {
+   "t": 32.3,
+   "kind": "sung line starts: \"il paraitrait qu'au petit jour ma ville serai plein de nuances\""
+  },
+  {
+   "t": 37.6,
+   "kind": "sung line starts: \"à cette heure ci elle est trop floue et ne manque pas de non sens\""
+  },
+  {
+   "t": 41.7,
+   "kind": "sung line starts: \"ces extra rires dans toutes ces dunes\""
+  },
+  {
+   "t": 41.9,
+   "kind": "section change"
+  },
+  {
+   "t": 44.1,
+   "kind": "sung line starts: \"et me tiennent là haut dans la lune\""
+  },
+  {
+   "t": 46.3,
+   "kind": "sung line starts: \"pour ca j'ai toujours été là\""
+  },
+  {
+   "t": 48.7,
+   "kind": "sung line starts: \"ne me demande pas pourquoi\""
+  },
+  {
+   "t": 51.0,
+   "kind": "sung line starts: \"mais plus ça va plus ça empire\""
+  },
+  {
+   "t": 53.3,
+   "kind": "sung line starts: \"même quand il n'y a plus rien à dire\""
+  },
+  {
+   "t": 55.7,
+   "kind": "sung line starts: \"en tout cas il faut qu'j'compte sur moi\""
+  },
+  {
+   "t": 58.0,
+   "kind": "sung line starts: \"je n'te dirai pas pourquoi\""
+  },
+  {
+   "t": 60.4,
+   "kind": "sung line starts: \"maint'nant il faut que j'me rendorme\""
+  },
+  {
+   "t": 62.6,
+   "kind": "sung line starts: \"en croyant rester dans les normes\""
+  },
+  {
+   "t": 65.0,
+   "kind": "sung line starts: \"mais cela ne m'regarde pas\""
+  },
+  {
+   "t": 67.3,
+   "kind": "sung line starts: \"allez savoir pourquoi\""
+  },
+  {
+   "t": 69.3,
+   "kind": "sung line starts: \"ah ah\""
+  },
+  {
+   "t": 70.5,
+   "kind": "sung line starts: \"oh oh oh oh oh oh oh\""
+  },
+  {
+   "t": 75.0,
+   "kind": "sung line starts: \"oh oh ne me demande pas pourquoi\""
+  },
+  {
+   "t": 79.8,
+   "kind": "sung line starts: \"oh oh oh oh oh oh oh\""
+  },
+  {
+   "t": 84.4,
+   "kind": "sung line starts: \"oh oh je n'te dirai pas pourquoi\""
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video visually acknowledges the first vocal entry at 13.7s (e.g., a character appears/starts singing, text appears, or there is a significant cut)."
+  },
+  {
+   "id": "S2",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "There is a distinct visual response, such as a scene shift or lighting change, aligning with the section change at 41.9s."
+  },
+  {
+   "id": "S3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The picture delivers a major visual payoff, scene drop, or burst of intense energy to match the climactic 'oh oh oh' hook at 70.5s."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "text",
+   "check": "If lyrics are displayed on screen, they correctly match the French words (e.g., 'toi et moi' at 13.7s) rather than generating disconnected English text."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 90.0,
+  "approx_bpm": 103,
+  "section_changes_at_s": [
+   0.0,
+   9.3,
+   41.92
+  ],
+  "sung_lines": [
+   {
+    "start": 13.706,
+    "end": 18.174,
+    "text": "toi et moi on n'se connait plus comme une légère p'tite impression"
+   },
+   {
+    "start": 18.428,
+    "end": 22.765,
+    "text": "d'avoir légèrement tout perdu dans un flot de contrefaçons"
+   },
+   {
+    "start": 23.049,
+    "end": 27.563,
+    "text": "mais la vie est bien trop courte pour avoir la main légère"
+   },
+   {
+    "start": 28.271,
+    "end": 32.28,
+    "text": "avec ou sans trop d'amour je ne vous détesterai guère"
+   },
+   {
+    "start": 32.28,
+    "end": 37.228,
+    "text": "il paraitrait qu'au petit jour ma ville serai plein de nuances"
+   },
+   {
+    "start": 37.578,
+    "end": 41.682,
+    "text": "à cette heure ci elle est trop floue et ne manque pas de non sens"
+   },
+   {
+    "start": 41.682,
+    "end": 43.895,
+    "text": "ces extra rires dans toutes ces dunes"
+   },
+   {
+    "start": 44.052,
+    "end": 46.193,
+    "text": "et me tiennent là haut dans la lune"
+   },
+   {
+    "start": 46.317,
+    "end": 48.566,
+    "text": "pour ca j'ai toujours été là"
+   },
+   {
+    "start": 48.729,
+    "end": 50.868,
+    "text": "ne me demande pas pourquoi"
+   },
+   {
+    "start": 50.994,
+    "end": 53.333,
+    "text": "mais plus ça va plus ça empire"
+   },
+   {
+    "start": 53.333,
+    "end": 55.505,
+    "text": "même quand il n'y a plus rien à dire"
+   },
+   {
+    "start": 55.728,
+    "end": 57.756,
+    "text": "en tout cas il faut qu'j'compte sur moi"
+   },
+   {
+    "start": 57.984,
+    "end": 60.199,
+    "text": "je n'te dirai pas pourquoi"
+   },
+   {
+    "start": 60.372,
+    "end": 62.632,
+    "text": "maint'nant il faut que j'me rendorme"
+   },
+   {
+    "start": 62.632,
+    "end": 64.696,
+    "text": "en croyant rester dans les normes"
+   },
+   {
+    "start": 64.998,
+    "end": 67.171,
+    "text": "mais cela ne m'regarde pas"
+   },
+   {
+    "start": 67.339,
+    "end": 69.31,
+    "text": "allez savoir pourquoi"
+   },
+   {
+    "start": 69.31,
+    "end": 70.038,
+    "text": "ah ah"
+   },
+   {
+    "start": 70.47,
+    "end": 74.344,
+    "text": "oh oh oh oh oh oh oh"
+   },
+   {
+    "start": 75.043,
+    "end": 78.946,
+    "text": "oh oh ne me demande pas pourquoi"
+   },
+   {
+    "start": 79.766,
+    "end": 83.852,
+    "text": "oh oh oh oh oh oh oh"
+   },
+   {
+    "start": 84.42,
+    "end": 88.398,
+    "text": "oh oh je n'te dirai pas pourquoi"
+   }
+  ]
+ }
+}

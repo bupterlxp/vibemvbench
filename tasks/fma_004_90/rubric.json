@@ -1,0 +1,162 @@
+{
+ "profile": "The track is an instrumental classical/ambient piece. It features delicate music box or celesta melodies floating over soft atmospheric synth pads for the first minute. The mood starts dreamy, gentle, and lullaby-like, but drastically transforms into something intricate, mathematical, and bustling. The energy arc reflects this: very low, slow, and floating for the first 60 seconds, followed by a sudden, massive jump in tempo and activity when a fast, continuous, Baroque-style arpeggiated synth sequence kicks in, maintaining high energy until the end.",
+ "key_moments": [
+  {
+   "t": 12.0,
+   "what": "A new, gentle melodic phrase begins in the music box over the ambient pad."
+  },
+  {
+   "t": 34.4,
+   "what": "The music box pattern changes slightly, shifting its phrasing and harmonic focus."
+  },
+  {
+   "t": 49.3,
+   "what": "The melody shifts to a higher, more delicate register, slowly building anticipation."
+  },
+  {
+   "t": 60.4,
+   "what": "The most dramatic structural shift in the song: the slow ambient section ends, and a fast, continuous, virtuosic Baroque-style synth arpeggio begins."
+  }
+ ],
+ "fitting_styles": "Abstract or geometric styles are a perfect fit, as they match the precise, mathematical nature of the classical arpeggios in the second half. A narrative approach could work beautifully if it tells a story of a dream state (the slow part) transitioning into a waking, mechanical, or bustling reality (the fast part). A performance video showing a musician playing delicately and then with sudden virtuosic speed would also suit the track. Clashing styles would include aggressive urban hip-hop, heavy action montages, or any lip-syncing, which would completely conflict with the delicate, wordless classical arrangement.",
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video marks the major structural shift at ~60.4s (where the fast arpeggios begin) with a distinct change in scene, editing pace, or visual density."
+  },
+  {
+   "id": "S2",
+   "level": "detail",
+   "modality": "visual",
+   "check": "The visual pacing or motion is noticeably faster, more intricate, or more energetic after ~60.4s compared to the slow first minute."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The video acknowledges the melody shifting to a higher register at ~49.3s with upward motion, a change in lighting, or a cut."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "There is a subtle visual edit, character reaction, or motion accent at ~12.0s to mark the start of the new melodic phrase."
+  }
+ ],
+ "anchors": {
+  "UN": "1: The concept completely clashes with the delicate classical nature of the track (e.g., heavy action, urban grit). 3: The video fits the classical/ambient genre but ignores the stark contrast between the slow and fast halves. 5: The chosen concept perfectly captures both the dreamy, floating opening and the intricate, mathematical energy of the second half.",
+  "EM": "1: The visuals project aggressive or discordant emotions that ruin the delicate mood. 3: The video has a generally pleasant atmosphere but feels emotionally static throughout the tempo change. 5: The picture conveys a sense of serene wonder that beautifully evolves into active curiosity, urgency, or mechanical precision.",
+  "RH": "1: Visual motion and cuts are completely disconnected from the music's timing. 3: The pacing generally matches the slow/fast sections, but visual events aren't tightly locked to the specific melodic notes. 5: Visuals drift gently in the first minute, then tightly lock into the fast, rhythmic subdivisions of the 16th-note arpeggios after 60s.",
+  "ST": "1: The video ignores all musical changes, playing out as a single static loop or unresponsive montage. 3: The video changes at the major 60.4s drop but misses the subtle phrasing changes in the first minute. 5: The picture clearly responds to the delicate phrase changes at 12.0s, 34.4s, and 49.3s, and delivers a major, impactful visual shift at 60.4s.",
+  "LY": "1: N/A. 3: N/A. 5: N/A.",
+  "VA": "1: The video is full of ugly glitches, severe AI morphing, or looks like a low-effort placeholder. 3: The visuals are adequately rendered but feel slightly generic or have minor, distracting artifacting. 5: The video features high-quality, clean rendering, cohesive color grading, and strong composition throughout.",
+  "CR": "1: The video consists of random, unrelated images or a completely basic template visualizer. 3: The concept is fitting but obvious, relying on standard space, nature, or classical stock tropes. 5: The video uses a highly imaginative concept (like the inner workings of a clock coming to life or a microscopic world) that makes the instrumental track unforgettable."
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 12.0,
+   "kind": "section change"
+  },
+  {
+   "t": 34.4,
+   "kind": "section change"
+  },
+  {
+   "t": 49.3,
+   "kind": "section change"
+  },
+  {
+   "t": 60.4,
+   "kind": "section change"
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video marks the major structural shift at ~60.4s (where the fast arpeggios begin) with a distinct change in scene, editing pace, or visual density."
+  },
+  {
+   "id": "S2",
+   "level": "detail",
+   "modality": "visual",
+   "check": "The visual pacing or motion is noticeably faster, more intricate, or more energetic after ~60.4s compared to the slow first minute."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The video acknowledges the melody shifting to a higher register at ~49.3s with upward motion, a change in lighting, or a cut."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "There is a subtle visual edit, character reaction, or motion accent at ~12.0s to mark the start of the new melodic phrase."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 90.0,
+  "approx_bpm": 133,
+  "section_changes_at_s": [
+   11.98,
+   34.36,
+   49.28,
+   60.4
+  ],
+  "sung_lines": []
+ }
+}

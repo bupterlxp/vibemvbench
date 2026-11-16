@@ -1,0 +1,38 @@
+{
+ "task_id": "fma_031_90",
+ "song_id": "fma_031",
+ "clip_start": 2.93,
+ "clip_end": 92.93,
+ "length_class": 90,
+ "difficulty_tier": "easy",
+ "spec": {
+  "resolution": [
+   1920,
+   1080
+  ],
+  "fps": 30,
+  "duration_tol": 0.1,
+  "duration": 90.0
+ },
+ "song": {
+  "title": "CHICKEN DINNER",
+  "artist": "Elvis Herod",
+  "genre": "Synth Pop",
+  "language": "unk",
+  "license": "CC-BY-NC-SA 3.0",
+  "url": "http://freemusicarchive.org/music/Elvis_Herod/Arab_Justice/013_CHICKEN_DINNER"
+ },
+ "lyrics_text": [],
+ "prompt": "Make a music video for this song. Make it as good as you possibly can.",
+ "free": true,
+ "difficulty": {
+  "d_rhythm": -0.53,
+  "d_structure": -1.95,
+  "d_dynamics": -0.22,
+  "d_lyrics": -0.47,
+  "d_genre": 0.0,
+  "d_length": -1.81,
+  "difficulty": -0.831
+ },
+ "alignment_fix": "2026-11-07: clip window corrected from 3.68 to 2.93 (audio/rubric were built for this window)"
+}

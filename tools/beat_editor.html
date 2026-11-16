@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>节拍校对</title>
+<style>
+:root{--bg:#f7f7f5;--fg:#1d1d1f;--muted:#6b6b70;--panel:#fff;--line:#d9d9de;--beat:#2563eb;--down:#dc2626;--sec:#16a34a;--flag:rgba(245,158,11,.18);--wave:#9ca3af;--cand:#a855f7}
+@media (prefers-color-scheme:dark){:root{--bg:#141416;--fg:#ececef;--muted:#9a9aa3;--panel:#1d1d21;--line:#34343a;--wave:#5b5f68}}
+*{box-sizing:border-box}body{margin:0;font:14px/1.5 -apple-system,BlinkMacSystemFont,"PingFang SC",sans-serif;background:var(--bg);color:var(--fg)}
+header{padding:12px 16px;border-bottom:1px solid var(--line);display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+h1{font-size:16px;margin:0 12px 0 0}button,select,label.file{font:inherit;padding:5px 10px;border:1px solid var(--line);border-radius:6px;background:var(--panel);color:var(--fg);cursor:pointer}
+button.on{background:var(--beat);color:#fff;border-color:var(--beat)}input[type=file]{display:none}
+main{padding:12px 16px}#wrap{position:relative;overflow-x:auto;border:1px solid var(--line);border-radius:8px;background:var(--panel)}
+canvas{display:block}#info{color:var(--muted);margin:8px 0}#help{color:var(--muted);font-size:13px}kbd{border:1px solid var(--line);border-radius:4px;padding:0 4px;font-size:12px}
+.legend span{display:inline-block;margin-right:12px}.sw{display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:4px;vertical-align:middle}
+</style>
+</head>
+<body>
+<header>
+  <h1>节拍校对</h1>
+  <label class="file">① 音频<input id="fa" type="file" accept="audio/*"></label>
+  <label class="file">② 标注 JSON<input id="fj" type="file" accept=".json,application/json"></label>
+  <button id="play">播放 ␣</button>
+  <button id="click" title="在每个拍点播放提示音">节拍提示音</button>
+  <select id="zoom"><option value="60">缩放 60 px/s</option><option value="120" selected>120 px/s</option><option value="240">240 px/s</option><option value="480">480 px/s</option></select>
+  <select id="mode"><option value="beats">编辑：拍点</option><option value="downbeats">编辑：强拍</option><option value="sections">编辑：段落边界</option></select>
+  <button id="showc">显示候选</button>
+  <button id="next">下一个待校对 ⇥</button>
+  <button id="done">本段已核对 ✓</button>
+  <button id="save">导出 JSON</button>
+</header>
+<main>
+  <div class="legend"><span><i class="sw" style="background:var(--beat)"></i>拍点</span><span><i class="sw" style="background:var(--down)"></i>强拍</span><span><i class="sw" style="background:var(--sec)"></i>段落边界</span><span><i class="sw" style="background:#f59e0b"></i>算法不一致，需校对</span><span><i class="sw" style="background:var(--cand)"></i>候选算法的拍点</span></div>
+  <div id="wrap"><canvas id="cv" height="260"></canvas></div>
+  <div id="info">请先载入音频和标注文件。</div>
+  <div id="help">
+    <b>操作：</b>点击空白处 = 在当前编辑层添加标记；拖动标记 = 移动；<kbd>Shift</kbd>+点击标记 = 删除；双击 = 从该位置播放；
+    <kbd>空格</kbd> 播放/暂停；<kbd>T</kbd> 在播放时按节拍敲击，会在当前时间附近添加拍点；<kbd>←</kbd><kbd>→</kbd> 前后跳 2 秒。
+    建议打开"节拍提示音"边听边看：提示音和鼓点对不上的地方就需要修。改完点"本段已核对"，最后"导出 JSON"，把文件发回即可。
+  </div>
+</main>
+<script>
+const $=s=>document.querySelector(s), cv=$('#cv'), ctx=cv.getContext('2d');
+let ac=null, buf=null, src=null, t0=0, off=0, playing=false, ann=null, pps=120, peaks=null, showCand=false, clickOn=false, fname='annotation';
+let drag=null, reviewed=new Set(), clickTimer=null, lastClick=-1;
+const css=n=>getComputedStyle(document.documentElement).getPropertyValue(n).trim();
+function now(){return playing?ac.currentTime-t0:off}
+$('#fa').onchange=async e=>{const f=e.target.files[0]; if(!f)return; ac=ac||new AudioContext(); buf=await ac.decodeAudioData(await f.arrayBuffer()); computePeaks(); layout(); draw(); info()};
+$('#fj').onchange=async e=>{const f=e.target.files[0]; if(!f)return; fname=f.name.replace(/\.json$/,''); ann=JSON.parse(await f.text());
+  ann.beats=ann.beats||[]; ann.downbeats=ann.downbeats||[]; ann.section_boundaries=ann.section_boundaries||[];
+  (ann.human_review&&ann.human_review.reviewed_windows||[]).forEach(i=>reviewed.add(i)); layout(); draw(); info()};
+function dur(){return buf?buf.duration:(ann&&ann.duration)||60}
+function computePeaks(){const d=buf.getChannelData(0), n=Math.ceil(buf.duration*100); peaks=new Float32Array(n);
+  const step=Math.floor(d.length/n); for(let i=0;i<n;i++){let m=0; for(let j=i*step;j<(i+1)*step;j+=8){const v=Math.abs(d[j]||0); if(v>m)m=v} peaks[i]=m}}
+function layout(){cv.width=Math.ceil(dur()*pps)+40}
+function x(t){return 20+t*pps} function tx(px){return (px-20)/pps}
+function layer(){return $('#mode').value==='sections'?'section_boundaries':$('#mode').value}
+function draw(){const W=cv.width,H=cv.height; ctx.clearRect(0,0,W,H);
+  if(ann&&ann.beat_windows) ann.beat_windows.forEach((w,i)=>{ if(w.needs_review&&!reviewed.has(i)){ctx.fillStyle='rgba(245,158,11,.18)'; ctx.fillRect(x(w.start),0,(w.end-w.start)*pps,H)}
+    else if(reviewed.has(i)){ctx.fillStyle='rgba(22,163,74,.07)'; ctx.fillRect(x(w.start),0,(w.end-w.start)*pps,H)} });
+  if(peaks){ctx.fillStyle=css('--wave'); for(let i=0;i<peaks.length;i++){const h=peaks[i]*110; ctx.fillRect(x(i/100),130-h,Math.max(1,pps/100),2*h)}}
+  ctx.fillStyle=css('--muted'); ctx.font='11px sans-serif'; for(let s=0;s<=dur();s+=5){ctx.fillRect(x(s),H-14,1,6); ctx.fillText(s+'s',x(s)+2,H-3)}
+  if(!ann){return}
+  if(showCand&&ann.beat_candidates){const keys=Object.keys(ann.beat_candidates); keys.forEach((k,ki)=>{ctx.fillStyle=css('--cand'); ann.beat_candidates[k].forEach(t=>ctx.fillRect(x(t)-0.5,6+ki*8,1.5,6)); ctx.fillText(k,4,12+ki*8)})}
+  (ann.lyrics_lines||[]).forEach(l=>{ctx.fillStyle='rgba(107,107,112,.18)'; ctx.fillRect(x(l.start),226,(l.end-l.start)*pps,14); ctx.fillStyle=css('--muted'); ctx.fillText(l.text.slice(0,Math.max(4,(l.end-l.start)*pps/6)),x(l.start)+2,237)});
+  ctx.fillStyle=css('--beat'); ann.beats.forEach(t=>ctx.fillRect(x(t)-1,50,2,160));
+  ctx.fillStyle=css('--down'); ann.downbeats.forEach(t=>ctx.fillRect(x(t)-1.5,40,3,180));
+  ctx.fillStyle=css('--sec'); ann.section_boundaries.forEach(t=>{ctx.fillRect(x(t)-2,30,4,200)});
+  ctx.fillStyle=css('--fg'); ctx.fillRect(x(now())-1,0,2,H)}
+function info(){if(!ann){$('#info').textContent=buf?'已载入音频，请载入标注 JSON。':'请先载入音频和标注文件。';return}
+  const w=ann.beat_windows||[], need=w.filter((v,i)=>v.needs_review&&!reviewed.has(i)).length;
+  $('#info').textContent=`${fname} · 时长 ${dur().toFixed(1)}s · 拍点 ${ann.beats.length} · 强拍 ${ann.downbeats.length} · 段落边界 ${ann.section_boundaries.length} · 待校对窗口 ${need}/${w.length} · 当前 ${now().toFixed(2)}s`}
+function nearest(arr,t,tol){let bi=-1,bd=tol; arr.forEach((v,i)=>{const d=Math.abs(v-t); if(d<bd){bd=d;bi=i}}); return bi}
+cv.onmousedown=e=>{if(!ann)return; const r=cv.getBoundingClientRect(), t=tx(e.clientX-r.left), L=layer(), arr=ann[L], i=nearest(arr,t,6/pps);
+  if(i>=0&&e.shiftKey){arr.splice(i,1)} else if(i>=0){drag={L,i}} else {arr.push(+t.toFixed(3)); arr.sort((a,b)=>a-b)} draw(); info()};
+cv.onmousemove=e=>{if(!drag)return; const r=cv.getBoundingClientRect(); ann[drag.L][drag.i]=+tx(e.clientX-r.left).toFixed(3); draw()};
+window.onmouseup=()=>{if(drag){ann[drag.L].sort((a,b)=>a-b); drag=null; info()}};
+cv.ondblclick=e=>{const r=cv.getBoundingClientRect(); seek(Math.max(0,tx(e.clientX-r.left)-0.5)); if(!playing)play()};
+function play(){if(!buf)return; ac.resume(); src=ac.createBufferSource(); src.buffer=buf; src.connect(ac.destination); t0=ac.currentTime-off; src.start(0,off); playing=true;
+  src.onended=()=>{if(playing&&now()>=dur()-0.05){playing=false;off=0}}; $('#play').textContent='暂停 ␣'; tick()}
+function pause(){if(!playing)return; off=now(); playing=false; try{src.stop()}catch(e){} $('#play').textContent='播放 ␣'; draw()}
+function seek(t){const was=playing; pause(); off=Math.max(0,Math.min(dur(),t)); if(was)play(); draw(); info()}
+function beep(){const o=ac.createOscillator(), g=ac.createGain(); o.frequency.value=1800; g.gain.setValueAtTime(.25,ac.currentTime); g.gain.exponentialRampToValueAtTime(.001,ac.currentTime+.05); o.connect(g).connect(ac.destination); o.start(); o.stop(ac.currentTime+.06)}
+function tick(){if(!playing)return; const t=now();
+  if(clickOn&&ann){const nb=ann.beats.find(b=>b>lastClick&&b<=t+0.01); if(nb!==undefined){beep(); lastClick=nb}}
+  const wrap=$('#wrap'), px=x(t); if(px>wrap.scrollLeft+wrap.clientWidth-80||px<wrap.scrollLeft) wrap.scrollLeft=px-120;
+  draw(); info(); requestAnimationFrame(tick)}
+$('#play').onclick=()=>playing?pause():play();
+$('#click').onclick=e=>{clickOn=!clickOn; e.target.classList.toggle('on',clickOn); lastClick=now()};
+$('#showc').onclick=e=>{showCand=!showCand; e.target.classList.toggle('on',showCand); draw()};
+$('#zoom').onchange=e=>{pps=+e.target.value; layout(); draw()};
+$('#next').onclick=()=>{if(!ann||!ann.beat_windows)return; const w=ann.beat_windows.findIndex((v,i)=>v.needs_review&&!reviewed.has(i)&&v.start>=now()-0.1)
+  ; const j=w>=0?w:ann.beat_windows.findIndex((v,i)=>v.needs_review&&!reviewed.has(i)); if(j>=0) seek(ann.beat_windows[j].start)};
+$('#done').onclick=()=>{if(!ann||!ann.beat_windows)return; const i=ann.beat_windows.findIndex(v=>now()>=v.start&&now()<v.end); if(i>=0){reviewed.add(i); draw(); info()}};
+$('#save').onclick=()=>{if(!ann)return; const out=Object.assign({},ann,{human_review:{reviewed_windows:[...reviewed].sort((a,b)=>a-b),saved_at:new Date().toISOString(),
+  bpm_from_beats:ann.beats.length>2?60/median(diff(ann.beats)):null}}); delete out.beat_candidates;
+  const a=document.createElement('a'); a.href=URL.createObjectURL(new Blob([JSON.stringify(out)],{type:'application/json'})); a.download=fname+'.reviewed.json'; a.click()};
+function diff(a){return a.slice(1).map((v,i)=>v-a[i])} function median(a){const s=[...a].sort((x,y)=>x-y); return s[Math.floor(s.length/2)]}
+window.onkeydown=e=>{if(e.target.tagName==='SELECT')return;
+  if(e.code==='Space'){e.preventDefault(); playing?pause():play()}
+  else if(e.code==='ArrowRight'){seek(now()+2)} else if(e.code==='ArrowLeft'){seek(now()-2)}
+  else if(e.key==='t'||e.key==='T'){if(ann&&playing){const t=now()-0.03, L=layer(), i=nearest(ann[L],t,0.12); if(i>=0)ann[L][i]=+t.toFixed(3); else {ann[L].push(+t.toFixed(3)); ann[L].sort((a,b)=>a-b)} info()}}};
+draw();
+</script>
+</body>
+</html>

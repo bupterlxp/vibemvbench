@@ -1,0 +1,57 @@
+{
+ "task_id": "jl_015_90",
+ "song_id": "jl_015",
+ "clip_start": 8.68,
+ "clip_end": 98.68,
+ "length_class": 90,
+ "difficulty_tier": "easy",
+ "spec": {
+  "resolution": [
+   1920,
+   1080
+  ],
+  "fps": 30,
+  "duration_tol": 0.1,
+  "duration": 90.0
+ },
+ "song": {
+  "title": "Die Revolution gehört Dir!",
+  "artist": "Die Partysahnen",
+  "genre": "Indie",
+  "language": "de",
+  "license": "CC BY-NC-SA",
+  "url": "https://www.jamendo.com/track/49283/die-revolution-gehoert-dir/lyrics"
+ },
+ "lyrics_text": [
+  "weißt du noch damals",
+  "als wir durch die straßen gingen",
+  "weißt du noch damals",
+  "als die revolution in den köpfen war",
+  "und damals dachten sie",
+  "sie wären unbesiegbar",
+  "und damals fühlten sie sich",
+  "zusammen einfach unschlagbar",
+  "heute sind sie",
+  "in seattle und cancun",
+  "streiten für freiheit",
+  "und für revoluzzer ruhm",
+  "sie rufen gemeinsam",
+  "zur letzten großen schlacht",
+  "den hüttenfrieden",
+  "rohe gewalt kostet macht",
+  "und ich steh' auf der straße ich steh auf der straße",
+  "und weiß nicht was soll ich und weiß nicht was soll ich"
+ ],
+ "prompt": "Make a music video for this song. Make it as good as you possibly can.",
+ "free": true,
+ "difficulty": {
+  "d_rhythm": -0.54,
+  "d_structure": -1.07,
+  "d_dynamics": 0.42,
+  "d_lyrics": 1.14,
+  "d_genre": 0.0,
+  "d_length": -0.92,
+  "difficulty": -0.162
+ },
+ "alignment_fix": "2026-11-07: clip window corrected from 21.29 to 8.68 (audio/rubric were built for this window)"
+}

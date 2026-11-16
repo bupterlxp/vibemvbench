@@ -1,0 +1,619 @@
+{
+ "profile": "A high-energy, triumphant hip-hop track driven by a catchy, repetitive brass/horn loop, heavy bass, and crisp drum programming. The vocals are delivered by a confident, charismatic male rapper. The lyrical theme centers on self-belief, ignoring detractors ('haters'), pursuing dreams, and achieving greatness, notably using a metaphor about LeBron James silencing critics. The energy arc begins with a brief instrumental intro, drops heavily into an infectious, high-energy hook, transitions into a dynamic verse with rhythmic staccato pauses, builds tension through the basketball metaphor, peaks with the return of the explosive hook, and finally cools down into a spoken-word outro.",
+ "key_moments": [
+  {
+   "t": 9.6,
+   "what": "The beat drops fully and the main hook begins, establishing the core energy of the track."
+  },
+  {
+   "t": 28.8,
+   "what": "The hook ends and the first verse begins; the flow changes to a more narrative, steady delivery."
+  },
+  {
+   "t": 38.7,
+   "what": "The start of a triplet rhythmic vocal repetition ('wait for it... wait for it... wait for it') where the beat accents the vocals with sharp pauses."
+  },
+  {
+   "t": 57.6,
+   "what": "The 'LeBron' section begins, acting as a narrative and energetic build-up, with increasing intensity leading back to the hook."
+  },
+  {
+   "t": 67.8,
+   "what": "The main hook returns with full energy, serving as the track's climax after the build-up."
+  },
+  {
+   "t": 86.4,
+   "what": "The track enters its outro; the musical energy strips back as the rapper delivers closing spoken-word lines."
+  }
+ ],
+ "fitting_styles": [
+  "Performance video: A charismatic rapper performing with swagger, perhaps with a crew or crowd, perfectly suits the 'Crowdpleaser' title.",
+  "Narrative (Sports/Underdog): A story of a basketball player or athlete overcoming doubt to succeed, directly reflecting the LeBron lyrics and triumphant mood.",
+  "Kinetic typography: Bold, energetic, bouncing text animations that match the confident delivery and brass stabs.",
+  "Rhythmic montage: Fast-paced, punchy editing of urban or sports imagery locked to the boom-bap rhythm and horn loops.",
+  "Clashing: Melancholic, slow-paced cinematic narratives; soft, pastel, or ethereal abstract visuals; low-energy, static scenes that fail to capture the upbeat, aggressive bounce of the track."
+ ],
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "A significant visual transition, effect, or the introduction of the main subject marks the major beat drop at 9.6 seconds."
+  },
+  {
+   "id": "S2",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual accents (e.g., rapid cuts, camera punches, or text reveals) specifically emphasize the staccato 'wait for it' vocal hits between 38.7 and 40.1 seconds."
+  },
+  {
+   "id": "S3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The visual pacing, lighting, or scene setting shifts to match the climactic return of the main hook at 67.8 seconds."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The visual energy visibly drops, or the video transitions to a closing sequence (e.g., credits, fading out, a static shot) at the section change at 86.4 seconds."
+  }
+ ],
+ "anchors": {
+  "UN": {
+   "1": "The video's concept is entirely disconnected from the track's upbeat, triumphant hip-hop vibe, appearing slow, sad, or aggressively industrial.",
+   "3": "The video matches the hip-hop genre but remains generic, missing the specific motivational, 'crowdpleasing' triumph and confident swagger of the track.",
+   "5": "The video perfectly captures the confident, triumphant energy of the song, whether through an engaging sports narrative, an electric performance, or punchy kinetic typography."
+  },
+  "EM": {
+   "1": "The mood feels gloomy, lethargic, or anxious, directly contradicting the song's motivational and boastful energy.",
+   "3": "The mood is generally positive but flat, lacking the escalating excitement or the defiant swagger conveyed by the lyrics.",
+   "5": "The video radiates confidence and triumph, visually swelling with pride and high energy as the song builds to silence the 'haters.'"
+  },
+  "RH": {
+   "1": "The visuals float aimlessly, completely ignoring the strong driving hip-hop beat and brass loops.",
+   "3": "The video cuts on the main 4/4 beats but misses the opportunity to visually punctuate specific rhythmic pauses or the bouncy groove.",
+   "5": "The editing is tightly locked to the groove, catching the brass stabs, drum kicks, and specific vocal pauses like the 'wait for it' sequence with dynamic visual accents."
+  },
+  "ST": {
+   "1": "The video is a continuous, unvarying loop or scene that ignores the song's clear intro, verse, hook, and outro divisions.",
+   "3": "The video clearly marks the initial drop at 9.6s but fails to distinguish the verse transition, the build-up, or the cooldown in the outro.",
+   "5": "The video clearly demarcates the intro, the hook drops (9.6s, 67.8s), the verse transition (28.8s), and the cooldown outro (86.4s) with distinct, purposeful visual shifts."
+  },
+  "LY": {
+   "1": "Text, if used, is incorrect or out of sync; narrative imagery completely contradicts the themes of success, ignoring hate, and achieving dreams.",
+   "3": "The imagery loosely fits themes of success or general hip-hop tropes, but misses specific prominent cues like the basketball references or the direct address to 'spectators.'",
+   "5": "The video cleverly incorporates the lyrical themes—depicting literal or metaphorical 'haters', using sports motifs for the LeBron lines, or featuring flawless, stylistic kinetic typography."
+  },
+  "VA": {
+   "1": "The imagery is heavily artifacted, low-resolution, glitchy, or looks like an unrefined, raw AI prompt generation.",
+   "3": "The video is visually coherent and clear but lacks a polished color grade, dynamic lighting, or sophisticated composition, looking somewhat amateur.",
+   "5": "The visuals are crisp, dynamically composed, and stylistically cohesive, boasting the polished color and lighting of a high-end music video or commercial."
+  },
+  "CR": {
+   "1": "The video relies on a completely static image or a basic, uninspired audio-reactive waveform template.",
+   "3": "The video presents a standard hip-hop performance or a basic sports montage that works well but offers no unique visual twist or memorable concept.",
+   "5": "The video employs a highly original take—such as a surreal sports metaphor, innovative mixed-media motion graphics, or a unique narrative angle—that heavily elevates the song's theme."
+  }
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 9.6,
+   "kind": "section change"
+  },
+  {
+   "t": 10.1,
+   "kind": "sung line starts: \"people gonna hate let them do it\""
+  },
+  {
+   "t": 12.0,
+   "kind": "sung line starts: \"shine like it ain't nothing to it\""
+  },
+  {
+   "t": 13.9,
+   "kind": "sung line starts: \"damn you a major influence\""
+  },
+  {
+   "t": 15.6,
+   "kind": "sung line starts: \"skate like there ain't nothing doing\""
+  },
+  {
+   "t": 17.1,
+   "kind": "sung line starts: \"live life don't say nothing to them\""
+  },
+  {
+   "t": 19.7,
+   "kind": "sung line starts: \"people gonna hate let them do it\""
+  },
+  {
+   "t": 21.5,
+   "kind": "sung line starts: \"shine like it ain't nothing to it\""
+  },
+  {
+   "t": 23.5,
+   "kind": "sung line starts: \"damn you a major influence\""
+  },
+  {
+   "t": 25.2,
+   "kind": "sung line starts: \"skate like there ain't nothing doing\""
+  },
+  {
+   "t": 26.8,
+   "kind": "sung line starts: \"live life don't say nothing to them\""
+  },
+  {
+   "t": 28.8,
+   "kind": "section change"
+  },
+  {
+   "t": 29.4,
+   "kind": "sung line starts: \"people telling lies on me\""
+  },
+  {
+   "t": 31.2,
+   "kind": "sung line starts: \"feeling like pac\""
+  },
+  {
+   "t": 32.2,
+   "kind": "sung line starts: \"all eyes on me\""
+  },
+  {
+   "t": 33.6,
+   "kind": "sung line starts: \"whats my next rhyme\""
+  },
+  {
+   "t": 34.5,
+   "kind": "sung line starts: \"gonna be\""
+  },
+  {
+   "t": 35.4,
+   "kind": "sung line starts: \"dull mother fuckers can't never ever\""
+  },
+  {
+   "t": 37.1,
+   "kind": "sung line starts: \"shine off me\""
+  },
+  {
+   "t": 38.7,
+   "kind": "sung line starts: \"wait for it\""
+  },
+  {
+   "t": 39.5,
+   "kind": "sung line starts: \"wait for it\""
+  },
+  {
+   "t": 40.1,
+   "kind": "sung line starts: \"wait for it\""
+  },
+  {
+   "t": 41.2,
+   "kind": "sung line starts: \"don't worry the my haters is gonna pay for it\""
+  },
+  {
+   "t": 43.5,
+   "kind": "sung line starts: \"chase dreams dumb niggas chase whores\""
+  },
+  {
+   "t": 46.0,
+   "kind": "sung line starts: \"over sea's on a great tour\""
+  },
+  {
+   "t": 47.7,
+   "kind": "sung line starts: \"or maybe i'm just dreaming\""
+  },
+  {
+   "t": 48.0,
+   "kind": "section change"
+  },
+  {
+   "t": 50.1,
+   "kind": "sung line starts: \"it beats being with demons or\""
+  },
+  {
+   "t": 51.6,
+   "kind": "sung line starts: \"a nigga scheming or at least im thinking of an achievement\""
+  },
+  {
+   "t": 54.6,
+   "kind": "sung line starts: \"people talk shit for four seasons\""
+  },
+  {
+   "t": 56.3,
+   "kind": "sung line starts: \"for no reason\""
+  },
+  {
+   "t": 57.6,
+   "kind": "sung line starts: \"people dog lebron until lebron show up\""
+  },
+  {
+   "t": 59.9,
+   "kind": "sung line starts: \"when he step on the paint then their guards go up\""
+  },
+  {
+   "t": 62.1,
+   "kind": "sung line starts: \"scores up all the applauds go up\""
+  },
+  {
+   "t": 64.5,
+   "kind": "sung line starts: \"and everybody in the whole damn court goes nuts\""
+  },
+  {
+   "t": 67.8,
+   "kind": "sung line starts: \"people gonna hate let them do it\""
+  },
+  {
+   "t": 69.6,
+   "kind": "sung line starts: \"shine like it ain't nothing to it\""
+  },
+  {
+   "t": 71.5,
+   "kind": "sung line starts: \"damn you a major influence\""
+  },
+  {
+   "t": 73.1,
+   "kind": "sung line starts: \"skate like there ain't nothing doing\""
+  },
+  {
+   "t": 74.8,
+   "kind": "sung line starts: \"live life don't say nothing to them\""
+  },
+  {
+   "t": 77.3,
+   "kind": "sung line starts: \"people gonna hate let them do it\""
+  },
+  {
+   "t": 79.1,
+   "kind": "sung line starts: \"shine like it ain't nothing to it\""
+  },
+  {
+   "t": 81.0,
+   "kind": "sung line starts: \"damn you a major influence\""
+  },
+  {
+   "t": 82.8,
+   "kind": "sung line starts: \"skate like there ain't nothing doing\""
+  },
+  {
+   "t": 84.3,
+   "kind": "sung line starts: \"live life don't say nothing to them\""
+  },
+  {
+   "t": 86.4,
+   "kind": "section change"
+  },
+  {
+   "t": 86.6,
+   "kind": "sung line starts: \"spectators\""
+  },
+  {
+   "t": 87.8,
+   "kind": "sung line starts: \"side liners\""
+  },
+  {
+   "t": 89.0,
+   "kind": "sung line starts: \"spending days\""
+  },
+  {
+   "t": 89.6,
+   "kind": "sung line starts: \"coming up with sly comments\""
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "A significant visual transition, effect, or the introduction of the main subject marks the major beat drop at 9.6 seconds."
+  },
+  {
+   "id": "S2",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual accents (e.g., rapid cuts, camera punches, or text reveals) specifically emphasize the staccato 'wait for it' vocal hits between 38.7 and 40.1 seconds."
+  },
+  {
+   "id": "S3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The visual pacing, lighting, or scene setting shifts to match the climactic return of the main hook at 67.8 seconds."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The visual energy visibly drops, or the video transitions to a closing sequence (e.g., credits, fading out, a static shot) at the section change at 86.4 seconds."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 90.0,
+  "approx_bpm": 100,
+  "section_changes_at_s": [
+   9.58,
+   28.78,
+   47.98,
+   86.4
+  ],
+  "sung_lines": [
+   {
+    "start": 10.141,
+    "end": 11.925,
+    "text": "people gonna hate let them do it"
+   },
+   {
+    "start": 12.024,
+    "end": 13.652,
+    "text": "shine like it ain't nothing to it"
+   },
+   {
+    "start": 13.859,
+    "end": 15.306,
+    "text": "damn you a major influence"
+   },
+   {
+    "start": 15.563,
+    "end": 17.145,
+    "text": "skate like there ain't nothing doing"
+   },
+   {
+    "start": 17.145,
+    "end": 18.982,
+    "text": "live life don't say nothing to them"
+   },
+   {
+    "start": 19.727,
+    "end": 21.34,
+    "text": "people gonna hate let them do it"
+   },
+   {
+    "start": 21.538,
+    "end": 23.107,
+    "text": "shine like it ain't nothing to it"
+   },
+   {
+    "start": 23.493,
+    "end": 25.022,
+    "text": "damn you a major influence"
+   },
+   {
+    "start": 25.161,
+    "end": 26.755,
+    "text": "skate like there ain't nothing doing"
+   },
+   {
+    "start": 26.755,
+    "end": 28.705,
+    "text": "live life don't say nothing to them"
+   },
+   {
+    "start": 29.382,
+    "end": 30.983,
+    "text": "people telling lies on me"
+   },
+   {
+    "start": 31.203,
+    "end": 32.047,
+    "text": "feeling like pac"
+   },
+   {
+    "start": 32.191,
+    "end": 33.229,
+    "text": "all eyes on me"
+   },
+   {
+    "start": 33.578,
+    "end": 34.485,
+    "text": "whats my next rhyme"
+   },
+   {
+    "start": 34.543,
+    "end": 35.098,
+    "text": "gonna be"
+   },
+   {
+    "start": 35.412,
+    "end": 36.832,
+    "text": "dull mother fuckers can't never ever"
+   },
+   {
+    "start": 37.132,
+    "end": 38.091,
+    "text": "shine off me"
+   },
+   {
+    "start": 38.74,
+    "end": 39.383,
+    "text": "wait for it"
+   },
+   {
+    "start": 39.504,
+    "end": 40.054,
+    "text": "wait for it"
+   },
+   {
+    "start": 40.147,
+    "end": 40.957,
+    "text": "wait for it"
+   },
+   {
+    "start": 41.152,
+    "end": 43.366,
+    "text": "don't worry the my haters is gonna pay for it"
+   },
+   {
+    "start": 43.488,
+    "end": 45.714,
+    "text": "chase dreams dumb niggas chase whores"
+   },
+   {
+    "start": 46.004,
+    "end": 47.383,
+    "text": "over sea's on a great tour"
+   },
+   {
+    "start": 47.72,
+    "end": 49.694,
+    "text": "or maybe i'm just dreaming"
+   },
+   {
+    "start": 50.129,
+    "end": 51.649,
+    "text": "it beats being with demons or"
+   },
+   {
+    "start": 51.649,
+    "end": 54.403,
+    "text": "a nigga scheming or at least im thinking of an achievement"
+   },
+   {
+    "start": 54.587,
+    "end": 56.242,
+    "text": "people talk shit for four seasons"
+   },
+   {
+    "start": 56.295,
+    "end": 57.186,
+    "text": "for no reason"
+   },
+   {
+    "start": 57.566,
+    "end": 59.526,
+    "text": "people dog lebron until lebron show up"
+   },
+   {
+    "start": 59.946,
+    "end": 61.841,
+    "text": "when he step on the paint then their guards go up"
+   },
+   {
+    "start": 62.079,
+    "end": 64.386,
+    "text": "scores up all the applauds go up"
+   },
+   {
+    "start": 64.468,
+    "end": 67.457,
+    "text": "and everybody in the whole damn court goes nuts"
+   },
+   {
+    "start": 67.773,
+    "end": 69.351,
+    "text": "people gonna hate let them do it"
+   },
+   {
+    "start": 69.582,
+    "end": 71.103,
+    "text": "shine like it ain't nothing to it"
+   },
+   {
+    "start": 71.501,
+    "end": 73.008,
+    "text": "damn you a major influence"
+   },
+   {
+    "start": 73.133,
+    "end": 74.794,
+    "text": "skate like there ain't nothing doing"
+   },
+   {
+    "start": 74.794,
+    "end": 76.513,
+    "text": "live life don't say nothing to them"
+   },
+   {
+    "start": 77.344,
+    "end": 78.922,
+    "text": "people gonna hate let them do it"
+   },
+   {
+    "start": 79.123,
+    "end": 80.645,
+    "text": "shine like it ain't nothing to it"
+   },
+   {
+    "start": 81.039,
+    "end": 82.539,
+    "text": "damn you a major influence"
+   },
+   {
+    "start": 82.762,
+    "end": 84.341,
+    "text": "skate like there ain't nothing doing"
+   },
+   {
+    "start": 84.341,
+    "end": 86.138,
+    "text": "live life don't say nothing to them"
+   },
+   {
+    "start": 86.61,
+    "end": 87.579,
+    "text": "spectators"
+   },
+   {
+    "start": 87.83,
+    "end": 88.721,
+    "text": "side liners"
+   },
+   {
+    "start": 88.963,
+    "end": 89.605,
+    "text": "spending days"
+   },
+   {
+    "start": 89.605,
+    "end": 90.0,
+    "text": "coming up with sly comments"
+   }
+  ]
+ }
+}

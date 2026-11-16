@@ -1,0 +1,298 @@
+{
+ "profile": "A driving, emotional rock track characterized by passionate vocals, heavy guitar and drum instrumentation, and a melancholic yet defiant mood. The lyrical theme revolves around eternal connection, enduring pain, and surviving memories, heavily using fire metaphors ('flame was rendered', 'living embers will burn'). The energy arc builds steadily from an atmospheric intro to an instrumental kick-in, dropping into a tense verse, and erupting into a high-energy climax just before the halfway mark, eventually resolving into a winding-down instrumental outro.",
+ "key_moments": [
+  {
+   "t": 10.1,
+   "what": "The first major instrumental section change, likely where the main groove, heavier guitars, or full drum kit kicks in."
+  },
+  {
+   "t": 17.8,
+   "what": "The lead vocals enter with the opening line 'and we are one so i promise', marking the start of the verse."
+  },
+  {
+   "t": 37.9,
+   "what": "A massive musical section change, representing the emotional peak or chorus of the track right as the lyrics 'one day it all' begin."
+  },
+  {
+   "t": 74.7,
+   "what": "The delivery of the track's core motif 'but living embers', setting up the final vocal push."
+  },
+  {
+   "t": 78.3,
+   "what": "The final section change where the vocals conclude ('will burn') and the track shifts into its instrumental outro."
+  }
+ ],
+ "fitting_styles": "Suitable approaches include a dramatic narrative (focusing on loss, memory, and holding onto a literal or metaphorical 'spark'), a high-energy band performance in a dark, atmospheric, or fiery environment, a moody abstract style emphasizing smoke, ash, and glowing embers, or an edgy kinetic typography video. Clashing styles would be anything overly bright, comedic, low-energy lo-fi, sterile corporate aesthetics, or saccharine pop visuals.",
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video reacts to the instrumental shift at 10.1 seconds with a noticeable cut, camera movement, or introduction of a new visual element."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The main subject, vocalist, or lyric text first appears or explicitly changes focus exactly around 17.8 seconds when the singing starts."
+  },
+  {
+   "id": "S3",
+   "level": "core",
+   "modality": "visual",
+   "check": "A major scene change, lighting shift, or burst of visual energy occurs at 37.9 seconds to match the big section change."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "visual",
+   "check": "The imagery transitions to a sense of closure, winding down, or pure instrumental focus at the 78.3-second mark when the outro begins."
+  }
+ ],
+ "anchors": {
+  "UN": {
+   "1": "The video uses a cheerful, comedic, or completely detached visual style that fundamentally ignores the emotional rock genre and intense lyrical themes of the song.",
+   "3": "The video generally fits a rock song but relies on generic tropes without specifically engaging with the track's melancholic mood or specific fiery themes.",
+   "5": "The video deeply understands the track, using a dark, passionate, or deeply emotional style that perfectly complements the 'embers' and eternal connection themes."
+  },
+  "EM": {
+   "1": "The visual mood remains completely flat, upbeat, or contradictory to the passionate, melancholic tone of the music.",
+   "3": "The video conveys a somewhat edgy tone but fails to build alongside the song's escalating vocal passion.",
+   "5": "The imagery flawlessly tracks the emotional arc of the song, starting with simmering tension and exploding into intense, visible catharsis during the climax."
+  },
+  "RH": {
+   "1": "Visual cuts and motions drift entirely out of sync with the driving rock drumbeat and vocal phrasing.",
+   "3": "The video generally keeps time with the track but misses opportunities to accent key drum fills, heavy guitar strikes, or distinct vocal rhythms.",
+   "5": "Every scene cut, camera shake, or graphic motion feels tightly locked to the rock rhythm, hitting perfectly on the snares, kicks, and vocal syllables."
+  },
+  "ST": {
+   "1": "The video ignores the song's structure entirely, playing out as a disconnected loop across verses, climaxes, and instrumental breaks.",
+   "3": "The video acknowledges the biggest shift at 37.9s but fails to mark the intro build at 10.1s or the outro transition at 78.3s.",
+   "5": "The visual narrative or performance clearly shifts gears at 10.1s, erupts precisely at the 37.9s climax, and visually winds down perfectly at the 78.3s outro."
+  },
+  "LY": {
+   "1": "On-screen lyrics are wildly mis-timed or misspelled, or the purely visual narrative actively contradicts the song's lyrics about pain, memory, and embers.",
+   "3": "The lyrics are mostly correct but occasionally lose sync, or the visual concept fits the general emotional vibe but ignores the specific fire motifs.",
+   "5": "If text is used, it perfectly matches the sync and spelling of the sung vocals; if visual, the imagery powerfully incorporates motifs of fire, fading light, or enduring memory."
+  },
+  "VA": {
+   "1": "The video suffers from severe AI morphing, blurry rendering, nonsensical geometry, or looks like a jagged placeholder animatic.",
+   "3": "The visuals are structurally sound and clear, though they may lack advanced polish, dynamic lighting, or a cohesive color grade.",
+   "5": "The video looks like a professional, high-budget rock music video with excellent dramatic lighting, sharp rendering, and a cohesive, moody color palette."
+  },
+  "CR": {
+   "1": "The video is a totally uninspired, unedited static image or a basic audio waveform visualizer slapped over a generic background.",
+   "3": "The video uses a standard rock performance or narrative template that gets the job done but offers no surprising or memorable visual hooks.",
+   "5": "The video delivers a highly distinctive and original concept—like a unique abstract interpretation of 'living embers'—that elevates the song and makes it unforgettable."
+  }
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 10.1,
+   "kind": "section change"
+  },
+  {
+   "t": 17.8,
+   "kind": "sung line starts: \"and we are one so i promise\""
+  },
+  {
+   "t": 37.8,
+   "kind": "sung line starts: \"one day it all\""
+  },
+  {
+   "t": 37.9,
+   "kind": "section change"
+  },
+  {
+   "t": 41.9,
+   "kind": "sung line starts: \"will gone forever will gone forever\""
+  },
+  {
+   "t": 48.3,
+   "kind": "sung line starts: \"don't close your eyes\""
+  },
+  {
+   "t": 52.0,
+   "kind": "sung line starts: \"you'll gone forever you'll gone forever\""
+  },
+  {
+   "t": 58.0,
+   "kind": "sung line starts: \"there's no more pain\""
+  },
+  {
+   "t": 62.3,
+   "kind": "sung line starts: \"which lasts forever\""
+  },
+  {
+   "t": 64.7,
+   "kind": "sung line starts: \"and never severs\""
+  },
+  {
+   "t": 68.3,
+   "kind": "sung line starts: \"once in the end\""
+  },
+  {
+   "t": 72.3,
+   "kind": "sung line starts: \"the flame was rendered\""
+  },
+  {
+   "t": 74.7,
+   "kind": "sung line starts: \"but living embers\""
+  },
+  {
+   "t": 77.5,
+   "kind": "sung line starts: \"will burn\""
+  },
+  {
+   "t": 78.3,
+   "kind": "section change"
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video reacts to the instrumental shift at 10.1 seconds with a noticeable cut, camera movement, or introduction of a new visual element."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The main subject, vocalist, or lyric text first appears or explicitly changes focus exactly around 17.8 seconds when the singing starts."
+  },
+  {
+   "id": "S3",
+   "level": "core",
+   "modality": "visual",
+   "check": "A major scene change, lighting shift, or burst of visual energy occurs at 37.9 seconds to match the big section change."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "visual",
+   "check": "The imagery transitions to a sense of closure, winding down, or pure instrumental focus at the 78.3-second mark when the outro begins."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 90.0,
+  "approx_bpm": 129,
+  "section_changes_at_s": [
+   10.1,
+   37.88,
+   78.3
+  ],
+  "sung_lines": [
+   {
+    "start": 17.795,
+    "end": 27.845,
+    "text": "and we are one so i promise"
+   },
+   {
+    "start": 37.844,
+    "end": 41.48,
+    "text": "one day it all"
+   },
+   {
+    "start": 41.927,
+    "end": 47.916,
+    "text": "will gone forever will gone forever"
+   },
+   {
+    "start": 48.251,
+    "end": 51.713,
+    "text": "don't close your eyes"
+   },
+   {
+    "start": 52.035,
+    "end": 57.712,
+    "text": "you'll gone forever you'll gone forever"
+   },
+   {
+    "start": 58.032,
+    "end": 62.026,
+    "text": "there's no more pain"
+   },
+   {
+    "start": 62.252,
+    "end": 64.471,
+    "text": "which lasts forever"
+   },
+   {
+    "start": 64.707,
+    "end": 68.251,
+    "text": "and never severs"
+   },
+   {
+    "start": 68.251,
+    "end": 72.112,
+    "text": "once in the end"
+   },
+   {
+    "start": 72.321,
+    "end": 74.727,
+    "text": "the flame was rendered"
+   },
+   {
+    "start": 74.727,
+    "end": 77.336,
+    "text": "but living embers"
+   },
+   {
+    "start": 77.498,
+    "end": 79.16,
+    "text": "will burn"
+   }
+  ]
+ }
+}

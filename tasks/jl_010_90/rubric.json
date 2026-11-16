@@ -1,0 +1,338 @@
+{
+ "profile": "The audio features an upbeat, high-energy fusion of ska, reggae, and punk rock, characterized by brisk drum beats, distorted guitars playing rhythmic off-beats, driving bass, and punchy brass sections. The vocals are raspy, fast-paced, and aggressive yet melodic, conveying a sarcastic and rebellious mood. The lyrical theme is a biting satire of internet addiction, social media isolation, and fake online friendships. The energy remains high and driving throughout, with slight structural shifts distinguishing the rapid-fire verses and instrumental transitions.",
+ "key_moments": [
+  {
+   "t": 0.7,
+   "what": "The track opens immediately with a high-energy instrumental section drop."
+  },
+  {
+   "t": 21.8,
+   "what": "The main vocals kick in ('si si es tu vida una patraña'), beginning the rapid-fire lyrical delivery."
+  },
+  {
+   "t": 41.4,
+   "what": "The lyric 'y hazte cargo de que el mundo no se encierra tras tu pobre monitor' provides a highly specific visual cue about computer screens/monitors."
+  },
+  {
+   "t": 44.5,
+   "what": "A noticeable section change/instrumental transition following the build-up of the first verse."
+  },
+  {
+   "t": 47.6,
+   "what": "Vocals re-enter with a thematic shift as the lyrics describe going out into the street ('hoy sali a la calle todo es nuevo para mi')."
+  },
+  {
+   "t": 69.6,
+   "what": "A highly sarcastic climax where the singer boasts about having 4000 fake friends ('tengo cuatro mil amigos soy un tio super popular')."
+  }
+ ],
+ "fitting_styles": "Narrative videos showing a character glued to their computer screen transitioning to the chaotic outside world, or high-energy performance styles featuring an energetic punk/ska band playing in a messy room, would work perfectly. Mixed-media collages or kinetic typography integrating internet imagery, pop-up windows, and social media UI overlays would creatively suit the satirical theme. Conversely, slow romantic narratives, somber dramatic stories, ambient abstract visuals, or ultra-polished pop choreographies would aggressively clash with the raw punk-ska energy and sarcastic lyrics.",
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video features a prominent visual impact, sudden energetic action, or rapid pacing onset immediately at the intro section change at 0.7s."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At 21.8s, the video introduces the singer performing, dynamic typography appearing, or the main narrative subject acting to clearly mark the onset of the vocal line."
+  },
+  {
+   "id": "S3",
+   "level": "core",
+   "modality": "visual",
+   "check": "A clear visual transition, scene change, or shift in editing style occurs at the instrumental section change at 44.5s."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The video visually references computers, screens, social media UIs, or internet isolation exactly at 41.4s ('pobre monitor') or 69.6s ('cuatro mil amigos')."
+  }
+ ],
+ "anchors": {
+  "UN": "1: The video completely ignores the upbeat ska-punk energy and the satirical internet-addiction theme. 3: The video captures the fast pacing but misses the sarcastic, anti-social media message. 5: The video perfectly marries the high-energy ska rebellion with strong, relevant visual commentary on screen addiction or fake online lives.",
+  "EM": "1: The visuals are flat, gloomy, or take themselves far too seriously. 3: The video is lively but lacks the necessary ironic or sarcastic bite that the raspy vocals demand. 5: The visual mood perfectly balances frantic punk-rock aggression with a humorous, ironic take on modern isolation.",
+  "RH": "1: Cuts and movements are completely untethered from the fast tempo and ska off-beats. 3: Visual pacing generally matches the fast drum beat but misses opportunities to sync with the brass punches or rapid vocal syllables. 5: The editing is razor-sharp, with visual hits, cuts, and camera movements tightly locked to the fast drums, guitar skanks, and rapid-fire vocal delivery.",
+  "ST": "1: The video plays as a single monotonous block without reacting to musical structural shifts. 3: The video changes during vocal entries but ignores the instrumental breaks. 5: The video clearly demarcates the intro drop (0.7s), vocal entries (21.8s, 47.6s), and the major instrumental transition at 44.5s with distinct visual shifts.",
+  "LY": "1: Text or narrative imagery has absolutely nothing to do with the specific lyrics about screens or isolation. 3: The video shows general themes of being a loner but doesn't explicitly link to the lines about the monitor or having thousands of fake friends. 5: Key lyrics like 'pobre monitor' (41.4s) and 'cuatro mil amigos' (69.6s) are explicitly shown, cleverly depicted, or perfectly lip-synced.",
+  "VA": "1: The video is marred by heavy AI glitches, structural morphing, or looks like a low-effort generic visualizer. 3: The video is clear and well-rendered but lacks a cohesive stylistic polish or uses cliché stock-like footage. 5: The visual quality is pristine and stylistically cohesive, employing professional composition, lighting, and rendering that elevates the chosen concept.",
+  "CR": "1: A totally derivative, standard band-playing template with no narrative or visual flair. 3: A standard story of someone looking at a phone, executed without much surprise. 5: A highly distinctive and surprising execution, such as a frantic mixed-media internet UI collage or a hyper-exaggerated satirical narrative, that brilliantly elevates the song's concept."
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 0.7,
+   "kind": "section change"
+  },
+  {
+   "t": 21.8,
+   "kind": "sung line starts: \"si si es tu vida una patraña\""
+  },
+  {
+   "t": 25.0,
+   "kind": "sung line starts: \"sin hazañas que te engaña es una puta castaña\""
+  },
+  {
+   "t": 27.7,
+   "kind": "sung line starts: \"existencia ermitaña que te nubla y te empaña\""
+  },
+  {
+   "t": 30.5,
+   "kind": "sung line starts: \"todo juicio y razon\""
+  },
+  {
+   "t": 31.9,
+   "kind": "sung line starts: \"te lo digo sin rencor\""
+  },
+  {
+   "t": 33.2,
+   "kind": "sung line starts: \"pero te falta un hervor\""
+  },
+  {
+   "t": 34.4,
+   "kind": "sung line starts: \"y poco a poco estas cayendo en el hoyo de la enajenacion\""
+  },
+  {
+   "t": 38.6,
+   "kind": "sung line starts: \"por favor\""
+  },
+  {
+   "t": 40.4,
+   "kind": "sung line starts: \"sal de tu letargo\""
+  },
+  {
+   "t": 41.4,
+   "kind": "sung line starts: \"y hazte cargo de que el mundo no se encierra tras tu pobre monitor\""
+  },
+  {
+   "t": 44.5,
+   "kind": "section change"
+  },
+  {
+   "t": 47.6,
+   "kind": "sung line starts: \"hoy sali a la calle todo es nuevo para mi\""
+  },
+  {
+   "t": 52.1,
+   "kind": "sung line starts: \"llevaba mas de tres años metido en mi cuchitril\""
+  },
+  {
+   "t": 58.6,
+   "kind": "sung line starts: \"me he sentido solo sin saber a donde ir\""
+  },
+  {
+   "t": 59.6,
+   "kind": "section change"
+  },
+  {
+   "t": 63.0,
+   "kind": "sung line starts: \"ahora entiendo porque dicen que soy un freak\""
+  },
+  {
+   "t": 69.2,
+   "kind": "section change"
+  },
+  {
+   "t": 69.6,
+   "kind": "sung line starts: \"tengo cuatro mil amigos soy un tio super popular\""
+  },
+  {
+   "t": 75.0,
+   "kind": "sung line starts: \"a pesar de que a ninguno he visto jamas\""
+  },
+  {
+   "t": 80.4,
+   "kind": "sung line starts: \"si echo en falta compañia va siendo hora de activar el chat\""
+  },
+  {
+   "t": 86.0,
+   "kind": "sung line starts: \"todo es falso pero me da igual\""
+  },
+  {
+   "t": 88.4,
+   "kind": "section change"
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video features a prominent visual impact, sudden energetic action, or rapid pacing onset immediately at the intro section change at 0.7s."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At 21.8s, the video introduces the singer performing, dynamic typography appearing, or the main narrative subject acting to clearly mark the onset of the vocal line."
+  },
+  {
+   "id": "S3",
+   "level": "core",
+   "modality": "visual",
+   "check": "A clear visual transition, scene change, or shift in editing style occurs at the instrumental section change at 44.5s."
+  },
+  {
+   "id": "S4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "The video visually references computers, screens, social media UIs, or internet isolation exactly at 41.4s ('pobre monitor') or 69.6s ('cuatro mil amigos')."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 90.0,
+  "approx_bpm": 172,
+  "section_changes_at_s": [
+   0.665,
+   44.525,
+   59.625,
+   69.225,
+   88.445
+  ],
+  "sung_lines": [
+   {
+    "start": 21.831,
+    "end": 24.347,
+    "text": "si si es tu vida una patraña"
+   },
+   {
+    "start": 24.979,
+    "end": 27.681,
+    "text": "sin hazañas que te engaña es una puta castaña"
+   },
+   {
+    "start": 27.681,
+    "end": 30.472,
+    "text": "existencia ermitaña que te nubla y te empaña"
+   },
+   {
+    "start": 30.472,
+    "end": 31.723,
+    "text": "todo juicio y razon"
+   },
+   {
+    "start": 31.859,
+    "end": 33.078,
+    "text": "te lo digo sin rencor"
+   },
+   {
+    "start": 33.215,
+    "end": 34.323,
+    "text": "pero te falta un hervor"
+   },
+   {
+    "start": 34.408,
+    "end": 38.041,
+    "text": "y poco a poco estas cayendo en el hoyo de la enajenacion"
+   },
+   {
+    "start": 38.614,
+    "end": 39.403,
+    "text": "por favor"
+   },
+   {
+    "start": 40.387,
+    "end": 41.377,
+    "text": "sal de tu letargo"
+   },
+   {
+    "start": 41.377,
+    "end": 44.771,
+    "text": "y hazte cargo de que el mundo no se encierra tras tu pobre monitor"
+   },
+   {
+    "start": 47.635,
+    "end": 51.508,
+    "text": "hoy sali a la calle todo es nuevo para mi"
+   },
+   {
+    "start": 52.059,
+    "end": 56.922,
+    "text": "llevaba mas de tres años metido en mi cuchitril"
+   },
+   {
+    "start": 58.612,
+    "end": 62.471,
+    "text": "me he sentido solo sin saber a donde ir"
+   },
+   {
+    "start": 63.015,
+    "end": 66.666,
+    "text": "ahora entiendo porque dicen que soy un freak"
+   },
+   {
+    "start": 69.553,
+    "end": 74.805,
+    "text": "tengo cuatro mil amigos soy un tio super popular"
+   },
+   {
+    "start": 75.038,
+    "end": 79.524,
+    "text": "a pesar de que a ninguno he visto jamas"
+   },
+   {
+    "start": 80.422,
+    "end": 85.787,
+    "text": "si echo en falta compañia va siendo hora de activar el chat"
+   },
+   {
+    "start": 86.025,
+    "end": 89.607,
+    "text": "todo es falso pero me da igual"
+   }
+  ]
+ }
+}

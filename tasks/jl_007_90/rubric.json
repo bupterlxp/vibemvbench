@@ -1,0 +1,345 @@
+{
+ "profile": "A slick, mid-tempo Latin pop/dance track with reggaeton influences. Instrumentation features a syncopated synth bass, crisp electronic beats, and bright, driving synth brass during the drop. The smooth, rhythmic male vocals are primarily in Spanish with playful English phrases. The mood is flirtatious, sensual, and club-ready. The lyrical theme centers on dancing, physical attraction, and a romantic night out. The energy arc starts with a steady, groovy verse, builds through the pre-chorus, explodes into a high-energy instrumental dance drop at 40 seconds, cools down for an intimate second verse at 61 seconds, and builds back up towards the final chorus.",
+ "key_moments": [
+  {
+   "t": 16.0,
+   "what": "Section change into the pre-chorus/chorus; the vocal delivery becomes more rhythmic and repetitive ('baila baila')."
+  },
+  {
+   "t": 40.0,
+   "what": "Major section change; the main vocal stops and a high-energy instrumental drop with heavy synth brass, vocal chops, and a strong groove begins."
+  },
+  {
+   "t": 61.3,
+   "what": "Section change; the intense drop ends and the energy pulls back significantly, transitioning into a sparser, more intimate second verse."
+  },
+  {
+   "t": 80.0,
+   "what": "Section change marked by a playful vocal line ('hasta en inglés oh yes') and a drum fill, transitioning back into the driving chorus energy."
+  }
+ ],
+ "fitting_styles": "Suitable approaches include high-energy dance performance (capturing the choreography and club vibe), a flirtatious narrative (a couple connecting on the dancefloor), rhythmic montage (fast-paced cuts of nightlife or vibrant, abstract lights synced to the driving beat), or bold kinetic typography (playing with the rhythm and bilingual lyrics). Clashing styles would be slow, melancholic narratives, serene nature documentaries, or anything low-energy that ignores the heavily syncopated dance beat.",
+ "song_checks": [
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video features a major visual shift, stark transition, or massive spike in on-screen energy to match the instrumental drop at exactly 40.0s."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The visual energy noticeably cools down, changes scene, or shifts focus at 61.3s to match the drop in musical intensity for the second verse."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "There is a visual accent, cut, or specific character action around 80.0s to punctuate the 'oh yes' lyric and the drum fill."
+  }
+ ],
+ "anchors": {
+  "UN": "Song understanding: 5 = The video's concept perfectly aligns with the sensual, energetic, Latin club-pop genre and the themes of dancing; 3 = The concept is somewhat fitting but feels a bit generic or misses the track's flirtatious edge; 1 = The concept fundamentally clashes with a upbeat dance-pop song (e.g., a somber historical drama).",
+  "EM": "Emotion: 5 = The video successfully evokes a fun, vibrant, and seductive mood that matches the track's driving energy; 3 = The mood is generally upbeat but lacks a specific sensual or club-ready atmosphere; 1 = The visual mood is sad, terrifying, or completely lifeless.",
+  "RH": "Rhythm: 5 = Visual cuts, choreography, or motion graphics are tightly locked to the syncopated reggaeton-style beat and the brass stabs; 3 = The editing generally follows the tempo but misses the specific syncopated accents of the genre; 1 = The visual pacing is entirely disconnected from the song's beat.",
+  "ST": "Structure: 5 = The video responds with clear visual boundary markers at the 16.0s chorus, the 40.0s instrumental drop, and the 61.3s verse transition; 3 = The video acknowledges the 40.0s drop but ignores the other structural shifts; 1 = The video is a single, monotonous scene that ignores all major musical transitions.",
+  "LY": "Lyrics: 5 = Visuals depict dancing, nightlife, or romance perfectly fitting the lyrics, or text accurately syncs to the Spanish/English wordplay; 3 = Visuals broadly relate to having fun but miss the specific flirtatious or dance-focused themes; 1 = On-screen text contains severe errors, or visuals depict actions completely contrary to the song (e.g., someone going to sleep).",
+  "VA": "Visual quality: 5 = Crisp, professional-looking footage or slick graphics with vibrant, club-appropriate lighting and color grading; 3 = Decent visual quality but with some minor AI artifacts or slightly dull lighting; 1 = The video suffers from severe visual glitches, temporal morphing, or looks like a rough placeholder.",
+  "CR": "Creativity: 5 = Offers a unique, imaginative take on a dance track, perhaps using striking visual metaphors for the rhythm or a highly stylized aesthetic; 3 = A functional but predictable club or dance video; 1 = Boring, uninspired stock-like footage with no creative identity."
+ },
+ "key_moments_dropped": 0,
+ "timeline_given": [
+  {
+   "t": 0.0,
+   "kind": "sung line starts: \"porque a esta noche le daremos movimiento\""
+  },
+  {
+   "t": 2.6,
+   "kind": "sung line starts: \"q'uno'o dos tequilas solo pa' calentar\""
+  },
+  {
+   "t": 5.3,
+   "kind": "sung line starts: \"mira que aqui estamos pa' disfrutar el momento\""
+  },
+  {
+   "t": 8.0,
+   "kind": "sung line starts: \"show me what you got oh baby dance for me y me das\""
+  },
+  {
+   "t": 10.6,
+   "kind": "sung line starts: \"toda tu pasion y tu sudor mas vete lento\""
+  },
+  {
+   "t": 13.3,
+   "kind": "sung line starts: \"que no tengo prisa que esta noche da pa' mas\""
+  },
+  {
+   "t": 16.0,
+   "kind": "section change"
+  },
+  {
+   "t": 16.0,
+   "kind": "sung line starts: \"muévete cerquita aqui no mas\""
+  },
+  {
+   "t": 18.6,
+   "kind": "sung line starts: \"baila baila hasta que me enamores baby tu\""
+  },
+  {
+   "t": 24.0,
+   "kind": "sung line starts: \"baila baila probaré tus sabores baby tu\""
+  },
+  {
+   "t": 29.3,
+   "kind": "sung line starts: \"baila baila enséñame tus colores baby tu\""
+  },
+  {
+   "t": 34.6,
+   "kind": "sung line starts: \"baila baila al beat de mi corazon\""
+  },
+  {
+   "t": 40.0,
+   "kind": "section change"
+  },
+  {
+   "t": 61.3,
+   "kind": "section change"
+  },
+  {
+   "t": 61.5,
+   "kind": "sung line starts: \"toma mi mano y dame tu espalda\""
+  },
+  {
+   "t": 64.2,
+   "kind": "sung line starts: \"y lentamente sentiré como me bailas\""
+  },
+  {
+   "t": 66.9,
+   "kind": "sung line starts: \"muévete rico que no hay palabras\""
+  },
+  {
+   "t": 69.5,
+   "kind": "sung line starts: \"pa' describir como en mi cielo tu te empalmas\""
+  },
+  {
+   "t": 72.0,
+   "kind": "section change"
+  },
+  {
+   "t": 72.1,
+   "kind": "sung line starts: \"mueve tus pies que bien sabés\""
+  },
+  {
+   "t": 74.8,
+   "kind": "sung line starts: \"que yo contigo desde el bungee y sin arnés\""
+  },
+  {
+   "t": 77.4,
+   "kind": "sung line starts: \"y al oido yo te diré\""
+  },
+  {
+   "t": 80.0,
+   "kind": "section change"
+  },
+  {
+   "t": 80.1,
+   "kind": "sung line starts: \"que el dirty talk se nos vendra hasta en inglés oh yes\""
+  },
+  {
+   "t": 84.0,
+   "kind": "sung line starts: \"baila baila hasta que me enamores baby tu\""
+  },
+  {
+   "t": 89.3,
+   "kind": "sung line starts: \"baila baila probaré tus sabores baby tu\""
+  }
+ ],
+ "checks": [
+  {
+   "id": "G1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "At each audible section change in the music, the picture changes in a clearly visible way that persists (not a single flash)."
+  },
+  {
+   "id": "G2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Prominent beats or accents are answered by visual events (cuts, hits, motion accents) for most of the clip."
+  },
+  {
+   "id": "G3",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "Visual intensity (motion, brightness, density) rises and falls with the music's energy."
+  },
+  {
+   "id": "G4",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "Visual rhythm is varied: not the same identical pulse on every beat for the whole clip."
+  },
+  {
+   "id": "G5",
+   "level": "core",
+   "modality": "visual",
+   "check": "The video has a coherent visual identity (consistent palette, style, or world) rather than unrelated stock effects."
+  },
+  {
+   "id": "G6",
+   "level": "detail",
+   "modality": "visual",
+   "check": "No rendering defects: no tearing, black/blank stretches, placeholder text, or broken frames."
+  },
+  {
+   "id": "G7",
+   "level": "detail",
+   "modality": "text",
+   "check": "Any on-screen lyrics or words are spelled correctly and match what is sung at that moment."
+  },
+  {
+   "id": "G8",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The concept is recognisably about THIS song (its mood, lyrics or sound), not a generic visual that would fit any track."
+  },
+  {
+   "id": "S1",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The video features a major visual shift, stark transition, or massive spike in on-screen energy to match the instrumental drop at exactly 40.0s."
+  },
+  {
+   "id": "S2",
+   "level": "core",
+   "modality": "audio_visual",
+   "check": "The visual energy noticeably cools down, changes scene, or shifts focus at 61.3s to match the drop in musical intensity for the second verse."
+  },
+  {
+   "id": "S3",
+   "level": "detail",
+   "modality": "audio_visual",
+   "check": "There is a visual accent, cut, or specific character action around 80.0s to punctuate the 'oh yes' lyric and the drum fill."
+  }
+ ],
+ "model": "sarah/gemini-3.1-pro-preview",
+ "facts": {
+  "clip_seconds": 90.0,
+  "approx_bpm": 91,
+  "section_changes_at_s": [
+   15.989,
+   39.969,
+   61.309,
+   71.969,
+   79.969
+  ],
+  "sung_lines": [
+   {
+    "start": 0.0,
+    "end": 2.539,
+    "text": "porque a esta noche le daremos movimiento"
+   },
+   {
+    "start": 2.636,
+    "end": 5.04,
+    "text": "q'uno'o dos tequilas solo pa' calentar"
+   },
+   {
+    "start": 5.306,
+    "end": 7.822,
+    "text": "mira que aqui estamos pa' disfrutar el momento"
+   },
+   {
+    "start": 7.962,
+    "end": 10.433,
+    "text": "show me what you got oh baby dance for me y me das"
+   },
+   {
+    "start": 10.638,
+    "end": 13.139,
+    "text": "toda tu pasion y tu sudor mas vete lento"
+   },
+   {
+    "start": 13.306,
+    "end": 15.886,
+    "text": "que no tengo prisa que esta noche da pa' mas"
+   },
+   {
+    "start": 15.966,
+    "end": 18.043,
+    "text": "muévete cerquita aqui no mas"
+   },
+   {
+    "start": 18.636,
+    "end": 23.885,
+    "text": "baila baila hasta que me enamores baby tu"
+   },
+   {
+    "start": 23.966,
+    "end": 29.294,
+    "text": "baila baila probaré tus sabores baby tu"
+   },
+   {
+    "start": 29.294,
+    "end": 34.64,
+    "text": "baila baila enséñame tus colores baby tu"
+   },
+   {
+    "start": 34.64,
+    "end": 39.34,
+    "text": "baila baila al beat de mi corazon"
+   },
+   {
+    "start": 61.47,
+    "end": 63.925,
+    "text": "toma mi mano y dame tu espalda"
+   },
+   {
+    "start": 64.172,
+    "end": 66.731,
+    "text": "y lentamente sentiré como me bailas"
+   },
+   {
+    "start": 66.854,
+    "end": 69.31,
+    "text": "muévete rico que no hay palabras"
+   },
+   {
+    "start": 69.495,
+    "end": 71.974,
+    "text": "pa' describir como en mi cielo tu te empalmas"
+   },
+   {
+    "start": 72.147,
+    "end": 74.492,
+    "text": "mueve tus pies que bien sabés"
+   },
+   {
+    "start": 74.799,
+    "end": 77.228,
+    "text": "que yo contigo desde el bungee y sin arnés"
+   },
+   {
+    "start": 77.437,
+    "end": 79.694,
+    "text": "y al oido yo te diré"
+   },
+   {
+    "start": 80.113,
+    "end": 83.152,
+    "text": "que el dirty talk se nos vendra hasta en inglés oh yes"
+   },
+   {
+    "start": 83.966,
+    "end": 89.312,
+    "text": "baila baila hasta que me enamores baby tu"
+   },
+   {
+    "start": 89.312,
+    "end": 90.0,
+    "text": "baila baila probaré tus sabores baby tu"
+   }
+  ]
+ }
+}
